@@ -1,0 +1,125 @@
+0.1	3.2		This is a download from bbc learning English
+3.2	6.64		to find out more visit our website
+6.64	10.6		6 minute English from BBClearningEnglish.com
+10.6	13.12	<v Neil>	Hello.
+13.12	16.2		This is 6 Minute English from BBC Learning English.
+16.2	16.72		I’m Neil.
+16.72	18	<v Georgina>	And I’m Georgina.
+18	19.92	<v Neil>	What type of books do you like to read,
+19.92	20.72		Georgina?
+20.72	23.12	<v Georgina>	I love reading crime fiction -
+23.12	28.12		you know detective stories by authors like Ruth Rendell or Agatha Christie.
+28.12	28.56	<v Neil>	Really?
+28.56	30.24		Do you find them relaxing?
+30.24	32.84	<v Georgina>	I wouldn’t say relaxing exactly,
+32.84	35		but I get really involved in the story –
+35	37.56		trying to work out who the murderer is…
+37.56	40.04		then finding out on the last page.
+40.04	48.36	<v Neil>	That’s interesting because today we’ll be looking at how books can help us relax and feel more alive during troubled times.
+48.36	54		We’ll be finding out how reading is one of the best ways to find relief from the pressures of modern life.
+54	54.6	<v Georgina>	Neil,
+54.6	58.04		are you talking about ‘Bibliotherapy’?
+58.04	59.56	<v Neil>	Amazing detective skills,
+59.56	60.24		Georgina!
+60.24	60.88		Exactly.
+60.88	62.4		‘Bibliotherapy’
+62.4	66.24		is the prescription of books as a remedy to sickness.
+66.24	68.6		It has been around since 2013,
+68.6	70.8		when the UK charity ‘Reading Agency’
+70.8	74.36		published a list of books that doctors could offer to patients,
+74.36	78.6		tackling topics from depression to dementia to chronic pain.
+78.6	79.36	<v Georgina>	Since then,
+79.36	84		1.2 million readers have borrowed the scheme’s books from libraries.
+84	88.48		It’s so successful that it’s about to be extended to children as well.
+88.48	92.08	<v Neil>	I wonder which books have been most popular over that time?
+92.08	94.96		In fact that’s my quiz question for today.
+94.96	98.2		What is the best-selling book of all time?
+98.2	98.56		Is it:
+98.56	102.6		a) Harry Potter and the Philosopher’s Stone by J K Rowling
+102.6	105.48		b) A Tale of Two Cities by Charles Dickens,
+105.48	105.88		or
+105.88	109.36		c) Don Quixote by Miguel de Cervantes
+109.36	111.76	<v Georgina>	I’ll say a) Harry Potter.
+111.76	112.16	<v Neil>	OK.
+112.16	112.52		Well,
+112.52	115.4		we’ll find out later if you’re right.
+115.4	116.52		In ‘Bibliotherapy’,
+116.52	118.56		people meet up to read together.
+118.56	120.36		Professor Philip Davis,
+120.36	121.84		who runs these reading groups,
+121.84	125.24		believes they help the participants ‘come more alive’.
+125.24	132.52		Here he is speaking to BBC Radio 4’s You and Yours about what he’s discovered.
+132.52	133.24	<v Philip Davis>	Above all,
+133.24	135.96		that it’s not to do with <strong>scanning</strong>,
+135.96	137		with quick reading,
+137	139.12		when they’re reading <strong>literature</strong>.
+139.12	139.92		If they’re just scanning,
+139.92	142		if you’re just looking for information,
+142	142.8		you go fast,
+142.8	143.8		it’s very easy,
+143.8	152.96		it’s automatic but when <strong>literature</strong> begins to do something more complicated than that in an area that emotionally you care about.
+152.96	155.8		The brain begins to work from different parts,
+155.8	159.8		from a different <strong>hemisphere</strong> and it gets excited,
+159.8	160.84		it gets pre-emotional –
+160.84	170.96		you can see the brain <strong>coming to life</strong> and it’s that life that is important in terms of these reading groups.
+170.96	173.16	<v Georgina>	One type of reading is <strong>scanning</strong> –
+173.16	180.08		reading quickly in order to find specific information or skimming the page to get a general understanding.
+180.08	184	<v Neil>	But the real therapy happens when a group reads <strong>literature</strong> –
+184	185.76		written works such as novels,
+185.76	190		poems or plays which are thought to have artistic merit.
+190	196.88		When group members read <strong>literature</strong> their brains get excited and start working from a different <strong>hemisphere</strong> –
+196.88	199.56		a word meaning ‘half a sphere’ –
+199.56	201.8		usually half the Earth or in this case,
+201.8	203.28		the human brain.
+203.28	209.52	<v Georgina>	Reading literature in this this way makes both the left and right <strong>hemisphere</strong> of the brain <strong>come to life</strong> -
+209.52	212.6		start to be activated again after a quiet period.
+212.6	218.4	<v Neil>	And it’s this ‘<strong>coming to life</strong>’ that proves the therapeutic effects of ‘Bibliotherapy’.
+218.4	223.44		Here’s Professor Davis again explaining how the benefits of group reading are observed.
+223.44	226.24	<v Philip Davis>	There are two methods really –
+226.24	243.16		you can have ECG where you put electrodes on the <strong>scalp</strong> and it measures electricity so that you can have a print-off of a graph of the sudden leaps than can happen at particular moments in reading a poem or short story or you can go into the scanner,
+243.16	244.36		the FMRI,
+244.36	245.04		and there,
+245.04	246.08		the blood flow,
+246.08	252.76		the oxygen indicates again changes in the configuration of the brain as it takes in this new <strong>stimulus.</strong>
+252.76	263.4	<v Neil>	The benefits of reading literature with others can be felt by group members as they begin to feel more alive and able to cope with life’s ups and downs.
+263.4	268.2		But they can also be measured scientifically by recording brain wave activity.
+268.2	274.56	<v Georgina>	This can be done by carefully attaching metal wires called electrodes to the reader’s <strong>scalp</strong> –
+274.56	276.6		the skin under the hair on the head.
+276.6	280.96	<v Neil>	Brain activity is then measured by giving the reader a <strong>stimulus</strong> –
+280.96	284		something that encourages activity in people.
+284	284.68		In this case,
+284.68	287.12		it could be a poem or novel to read.
+287.12	289.24	<v Georgina>	Or something really stimulating –
+289.24	290.56		like a detective story!
+290.56	292.2	<v Neil>	Or a work of <strong>literature</strong> –
+292.2	295.04		which reminds me of today’s quiz question.
+295.04	297.84		I asked you to name the most popular book of all time,
+297.84	298.68		and you said…
+298.68	301.84	<v Georgina>	a) Harry Potter and the Philosopher’s Stone…
+301.84	306.32	<v Neil>	…which is definitely the most popular book in the 21st Century.
+306.32	307.92		But number one of all time,
+307.92	312.64		selling over 500 million copies is c) Cervantes’
+312.64	313.96		Don Quixote.
+313.96	315.36		And there’s even a detective in it!
+315.36	316.6	<v Georgina>	Today,
+316.6	323.2		we’ve been discussing the therapeutic effects of meeting up with others in a reading group to read <strong>literature</strong> –
+323.2	324.76		writing of artistic value,
+324.76	326.64		such as stories and poetry.
+326.64	328.76	<v Neil>	In contrast to <strong>scanning</strong> –
+328.76	330.92		reading quickly to find facts –
+330.92	334.16		reading groups use <strong>literature</strong> as a <strong>stimulus</strong> -
+334.16	336.68		something that encourages activity in people.
+336.68	341.56	<v Georgina>	Reading stimulates both the left and right <strong>hemispheres</strong> –
+341.56	342.12		the two halves of the brain,
+342.12	346.28		and increases emotional activity which can be measured on the <strong>scalp</strong> –
+346.28	349.32		the skin under the hair on a reader’s head.
+349.32	353.04	<v Neil>	All of which helps people dealing with trauma to <strong>come to life</strong> –
+353.04	356.76		feel active and more alive after a quiet period.
+356.76	357.16	<v Georgina>	Right,
+357.16	357.8		that’s it –
+357.8	358.96		I’m off to the library!
+358.96	360.84	<v Neil>	If only you could…
+360.84	369.2		Thanks for listening and remember you can find many more stimulating topics and vocabulary here at 6 Minute English on BBC Learning English.
+369.2	370.72		Bye for now.
+370.72	371.72	<v Georgina>	Bye!
+371.72	377.68		6 minute English from BBC.

@@ -1,0 +1,203 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.6		6 minute English from BBClearningEnglish.com
+10.6	13.12	<v Dan>	Hello and welcome to 6 Minute English–
+13.12	15.04		the show that brings you an interesting topic,
+15.04	18.64		authentic listening practice and six new items of vocabulary.
+18.64	19.2		I’m Dan…
+19.2	20.12	<v Neil>	And I’m Neil.
+20.12	25		We’ll be discussing the rise of those little graphics we call emojis and emoticons.
+25	25.44	<v Dan>	You know,
+25.44	27.96		I think emojis are a vital tool for communication.
+27.96	28.68		And actually,
+28.68	29.52		they’re not that new,
+29.52	29.96		either.
+29.96	30.6	<v Neil>	Oh really?
+30.6	31.08	<v Dan>	Well,
+31.08	34.08		that’s the perfect opportunity to ask this week’s question.
+34.08	35.36		When was the first emoticon used?
+35.36	35.72		Was it?
+35.72	37.88		a) 1606
+37.88	40.16		b) 1862
+40.16	41.76		c) 1982
+41.76	43.56	<v Neil>	It must be 1982.
+43.56	44.84		I’ll go with c).
+44.84	47.76	<v Dan>	We’ll find out if you’re right or wrong later in the programme.
+47.76	48.16	<v Neil>	You know,
+48.16	54.8		I think we should clear one thing up before we go any further: what’s the difference between an emoticon and an emoji?
+54.8	55.48	<v Dan>	Good point.
+55.48	57.08		Emoticons came first.
+57.08	60.32		They’re the images made using normal keys on a keyboard –
+60.32	61.44		usually punctuation,
+61.44	62.56		letters and numbers.
+62.56	64.2		For example a colon –
+64.2	64.96		two dots -
+64.96	67.4		followed by the curved line of a close brackets is a…
+67.4	69.8	<v Neil>	A smiley face.
+69.8	73.44		Something you use in way too many of your emails!
+73.44	73.72	<v Dan>	Well,
+73.72	74.84		thanks!
+74.84	77.6		Whereas an emoji is something completely different.
+77.6	79.12		It’s an actual image.
+79.12	80.08		It could be a simple,
+80.08	80.4		yellow,
+80.4	84.48		smiley face; or something like a dancing lady; or even a bowl of noodles…
+84.48	85.08	<v Neil>	Ah yes,
+85.08	87.52		all those little images we have in our phones.
+87.52	88.92		But you’ll have to convince me –
+88.92	91.2		why do people use them so much?
+91.2	91.6	<v Dan>	Well,
+91.6	93.68		let’s listen to Professor Vyv Evans.
+93.68	96.12		He wrote a book called The Emoji Code:
+96.12	101.4	<v Professor Vyv Evans, Author of ‘The Emoji Code’>	They enable us to express emotion and <strong>empathy</strong> in digital communication.
+101.4	101.96		Increasingly,
+101.96	108.48		what we’re finding is that digital communication is taking over from certain aspects of face-to-face <strong>interaction</strong>.
+108.48	109.12		In the UK today,
+109.12	110.36		for example,
+110.36	114.88		adults spend 22 hours online on average each week.
+114.88	121.68		One of the reasons emojis are so interesting is that they really do enable us to express our emotional selves much more effectively.
+121.68	124.36	<v Neil>	Ok so he used a very useful word -
+124.36	125.24		<strong>empathy</strong>.
+125.24	129.16		It means ‘the ability to show you understand someone else’s feelings’.
+129.16	129.52		Ok –
+129.52	130.6		tell me more Dan.
+130.6	131.24	<v Dan>	Yes –
+131.24	134.6		adding an emoticon can show you understand and express emotion,
+134.6	136.04		and show <strong>empathy</strong> –
+136.04	137.16		more clearly.
+137.16	142.16		In digital communication we lack the visual signals we have in face-to-face <strong>interaction</strong> –
+142.16	143.12		as he says.
+143.12	143.84	<v Neil>	<strong>Interaction</strong>,
+143.84	146.96		meaning ‘when people or things communicate with each other’.
+146.96	149.28		We can also <strong>interact</strong> with things like machines,
+149.28	150.92		computers and social media.
+150.92	151.28	<v Dan>	Yes,
+151.28	157.12		Professor Evans says 60% of information when we’re talking to each other comes from <strong>non-verbal</strong> <strong>cues</strong>.
+157.12	157.48	<v Neil>	Wow,
+157.48	158.2		that’s a lot.
+158.2	161.52		A <strong>cue</strong> is a signal that you need to do something.
+161.52	162.2	<v Dan>	For example,
+162.2	164.68		an actor goes on stage after their <strong>cue</strong>.
+164.68	168.6	<v Neil>	And <strong>non-verbal</strong> means ‘without using spoken language’.
+168.6	168.92		So,
+168.92	173.24		here in the studio there are lots of other <strong>non-verbal</strong> signals about how we’re feeling -
+173.24	174.6		<strong>non-verbal cues</strong>.
+174.6	176.56		For example my facial expression,
+176.56	177.4		my body language,
+177.4	178.72		the look in my eyes,
+178.72	179.16		Dan.
+179.16	181.84	<v Dan>	There’s a glint of rage in there somewhere,
+181.84	182.36		Neil.
+182.36	182.68		Ok,
+182.68	185.16		so let’s apply this to digital communication.
+185.16	188.56		Imagine I sent you a text saying I hit my finger with a hammer –
+188.56	189.72		how would you respond?
+189.72	190.52	<v Neil>	Well,
+190.52	191.2		it depends.
+191.2	192.8		Did you hurt yourself badly?
+192.8	194.88	<v Dan>	If I followed it with a sad face emoji,
+194.88	196.04		then…?
+196.04	198.12	<v Neil>	Then I guess I’d know you hurt yourself.
+198.12	199.04		Poor you.
+199.04	201.68	<v Dan>	But if I followed it with a laughing emoji –
+201.68	204.32		the one with the tears coming out because I’m laughing so much?
+204.32	208	<v Neil>	Then I’d probably reply saying how stupid and <strong>clumsy</strong> you are!
+208	209.2	<v Dan>	Exactly –
+209.2	210.6		without adding the emoji –
+210.6	212.36		it’s hard to know my emotional state.
+212.36	214.72		The emoji is the <strong>non-verbal cue</strong> –
+214.72	215.96		like my facial expression.
+215.96	216.96	<v Neil>	By the way,
+216.96	219.2		is there an emoji meaning <strong>clumsy</strong>?
+219.2	219.76		<strong>Clumsy</strong>,
+219.76	221.12		means ‘physically awkward’ –
+221.12	225.08		someone who’s <strong>clumsy</strong> falls over a lot and drops things.Anyway,
+225.08	227.84		you were saying emoticons aren’t as new as I think?
+227.84	228.2	<v Dan>	Yes,
+228.2	229.72		I asked when they were invented.
+229.72	231.4		Is it a)1606,
+231.4	234.96		b)1862 or c)1982?
+234.96	236.68	<v Neil>	I said 1982.
+236.68	236.92	<v Dan>	Well,
+236.92	237.36		in fact,
+237.36	245.32		a witty speech Abraham Lincoln reprinted in a newspaper as far back as 1862 included a semi colon with a close brackets.
+245.32	246.52	<v Neil>	Like a winking face?
+246.52	247.24	<v Dan>	Exactly.
+247.24	250.96		Though people think this was sadly just a typographical error –
+250.96	253.36		or what we normally call a <strong>typo</strong>.
+253.36	254.8	<v Neil>	A <strong>typo</strong> –
+254.8	257.4		a spelling mistake made when typing too fast or carelessly.
+257.4	261.16	<v Dan>	The official birth of emoticons is usually given as 1982,
+261.16	266.16		when a US professor instructed his students to use smiley faces to indicate jokes -
+266.16	267.32		in a digital communication.
+267.32	268.4	<v Neil>	Wow,
+268.4	270.12		so they’re over 30 years old.
+270.12	271.64		Maybe I should start using them.
+271.64	274.72		Let’s round up with another look at today’s words.
+274.72	275.36	<v Dan>	Sure.
+275.36	277.2		The first word we had was <strong>empathy</strong>.
+277.2	278.92		Do you have a lot of <strong>empathy</strong>,
+278.92	279.32		Neil?
+279.32	279.76	<v Neil>	Yes,
+279.76	282.44		I think I’m quite good at understanding other people’s feelings.
+282.44	283.56		My friends tell me that,
+283.56	283.96		anyway!
+283.96	287		It’s important to <strong>empathise</strong> with your colleagues too.
+287	288.64	<v Dan>	That’s not what I saw in your eyes!
+288.64	289.6		Yes,
+289.6	292.24		<strong>empathy</strong> is an important part of all human <strong>interaction</strong>.
+292.24	293.16	<v Neil>	Nicely done.
+293.16	294.8		If two people <strong>interact</strong>,
+294.8	298.08		it means they ‘communicate with each other and react to each other’.
+298.08	299.32		It’s a pretty broad term.
+299.32	302.44	<v Dan>	We could also talk about how the way children <strong>interact</strong> with the internet.
+302.44	303.64	<v Neil>	Way too much!
+303.64	304.12		Next up,
+304.12	306.12		we had <strong>non-verbal</strong>,
+306.12	307.68		meaning ‘without spoken language’.
+307.68	309.12		When I first travelled to Poland,
+309.12	313.12		I used a lot of <strong>non-verbal</strong> communication to get my message across.
+313.12	313.88		Hand movements,
+313.88	314.92		counting with fingers,
+314.92	315.52		things like that.
+315.52	316.44		Next word,
+316.44	316.76		Dan?
+316.76	317.56	<v Dan>	Next word…
+317.56	320.44		that is my <strong>cue</strong> to say the next word –
+320.44	321.28		which is in fact –
+321.28	323.28		<strong>cue</strong>.
+323.28	323.84		A cue is a signal to do something.
+323.84	326.96		A commander could give his officer a <strong>cue</strong> to attack.
+326.96	328.52		Or I could give you a <strong>cue</strong> to…
+328.52	329.64		sing a song?
+329.64	330.16	<v Neil>	No thanks.
+330.16	331.88		I’ll stick with defining words,
+331.88	332.04		thank you.
+332.04	333.56		Like <strong>clumsy</strong> –
+333.56	335.28		meaning ‘physically awkward’.
+335.28	336.76		I’d have to say Dan,
+336.76	338.32		you’re a sporty guy,
+338.32	339.4		a talented footballer -
+339.4	340.56		you’re not <strong>clumsy</strong> at all.
+340.56	342.48	<v Dan>	That’s what I thought until I broke my leg –
+342.48	344.96		after a <strong>clumsy</strong> opponent ran into me…
+344.96	346.24	<v Neil>	Ouch.
+346.24	346.96		Finally –
+346.96	347.92		we had type.
+347.92	349.56		No hang on,
+349.56	351.64		that’s not right.
+351.64	353.8		It should say <strong>typo</strong>.
+353.8	356.28		A <strong>typo</strong> is a mistake in a written document,
+356.28	357.96		or a digital file or message.
+357.96	360.2	<v Dan>	Always check your scripts for <strong>typos</strong> before reading them,
+360.2	360.48		Neil.
+360.48	360.8		And,
+360.8	362.52		that’s the end of today’s 6 Minute English.
+362.52	363.68		Please join us again soon!
+363.68	365.8	<v Neil>	And we are on social media too -
+365.8	366.16		Facebook,
+366.16	366.52		Twitter,
+366.52	367.72		Instagram and YouTube.
+367.72	368.6		See you there.
+368.6	369.6	<v Both>	Bye!
+369.6	376.48		6 minute English from BBC.

@@ -1,0 +1,150 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.56		to find out more visit our website
+6.56	12		6 minute English from BBClearningEnglish.com
+12	15.84	<v Finn>	Hello and welcome to 6 Minute English with me,
+15.84	16.4		Finn.
+16.4	17	<v Neil>	And me,
+17	17.6		Neil.
+17.6	18.2	<v Finn>	Neil,
+18.2	19.6		I’m going to tell you a joke.
+19.6	20.04	<v Neil>	OK,
+20.04	22.24		come on.
+22.24	29.92	<v Finn>	Which part of learning the English language are boxers best at?
+29.92	33.72	<v Neil>	Which part of English are boxers best at?
+33.72	35.72		I don’t know.
+35.72	40	<v Finn>	Punch-uation (punctuation).
+40	41.6	<v Neil>	That’s actually quite funny.
+41.6	42.28	<v Finn>	Do you really think so?
+42.28	42.88	<v Neil>	I do,
+42.88	43.28		yes.
+43.28	43.76	<v Finn>	Well,
+43.76	46.08		I’m glad I made you laugh.
+46.08	50.16		But you might not thank me for it after the programme.
+50.16	51.16	<v Neil>	Why’s that?
+51.16	60.28	<v Finn>	Because a paper published by the British Medical Journal says that laughter is not always the best medicine,
+60.28	61.2		and sometimes,
+61.2	63.32		it can actually be harmful.
+63.32	64.08	<v Neil>	Well,
+64.08	68.08		in that case I definitely won’t be laughing at your jokes any more!
+68.08	68.32		And,
+68.32	69.44		to be honest,
+69.44	70.8		it wasn’t funny anyway.
+70.8	71.52	<v Finn>	Anyway,
+71.52	76.52		today we’ll be exploring the connection between laughter and health,
+76.52	81.04		and looking at some health-related vocabulary.
+81.04	83		But before we get into the story,
+83	85.16		Neil: a question.
+85.16	86.4		You’re a parent.
+86.4	90.68		At what age do babies begin to laugh?
+90.68	91.04		Is it:
+91.04	94.52		a) 0-3 months
+94.52	96.96		b) 3-6 months
+96.96	99.72		c) 6-8 months
+99.72	102.56	<v Neil>	Right I’m pretty sure,
+102.56	104.24		unless my memory is very bad,
+104.24	107.16		that it’s a) 0-3 months.
+107.16	108.56	<v Finn>	OK,
+108.56	108.84		well,
+108.84	112.76		we will find out if you’re right at the end of the programme.
+112.76	113.28		OK,
+113.28	114.64		so laughter,
+114.64	115.52		as I said,
+115.52	118.28		is generally thought of as a good thing.
+118.28	124.08		There’s a phrase I said earlier which is: <strong>laughter is the best medicine</strong>.
+124.08	124.48	<v Neil>	Yes,
+124.48	126.2		and talking of medicine,
+126.2	130.48		there are many medical studies which examine the benefits of laughter -
+130.48	132.64		it reduces stress,
+132.64	133.96		it’s good for your heart,
+133.96	135.44		things like that.
+135.44	139.2		But now you’re telling me it can have some negative effects?
+139.2	139.88	<v Finn>	Well,
+139.88	144.16		why don’t we listen to Professor Robin Ferner,
+144.16	147.04		who is one of the authors of the research paper.
+147.04	153.04		How many negative effects of laughter does he mention?
+153.04	158.6	<v Robin Ferner, University of Birmingham>	We found people with heart rhythm disturbance which had stopped their heart,
+158.6	162.48		we found people who had fainted,
+162.48	165.08		we found people whose gullets had burst,
+165.08	169.68		we found people who’d dislocated their jaws or burst their lungs.
+169.68	171.76	<v Neil>	Quite a few!
+171.76	176		It seems laughing can be <strong>no laughing matter!</strong>
+176	176.04	<v Finn>	Indeed -
+176.04	178.72		he mentions five problems caused by laughter,
+178.72	182.24		including heart rhythm disturbance,
+182.24	183.48		fainting,
+183.48	185.2		burst gullets,
+185.2	190		dislocated jaws and even burst lungs.
+190	192.16	<v Neil>	Some of those sound quite nasty.
+192.16	202.4		<strong>Fainting</strong> is when you lose consciousness and pass out; and your <strong>gullet</strong> is the tube through which food passes from the mouth to the stomach,
+202.4	205.72		so a burst gullet would be horrible.
+205.72	208.28	<v Finn>	I think it would be very bad!
+208.28	214.72		We also heard about burst <strong>lungs</strong> -
+214.72	217		lungs are the organs in your chest that you use to breathe.
+217	217.4		And -
+217.4	220.32		I think you’d have to be laughing really hard to do this -
+220.32	224.64		to get a <strong>dislocated jaw</strong>.
+224.64	229.32		To dislocate something is to move it out of its normal place or position,
+229.32	231.56		so you dis-locate it.
+231.56	233.64		A dislocated jaw -
+233.64	234.2		ouch.
+234.2	234.56	<v Neil>	Well,
+234.56	240.4		thankfully there is no danger of dislocated jaws with your jokes Finn!
+240.4	241.04	<v Finn>	OK!
+241.04	241.48		Well,
+241.48	242.8		in fact,
+242.8	247.04		these five dangers are only some that were mentioned in the study.
+247.04	248.2	<v Neil>	But surely,
+248.2	250.76		there must have been some positive findings?
+250.76	251.24	<v Finn>	Yes,
+251.24	254.6		let’s listen to Professor Robin Ferner again -
+254.6	257.48		which health benefit does he mention?
+257.48	259.76	<v Robin Ferner, University of Birmingham>	You actually use energy when you laugh,
+259.76	261.44		you move your diaphragm,
+261.44	263.6		you expand your lungs,
+263.6	265.48		and both those things can be helpful.
+265.48	267.24		For example,
+267.24	273.6		it’s said that laughing for quarter of an hour will burn up 40 kcal,
+273.6	278.76		and if you laughed all day you’d use up about 2,000 calories.
+278.76	280.12	<v Finn>	That’s more like it!
+280.12	282.52		Laughing can help you lose weight,
+282.52	285.72		because you use energy when you laugh.
+285.72	286.48	<v Neil>	In fact,
+286.48	292.96		quite a lot of energy: if you laughed all day you’d use 2,000 calories,
+292.96	296.28		which is what most people consume in a day.
+296.28	301.04	<v Finn>	He also thinks laughing makes people feel better,
+301.04	304.2		and it can reduce the chance of having a <strong>heart attack</strong>.
+304.2	305.44	<v Neil>	So overall -
+305.44	306.8		what’s the story -
+306.8	308.92		laughing: good or bad?
+308.92	309.24	<v Finn>	Well,
+309.24	311.12		he says for most people,
+311.12	312.4		most of the time,
+312.4	314.32		laughing is a great thing.
+314.32	314.92		And well,
+314.92	315.92		that’s good,
+315.92	317.64		because I like to laugh,
+317.64	318.2		don’t you Neil?
+318.2	320.88	<v Neil>	Oh yes I do.
+320.88	322.76	<v Finn>	Earlier I asked you Neil,
+322.76	325.6		at what age do babies begin to laugh?
+325.6	327.52		Was it 0-3 months,
+327.52	331.32		3-6 months or 6-8 months?
+331.32	333.88	<v Neil>	And I said 0-3 months.
+333.88	334.44	<v Finn>	Well,
+334.44	334.76		Neil,
+334.76	338.52		the answer was in fact b) 3-6 months.
+338.52	339.4		A little bit later!
+339.4	342.4		And 0-3 months,
+342.4	344.12		which was your answer,
+344.12	344.56		Neil,
+344.56	348.64		is when babies smile for the first time.
+348.64	349.16	<v Neil>	Well,
+349.16	351.6		you <strong>had the last laugh</strong> there Finn.
+351.6	352.84	<v Finn>	Very good -
+352.84	357.16		and if you have the last laugh it means you’re successful in the end.
+357.16	357.88		Right,
+357.88	359.6		that’s it for this programme.
+359.6	365.76		Do log on to bbclearningenglish.com for more 6 Minute English.
+365.76	366.8		Goodbye!
+366.8	367.92	<v Neil>	Bye.
+367.92	374.8		6 minute English from BBC.

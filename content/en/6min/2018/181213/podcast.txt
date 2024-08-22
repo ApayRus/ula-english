@@ -1,0 +1,141 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.92		6 minute English from BBClearningEnglish.com
+10.92	13.88	<v Neil>	Hello.
+13.88	15.16		This is 6 Minute English,
+15.16	15.96		I’m Neil.
+15.96	17	<v Rob>	And I’m Rob.
+17	20.16	<v Neil>	What do you remember of your teenage years?
+20.16	21.28	<v Rob>	Oh,
+21.28	22.36		I was a nightmare.
+22.36	24.36		I was rude to my parents,
+24.36	25.64		always stayed out late,
+25.64	26.88		never did my homework,
+26.88	30.72		hung out with the wrong people and made lots of bad decisions.
+30.72	31.16		How about you,
+31.16	31.64		Neil?
+31.64	32.36	<v Neil>	Well,
+32.36	33.32		much the same really.
+33.32	35.36		People always say that about teenagers,
+35.36	35.96		don’t they?
+35.96	39.64		That they go through a period where they are out of control and behave badly.
+39.64	40.92		But apparently,
+40.92	42.16		it’s not their fault.
+42.16	44.04		At least not directly.
+44.04	45.44	<v Rob>	So whose fault is it?
+45.44	46.4	<v Neil>	Our brains’,
+46.4	47.24		apparently.
+47.24	47.88		Teenagers’
+47.88	51.44		brains are still developing in areas that control behaviour,
+51.44	55.12		which could mean that you can’t blame them for acting the way they do.
+55.12	56.76		Before we find out more,
+56.76	58.68		let’s have our question.
+58.68	60.24		There have always been teenagers,
+60.24	62.56		but when was the word ‘teenager’
+62.56	65.16		first used to refer to the 13 –
+65.16	66.8		19 age group?
+66.8	67.16		Was it:
+67.16	68.84		a) the 1920s
+68.84	70.36		b) the 1930s
+70.36	71.96		c) the 1950s
+71.96	72.6		Any ideas,
+72.6	73.16		Rob?
+73.16	73.44	<v Rob>	Well,
+73.44	76.84		I think it came along around the time of rock and roll,
+76.84	79.24		so that would have made it the 1950s.
+79.24	80.36		That’s my guess.
+80.36	82.36	<v Neil>	I’ll have the answer later in the programme.
+82.36	87.36		Sarah-Jayne Blakemore from University College London specialises in the workings of the brain,
+87.36	89.8		particularly the teenage brain.
+89.8	92.76		Recently she was a guest on the BBC Radio programme,
+92.76	94.64		The Life Scientific.
+94.64	100.72		She explained that the understanding that the brain is still developing during the teenage years is quite new.
+100.72	103.6		When does she say the first research came out?
+103.6	114.92	<v Professor Sarah-Jayne Blakemore>	The first study showing that the human brain undergoes this very substantial and significant development throughout <strong>adolescence</strong> and into the twenties; the first <strong>papers</strong> were published in the late 90s.
+114.92	116.36		Before that,
+116.36	117.64		and for example when I was at university,
+117.64	126.92		the <strong>dogma</strong> in the text books was that the vast majority of brain development goes on in the first few years of life and nothing much changes after mid-childhood.
+126.92	130.2		That <strong>dogma</strong> is completely false.
+130.2	134.08	<v Neil>	So when did the research into the teenage brain come out?
+134.08	135.08	<v Rob>	Surprisingly,
+135.08	137.16		it wasn’t until the late 1990s.
+137.16	141.52		This was when she said that the first <strong>papers</strong> on this subject were published.
+141.52	147.72		<strong>Papers</strong> in this context means the results of scientific research which are published.
+147.72	150.48	<v Neil>	And she didn’t actually talk about teenagers,
+150.48	150.96		did she?
+150.96	151.2	<v Rob>	No,
+151.2	152.36		that’s right.
+152.36	155.24		She talked about the period of <strong>adolescence</strong>.
+155.24	155.96		This noun,
+155.96	157.2		<strong>adolescence</strong>,
+157.2	164.44		is the period when someone is developing from a child into an adult and it more or less is the same as the teenage years.
+164.44	171.48	<v Neil>	What I found interesting was that before the 1990s people believed something different about the way our brains develop.
+171.48	171.96	<v Rob>	Yes,
+171.96	178.92		Professor Blakemore said that the <strong>dogma</strong> had been that our brains are mostly fully developed in <em>early</em> childhood,
+178.92	181		long before <strong>adolescence</strong>.
+181	186.36		<strong>Dogma</strong> is a word used to describe a strong belief that people are expected to accept as true.
+186.36	191.6	<v Neil>	So our brains are still developing much later than was originally thought.
+191.6	194.56		What does this tell us about teenage behaviour?
+194.56	200		Of particular interest is an important part of the brain called the <strong>prefrontal cortex</strong>.
+200	201.64		Here is Professor Blakemore again.
+201.64	206.12		What excuse can she give for teenagers who don’t get their homework done in time?
+206.12	208.84	<v Professor Sarah-Jayne Blakemore>	The <strong>prefrontal cortex</strong> is the part of the brain right at the front,
+208.84	217.48		just behind the forehead and it’s involved in a whole range of very high-level <strong>cognitive</strong> <strong>tasks</strong> such as decision making and planning -
+217.48	222.76		we know that this region is undergoing very very large amounts of development during the <strong>adolescent</strong> years.
+222.76	227.48		And so in terms of the expectations that we place on teenagers to,
+227.48	228.4		for example,
+228.4	229.84		plan their homework,
+229.84	237.36		it might be too much given that we know that the region of the brain that critically involved in planning is not developed yet.
+237.36	242.6	<v Neil>	So the prefrontal cortex is important in <strong>cognitive tasks</strong>.
+242.6	243.08		What are those,
+243.08	243.76		Rob?
+243.76	249.28	<v Rob>	A <strong>cognitive task</strong> is one that requires conscious thinking and processing,
+249.28	251.6		such as making decisions and planning.
+251.6	253.36		It doesn’t happen automatically,
+253.36	254.84		you have to think about it.
+254.84	259.76		So in the <strong>adolescent</strong> years this part of the brain is not fully developed.
+259.76	263.24		Note the adjective form here of the noun we had earlier <strong>adolescence</strong>.
+263.24	265.96	<v Neil>	So this gives a good excuse for not doing your homework!
+265.96	266.44	<v Rob>	Ha,
+266.44	266.76		ha,
+266.76	268.16		I wish I’d known that.
+268.16	272.44		I used to say that I’d left my homework on the bus or that the dog had eaten it.
+272.44	273.52		Now I could say,
+273.52	274.2		&quot;Sorry sir,
+274.2	278.56		my brain isn’t developed enough for the <strong>cognitive task</strong> of planning my homework&quot;.
+278.56	278.92	<v Neil>	Yes,
+278.92	280.2		I’m sure that would work!
+280.2	281.28		Before we wrap up,
+281.28	284		time to get the answer to this week’s question.
+284	286.28		I asked when was the word ‘teenager’
+286.28	288.4		first used to refer to the 13 –
+288.4	289.88		19 age group?
+289.88	290.44		Was it:
+290.44	291.96		a) the 1920s
+291.96	293.96		b) the 1930s
+293.96	295.92		c) the 1950s
+295.92	296.4		Rob,
+296.4	297.12		you said?
+297.12	299.44	<v Rob>	I guessed c) 1950s
+299.44	304.64	<v Neil>	The answer is actually b) the 1930s.
+304.64	306.24		Very well done if you knew that.
+306.24	308.88		Now a quick review of today’s vocabulary.
+308.88	315.68	<v Rob>	<strong>Adolescence</strong> is the noun for the period of change from child to adult and the adjective is <strong>adolescent</strong> –
+315.68	320		this same word is also the noun for someone who is in that teenage period.
+320	326.28	<v Neil>	So an <strong>adolescent</strong> might be responsible for <strong>adolescent</strong> behaviour in his or her <strong>adolescence</strong>.
+326.28	326.64	<v Rob>	Exactly.
+326.64	331.44	<v Neil>	<strong>Papers</strong> is the word for published scientific research.
+331.44	335.16	<v Rob>	<strong>Dogma</strong> is strongly held beliefs that are not challenged.
+335.16	341.2	<v Neil>	The <strong>prefrontal cortex</strong> is an important part of the brain which deals with <strong>cognitive tasks</strong>.
+341.2	346.68	<v Rob>	And <strong>cognitive tasks</strong> are mental processes that require active thought and consideration,
+346.68	349		such as planning and making decisions.
+349	352.36	<v Neil>	Well my decision making skills tell me that it’s time to finish.
+352.36	353.32	<v Rob>	Well,
+353.32	355.48		your skills are working well Neil.
+355.48	358.76		We may be going now but you don’t need to –
+358.76	365.28		you can listen or watch us again and find lots more learning English materials on our social media platforms.
+365.28	369.96		You can also visit our website at bbclearningenglish.com.
+369.96	370.8	<v Neil>	See you soon,
+370.8	371.76		goodbye.
+371.76	372.92	<v Rob>	Bye!
+372.92	379.84		6 minute English from BBC.

@@ -1,0 +1,161 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	12.56		6 minute English from BBClearningEnglish.com
+12.56	15	<v Dan>	Hello and welcome to 6 Minute English.
+15	17.08		I’m Dan and joining me today is Neil.
+17.08	17.64		Hi Neil.
+17.64	18.04	<v Neil>	Hi there,
+18.04	18.48		Dan.
+18.48	19.32	<v Dan>	You’re a married man,
+19.32	19.76		Neil.
+19.76	20.88		When you were wed,
+20.88	23.12		did your wife change her family name?
+23.12	24.16	<v Neil>	Yes she did.
+24.16	25.36	<v Dan>	Was that her choice?
+25.36	26.04	<v Neil>	Oh yes.
+26.04	27.68		She didn’t like her old name,
+27.68	29.8		so for her it was a win-win.
+29.8	30.8		How about you?
+30.8	31.12	<v Dan>	Well,
+31.12	33.52		my wife wanted to keep her surname,
+33.52	38.04		but was forced to adopt mine because that was the law where we got married.
+38.04	40.72	<v Neil>	Would you have thought about taking her name?
+40.72	43.52	<v Dan>	That’s what we’re talking about in this 6 Minute English.
+43.52	47.48		A husband taking a wife’s name after marriage.
+47.48	48.04		All that,
+48.04	50.92		six related words and our quiz question.
+50.92	51.4	<v Neil>	OK.
+51.4	52.52		Let’s have the question.
+52.52	60.04	<v Dan>	In which country has it been forbidden since 1789 for a citizen to change their name legally,
+60.04	62.12		even after marriage?
+62.12	63.08		a) Japan
+63.08	64.16		b) France
+64.16	65.6		c) Turkey
+65.6	68.28	<v Neil>	I’m going to go for b) France
+68.28	70.92	<v Dan>	And we’ll see if you’re right later.
+70.92	71.16		Now,
+71.16	73.16		traditionally in the UK,
+73.16	75.2		when a man and a woman get married,
+75.2	77.88		the woman takes the man’s family name.
+77.88	80.84		And this replaces her <strong>maiden name</strong>.
+80.84	84.72	<v Neil>	A maiden name is the surname a woman had before she was married.
+84.72	87.36		This all dates back to the Norman invasion of England,
+87.36	89.72		back in 1066.
+89.72	92.68		They introduced the idea that when a woman married a man,
+92.68	94.96		she became his property.
+94.96	96.56		As a result of this,
+96.56	98.28		she took his name.
+98.28	99.04	<v Dan>	These days,
+99.04	106.88		many women elect to keep their maiden name upon marriage or combine it with their new husband’s in some way,
+106.88	110.4		sometimes by making the name <strong>double-barrelled</strong>.
+110.4	113.72	<v Neil>	A double-barrelled name is two names that are connected by a hyphen,
+113.72	114.76		such as Jones-Smith.
+114.76	115.96	<v Dan>	However,
+115.96	120.64		a growing number of couples in western culture are doing it differently .
+120.64	121.76		When they get married,
+121.76	125.08		the husband elects to take the wife’s surname.
+125.08	128	<v Neil>	In a BBC article about surnames and marriage,
+128	129.6		Rory Dearlove,
+129.6	131.08		formerly Rory Cook,
+131.08	134.72		talks about why he decided to take his wife’s surname.
+134.72	137.72		He said that he wasn’t really attached to his name anyway.
+137.72	139.68		To him it didn’t make any difference.
+139.68	140.04	<v Dan>	Well,
+140.04	141.2		he’s not alone.
+141.2	145.2		A recent study of 2000 UK adults by Opinium,
+145.2	147.16		a strategic insight agency,
+147.16	150.4		suggested that one in ten millennial men,
+150.4	153.84		currently between 18 and 34 years old,
+153.84	155.76		fall into this category.
+155.76	157.12	<v Neil>	Charlie Shaw,
+157.12	159.56		a Tibetan Buddhist meditation instructor,
+159.56	162.08		who took his wife’s name when they married last year,
+162.08	168.12		said that it was an opportunity to acknowledge the unseen <strong>patriarchal</strong> bias and sexism in our society.
+168.12	176.76	<v Dan>	Patriarchal means ‘controlled by men’ and a <strong>bias</strong> is the unfair support or opposition to a person,
+176.76	178.4		thing or idea.
+178.4	180.92	<v Neil>	Many traditional societies were patriarchal.
+180.92	184.24		But modern UK society is less like that.
+184.24	186.84		Everyone is meant to be equal.
+186.84	187.88	<v Dan>	Ah yes,
+187.88	190.2		but that’s the unseen part.
+190.2	192.64		And there’s the social view of things too.
+192.64	193.64		Rachel Robnett,
+193.64	200.08		a researcher at the University of Nevada surveyed a number of people in the US and UK,
+200.08	206		and found that the husbands of women who keep their maiden names are viewed as ‘feminine’,
+206	210.12		while the women are believed to ‘<strong>wear the trousers</strong>’.
+210.12	212.64	<v Neil>	If you ‘wear the trousers’ in a relationship,
+212.64	216.32		it means you ‘have the control and make the decisions for both people’.
+216.32	217.84	<v Dan>	I wondered about that,
+217.84	225.72		so I went out into London and asked people what they thought about a man who took his wife’s name when they got married.
+225.72	227.2		Here’s what they said.
+227.2	229.36	<v Woman>	I don’t think it’s a bad idea at all.
+229.36	232.24		My dad’s 55 and he took my mother’s surname.
+232.24	233.64		If people want to do it,
+233.64	235.36		then all the power to them.
+235.36	237.24	<v Man>	It’s each to their own really.
+237.24	238.92		It doesn’t hurt anybody.
+238.92	240.92		And it’s no different from a woman taking a man’s name.
+240.92	248.2	<v Woman>	The only reason I think that anybody should take someone else’s surname if just for the creation of a family unit.
+248.2	249.92		But if it’s just out of principle,
+249.92	251.36		I don’t agree.
+251.36	254.88	<v Dan>	It seems that the people I talked to are comfortable with the idea.
+254.88	255.4	<v Neil>	Yes.
+255.4	258.64		Most said that people are free to do what they want.
+258.64	263.4		One woman even mentioned the creation of a family <strong>unit</strong>.
+263.4	265.52	<v Dan>	A unit is a group of people living or working together.
+265.52	269.44		A typical family unit would be two parents and some children.
+269.44	269.44		Well,
+269.44	271.4		that answers that question.
+271.4	273.88		People don’t seem to mind who takes who’s name.
+273.88	275.48	<v Neil>	Speaking of questions.
+275.48	276.88		How about our quiz question?
+276.88	276.96	<v Dan>	Oh yes,
+276.96	284.76		I asked you in which country it’s been forbidden since 1789 for a citizen to change their name legally,
+284.76	286.52		even after marriage?
+286.52	287.36		a) Japan
+287.36	288.32		b) France
+288.32	289.96		c) Turkey
+289.96	291.64	<v Neil>	And I said b)France
+291.64	293.6	<v Dan>	And you were spot on as usual,
+293.6	293.88		Neil.
+293.88	295.96	<v Neil>	Let’s take a look at the vocabulary,
+295.96	296.32		shall we?
+296.32	298.92	<v Dan>	First we had <strong>maiden name</strong>.
+298.92	302.56		This is a woman’s family name before she is married.
+302.56	306.28		My mother refused to give up her maiden name to my father when she got married.
+306.28	308.12	<v Neil>	Then we had <strong>double-barrelled</strong>.
+308.12	311.28		A double-barrelled name is two names that are joined by a hyphen.
+311.28	313.36		Can you think of any famous examples?
+313.36	313.8	<v Dan>	Well,
+313.8	317.84		there’s the Duchess of Cornwall Camilla Parker-Bowles for one.
+317.84	319.8		She’s married to Prince Charles –
+319.8	321.48		next in line to the English throne.
+321.48	323.96		Then we had <strong>patriarchal</strong>.
+323.96	325.4		If something is patriarchal,
+325.4	326.8		it is controlled by men.
+326.8	329.4		The feminine equivalent is matriarchal,
+329.4	330.8		controlled by women.
+330.8	333.52	<v Neil>	Then we had <strong>bias</strong>.
+333.52	336.6		A bias is unfair support or opposition to a person,
+336.6	337.48		thing or idea.
+337.48	340.64	<v Dan>	Many fans are biased in favour of their football team.
+340.64	343.48		Then we had <strong>wear the trousers</strong>.
+343.48	345		If you wear the trousers,
+345	348.44		you have the control and make the decisions for both people.
+348.44	350.8		Do you wear the trousers in your marriage,
+350.8	351.04		Neil?
+351.04	351.52	<v Neil>	Oh,
+351.52	353.68		we both wear the trousers in my marriage,
+353.68	354.32		thank you Dan.
+354.32	356.36		Then we had <strong>unit</strong>.
+356.36	359.6		A unit is a group of people living or working together.
+359.6	362.04		Like the BBC Learning English team…
+362.04	362.92		or unit!
+362.92	365.08	<v Dan>	And that’s the end of this 6 Minute English.
+365.08	367.16		Don’t forget to checkout our Facebook,
+367.16	367.64		Twitter,
+367.64	369.4		Instagram and YouTube pages.
+369.4	371.36		And we’ll see you next time.
+371.36	371.76		Bye!
+371.76	372.88	<v Neil>	Bye!
+372.88	379.48		6 minute English from BBC.

@@ -1,0 +1,13 @@
+0.18	2.51	Tapescript 7.6
+4.14	5.02	worked
+6.23	7.09	lived
+8.28	9.39	started
+10.61	11.46	married
+12.85	13.68	loved
+15.23	16.16	hated
+17.74	18.58	finished
+19.86	20.68	looked
+22.38	23.27	died
+24.58	25.69	visited
+27.10	28.03	cleaned
+29.31	30.14	liked

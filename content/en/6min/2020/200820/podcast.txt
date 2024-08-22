@@ -1,0 +1,128 @@
+0.1	3.32		This is a download from bbc learning English
+3.32	4.4		to find out more visit our website
+4.4	6.4		6 minute English from BBClearningEnglish.com
+6.4	6.68	<v Neil>	Hello.
+6.68	9.56		This is 6 Minute English from BBC Learning English.
+9.56	10.2		I’m Neil.
+10.2	11.16	<v Rob>	And I’m Rob.
+11.16	15.08	<v Neil>	From the bubonic plague to cholera and tuberculosis,
+15.08	20.08		disease and pandemics have changed the way cities have been built.
+20.08	20.84		For example,
+20.84	24.56		buildings in 19th century Paris were designed with large,
+24.56	27.84		high-up windows to allow plenty of sunlight.
+27.84	31.16		They were supposed to stop the spread of tuberculosis.
+31.16	34.24	<v Rob>	Coronavirus has been no different.
+34.24	35		In lockdown,
+35	43.48		cities from Rio to Barcelona were transformed as wildlife and birdsong replaced the noise of taxi horns and traffic.
+43.48	47.8		And with no car pollution you could even see the stars at night!
+47.8	52.4	<v Neil>	In this programme we’ll be asking if cities after lockdown will ever be the same again –
+52.4	54.08		and if we want them to be.
+54.08	57.88	<v Rob>	We’ll be hearing some ideas from different cities around the world.
+57.88	62	<v Neil>	And of course we’ll be learning some new vocabulary along the way.
+62	66.68		One of the cities most affected by Covid-19 was Mumbai in India –
+66.68	69.44		but approximately how many people were affected?
+69.44	72		What’s the estimated population of Mumbai?
+72	74.44		That’s my quiz question for you today Rob.
+74.44	74.84		Is it:
+74.84	77.28		a) 15 million people?
+77.28	78.56		b) 20 million people?
+78.56	78.84		or,
+78.84	81.88		c) 25 million people?
+81.88	89.2	<v Rob>	I know Mumbai is an international mega-city so I’ll say b) 20 million people.
+89.2	89.52	<v Neil>	OK,
+89.52	89.8		Rob,
+89.8	92.28		we’ll find out later if that’s right.
+92.28	92.68		Now,
+92.68	98.76		Beatriz Colomina is a professor of architecture at Princeton University in the United States.
+98.76	103.52		She’s spent years researching the relationship between cities and disease.
+103.52	105.6		Here she is talking with Kavita Puri,
+105.6	108.32		presenter of BBC World Service programme,
+108.32	109.04		<em>The Inquiry</em>:
+109.04	112.04	<v Kavita Puri>	Take tuberculosis.
+112.04	113.16		Unlike cholera,
+113.16	118.44		which was eliminated in London by re-designing the sewage system in the 1850s,
+118.44	121		TB was <strong>airborne</strong>.
+121	124.8	<v Professor Colomina>	It became a real problem with the rise of the industrial cities,
+124.8	126.76		the <strong>metropolis</strong>,
+126.76	130.32		before an <strong>antibiotic</strong> was effective.
+130.32	133.44	<v Kavita Puri>	One in seven people on the planet had TB,
+133.44	135.92		but in dense cities like Paris,
+135.92	137.2		it was one in three.
+137.2	146.36		Closely packed tenements meant the disease <strong>spread like wildfire</strong> and architects and planning experts responded.
+146.36	147.24	<v Rob>	Some diseases,
+147.24	148		like cholera,
+148	152.64		could be prevented by redesigning cities to improve hygiene,
+152.64	156.12		like the waste water sewers in 19th century London.
+156.12	158.04		But the problem with tuberculosis,
+158.04	159.88		or TB for short,
+159.88	162.84		was that the disease is <strong>airborne</strong> –
+162.84	164.08		carried and spread in the air.
+164.08	167.36	<v Neil>	Adding to the problem was the fact that <strong>antibiotics</strong> –
+167.36	172.72		medicines like penicillin that can destroy harmful bacteria or stop their growth –
+172.72	175.16		was not discovered until 1928 –
+175.16	179.08		too late to save the thousands of people who died in Mumbai,
+179.08	179.56		New York,
+179.56	182.36		Paris and other cities during the 1800s.
+182.36	188.88	<v Rob>	Diseases like TB killed more and more people as cities industrialised and grew bigger and bigger,
+188.88	191.72		leading to the creation of the <strong>metropolis</strong> –
+191.72	192.68		the largest,
+192.68	195.8		busiest and most important city in a country or region.
+195.8	201.8	<v Neil>	Many people crowded together in large <strong>metropolises</strong> meaning that disease could <strong>spread like wildfire</strong> –
+201.8	204.92		an idiom meaning spread quickly around many people.
+204.92	207.76	<v Rob>	Even today disease is shaping our cities.
+207.76	209.72		In post-Covid Paris,
+209.72	212.4		new ideas for a ’15 minute city’
+212.4	218.56		aim to make all public services available within a fifteen minute walk to help people working from home.
+218.56	220.36	<v Neil>	Other countries want to build better,
+220.36	223.08		more affordable housing outside the city centre.
+223.08	228.16	<v Rob>	But according to Mumbai resident Dr Vaidehi Tandel this won’t work –
+228.16	230.56		even if the housing on offer is better.
+230.56	231.84		But why?
+231.84	233.64		The reason is work.
+233.64	234.84	<v Dr Vaidehi Tandel>	When you shift them out,
+234.84	247.88		you’re moving them away from their <strong>livelihoods</strong> and they’re not going to be able to sustain themselves there so they will be coming back because their jobs are in the city and they cannot afford the <strong>commute</strong> from further off places.
+247.88	248.6	<v Rob>	Dr Vaidehi Tandel there,
+248.6	257.52		talking on the BBC World Service programme The Inquiry.Trying to make cities less crowded is one way to minimise the risks from disease.
+257.52	262.16		But moving people away from the city centre means moving them away from their <strong>livelihood</strong> –
+262.16	265.32		their job or other way of earning money to pay for food,
+265.32	266.52		housing and clothing.
+266.52	274.04	<v Neil>	Many people still want to live near their workplace in the city centre because they can’t afford to pay for the <strong>commute</strong> –
+274.04	276.72		the journey between their home and their place of work.
+276.72	279.84	<v Rob>	Which is real problem when you live in a city of…
+279.84	282.16		how many people did you say live in Mumbai,
+282.16	282.68		Neil?
+282.68	283.6	<v Neil>	Ah yes,
+283.6	287.92		in our quiz question I asked you what the estimated population of Mumbai is.
+287.92	290.4	<v Rob>	I said b) 20 million.
+290.4	292.36	<v Neil>	And you were absolutely right!
+292.36	296.44		Around 20 million people live in the Mumbai <strong>metropolis</strong>,
+296.44	299.32		making it very difficult to socially distance.
+299.32	304.16	<v Rob>	In this programme we’ve been discussing the relationship between cities and disease.
+304.16	305.24		In the 1800s,
+305.24	306.32		tuberculous,
+306.32	307.12		or TB,
+307.12	310.84		killed thousands because it was an <strong>airborne</strong> disease –
+310.84	312.28		spread in the air,
+312.28	313.68		and hard to prevent.
+313.68	314.68	<v Neil>	<strong>Antibiotics</strong> –
+314.68	319.04		medicinal chemicals like penicillin which can destroy harmful germs,
+319.04	322.72		couldn’t help because they weren’t discovered until decades later.
+322.72	324.68	<v Rob>	So in <strong>metropolises</strong> –
+324.68	327.04		the largest and most important cities,
+327.04	329.2		where people live crowded close together,
+329.2	333.08		diseases <strong>spread like wildfire</strong> –
+333.08	335.04		an idiom meaning spread widely and quickly.
+335.04	336.88	<v Neil>	In Mumbai and other places,
+336.88	341.36		the problem remains that many people need the city for their <strong>livelihood</strong> –
+341.36	342.92		job or other way of earning money.
+342.92	347.8	<v Rob>	So they prefer to live in the city centre instead of paying for the daily <strong>commute</strong> –
+347.8	348.36		a journey,
+348.36	349.32		often by train,
+349.32	350.2		bus or car,
+350.2	351.88		from your home to your workplace.
+351.88	354.76	<v Neil>	That’s all we have time for in this programme,
+354.76	357.32		but remember you can find more useful vocabulary,
+357.32	362.28		trending topics and help with your language learning here at BBC Learning English.
+362.28	362.88		Bye for now!
+362.88	363.48	<v Rob>	Bye!
+363.48	363.72		6 minute English from BBC.

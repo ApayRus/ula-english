@@ -1,0 +1,143 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	13.56		6 minute English from BBClearningEnglish.com
+13.56	14.16	<v Rob>	Hello.
+14.16	17.4		This is 6 Minute English from BBC Learning English.
+17.4	18.36		I’m Rob.
+18.36	19.84	<v Georgina>	And I’m Georgina.
+19.84	23.6	<v Rob>	In this programme we’re looking for <strong>utopia</strong>.
+23.6	25.36	<v Georgina>	You mean a perfect world –
+25.36	28.08		a place where everyone lives together in harmony.
+28.08	29.52		Does that kind of place exist,
+29.52	30.56		Rob?
+30.56	32	<v Rob>	Umm probably not,
+32	35.08		but it’s something we aspire to create –
+35.08	39.4		a happy place where everyone is cared for and nobody goes without.
+39.4	40.96	<v Georgina>	Well let me know if you find it,
+40.96	42.96		and I’ll head there straight away.
+42.96	43.28	<v Rob>	Well,
+43.28	48		one place that is trying to be like that is the Dutch city of Amsterdam.
+48	52.64		We’re going to be finding out what they’re doing with the help of some doughnuts!
+52.64	53.16		But first,
+53.16	53.68		Georgina,
+53.68	56.12		I have a perfect question for you!
+56.12	60.04		According to the 2020 United Nations World Happiness Report,
+60.04	63.52		which country is the world’s happiest?
+63.52	63.88		Is it…
+63.88	65.48		a) Finland?
+65.48	66.68		b) Singapore?,
+66.68	68.44		or, c) Austria?
+68.44	69.24	<v Georgina>	That’s tricky,
+69.24	70.2		but I imagine that -
+70.2	71.56		if only for the scenery -
+71.56	73.4		it’s a) Finland.
+73.4	73.84	<v Rob>	OK,
+73.84	74.52		Georgina,
+74.52	78.36		I’ll tell you if you are right or wrong later on.
+78.36	78.68		Anyway,
+78.68	80.68		let’s get back to Amsterdam –
+80.68	85.96		a city that’s doing its best to use creative ideas to be sustainable.
+85.96	86.6	<v Georgina>	That’s right,
+86.6	92.4		and it’s using the concept of a ring doughnut to use as a model for its sustainability.
+92.4	94.08		Economist Kate Raworth,
+94.08	95.88		who we will hear from shortly,
+95.88	101.76		describes this as “a picture of 21st Century prosperity for humanity.”
+101.76	104.56	<v Rob>	Now thinking of this ‘ring doughnut’ -
+104.56	110.6		the idea is not to leave anyone in the hole in the middle falling short on the essentials of life -
+110.6	114.44		but at the same time not going beyond the outer ring,
+114.44	119.84		because there we put so much pressure on our planetary home it can cause climate change.
+119.84	121.04		So,
+121.04	124.56		here is Kate Raworth speaking on the BBC World Service programme,
+124.56	126.24		People Fixing the World,
+126.24	130.72		talking about how Amsterdam is trying to fit into this ‘doughnut’
+130.72	132.76		approach…
+132.76	137.36	<v Kate Raworth, Economist>	Amsterdam has started with a goal of saying we want to be a <strong>thriving</strong>,
+137.36	139.88		<strong>inclusive</strong>,
+139.88	141.96		regenerative city for all residents while respecting planetary boundaries -
+141.96	144.92		that’s like saying we want our city to live in the doughnut.
+144.92	148		And that changes how you build -
+148	151.88		you don’t bring in more new raw materials from across the other side of the world -
+151.88	152.24		you say,
+152.24	152.48		right,
+152.48	157		how do we re-use the construction materials that are already in our city to build new buildings?
+157	160.4		[…] How do we change the way that people travel?
+160.4	166.8		Start asking very different questions from the outdated economic <strong>mindset</strong> that they were taught before.
+166.8	168.96	<v Rob>	Interesting stuff from Kate Raworth there.
+168.96	172.68		The people of Amsterdam are trying to live within the doughnut!
+172.68	177.92		Their aim is to live and look after each other without harming the planet.
+177.92	178.72		It’s a big aim –
+178.72	181.96		but they want their city to be <strong>thriving</strong> –
+181.96	183.84		so growing and being successful.
+183.84	186.08	<v Georgina>	And it wants to be <strong>inclusive</strong> –
+186.08	189		including everyone and treating them equally.
+189	190.76		This is beginning to sound like utopia,
+190.76	191.16		Rob!
+191.16	192.64		To achieve this,
+192.64	198.8		Kate talked about using locally-sourced materials for building and thinking about how people travel around –
+198.8	201.96		basically making it a sustainable city.
+201.96	208.24	<v Rob>	It’s about people thinking differently and not doing things in the same way they’ve always been done.
+208.24	210.6		It involves changing the way people think,
+210.6	212.68		or their <strong>mindset</strong>.
+212.68	218.12	<v Georgina>	Another idea from the Netherlands that fits the doughnut model is the making of recycled jeans.
+218.12	226.36		The People Fixing the World programme visited a company where old jeans were mixed with new organic cotton to make new ones.
+226.36	229.8	<v Rob>	The new ones might not be affordable for everyone,
+229.8	234.08		but they do reduce cotton production and the use of chemicals and water.
+234.08	236.32		The process creates jobs too.
+236.32	237.08	<v Georgina>	Well,
+237.08	238.84		let’s hear from Bert van Son,
+238.84	240.68		CEO of Mud Jeans.
+240.68	243.64		Listen to why he tries to work within the doughnut model…
+243.64	249.68	<v Bert van Son, CEO, Mud Jeans>	If you take the doughnut economy and you see the insides of the circles -
+249.68	250.96		if you break that boundary,
+250.96	251.88		<strong>mistreat</strong> people,
+251.88	256.76		and you have people making your jeans but they don’t have any <strong>social security</strong>,
+256.76	257.92		or any liberty,
+257.92	258.88		or any medical care,
+258.88	259.84		those kind of things,
+259.84	261.84		you will never be able to make nice jeans -
+261.84	264.32		it has to become human again,
+264.32	265.64		making clothing.
+265.64	273	<v Rob>	Bert van Son sees the benefit of the doughnut economy by treating people fairly and with respect –
+273	276.68		the opposite is to <strong>mistreat</strong>.
+276.68	279.56		He thinks they should have things such as <strong>social security</strong> –
+279.56	283.72		a payment system by governments that helps people live a reasonable life.
+283.72	286.24	<v Georgina>	And he says you can’t make ‘nice’
+286.24	288.2		jeans without being human –
+288.2	290.32		he doesn’t just mean being a person,
+290.32	292.32		but being someone with compassion,
+292.32	294.64		feelings and respect for others.
+294.64	295	<v Rob>	Umm,
+295	296.56		all this from a doughnut!
+296.56	300		Hopefully this will lead to a happier city and country.
+300	301.32		But for now,
+301.32	303.28		what is the happiest country in the world,
+303.28	303.8		Georgina?
+303.8	304.52	<v Georgina>	Yes,
+304.52	305.68		you asked me earlier,
+305.68	309.6		according to the 2020 United Nations World Happiness Report,
+309.6	312.8		which country has been named the world’s happiest?
+312.8	314.48		And I said Finland.
+314.48	315.28		Come on,
+315.28	317.2		make me happy and tell me I am right!
+317.2	319.12	<v Rob>	Well happily,
+319.12	320.16		you are correct.
+320.16	320.76		Well done.
+320.76	323.88		Finland is top of the list for the third year in a row,
+323.88	325.68		with Denmark coming in second.
+325.68	327.84		But before you head off there,
+327.84	331.44		we need to recap some of the vocabulary we’ve discussed today.
+331.44	332.56	<v Georgina>	Of course.
+332.56	335.16		We’ve been discussing <strong>utopia</strong> -
+335.16	338		a perfect place where everyone lives together in harmony.
+338	342	<v Rob>	<strong>Thriving</strong> describes something that is growing and successful.
+342	346.32		And <strong>inclusive</strong> means including everyone and treating them equally.
+346.32	348.76	<v Georgina>	We also mentioned <strong>mindset</strong>.
+348.76	352.44		That describes the fixed thoughts and attitudes someone has.
+352.44	355.92	<v Rob>	To <strong>mistreat</strong> someone is to treat them badly or cruelly.
+355.92	361.84	<v Georgina>	And <strong>social security</strong> is a payment system by governments that helps people live a reasonable life.
+361.84	362.76	<v Rob>	OK,
+362.76	364.16		well that’s all for this programme.
+364.16	369.76		We’ll see you again soon for more trending topics and vocabulary here at 6 Minute English.
+369.76	370.48		Bye for now!
+370.48	371.4	<v Georgina>	Bye!
+371.4	379.56		6 minute English from BBC.

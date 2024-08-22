@@ -1,0 +1,110 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.64		6 minute English from BBClearningEnglish.com
+12.64	12.96	<v Neil>	Hello.
+12.96	15.8		This is 6 Minute English from BBC Learning English.
+15.8	16.68		I’m Neil.
+16.68	17.52	<v Sam>	And I’m Sam –
+17.52	19.24		still working from home,
+19.24	20.68		as you can hear.
+20.68	21.48		But for many,
+21.48	24.48		the return to the office has begun.
+24.48	25.8	<v Neil>	And to make things safe,
+25.8	30.12		new thermal cameras are being installed in some workplaces.
+30.12	34.28		They measure body temperature to screen for coronavirus.
+34.28	41.96	<v Sam>	After weeks of working at home the return to the office is slowly getting underway in a number of countries.
+41.96	46.36	<v Neil>	But workplaces are having to change in this coronavirus era.
+46.36	52.8		Lots of companies are rushing to install technology to make offices and workplaces safer.
+52.8	55.16		Sensors that monitor our movements,
+55.16	64.64		smartphone apps that alert us if we get too close to workmates and even devices that take our temperature could all become <strong>the new normal</strong> –
+64.64	66.76		that’s a phrase we hear a lot these days,
+66.76	72.2		meaning a previously unfamiliar situation that has become usual and expected.
+72.2	80	<v Sam>	In this programme we’ll take a look at how this technology works and ask if it really is the answer we’re looking for.
+80	80.64	<v Neil>	But first,
+80.64	82.2		today’s quiz question.
+82.2	93.04		The thermal cameras I mentioned screen for coronavirus by recording skin temperature in the area of the body which most closely resembles the internal body temperature -
+93.04	95.52		but which area is that?
+95.52	95.92		Is it:
+95.92	97.6		a) the eye,
+97.6	98.56		b) the ear,
+98.56	98.72		or
+98.72	100		c) the nose?
+100	101.4	<v Sam>	I’ll say a) the eye.
+101.4	102.48	<v Neil>	OK,
+102.48	103.16		Sam.
+103.16	105.68		We’ll find out later if you were right.
+105.68	106		Now,
+106	108.16		as employees slowly return to work,
+108.16	112.84		tech companies are busy finding ways for them to do so safely.
+112.84	113.84		One such company,
+113.84	115		‘Microshare’,
+115	117.12		is managed by Charles Paumelle.
+117.12	123.44		He spoke to BBC World Service programme <em>Tech Tent</em> to explain a possible solution.
+123.44	132.36	<v Charles Paumelle>	The technology that we are offering is using <strong>Bluetooth</strong> wristbands or tags that people are wearing within the workplace which detect <strong>proximity</strong> events.
+132.36	137.32		When the proximity event has been recorded its been saved by the company in case they need to,
+137.32	140.04		<strong>further down the line</strong>,
+140.04	148		retrace the steps of a certain person who has been declared as infected and inform anyone else they may have been in contact with.
+148	152.96	<v Neil>	One important way to control coronavirus involves contact tracing.
+152.96	159.48		This means that someone who tests positive for the disease informs everyone else they’ve been in contact with.
+159.48	162.4		Microshare’s system for this uses <strong>Bluetooth</strong> -
+162.4	164.88		technology that allows computers,
+164.88	170.84		mobile phones and other devices to communicate with each other without being connected by wires.
+170.84	178.28	<v Sam>	Employees wear <strong>Bluetooth</strong> wristbands which register when workers come into close <strong>proximity</strong> –
+178.28	181.48		how near a person is to another person.
+181.48	189.88	<v Neil>	Anyone who has been close to a workmate will then know they have to take action if that person is found to have coronavirus later <strong>down the line</strong> –
+189.88	190.72		in the future.
+190.72	192.08	<v Sam>	Wearing wristbands,
+192.08	196.8		monitoring data on smartphones and being recorded by cameras –
+196.8	200.24		it all feels like quite a big invasion of privacy,
+200.24	201.24		doesn’t it?
+201.24	202.6	<v Neil>	It certainly does,
+202.6	207.96		and although some argue that such measures are necessary in these unprecedented times,
+207.96	211.16		others are worried about the possible consequences.
+211.16	212.64		Here’s human rights lawyer,
+212.64	213.44		Ravi Naik,
+213.44	215.4		with a warning:
+215.4	216.56	<v Ravi Naik>	From a human rights perspective,
+216.56	217.6		you have to try to ask,
+217.6	220.12		are you trying to use tech <strong>for tech’s sake</strong> –
+220.12	225.24		is this actually going to facilitate an understanding of who is safe to go back to work or not?
+225.24	226.24		And if not,
+226.24	231.52		what’s the necessity of this because it’s such a significant interference with basic human rights.
+231.52	238.8		There has to be a high level of <strong>evidential justification</strong> to deploy this type of technology and I just don’t think it’s there.
+238.8	243.96	<v Neil>	Ravi questions whether these devices will actually help identify who can return to work,
+243.96	247.76		or whether the technology is being used <strong>for its own sake</strong> –
+247.76	252.28		an expression meaning doing something because it is interesting and enjoyable,
+252.28	253.92		not because you need to.
+253.92	259.52	<v Sam>	Ravi’s work as a lawyer involves finding proof that something is right or wrong.
+259.52	262.76		If people’s human rights are being interfered with,
+262.76	267.12		he thinks there has to be <strong>evidential justification</strong> –
+267.12	271.36		explanation of the reasons why something is the right thing to do,
+271.36	273.2		based on evidence.
+273.2	276.48		Like the evidence from screening body temperature…
+276.48	279.36	<v Neil>	…which bring us back to today’s quiz question.
+279.36	285.6		Remember I asked you which part of the body is scanned by thermal cameras to measure body temperature.
+285.6	287.72	<v Sam>	And I said a) the eye.
+287.72	289.24	<v Neil>	And you were absolutely right!
+289.24	298.24		There’s a small area of the eye close to the tear ducts which is the most accurate part of the skin for measuring body temperature.
+298.24	298.72	<v Sam>	Well,
+298.72	299.88		there you go.
+299.88	308.68		We’ve been discussing how thermal cameras and other workplace devices being used to prevent coronavirus are becoming <strong>the new normal</strong> –
+308.68	312.92		a previously unfamiliar situation that is becoming normalised.
+312.92	316.08	<v Neil>	Some of these devices are wristbands with <strong>Bluetooth</strong> –
+316.08	321.52		technology allowing computers and smartphones to communicate remotely without wires.
+321.52	325.76		They can identify work colleagues who have been in close <strong>proximity</strong> –
+325.76	326.4		in other words,
+326.4	327.68		near to each other.
+327.68	333.72	<v Sam>	That will be helpful if one of them tests positive for coronavirus further <strong>down the line</strong> –
+333.72	335.36		at some point in the future.
+335.36	347.32	<v Neil>	The coronavirus pandemic has caused massive changes in workplaces around the world but some critics are concerned that contact tracing technology is being used <strong>for its own sake</strong> -
+347.32	349.32		because it is interesting and enjoyable to do,
+349.32	351.56		rather than being absolutely necessary.
+351.56	360.2	<v Sam>	And since much of the new tech invades personal privacy it should only be introduced with <strong>evidential justification</strong> –
+360.2	362.92		explanation of why it is the right thing to do,
+362.92	364.44		based on evidence.
+364.44	365.68	<v Neil>	Unfortunately,
+365.68	367.12		that’s all we’ve got time for,
+367.12	368.64		but remember join us again.
+368.64	370.4		Bye for now!
+370.4	371.88	<v Sam>	Bye!
+371.88	377.84		6 minute English from BBC.

@@ -1,0 +1,9 @@
+0.27	2.21	Tapescript 1.2 (one point two)
+3.68	4.32	Hello.
+4.53	5.90	My name’s Richard.
+6.35	7.30	What’s your name?
+7.89	8.52	Kurt.
+9.03	10.55	Where are you from, Kurt?
+11.05	12.22	I’m from Hamburg.
+12.51	13.49	Where are you from?
+13.71	14.86	I’m from London.

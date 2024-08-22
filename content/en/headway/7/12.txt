@@ -1,0 +1,11 @@
+0.18	2.50	Tapescript 7.12
+3.88	4.40	1
+5.10	6.59	Did you have a nice weekend?
+8.96	9.48	2
+10.22	12.33	Did you get any Valentine cards?
+14.39	14.97	3
+15.51	17.54	Congratulations!
+19.35	19.94	4
+20.24	21.68	Happy New Year!
+23.51	24.33	5
+24.78	26.05	Have a nice weekend!

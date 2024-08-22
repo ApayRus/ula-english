@@ -1,0 +1,7 @@
+0.23	1.43	Unit 14
+2.81	4.95	Tapescript 14.1
+6.70	8.27	I’ve been to Germany.
+8.97	10.46	I haven’t been to France.
+12.37	13.90	I’ve been to the USA.
+15.29	16.86	I’ve never been to Australia.
+18.73	21.38	I haven’t been to any of the countries!

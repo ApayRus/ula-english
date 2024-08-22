@@ -1,0 +1,126 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	13.56		6 minute English from BBClearningEnglish.com
+13.56	16.28	<v Rob>	Hello I’m Rob and this is 6 Minute English–
+16.28	18.76		the show that brings you an interesting topic,
+18.76	24.2		authentic listening practice and some vocabulary to help you improve your language skills
+24.2	24.68	<v Neil>	And hello,
+24.68	25.2		I’m Neil.
+25.2	28		Our topic today is transport.
+28	30.24		How do you think you’ll be travelling to work in,
+30.24	32.2		say 30 years’ time?
+32.2	32.64	<v Rob>	Well,
+32.64	35.24		not only will homeworking be more prevalent –
+35.24	36.48		that means ‘common’ –
+36.48	39.44		but I hope I won’t be working in 30 years’ time!
+39.44	40.4	<v Neil>	Good answer!
+40.4	44.48		But if we look back and see how transport has changed in the last 30 years,
+44.48	46.96		it makes you wonder what the future holds.
+46.96	47.52	<v Rob>	Yes,
+47.52	51.16		we’ve seen how air travel has become <strong>commonplace</strong> for many people.
+51.16	53.16		Commonplace means ‘not unusual’.
+53.16	56.48		And there’s been the development of high-speed train travel.
+56.48	58.76		But the main priority has been speed –
+58.76	61.32		going faster to make your journeys quicker.
+61.32	62	<v Neil>	That’s true,
+62	66.4		and we’ll be discussing some ideas for making transport even faster soon.
+66.4	70.56		But let’s not waste any time and speed on to today’s quiz question.
+70.56	71.08	<v Rob>	Ah yes,
+71.08	72.44		time waits for no one,
+72.44	73.8		not even you Neil.
+73.8	75.72		So can you answer this question?
+75.72	77.64		According to Guinness World Records,
+77.64	81.88		in which country has the fastest ever train been recorded?
+81.88	82.52		Is it in…
+82.52	84.04		a) China
+84.04	85.2		b) Japan
+85.2	86.72		c) France
+86.72	92.72	<v Neil>	All these countries have fast trains but I’ve heard that Chinese trains go particularly fast.
+92.72	94.68		I’m going to say a) China.
+94.68	95.08	<v Rob>	Well,
+95.08	99.04		you’ll have to wait until the end of the programme to see if you’re right.
+99.04	102.48		But let’s talk more now about the future of transport.
+102.48	105.68		One development we hear much about is <strong>automation</strong>.
+105.68	110.16	<v Neil>	Automation means ‘using machines to do work that humans normally do’
+110.16	113.56		and in terms of transport this means driverless vehicles.
+113.56	117.72		It won’t be too long before we become the passenger in a driverless car.
+117.72	118.76	<v Rob>	Scary!
+118.76	121		And the French train engineering company,
+121	121.72		Alstom,
+121.72	125.2		is planning to test automated freight trains later this year.
+125.2	131.24		The automated train <strong>prototype</strong> can travel for about 100 kilometres without driver intervention.
+131.24	137.52		A prototype is the first version of something which can be tested before it is produced in large quantities.
+137.52	150.8	<v Neil>	Of course some trains are already driven by computers but there’s an exciting plan to develop a form of driverless vehicle that could move you around at 1,123 kilometres per hour.
+150.8	151.76	<v Rob>	Come on Neil.
+151.76	153.72		That sounds a bit <strong>far-fetched</strong> –
+153.72	156.48		like flying cars that we see in sci-fi movies –
+156.48	159.72		it’s difficult to believe because it’s unlikely to happen.
+159.72	164.68	<v Neil>	Well you say that but it’s already being tested in Nevada in the USA and has a name –
+164.68	165.84		Hyperloop One.
+165.84	167.32	<v Rob>	Tell me more!
+167.32	168.56	<v Neil>	The idea is,
+168.56	172.8		you get loaded into a pod then you’re pushed through a metal tube at high speed,
+172.8	176.48		taking you to your destination in minutes rather than hours.
+176.48	181.56		Anita Sengupta is the lead systems engineer and says there’s nothing scary about it…
+181.56	186.44	<v Anita Sengupta, Lead systems engineer, Virgin Hyperloop One>	The Hyperloop is a maglev train in a vacuum system –
+186.44	187.4		or in a vacuum tube –
+187.4	194.96		and so you can also think of it as an aircraft flying at 200,000 feet so people don’t have any issue flying in aeroplanes and people don’t have any issue going in maglev trains.
+194.96	198.56		This is simply combining the two and allows you to be more energy efficient.
+198.56	203.32	<v Rob>	So Anita Sengupta explained the type of technology the Hyperloop used.
+203.32	205.28		First she mentioned <strong>maglev</strong> –
+205.28	208.32		that’s a short way of saying magnetic levitation.
+208.32	212.84	<v Neil>	It’s when trains travel on magnetic track rather than conventional rails.
+212.84	215.36	<v Rob>	And then she mentioned a <strong>vacuum</strong> system -
+215.36	219.44		a vacuum is a space that has had all the air and any other gases removed from it.
+219.44	223.8		So the tube these pods travel in have no air in so there’s no resistance.
+223.8	227.52		And these technologies are more efficient and they save energy.
+227.52	229.52	<v Neil>	Which is a good thing.
+229.52	232.88		This sounds like a great way to travel but will it take off?
+232.88	233.24	<v Rob>	Well,
+233.24	237.08		BBC technology correspondent Rory Cellan-Jones isn’t so sure.
+237.08	244.2		He thinks it will be quite challenging to convince governments to allow long metal tubes to be built on or below ground.
+244.2	246.64	<v Neil>	But we have to try these new technologies Rob.
+246.64	250.88		If we didn’t we’d still be travelling around on horse and cart!
+250.88	251.72	<v Rob>	A good point Neil –
+251.72	257.4		and we wouldn’t have been able to travel at the great speeds mentioned in today’s question.
+257.4	260.56		Now earlier I asked you according to Guinness World Records,
+260.56	264.32		in which country has the fastest ever train travelled?
+264.32	265.08		Is it in…
+265.08	266		a) China
+266	267.36		b) Japan
+267.36	269		c) France
+269	271.48	<v Neil>	And I said a) China.
+271.48	273.32	<v Rob>	And you were wrong Neil.
+273.32	276.4		China does have some very fast trains.
+276.4	281.72		But the fastest recorded train was a maglev from the Central Japan Railway Company,
+281.72	286.12		which ran on a test track at a speed of 603 kilometres per hour.
+286.12	289.24	<v Neil>	Now that would make my commute to work very quick!
+289.24	289.64		OK,
+289.64	292.6		shall we recap some of the vocabulary we’ve heard today?
+292.6	295.48		Starting with <strong>commonplace</strong>.
+295.48	298.52	<v Rob>	Which means ‘not unusual or often seen’.
+298.52	302.52		For example ‘free Wi-Fi in coffee shops is commonplace these days.’
+302.52	304	<v Neil>	And very useful it is too!
+304	306.32		Next we had <strong>automation</strong>,
+306.32	309.24		meaning ‘using a machine to do something instead of a human.’
+309.24	314.52		‘Automation in the car making industry has led to the loss of hundreds of jobs.’
+314.52	318.8	<v Rob>	Of course when you build a new car you need to make a <strong>prototype</strong> –
+318.8	323.48		that’s the first version of something which can be tested before it is produced in large quantities.
+323.48	329.6		‘The prototype of a new solar-powered bike has been so successful that it’s now going into mass-production.’
+329.6	330.84	<v Neil>	Come on Rob,
+330.84	332.72		that sounds a bit <strong>far-fetched</strong> –
+332.72	336.2		and by that I mean ‘so unbelievable it’s unlikely to happen.’
+336.2	341.08	<v Rob>	Well something people once thought far-fetched is now a reality and that’s <strong>maglev</strong> –
+341.08	346.6		that’s short for magnetic levitation and is how some of the world’s fastest trains travel.
+346.6	347.84	<v Neil>	Finally,
+347.84	350.6		we discussed the word <strong>vacuum</strong>.
+350.6	353.56		It’s a space that has had all the air and other gases removed from it –
+353.56	355.2		basically an empty space.
+355.2	365.28		‘The plan for Virgin’s Hyperloop One is to make a maglev even faster by putting it in a vacuum tube.’ And that brings us to the end of today’s 6 Minute English.
+365.28	367.4		Don’t forget to check out our You Tube,
+367.4	367.96		Facebook,
+367.96	369.72		Twitter and Instagram pages,
+369.72	370.76		and we’ll see you next time.
+370.76	371.76		Goodbye.
+371.76	373.2	<v Rob>	Bye
+373.2	380.12		6 minute English from BBC.

@@ -1,0 +1,5 @@
+0.15	2.11	T 2.9
+4.76	6.80	How much is a hamburger and chips?
+10.21	11.43	Three pounds fifty.
+14.31	17.70	How much is a hamburger and chips and an orange juice?
+22.13	23.39	Four pounds forty.

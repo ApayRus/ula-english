@@ -1,0 +1,151 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.36		6 minute English from BBClearningEnglish.com
+12.36	14.92	<v Sophie>	Hello and welcome to 6 Minute English.
+14.92	16.04		I’m Sophie…
+16.04	18.12	<v Neil>	And I’m Neil…
+18.12	18.8		Here’s your coffee,
+18.8	19.88		Sophie.
+19.88	20.76	<v Sophie>	Neil –
+20.76	23.6		remember that staff meeting we had yesterday?
+23.6	28.52		Why did you agree to having decaff coffee in the kitchen when I know you don’t like it…
+28.52	29.68		and neither do I!
+29.68	30.2	<v Neil>	I know.
+30.2	33.88		It’s just that the boss said that <strong>decaffeinated</strong> coffee –
+33.88	35		that’s coffee with the caffeine removed –
+35	36.08		was a good idea,
+36.08	36.96		healthier,
+36.96	37.68		you know.
+37.68	38.56		And then everyone else agreed.
+38.56	39.4		And I…
+39.4	40.44		I don’t know…
+40.44	43.36		I just felt uncomfortable disagreeing with everyone.
+43.36	43.76	<v Sophie>	Well,
+43.76	45.04		it’s interesting you should say that,
+45.04	45.68		Neil.
+45.68	48.84		Groupthink is the subject of today’s show.
+48.84	53.6		<strong>Groupthink</strong> refers to the type of bad decisions we make when we are in a group.
+53.6	56.16		Decisions that are <strong>contrary to</strong> –
+56.16	57.24		or against –
+57.24	59.08		what we really think.
+59.08	65.68		A psychology experiment conducted in the 1950s showed that a lot of people do exactly that –
+65.68	68.04		they submit to the will of the group.
+68.04	70.04	<v Neil>	But before we hear more about this,
+70.04	72.72		now would be a good time for today’s quiz question.
+72.72	74.04		And I get to ask you,
+74.04	74.56		Sophie!
+74.56	75.32	<v Sophie>	OK.
+75.32	76.28		What is it?
+76.28	84.76	<v Neil>	In which story by Hans Christian Andersen does a young boy dare to tell the truth when everyone else goes along with an obvious lie?
+84.76	85.12		Is it…
+85.12	86.84		a) The Red Shoes
+86.84	89.2		b) The Snow Queen
+89.2	91.84		Or c) The Emperor’s New Clothes
+91.84	92.44	<v Sophie>	OK…
+92.44	95.84		I think it’s c) The Emperor’s New Clothes.
+95.84	96.28	<v Neil>	Well,
+96.28	99.52		we’ll find out later on in the show if that’s right or not.
+99.52	100.12		Now,
+100.12	105.52		the psychologist Solomon Asch is well known for his conformity experiments from the 1950s.
+105.52	107.96		Can you tell us what ‘conformity’ means please,
+107.96	109		Sophie?
+109	114.6	<v Sophie>	<strong>Conformity</strong> means behaviour that is the same as the way most other people behave.
+114.6	119.36		Asch’s main finding was that group pressure can change a person’s opinion,
+119.36	121.56		of even obvious facts.
+121.56	124.4	<v Neil>	And what did this Asch test involve?
+124.4	129.16	<v Sophie>	123 male participants were shown a card with a line on it,
+129.16	132.8		followed by another card with three lines on it.
+132.8	139.72		The participants were then asked to say which line matched the line on the first card in length.
+139.72	141.56		The right answer was plain to see,
+141.56	145.68		but the participants felt pressurized into saying the wrong answer.
+145.68	146.96	<v Neil>	Why would they do that?
+146.96	154.12	<v Sophie>	Because the majority of people taking part in the experiment had been told to give the wrong answer.
+154.12	157.2		Let’s hear Professor Nick Chater’s explanation.
+157.2	162.4		He works at the Warwick Business School here in the UK.
+162.4	171.24	<v INSERT>	By the time it comes to you a whole list of people have said something plainly wrong and you are either going to have to fold and say,
+171.24	171.32		'well,
+171.32	174.24		I just agree with them’ or you’re going to rather uncomfortably say,
+174.24	174.36		'well,
+174.36	176.28		I think it’s <em>one</em> actually’.
+176.28	177.04		And most people,
+177.04	177.76		most of the time,
+177.76	178.72		tend to fold.
+178.72	180.88	<v Neil>	Professor Nick Chater.
+180.88	183.2		He uses the word <strong>fold</strong>,
+183.2	184.96		which means you give up.
+184.96	185.2		But,
+185.2	185.92		Sophie,
+185.92	189.16		if people are uncomfortable about supporting the wrong answer,
+189.16	190.6		or something they don’t believe in,
+190.6	192.48		why do they do it?
+192.48	196.44	<v Sophie>	Because even though we feel uncomfortable <strong>going along with</strong> –
+196.44	197.64		or agreeing with –
+197.64	199.44		something we don’t believe,
+199.44	203.32		we’re even more uncomfortable about disagreeing with the group.
+203.32	203.72	<v Neil>	Well,
+203.72	206.28		I didn’t realize that people were such sheep.
+206.28	208.28		I have a will of steel,
+208.28	209.24		Sophie.
+209.24	210.16	<v Sophie>	Is that right?
+210.16	210.44		So,
+210.44	213.48		your <strong>will of steel</strong> –
+213.48	215.64		or strong determination –
+215.64	219.12		somehow melted away in the staff meeting yesterday,
+219.12	221.56		I suppose?
+221.56	221.68	<v Neil>	Oh well…
+221.68	222.28		of course…
+222.28	222.68		yes…
+222.68	228.04	<v Sophie>	Let’s move on and consider briefly how social media encourages groupthink.
+228.04	228.48	<v Neil>	Yes,
+228.48	230.24		there’s a real danger with something like,
+230.24	230.84		for example,
+230.84	231.84		the Twitter –
+231.84	233.48		the social networking service.
+233.48	236.32		Because when an opinion on Twitter starts to “trend”,
+236.32	238.6		it can take on a momentum of its own,
+238.6	240.92		and people adopt it simply because it’s popular,
+240.92	242.64		not because they really believe it.
+242.64	248.72	<v Sophie>	And <strong>momentum</strong> means a force that keeps something going once it has started.
+248.72	250.52		Let’s hear from journalist and author,
+250.52	252.08		Jon Ronson.
+252.08	254.4		He has an interesting opinion about this.
+254.4	270.96	<v Jon Ronson, journalist and author>	One of the ironies here is that on social media we all like to see ourselves as nonconformists but when we all get together in a group what we’re doing is using our individual nonconformity to create a more conformist world.
+270.96	273.6		So if somebody steps out of line,
+273.6	275.44		all us nonconformists,
+275.44	277.8		in this frightened conformist way,
+277.8	279.2		tear them apart.
+279.2	287.24		It’s like we’re defining the boundaries of normality by tearing apart the people on the outside.
+287.24	289.52	<v Sophie>	Jon Ronson.
+289.52	291.08		Are you a <strong>nonconformist</strong> then,
+291.08	291.52		Neil –
+291.52	295		someone who thinks and behaves differently from other people?
+295	297.68	<v Neil>	I’m not the type that Jon Ronson is describing –
+297.68	303.36		one who joins up with other so-called nonconformists to bully people with different views.
+303.36	313		Now remember I asked you earlier: In which story by Hans Christian Andersen does a young boy dare to tell the truth when everyone else goes along with an obvious lie?
+313	313.6		Is it…
+313.6	315.24		a) The Red Shoes,
+315.24	319.24		b) The Snow Queen or c) The Emperor’s New Clothes?
+319.24	321.96	<v Sophie>	I guessed c) The Emperor’s New Clothes.
+321.96	322.84	<v Neil>	And you were right,
+322.84	325.4		Sophie!
+325.4	336.76		The Emperor’s New Clothes is a story by Hans Christian Andersen about two weavers who promise an emperor a new suit of clothes that is invisible to those who are stupid or incompetent.
+336.76	342.04		No one dares to say that he doesn’t see any suit of clothes until a child cries out,
+342.04	344		“But he isn’t wearing anything at all!”
+344	345.4	<v Sophie>	It’s a great story –
+345.4	347.04		and a lesson to us all.
+347.04	349.92		Now can we hear the words we learned today please?
+349.92	350.48	<v Neil>	They are:
+350.48	351.92		decaffeinated
+351.92	353.52		groupthink
+353.52	354.92		contrary to
+354.92	356.32		conformity
+356.32	357.52		fold
+357.52	359.32		going along with
+359.32	360.88		will of steel
+360.88	362.08		momentum
+362.08	363.76		nonconformist
+363.76	364.8	<v Sophie>	Well,
+364.8	367.12		that’s the end of today’s 6 Minute English.
+367.12	369.28		Don’t forget to join us again soon!
+369.28	370.16	<v Both>	Bye.
+370.16	377.2		6 minute English from BBC.

@@ -1,0 +1,28 @@
+0.18	2.54	Tapescript 5.6
+3.64	4.19	1
+6.01	6.90	<v A >Excuse me!
+7.17	8.87	Is there a chemist near here?
+9.11	10.85	<v B >Yes. It’s over there.
+10.91	11.56	<v A >Thanks.
+14.56	15.09	2
+17.71	18.80	<v A >Excuse me!
+18.78	20.89	Is there a newsagent near here?
+21.18	23.87	<v B >Yes. it’s in Church Street.
+23.97	26.14	Take the first street on the right.
+26.24	28.01	It’s next to the music shop.
+28.05	29.71	<v A >Oh yes. Thanks.
+32.27	32.81	3
+35.21	36.41	<v A >Excuse me!
+36.63	38.53	Is there a restaurant near here?
+38.86	42.35	<v B >There’s a Chinese one in Park Lane next to the bank,
+42.62	45.34	and there’s an Italian one in Church Street
+45.30	46.62	next to the travel agent.
+47.08	48.61	<v A >Is that one far?
+48.65	49.01	<v B >No.
+49.08	50.52	Just two minutes, that’s all.
+53.10	53.67	4
+55.74	57.74	<v A >Is there a post office near here?
+58.15	59.30	<v B >Go straight ahead,
+59.64	60.69	and it’s on the left,
+60.76	61.73	next to the pub.
+62.49	63.33	<v A >Thanks a lot.

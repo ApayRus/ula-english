@@ -1,0 +1,152 @@
+0.1	3.28		This is a download from bbc learning English
+3.28	6.76		to find out more visit our website
+6.76	12.32		6 minute English from BBClearningEnglish.com
+12.32	15.04	<v Sophie>	Hello and welcome to 6 Minute English.
+15.04	15.84		I’m Sophie…
+15.84	17	<v Neil>	And I’m Neil.
+17	17.6		Sophie –
+17.6	20.48		did you see the beautiful sky last night?
+20.48	20.84	<v Sophie>	No,
+20.84	22.04		I went to bed early.
+22.04	22.72		Why?
+22.72	26.36	<v Neil>	I was wondering if there was life out there.
+26.36	28.28	<v Sophie>	You mean life on other planets?
+28.28	29.92		That’s just science fiction,
+29.92	30.44		Neil.
+30.44	31.28	<v Neil>	It isn’t!
+31.28	34.92		People are fascinated by life on other planets for a good reason.
+34.92	37.08	<v Sophie>	You believe in little green men?
+37.08	38.96	<v Neil>	Not necessarily…
+38.96	40.04		but possibly.
+40.04	40.6	<v Sophie>	Well,
+40.6	45.92		Mars is our closest neighbour in the solar system and the subject of today’s show.
+45.92	48.84		And that brings me on to our usual quiz question.
+48.84	50.92		How long is a day on Mars?
+50.92	51.6		Is it about…
+51.6	53.2		a) 5 hours?
+53.2	55.56		b) 25 hours?
+55.56	58.56		Or c) 45 hours?
+58.56	62.76	<v Neil>	And I think it must be c) 45 hours.
+62.76	64.56		Things are weird on other planets.
+64.56	68.16		And Mars is further from the sun than us…
+68.16	70.08		Mars may be our closest neighbour,
+70.08	71.92		but it’s hardly in our backyard,
+71.92	72.52		is it?
+72.52	74.24	<v Sophie>	It is in astronomical terms,
+74.24	74.72		Neil –
+74.72	77.2		it’s visible to <strong>the naked eye</strong> –
+77.2	79.36		meaning without using instruments –
+79.36	82.56		and it’s reachable by spacecraft.
+82.56	82.88		Well,
+82.88	87.24		we’ll find out later on in the show whether you got the answer right or not.
+87.24	93.48		Now can you tell me Neil why people like you get excited about the possibility of life on Mars?
+93.48	94.08	<v Neil>	Well,
+94.08	99.64		Mars is similar to the Earth in some important ways which means if life developed on our planet,
+99.64	100.8		why not Mars?
+100.8	101.48	<v Sophie>	That’s true.
+101.48	103.76		Its temperature is in the right zone –
+103.76	107.16		not too hot and not too cold.
+107.16	110.88		But actually we could find Mars pretty cold –
+110.88	119.08		an average temperature would be around minus 63 degrees Celsius compared to Earth’s 14 degrees Celsius.
+119.08	120.72		It’s also very <strong>arid</strong> –
+120.72	121.84		or dry.
+121.84	124.44	<v Neil>	And it needs to be wet for life to develop,
+124.44	125.44		doesn’t it?
+125.44	126.16	<v Sophie>	That’s right.
+126.16	130.32		Many scientists think that liquid water is essential for life!
+130.32	134.12		But there may have been water on the surface of Mars in the past.
+134.12	138.8		And recent research suggests that there may be water underground.
+138.8	142		Let’s hear some more about this from Professor John Zarnecki,
+142	146		who teaches Space Science at The Open University.
+146	150	<v INSERT>	We are now seeing that in fact Mars probably does have water –
+150	152.44		not liquid water –
+152.44	160.24		that there is ice just below the surface and there’s even just recently tantalizing evidence that perhaps water does flow periodically…
+160.24	160.56		Now,
+160.56	169.16		and also coupled with the fact that here on Earth we’re finding that life in very primitive form exists in the most extreme environments,
+169.16	172.88		these are the so called ‘extremophiles’ that exist at the bottom of the oceans…
+172.88	174		So life is much,
+174	175.68		much tougher.
+175.68	177.76	<v Neil>	What does <strong>tantalizing</strong> mean,
+177.76	177.92		Sophie?
+177.92	180.32	<v Sophie>	It means something you want that’s almost,
+180.32	181.56		but not quite,
+181.56	182.56		within reach.
+182.56	183.32		So,
+183.32	190.16		scientists would love to think water flows on Mars but the evidence isn’t strong enough for this to be certain.
+190.16	197		The other interesting point the professor makes is that life may exist in the very harsh Martian environment –
+197	201		because primitive life exists in extreme places on Earth.
+201	204	<v Neil>	<strong>xtremophiles</strong> are <strong>organisms</strong> –
+204	205.2		or small creatures –
+205.2	210.88		that live in very extreme environments and can survive conditions that would kill most other organisms.
+210.88	215.64		But on Mars they would be living underground because the <strong>radiation</strong> –
+215.64	216.48		or light and heat –
+216.48	221.12		from the Sun would kill any organisms living on the surface of the planet.
+221.12	224.52		So why doesn’t the Sun’s radiation kill us then,
+224.52	225.12		Sophie?
+225.12	230.36	<v Sophie>	The Earth has a strong magnetic field created by its hot molten <strong>core</strong> –
+230.36	231.28		or centre –
+231.28	235.04		and this protects us from the Sun’s harmful solar winds.
+235.04	236.32	<v Neil>	And what about Mars -
+236.32	238.4		why doesn’t it have a magnetic field?
+238.4	239.6	<v Sophie>	It used to –
+239.6	241.8		4 billion years ago.
+241.8	247.16		It’s possible that a massive <strong>collision</strong> with an asteroid might have heated up Mars’s core,
+247.16	249.32		disrupting the magnetic fields.
+249.32	253.6	<v Neil>	And if you <strong>disrupt</strong> a process you stop it from continuing normally.
+253.6	253.88		Now,
+253.88	256.28		to return to the subject of collisions,
+256.28	256.68		Sophie,
+256.68	259.24		I have something very interesting to tell you.
+259.24	260.52	<v Sophie>	Yes?
+260.52	261.56	<v Neil>	A <strong>meteorite</strong> –
+261.56	263.68		or a piece of rock from outer space –
+263.68	267.36		might’ve crashed into the Earth millions of years ago.
+267.36	274.8		That meteorite might have contained Martian life forms.
+274.8	277.4		So we might be descended from Martians!
+277.4	282.48	<v Sophie>	That’s actually an interesting idea,
+282.48	282.92		Neil.
+282.92	289.16		But let’s listen to Professor John Zarnecki talking about interplanetary life.
+289.16	293.64	<v INSERT>	If we do find traces of life on Mars we don’t know,
+293.64	294.2		do we -
+294.2	297.48		whether it evolved independently or was it perhaps seeded from Earth.
+297.48	302.52		It is possible that life forms from Earth travelled to Mars and perhaps existed there –
+302.52	303.52		or the other way round.
+303.52	306.36	<v Neil>	So life on Mars may have <strong>evolved</strong> –
+306.36	307.04		or developed –
+307.04	308.4		on its own.
+308.4	311.96		Or it might have arrived from Earth in a lump of rock…
+311.96	313		Or the other way round!
+313	316.84		So Martians might be humans or we might be Martians!
+316.84	318.92		One big interplanetary happy family,
+318.92	319.76		Sophie!
+319.76	320.24	<v Sophie>	Well Neil,
+320.24	324.92		let’s hope you stay happy after you hear the answer to today’s quiz question.
+324.92	327.92		I asked: How long is a day on Mars?
+327.92	328.2		Is it …
+328.2	329.64		a) 5 hours?
+329.64	331.88		b) 25 hours?
+331.88	333.92		Or c) 45 hours?
+333.92	336.36	<v Neil>	And I said c) 45 hours –
+336.36	338.08		they must have a long day over there.
+338.08	339.28	<v Sophie>	And you were …
+339.28	340.24		wrong!
+340.24	345.28		The correct answer is b) because a day on Mars is slightly longer than here on Earth –
+345.28	347.16		it’s 25 hours.
+347.16	348.24		Anyway,
+348.24	350.96		can we at least hear the words we learned today?
+350.96	351.8	<v Neil>	They are:
+351.8	353.16		the naked eye
+353.16	354.16		arid
+354.16	356		tantalizing
+356	357.6		extremophiles
+357.6	358.52		organisms
+358.52	359.88		radiation
+359.88	360.88		core
+360.88	362.04		disrupt
+362.04	363.56		meteorite
+363.56	364.68		evolved
+364.68	365.52	<v Sophie>	Well,
+365.52	367.84		that’s the end of today’s 6 Minute English.
+367.84	369.32		Join us again soon!
+369.32	370.32	<v Both>	Bye.
+370.32	377.28		6 minute English from BBC.

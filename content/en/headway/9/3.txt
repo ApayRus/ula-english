@@ -1,0 +1,20 @@
+0.18	2.43	Tapescript 9.3
+3.85	4.34	1
+6.36	7.56	Would you like a cigarette?
+8.09	9.86	No, thanks. I don’t smoke.
+13.01	13.51	2
+14.64	16.08	Do you like your teacher?
+16.75	19.30	Yes. She’s very nice.
+21.20	21.75	3
+23.57	24.59	Would you like a drink?
+25.17	27.88	Yes, please. Some Coke, please.
+29.99	30.56	4
+31.79	32.91	Can I help you?
+34.70	37.51	Yes. I’d like a book of stamps, please.
+39.68	40.43	5
+41.08	42.37	What sports do you do?
+42.55	44.99	Well, I like swimming very much.
+47.18	47.83	6
+48.93	49.80	Excuse me,
+50.04	51.35	are you ready to order?
+51.96	54.66	Yes. I’d like a steak, please.

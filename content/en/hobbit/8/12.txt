@@ -1,0 +1,107 @@
+0:00:00.00,0:00:03.11	Hoping desperately that Bilbo had not been caught
+0:00:03.24,0:00:04.35	the dwarves went on.
+0:00:05.11,0:00:06.48	Not fast enough, though.
+0:00:07.08,0:00:08.48	They were sick and weary,
+0:00:08.82,0:00:12.00	and they could not go much better than a hobble and a wobble,
+0:00:12.33,0:00:14.75	though many of the spiders were close behind.
+0:00:15.64,0:00:17.00	Every now and then
+0:00:17.17,0:00:20.37	they had to turn and fight the creatures that were overtaking them
+0:00:20.64,0:00:23.48	and already some spiders were in the trees above them
+0:00:23.60,0:00:26.33	and throwing down their long clinging threads.
+0:00:27.73,0:00:29.95	Things were looking pretty bad again,
+0:00:30.20,0:00:32.13	when suddenly Bilbo appeared
+0:00:32.31,0:00:36.57	and charged into the astonished spiders unexpectedly from the side.
+0:00:37.66,0:00:39.80	“Go on! Go on!” he shouted.
+0:00:40.02,0:00:41.80	“I will do the stinging!”
+0:00:42.46,0:00:43.31	And he did.
+0:00:44.17,0:00:46.42	He darted backwards and forwards,
+0:00:46.53,0:00:48.15	slashing at spider-threads,
+0:00:48.53,0:00:49.62	hacking at their legs,
+0:00:49.95,0:00:53.04	and stabbing at their fat bodies if they came too near.
+0:00:54.51,0:00:56.82	The spiders swelled with rage,
+0:00:56.97,0:00:58.75	and spluttered and frothed,
+0:00:58.84,0:01:00.75	and hissed out horrible curses;
+0:01:02.26,0:01:05.13	but they had become mortally afraid of Sting,
+0:01:05.60,0:01:07.66	and dared not come very near,
+0:01:07.95,0:01:09.51	now that it had come back.
+0:01:10.73,0:01:12.04	So curse as they would,
+0:01:12.13,0:01:15.26	their prey moved slowly but steadily away.
+0:01:15.91,0:01:17.88	It was a most terrible business,
+0:01:18.06,0:01:19.88	and seemed to take hours.
+0:01:20.31,0:01:21.26	But at last,
+0:01:21.51,0:01:26.08	just when Bilbo felt that he could not lift his hand for a single stroke more,
+0:01:26.62,0:01:28.51	the spiders suddenly gave it up,
+0:01:28.86,0:01:30.22	and followed them no more,
+0:01:30.46,0:01:33.62	but went back disappointed to their dark colony.
+0:01:35.68,0:01:41.06	The dwarves then noticed that they had come to the edge of a ring where elf-fires had been.
+0:01:41.84,0:01:45.08	Whether it was one of those they had seen the night before,
+0:01:45.11,0:01:46.13	they could not tell.
+0:01:47.08,0:01:50.46	But it seemed that some good magic lingered in such spots,
+0:01:50.68,0:01:52.37	which the spiders did not like.
+0:01:53.28,0:01:55.37	At any rate here the light was greener,
+0:01:55.80,0:01:57.82	and the boughs less thick and threatening,
+0:01:58.37,0:02:00.77	and they had a chance to rest and draw breath.
+0:02:02.55,0:02:04.53	There they lay for some time,
+0:02:04.95,0:02:06.24	puffing and panting
+0:02:06.93,0:02:09.42	but very soon they began to ask questions.
+0:02:10.20,0:02:13.40	They had to have the whole vanishing business carefully explained,
+0:02:13.77,0:02:16.51	and the finding of the ring interested them so much
+0:02:16.75,0:02:18.97	that for a while they forgot their own troubles.
+0:02:19.77,0:02:21.51	Balin in particular
+0:02:21.68,0:02:23.95	insisted on having the Gollum story,
+0:02:24.26,0:02:25.26	riddles and all,
+0:02:25.53,0:02:27.04	told all over again,
+0:02:27.31,0:02:29.15	with the ring in its proper place.
+0:02:30.00,0:02:32.35	But after a time the light began to fail,
+0:02:32.88,0:02:35.08	and then other questions were asked.
+0:02:35.95,0:02:36.88	Where were they,
+0:02:37.84,0:02:39.08	and where was their path,
+0:02:39.73,0:02:41.37	and where was there any food,
+0:02:41.82,0:02:43.91	and what were they going to do next?
+0:02:44.71,0:02:46.55	These questions they asked
+0:02:46.55,0:02:48.08	over and over again,
+0:02:48.68,0:02:50.48	and it was from little Bilbo
+0:02:50.64,0:02:53.26	that they seemed to expect to get the answers.
+0:02:54.02,0:02:58.42	From which you can see that they had changed their opinion of Mr. Baggins very much,
+0:02:58.91,0:03:01.46	and had begun to have a great respect for him
+0:03:01.88,0:03:03.84	as Gandalf had said they would.
+0:03:04.60,0:03:05.37	Indeed to think of some wonderful plan for helping them,
+0:03:05.80,0:03:09.60	and were not merely grumbling.
+0:03:10.00,0:03:11.48	They knew only too well that they would soon all have been dead,
+0:03:12.57,0:03:16.00	if it had not been for the hobbit;
+0:03:16.22,0:03:18.00	and they thanked him many times.
+0:03:18.64,0:03:20.73	Some of them even got up and bowed right to the ground before him,
+0:03:21.60,0:03:25.26	though they fell over with the effort,
+0:03:25.55,0:03:27.26	and could not get on their legs again for some time.
+0:03:27.66,0:03:30.51	Knowing the truth about the vanishing
+0:03:31.00,0:03:33.17	did not lessen their opinion of Bilbo at all;
+0:03:33.42,0:03:36.28	for they saw that he had some wits,
+0:03:36.73,0:03:39.11	as well as luck and a magic ring —
+0:03:39.37,0:03:41.53	and all three are very useful possessions.
+0:03:41.91,0:03:44.55	In fact they praised him so much
+0:03:45.55,0:03:48.04	that Bilbo began to feel there really was something of a bold adventurer about himself after all,
+0:03:48.15,0:03:54.86	though he would have felt a lot bolder still,
+0:03:55.71,0:03:57.91	if there had been anything to eat.
+0:03:58.17,0:03:59.97	But there was nothing,
+0:04:01.48,0:04:03.15	nothing at all;
+0:04:03.60,0:04:04.88	and none of them were fit to go and look for anything,
+0:04:05.71,0:04:08.31	or to search for the lost path.
+0:04:08.60,0:04:10.53	The lost path!
+0:04:11.88,0:04:13.35	No other idea would come into Bilbo’s tired head.
+0:04:14.35,0:04:17.68	He just sat staring in front of him at the endless trees;
+0:04:18.40,0:04:21.57	and after a while they all fell silent again.
+0:04:21.91,0:04:24.71	All except Balin.
+0:04:25.46,0:04:27.02	Long after the others had stopped talking and shut their eyes,
+0:04:27.60,0:04:31.26	he kept on muttering and chuckling to himself.
+0:04:31.60,0:04:34.26	“Gollum!
+0:04:36.00,0:04:36.80	Well I’m blest!
+0:04:37.44,0:04:38.80	So that’s how he sneaked past me is it?
+0:04:39.24,0:04:42.15	Now I know!
+0:04:42.71,0:04:44.28	Just crept quietly along did you, Mr. Baggins?
+0:04:44.57,0:04:48.53	Buttons all over the doorstep?
+0:04:48.93,0:04:51.82	Good old
+0:04:52.06,0:04:53.15	Bilbo-
+0:04:53.28,0:04:54.44	Bilbo-
+0:04:55.00,0:04:56.20	Bilbo-bo-bo-bo— -“
+0:04:57.00,0:05:02.02	And then he fell asleep,
+0:05:02.93,0:05:04.24	and there was complete silence for a long time.

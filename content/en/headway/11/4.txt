@@ -1,0 +1,6 @@
+0.18	2.45	Tapescript 11.4
+3.40	4.61	What a mess!
+6.90	9.07	<v A> Whose is this tennis racket?
+9.14	10.31	<v B> It’s mine.
+10.55	12.13	<v A> What’s it doing here?
+12.25	14.67	<v B> I’m playing tennis this afternoon.

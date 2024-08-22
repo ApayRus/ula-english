@@ -1,0 +1,138 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.6		6 minute English from BBClearningEnglish.com
+10.6	13.76	<v Neil>	Hello.
+13.76	16.68		This is 6 Minute English from BBC Learning English.
+16.68	17.56		I’m Neil.
+17.56	19.2	<v Georgina>	And I’m Georgina.
+19.2	23.24	<v Neil>	In this programme we’re talking about something the whole world knows about –
+23.24	24.76		coronavirus.
+24.76	25.36	<v Georgina>	Sadly,
+25.36	30.08		Covid-19 has been responsible for more than two million deaths globally.
+30.08	34.96	<v Neil>	What’s believed to have started in the city of Wuhan in China went on to become a <strong>pandemic</strong> –
+34.96	38.28		a disease that affects many people around the world.
+38.28	39.52	<v Georgina>	Unsurprisingly,
+39.52	45.04		we’ve discussed this a lot on 6 Minute English but over a year on since the first outbreak,
+45.04	46.64		it’s good to take stock –
+46.64	50.36		or look back over the situation and see what we have learnt -
+50.36	53.16		and find out how our knowledge has changed.
+53.16	54.08	<v Neil>	Before we do that,
+54.08	54.56		Georgina,
+54.56	57.08		let’s test your knowledge with a question.
+57.08	62.2		In 1918/1919 another major virus known as Spanish flu,
+62.2	63.84		swept across the world.
+63.84	64.92		Do you know approximately,
+64.92	67.32		how many people were infected by it?
+67.32	67.84		Was it…
+67.84	69		a) 5 million
+69	70.32		b) 50 million,
+70.32	70.48		or
+70.48	72.28		c) 500 million?
+72.28	72.72	<v Georgina>	Well,
+72.72	73.72		I know it was bad,
+73.72	77.68		so I’m going for the awful number of 500 million.
+77.68	78.08	<v Neil>	OK,
+78.08	80		I’ll reveal the right answer later on.
+80	80.36		Now,
+80.36	83.12		back to the current coronavirus pandemic.
+83.12	89.72		It was only at the end of December 2019 when reports of a new flu-like infection first came out of China.
+89.72	91.08		Within weeks,
+91.08	95.92		millions of people were in lockdown as the virus <strong>took hold</strong> around the world.
+95.92	100.16	<v Georgina>	<strong>Took hold</strong> means it became stronger and was difficult to stop.
+100.16	103.72		We all had to change the way we lived to stop it spreading.
+103.72	106.84		But while we played our part by washing our hands,
+106.84	109.2		wearing masks and staying at home,
+109.2	113.96		some people were busy working for a solution to fight this deadly virus.
+113.96	115.88	<v Neil>	You’re talking about the scientists,
+115.88	116.68		Georgina.
+116.68	123.16		Their response was immediate and it’s something the BBC World Service programme Science in Action has been reflecting on.
+123.16	124.76	<v Georgina>	At the beginning of the outbreak,
+124.76	125.6		Jenny Rohn,
+125.6	128.44		a virologist from University College London,
+128.44	133.48		spoke to the programme about her concerns if the virus turned out to be like flu.
+133.48	134.44		Here’s what she said…
+134.44	138.88	<v Jenny Rohn, virologist, University College London>	Seasonal flu is a huge killer and you’ve probably seen the numbers,
+138.88	141.84		it makes the Wuhan virus look a bit <strong>wimpy</strong>,
+141.84	146.24		that’s simply because of the <strong>sheer</strong> number of people that flu infects every year.
+146.24	150.16		And if the Wuhan virus started spreading like that and going all over the world,
+150.16	151.84		you would see a lot of people dead.
+151.84	154.08		This is why people are worried.
+154.08	158.84	<v Neil>	So we know flu is a virus that can spread easily and can affect many many people.
+158.84	159.76		This is why,
+159.76	160.24		at the time,
+160.24	163.88		comparing it with the new coronavirus made Covid look ‘<strong>wimpy</strong>’ –
+163.88	166.84		that’s a word to describe something or someone that’s feeble -
+166.84	168.28		not very strong.
+168.28	168.76	<v Georgina>	Yes,
+168.76	174.8		Jenny called the great or significant numbers of people affected by flu as <strong>sheer numbers</strong>.
+174.8	178.56		The fear at the time was if coronavirus spread like flu,
+178.56	180.64		it would kill many people.
+180.64	181	<v Neil>	Well,
+181	182.28		we all know what happened next –
+182.28	183.36		it did spread.
+183.36	183.6		But,
+183.6	184.84		working behind the scenes,
+184.84	188.64		scientists developed tests we could use to see if we were infected.
+188.64	194	<v Georgina>	But the main challenge was to develop a vaccine that could stop us becoming infected altogether.
+194	199.12		This involved people around the world working together to share information.
+199.12	202.32	<v Neil>	This work started straight away and Dr Peter Dazak,
+202.32	205.28		Zoologist and President of EcoHealth Alliance,
+205.28	211.4		told the Science in Action programme that this initial response in China helped with the development of a vaccine…
+211.4	214.4	<v Dr Peter Dazak, Zoologist and President of EcoHealth Alliance>	Despite what everyone says,
+214.4	214.64		you know,
+214.64	218.96		they had a system to find unusual pneumonia cases.
+218.96	221.64		We now think that that system <strong>kicked in</strong>,
+221.64	224.24		maybe not on the first actual case of Covid,
+224.24	227.6		but certainly within a couple of months of the first case,
+227.6	228.56		it seems.
+228.56	229.64		So that’s quite quick.
+229.64	230.64		And then from that point,
+230.64	233.52		to actually getting a full <strong>genome</strong>,
+233.52	235		genetic sequence of the virus,
+235	235.96		was very quick –
+235.96	239		and getting that published and publically available –
+239	242.8		and then rapidly developing diagnostic tests and vaccines now –
+242.8	245.52		that’s really worked well.
+245.52	249	<v Neil>	So China had a scientific system which <strong>kicked in</strong> –
+249	249.96		or started happening –
+249.96	250.76		quite quickly.
+250.76	253.52		Within a few months of the first coronavirus outbreak,
+253.52	257.12		experts began to work out the full <strong>genome</strong> of the virus –
+257.12	260.08		that’s the full amount of genetic information of something.
+260.08	267.92	<v Georgina>	This genetic information was made publically available and helped towards the development of various vaccines that we see now –
+267.92	270.28		which is hopefully our way out of this pandemic.
+270.28	271.84	<v Neil>	Let’s hope so,
+271.84	272.36		Georgina.
+272.36	277.2		The science is amazing and is explained in more detail in the BBC’s Science in Action programme.
+277.2	279.44		But now let’s get back to our quiz question.
+279.44	285.72		Earlier I asked you how many people were infected by Spanish flu back in 1918/1919?
+285.72	288.48	<v Georgina>	I guessed 500 million.
+288.48	289.28		Was I right?
+289.28	290.24	<v Neil>	You were,
+290.24	290.96		Georgina.
+290.96	298.96		An incredible 500 million people around the world were infected by the Spanish flu virus and over 50 million people died worldwide.
+298.96	299.36	<v Georgina>	Well,
+299.36	302.36		the death toll from coronavirus hasn’t been that bad,
+302.36	304.6		but is still a significant number.
+304.6	305.52	<v Neil>	OK,
+305.52	309.16		well we’ve just time to recap some of the vocabulary we’ve discussed today.
+309.16	311.24		Starting with <strong>pandemic</strong> –
+311.24	313.8		a disease that affects many people around the world.
+313.8	315.76	<v Georgina>	When something <strong>took hold</strong>,
+315.76	318.04		it means it became stronger and was difficult to stop.
+318.04	322.6	<v Neil>	The word <strong>wimpy</strong> describes something or someone that’s feeble or not very strong.
+322.6	326.08	<v Georgina>	Something that is <strong>sheer</strong> is great or significant –
+326.08	329.52		so <strong>sheer numbers</strong> means a great amount of something.
+329.52	332.92	<v Neil>	When something <strong>kicks in</strong> it starts to happen.
+332.92	336.8	<v Georgina>	And a <strong>genome</strong> is the full amount of genetic information of something.
+336.8	337.52	<v Neil>	Well,
+337.52	344.24		we’re out of time but there’s lots more 6 Minute English programmes to enjoy on our website at bbclearningenglish.com.
+344.24	349.6	<v Georgina>	And if you like topical discussions and want to learn how to use the vocabulary found in headlines,
+349.6	352.6		why not try out our News Review podcast?
+352.6	358.92		You’ll find programmes specifically about Covid-19 and lots of other interesting topics.
+358.92	364.76		Remember we also have an app that you can download for free from the app stores.
+364.76	365.64		And of course,
+365.64	368.64		we are on most social media platforms.
+368.64	371.44	<v Neil>	Thanks for listening and goodbye.
+371.44	372.72	<v Georgina>	Goodbye.
+372.72	379.56		6 minute English from BBC.

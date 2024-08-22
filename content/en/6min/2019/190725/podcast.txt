@@ -1,0 +1,140 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	10.92		6 minute English from BBClearningEnglish.com
+10.92	13.64	<v Sam>	Hello,
+13.64	16.6		I’m Sam and welcome to 6 Minute English.
+16.6	23.92		This is the programme where in just six minutes we discuss an interesting topic and teach some related English vocabulary.
+23.92	25.8		Joining me to do this is Rob.
+25.8	26.92	<v Rob>	Hello.
+26.92	30.16		And today we’re talking about <strong>fraud</strong>.
+30.16	35.16	<v Sam>	Fraud is the criminal activity of getting money by deceiving people –
+35.16	38.24		or tricking people by doing something dishonest.
+38.24	39.76	<v Rob>	There are many ways to do this –
+39.76	42.52		and much of it is happening online these days.
+42.52	44.76	<v Sam>	We’ll talk more about this in a moment.
+44.76	45.56		But first,
+45.56	48.2		a very honest quiz question for you to answer,
+48.2	49.16		Rob.
+49.16	51.2		According to UK Finance –
+51.2	54.52		an organisation that represents the British banking industry –
+54.52	59.72		how much money did criminals steal through fraud and scams last year?
+59.72	60.44		Was it…
+60.44	63.32		a) £1.2m
+63.32	66.04		b) £120m,
+66.04	66.24		or
+66.24	69.44		c) £1.2bn?
+69.44	69.8	<v Rob>	Well,
+69.8	71.44		I imagine it’s quite a lot –
+71.44	74.28		so I’ll say £120m.
+74.28	76.56	<v Sam>	We’ll find out if you’re right later in the programme.
+76.56	76.84		Now,
+76.84	79.84		I just mentioned the word <strong>scam</strong>,
+79.84	84.16		which is an illegal way of making money by tricking someone.
+84.16	86.4		We may think that we’ll never be scammed,
+86.4	90.08		but already millions of people have <strong>fallen for</strong> fake emails,
+90.08	96.64		phone calls or letters that look genuine and ask us to give or update our financial details.
+96.64	101.2	<v Rob>	To <strong>fall for</strong> means to believe something that is a trick or a lie,
+101.2	102.76		to be true.
+102.76	103.2		This year,
+103.2	104		for example,
+104	107.24		thousands of people in the UK fell for a fraudulent –
+107.24	107.84		or fake –
+107.84	108.6		email,
+108.6	113.4		requesting that people update their direct debit details for paying their TV licence.
+113.4	117.52		That’s a payment we have to make in the UK to fund the BBC.
+117.52	120.56	<v Sam>	This is something the BBC Radio 4 programme,
+120.56	121.56		You and Yours,
+121.56	122.76		has been discussing.
+122.76	125.72		Its BBC Fraud investigator reporter,
+125.72	126.88		Shari Vahl,
+126.88	130.2		explained why it was easy to be deceived…
+130.2	132.24	<v Shari Vahl, BBC Fraud investigator reporter>	It’s a <strong>sleight of hand</strong> fraud.
+132.24	140.32		The criminals get you to look over there whilst they <strong>rifle</strong> your pockets and I have the email here and it looks completely convincing.
+140.32	141.36		All the right logos,
+141.36	142.68		all the right fonts.
+142.68	147.8		It just says that my direct debit on my TV licence has failed and I need to pay it.
+147.8	149.24		It’s very polite.
+149.24	151.28	<v Sam>	So some great language there.
+151.28	154.8		She said that this scam was a <strong>sleight of hand</strong> fraud.
+154.8	160.84		<strong>Sleight of hand</strong> means the use of clever skill to gain something dishonestly –
+160.84	161.72		in this case,
+161.72	162.36		money.
+162.36	163.16	<v Rob>	As Shari said,
+163.16	164.88		the criminals get you to,
+164.88	165.92		metaphorically,
+165.92	169.24		look over there whilst they <strong>rifle</strong> your pockets.
+169.24	172.6		<strong>Rifle</strong> means search something in order to steal from it –
+172.6	174.16		so to steal from your pocket –
+174.16	175.4		very dishonest!
+175.4	176.08	<v Sam>	Now,
+176.08	177.2		like in this case,
+177.2	178.36		fraudsters –
+178.36	179.84		the people who commit fraud –
+179.84	185.6		gained financial information by <strong>phishing.</strong> That’s not fishing using a rod,
+185.6	187.32		line and hook,
+187.32	191.68		but by sending an email that looked like it came from your bank,
+191.68	193.96		asking for confidential information.
+193.96	200.44	<v Rob>	But banks do warn us not to give away our financial details online and to change our passwords regularly.
+200.44	205.88	<v Sam>	But sometimes criminals are very clever in what they do and it’s easy to be fooled.
+205.88	210		The You and Yours programme also heard about this from social engineer,
+210	211.56		Jenny Radcliffe.
+211.56	213.84		What does she call this type of fraud?
+213.84	218.08	<v Jenny Radcliffe, social engineer>	The more <strong>sophisticated</strong> frauds are ones that have been thought through very carefully.
+218.08	220		And this has been thought through.
+220	224.2		It’s a fraud that can be layered so you know we’re getting some information from you.
+224.2	227.84		What you really look for is a window into someone -
+227.84	239.24		a key that unlocks just a small part of their identity or their personal data and from that a good fraud will build and build and build on it until the consequences to some people can be completely devastating.
+239.24	242.8	<v Rob>	So Jenny Radcliffe is talking about <strong>sophisticated</strong> fraud.
+242.8	245.76		That means it’s clever and often complicated –
+245.76	248.16		so it can confuse us.
+248.16	248.4	<v Sam>	Yes,
+248.4	251.76		criminals need just a small piece of information about us –
+251.76	252.48		a key –
+252.48	257.2		that can eventually open up our identity and expose our personal data.
+257.2	258.76	<v Rob>	And as Jenny says,
+258.76	261.32		for victims of fraud the consequences –
+261.32	262.04		the outcome –
+262.04	263.48		can be very bad.
+263.48	266.84		Especially if somebody loses all their hard-earned savings –
+266.84	268.84		it can devastating.
+268.84	276.68	<v Sam>	Of course banks and security companies are working hard to beat the criminals but it still remains a problem and earlier I asked you,
+276.68	277.44		Rob.
+277.44	279.08		According to UK Finance,
+279.08	283.76		how much money did criminal steal through fraud and scams last year?
+283.76	286.44	<v Rob>	And I said b) £120m.
+286.44	287.76		That’s a lot of money.
+287.76	290	<v Sam>	It is but it’s even more.
+290	291.64		In 2018,
+291.64	296.72		criminals successfully stole £1.2 billion through fraud and scams –
+296.72	298.72		and that’s just in the UK –
+298.72	300.12		globally it’s even more.
+300.12	300.68	<v Rob>	Well,
+300.68	306.8		it certainly is a serious issue but hopefully we haven’t deceived you with the vocabulary we’ve discussed today.
+306.8	308.04	<v Sam>	Hopefully not!
+308.04	310.44		We’ve been talking about <strong>fraud</strong> –
+310.44	314.48		that’s the criminal activity of getting money by deceiving people –
+314.48	317.44		or tricking people by doing something dishonest.
+317.44	319.88	<v Rob>	Next we had <strong>scam</strong> -
+319.88	323.56		which is an illegal or dishonest way of making money by tricking someone.
+323.56	326.28		The people who do it are <strong>scammers</strong>.
+326.28	328.76	<v Sam>	We talked about the phrasal verb <strong>fall for</strong>.
+328.76	333.04		When you <strong>fall for</strong> something you believe something that is a trick or a lie,
+333.04	334.12		to be true.
+334.12	341.04	<v Rob>	Then we heard about <strong>sleight of hand</strong> which means use of clever skill to gain something dishonestly.
+341.04	342.96		And <strong>rifle</strong>,
+342.96	345.36		which means search something in order to steal from it.
+345.36	347.24	<v Sam>	<strong>Phishing</strong>,
+347.24	348.48		spelt with a ph,
+348.48	355.48		means tricking someone by email or online to get their personal data by pretending to be from your bank.
+355.48	356.32		Finally,
+356.32	359		we discussed <strong>sophisticated</strong> fraud.
+359	360.84		When something is sophisticated,
+360.84	363.64		it’s clever and often complicated.
+363.64	364.92	<v Rob>	Unlike our programme,
+364.92	365.44		Sam!
+365.44	367.12	<v Sam>	Let’s hope so but now,
+367.12	368.6		we’ve reached the end of the programme.
+368.6	369.72	<v Rob>	See you again soon.
+369.72	370.48		Bye!
+370.48	372.4	<v Sam>	Bye.
+372.4	379.32		6 minute English from BBC.

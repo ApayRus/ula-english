@@ -1,0 +1,144 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.24		to find out more visit our website
+6.24	11.84		6 minute English from BBClearningEnglish.com
+11.84	14.56	<v Finn>	Hello and welcome to 6 Minute English.
+14.56	15.12		I’m Finn…
+15.12	15.32	<v Neil>	…
+15.32	16.68		and I’m Neil.
+16.68	16.96		Hello.
+16.96	19.8		Today we are talking about Shakespeare.
+19.8	20.64	<v Finn>	Oh yes…
+20.64	23.52		to be or not to be,
+23.52	25.6		that is the question.
+25.6	26.72		Whether 'tis nobler…
+26.72	27.16	<v Neil>	Yeah.
+27.16	28.04		OK,
+28.04	28.76		thank you.
+28.76	30.68		Thank you very much,
+30.68	31.64		Finn.
+31.64	35.6		But what does that famous Shakespeare line actually mean,
+35.6	36.12		Finn?
+36.12	36.4	<v Finn>	Yeah,
+36.4	37		well…
+37	40.72		it’s quite hard to explain actually.
+40.72	44.16		The English in Shakespeare’s work is quite difficult.
+44.16	44.8	<v Neil>	Well,
+44.8	49.68		a Shakespeare festival in Oregon in the United States wants to change all of that.
+49.68	50.56		They want to pay writers –
+50.56	53.16		they want to <strong>commission</strong> -
+53.16	56.68		what they call ‘<strong>translations</strong>’ of Shakespeare’s plays.
+56.68	63.6		Now we usually use the word translation of course to talk about changing words and sentences from one language to another.
+63.6	71.4		But these writers have been commissioned to translate Shakespearean English into <strong>plain</strong> English.
+71.4	73.12	<v Finn>	So Shakespeare in easy,
+73.12	74.64		plain English…
+74.64	75		You know,
+75	78.12		I’m not sure I really like that idea.
+78.12	78.68	<v Neil>	Well,
+78.68	80.16		you’re not the only one,
+80.16	80.72		Finn.
+80.72	82.76		We will talk about that in a moment,
+82.76	83.44		but first,
+83.44	84.2		as usual,
+84.2	89		we have our quiz question and it’s about Shakespeare and translation.
+89	96.64		What was the first language that Shakespeare’s plays were translated into?
+96.64	97.72		Was it:
+97.72	100.12		a) French
+100.12	101.76		b) German or
+101.76	103.76		c) Portuguese
+103.76	104.96		What do you think?
+104.96	105.36	<v Finn>	You know,
+105.36	107.36		I really have no idea on this one.
+107.36	109.92		I’m going to say b) German.
+109.92	112.36	<v Neil>	We’ll see if you’re right at the end of the programme.
+112.36	117.24		But now we’re going to hear from two Shakespeare experts speaking to the BBC.
+117.24	117.96		First,
+117.96	119.52		Andrew Dickinson.
+119.52	124.52		He is the author of ‘Worlds Elsewhere: Journeys Around Shakespeare’s <strong>Globe</strong>’.
+124.52	126.52	<v Finn>	In his travels around the world -
+126.52	127.64		around the globe –
+127.64	132.52		did he find many translations of Shakespeare?
+132.52	135.32		Someone’s translated Hamlet into Klingon.
+135.32	135.96		You know,
+135.96	147.64		he exists in all of these different places and all of these different forms and I suppose that what really <strong>struck</strong> me while working on my book and travelling around the world talking to people about Shakespeare is that he is so <strong>multifarious</strong> -
+147.64	148.96		he exists in all of these places.
+148.96	154.24		It feels sometimes that we in the English-speaking world are only just catching up with this.
+154.24	156.32	<v Finn>	Shakespeare expert Andrew Dickinson,
+156.32	161.68		who has travelled the world for his new book and knows about many translations,
+161.68	163.44		even one from out of this world!
+163.44	164.16	<v Neil>	Yes,
+164.16	168.76		he says someone has even translated Hamlet into Klingon.
+168.76	173.76		Now that’s the language spoken by aliens in Star Trek,
+173.76	177.16		which is of course a science fiction TV series,
+177.16	178.72		it’s not a real language.
+178.72	180.92	<v Finn>	Let’s get back to the real world,
+180.92	181.36		Neil.
+181.36	184.6		Andrew Dickinson says that what really impressed him –
+184.6	186.12		what really <em>struck</em> him -
+186.12	195.28		while working on his new book and travelling around the world talking about Shakespeare is that Shakespeare is so <em>multifarious</em>.
+195.28	196.04		Multifarious -
+196.04	197.96		that’s quite a difficult word.
+197.96	198.4	<v Neil>	Yes,
+198.4	199.16		it is.
+199.16	202.64		Well in plain English it means that there are many different types.
+202.64	204.4		There are many different translations,
+204.4	206.36		many different kinds of Shakespeare.
+206.36	209.4	<v Finn>	He’s multifarious.
+209.4	209.8	<v Neil>	Finn!
+209.8	212.04		We’re using plain English in this programme,
+212.04	217		like the people in Oregon who want to translate Shakespeare into plain English.
+217	219.32		That will make his plays easier to understand.
+219.32	221.44	<v Finn>	And that’s a good thing.
+221.44	229.52		But there has also been strong criticism about this from academics who study Shakespeare as well as from people on social media –
+229.52	230.88		on Facebook and Twitter.
+230.88	233.36		They think it’s a bad idea.
+233.36	236.24	<v Neil>	Our next Shakespeare expert is Greg Doran.
+236.24	240.08		He is the Artistic Director of the Royal Shakespeare Company.
+240.08	243.48		He’s done productions outside Britain.
+243.48	246.76		Where did he do a production of the Shakespeare play,
+246.76	248.72		Merchant of Venice?
+248.72	251.52		Here he is talking about the difficulty of translation.
+251.52	261.84	<v Greg Doran, Artistic Director of the Royal Shakespeare Company>	I think the difficulty with a translation is that it simply translates <strong>the sense</strong> and there’s a lot more going on in the language of Shakespeare’s plays.
+261.84	267.72		I remember once doing a production of Merchant of Venice in Japan and I was asked –
+267.72	269.24		we were having a new translation done -
+269.24	272.72		and I was asked if I wanted the translation for meaning,
+272.72	275.44		for <strong>pace</strong> or for poetry and that’s the difficulty.
+275.44	277.92		You’ve got to find all three somehow together.
+277.92	279.88	<v Finn>	Greg Doran,
+279.88	283		Artistic Director of the Royal Shakespeare Company.
+283	286		He was doing a Shakespeare production in Japan.
+286	292.08		He says that the difficulty with translation is that it only translates the sense –
+292.08	294.24		it is only the general meaning.
+294.24	296.56		But he says that there’s more than that.
+296.56	304.76	<v Neil>	They were having a translation done and he was asked if he wanted the translation for meaning or for pace –
+304.76	307.24		that’s about the speed of the lines in the play -
+307.24	310.36		or was the poetry of the words important?
+310.36	315.76	<v Finn>	And his answer was that you’ve got to find all three somehow together.
+315.76	317.48		It is not just one thing.
+317.48	319.24	<v Neil>	He says that there is a lot going on –
+319.24	320.48		there is a lot happening -
+320.48	322.84		in the language of Shakespeare’s plays.
+322.84	327.64	<v Finn>	And so a simple translation of the words into plain English isn’t really…
+327.64	328.72		Shakespeare.
+328.72	332.12		And I think it’s time to answer our quiz question.
+332.12	332.52	<v Neil>	Yes,
+332.52	333.24		if you remember,
+333.24	336.04		it’s about translations of Shakespeare.
+336.04	340.72		What was the first language that Shakespeare’s plays were translated into?
+340.72	341.4		Was it:
+341.4	342.48		a) French
+342.48	344.36		b) German
+344.36	347.04		c) Portuguese
+347.04	349.08	<v Finn>	I said b) German,
+349.08	350.6		which I’ll admit was a guess.
+350.6	353.04	<v Neil>	And that is the right answer.
+353.04	353.88	<v Finn>	Fantastic!
+353.88	360.44	<v Neil>	Apparently Shakespeare’s plays were translated into German as early as the first decade of the 17th Century.
+360.44	361.84		And that’s all for now.
+361.84	364.96		Please do join us again for 6 Minute English.
+364.96	366.52	<v Finn>	To be or not be…
+366.52	367.08	<v Neil>	Yes,
+367.08	367.68		OK.
+367.68	368.28		Thanks,
+368.28	368.64		Finn.
+368.64	369.32	<v Both>	Bye.
+369.32	376.4		6 minute English from BBC.

@@ -1,0 +1,174 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.76		to find out more visit our website
+6.76	11.68		6 minute English from BBClearningEnglish.com
+11.68	13.96	<v Alice>	Hello and welcome to 6 Minute English.
+13.96	14.6		I’m Alice…
+14.6	14.64	<v Neil>	…
+14.64	15.32		And I’m Neil.
+15.32	16.84		Can you pass me my drink,
+16.84	17.2		Alice?
+17.2	18.08	<v Alice>	Cola,
+18.08	18.72		Neil?
+18.72	20.48		That’s very unhealthy.
+20.48	23.32	<v Neil>	You told me to stop drinking coffee because it’s unhealthy –
+23.32	25.6		now you’re telling me cola is bad too.
+25.6	27.68	<v Alice>	Cola is full of sugar.
+27.68	29.64		There are about six teaspoons in each can.
+29.64	30.32	<v Neil>	At least.
+30.32	31.56		That’s pretty sugary,
+31.56	32.52		I admit!
+32.52	32.96	<v Alice>	Well,
+32.96	34.8		we’re talking about diabetes today.
+34.8	40.16		<strong>Diabetes</strong> is a condition where the body can’t control the amount of <strong>glucose</strong> –
+40.16	40.52		or sugar –
+40.52	41.4		in the blood.
+41.4	42.84		If left untreated,
+42.84	44.84		diabetes can cause many complications,
+44.84	46.16		including heart attack,
+46.16	46.8		stroke,
+46.8	47.64		kidney failure,
+47.64	49.72		and blindness.I’m not diabetic,
+49.72	49.92		though,
+49.92	50.16		Alice,
+50.16	51.2		so what’s the problem?
+51.2	51.6	<v Alice>	Well,
+51.6	53.64		diabetes is <strong>on the rise</strong> –
+53.64	54.52		or increasing –
+54.52	55.92		all over the world.
+55.92	60.52		And particularly type 2 diabetes where risk factors include <strong>obesity</strong> –
+60.52	62.4		or being very overweight –
+62.4	65.12		unhealthy diet and lack of physical exercise.
+65.12	65.6	<v Neil>	I see.
+65.6	65.92		Well,
+65.92	67.04		while I think about that,
+67.04	69.72		maybe you could ask me today’s quiz question.
+69.72	70.84	<v Alice>	OK.
+70.84	74.96		Can you tell me how many people in the world suffer from diabetes?
+74.96	75.4		Is it…
+75.4	78.6		a) 4.15 million?
+78.6	81.48		b) 41.5 million?
+81.48	84.84		Or c) 415 million?
+84.84	88.4	<v Neil>	I’ll take a guess and say b) 41.5 million.
+88.4	89.04	<v Alice>	Well,
+89.04	91.76		we’ll find out if you got the right answer later on,
+91.76	92.32		Neil.
+92.32	92.92		Now,
+92.92	96.4		why do you think people are eating less healthily than they used to?
+96.4	96.72	<v Neil>	Well,
+96.72	99.2		processed food has become very popular,
+99.2	101.76		and whilst it often tastes really good,
+101.76	103.76		it isn’t always a healthy choice.
+103.76	105.56	<v Alice>	Do you eat a lot of processed food,
+105.56	105.76		Neil?
+105.76	106.08	<v Neil>	Of course not,
+106.08	106.48		Alice!
+106.48	109.92		<strong>Processed</strong> <strong>food</strong>,
+109.92	110.56		by the way,
+110.56	113.24		is food that’s been changed from its natural state,
+113.24	114		for example,
+114	116.12		by freezing or re-hydrating it,
+116.12	118.76		or by adding ingredients to it such as sugar,
+118.76	119.8		salt or fat.
+119.8	123.12		But let’s move on now and talk about exercise.
+123.12	124.32	<v Alice>	OK –
+124.32	131.36		but I hope you aren’t planning to have fried chicken again for lunch today from that dodgy fast-food joint round the corner.
+131.36	131.68		Now,
+131.68	137.44		one reason that people are taking less exercise than they used to is because of lifestyle changes.
+137.44	143.16		With increasing urbanisation people are no longer doing jobs that involve as much physical activity.
+143.16	143.4	<v Neil>	Yes,
+143.4	144.16		it’s true.
+144.16	150.84		And <strong>urbanisation</strong> means the growth of towns and cities as people move there from the countryside to live and work.
+150.84	152.12		We’re all sitting in cars,
+152.12	152.92		and offices,
+152.92	155.04		or on our sofas in front of the TV.
+155.04	158.76	<v Alice>	But it’s also true that children are less active than they used to be.
+158.76	162.28		I remember running around all the time outdoors when I was a kid.
+162.28	163.16		Nowadays,
+163.16	164.56		they’re all in front of screens,
+164.56	167.28		playing computer games or watching videos on YouTube.
+167.28	167.76	<v Neil>	So,
+167.76	176.4		adults and children are at higher risk of developing diabetes if they are overweight because they are likely to have higher levels of sugar in their blood.
+176.4	180.68		Let’s hear more about this from Dr Etienne Krug from the World Health Organization.
+180.68	184.16	<v Dr Etienne Krug, Director of the World Health Organization>	Diabetes is a kind of continuum.
+184.16	191.6		Gradually the levels of sugar in the blood increase until reaching the level of being diagnosed with diabetes.
+191.6	192.08		But people,
+192.08	193.6		before reaching diabetes,
+193.6	195.8		have too high level of sugar as well,
+195.8	196.48		sometimes,
+196.48	198		and that can be dangerous too –
+198	200.68		particularly causing cardiovascular diseases,
+200.68	202.36		which contributes to mortality too.
+202.36	205.16	<v Neil>	What’s a <strong>continuum</strong>,
+205.16	205.32		Alice?
+205.32	208.24	<v Alice>	It’s something that changes slowly over time.
+208.24	209.64		So in this case,
+209.64	213.08		as people increasingly eat food that’s high in sugar and fat,
+213.08	215.84		the amount of sugar in their blood increases.
+215.84	219.96	<v Neil>	And having a high blood-sugar level may reach a <strong>tipping point</strong> –
+219.96	224.24		or a point when small changes become significant enough to cause a big change –
+224.24	225.6		and you develop diabetes.
+225.6	228.16		But even if you don’t develop diabetes,
+228.16	231.64		high blood sugar can be damaging to your health.
+231.64	233.84	<v Alice>	It isn’t only damaging to the individual,
+233.84	234.12		though.
+234.12	237.16		Diabetes has a huge cost to society –
+237.16	242.6		$827bn is currently being spent every year to treat the disease.
+242.6	243.68	<v Neil>	That’s big bucks!
+243.68	244.96		What can we do –
+244.96	246.52		what can governments do –
+246.52	248.04		to tackle this health crisis,
+248.04	248.56		Alice?
+248.56	249	<v Alice>	Well,
+249	255.52		a key approach is to tackle the global rise in obesity because this addresses not only diabetes but other diseases,
+255.52	255.88		too,
+255.88	259		such as cancer and cardiovascular disease.
+259	261.88		Let’s hear more from Dr Krug about ways to do this.
+261.88	274.76	<v Dr Etienne Krug, Director of the World Health Organization>	We need a combination of approaches to promote physical activity and to improve the ways we eat and that goes from breast feeding or even working with young kids to increase healthy eating.
+274.76	281.8		But the sugar tax is a good example that has contributed in Mexico to a decrease in sales of sugary drinks.
+281.8	282.68		And sugary drinks –
+282.68	287.08		just one drink can sometimes represent more sugar than a person needs for the whole day.
+287.08	291.92	<v Neil>	Government schemes to encourage healthy eating sound like a good plan,
+291.92	294.88		but trying to get kids to eat vegetables might be tough!
+294.88	297.44	<v Alice>	Or stop you from drinking sugary drinks,
+297.44	297.68		Neil,
+297.68	298.52		for that matter.
+298.52	299.28	<v Neil>	Leave me alone!
+299.28	299.84	<v Alice>	Alright,
+299.84	300.08		then.
+300.08	304.12		But the government tax on sugary drinks has worked in Mexico –
+304.12	306.64		and the UK government is also planning to do this.
+306.64	307.88		OK –
+307.88	309.2		now remember I asked you,
+309.2	312.68		Neil: How many people in the world suffer from diabetes?
+312.68	313.44		Is it…
+313.44	315.84		a) 4.15 million?
+315.84	319		b) 41.5 million?
+319	321.6		Or c) 415 million?
+321.6	326.16	<v Neil>	And I said 41.5 million.
+326.16	326.92	<v Alice>	Sorry,
+326.92	327.76		that’s the wrong answer,
+327.76	330.44		Neil.Of course it’s the wrong answer!Yes,
+330.44	331.08		I’m afraid so.
+331.08	333.52		According to the Diabetes International Federation,
+333.52	334.56		based in Belgium,
+334.56	336		as of 2015,
+336	340.76		an estimated 415 million people have diabetes worldwide.
+340.76	344.24		This represents 8.3% of the adult population,
+344.24	346.64		with equal rates in both women and men.
+346.64	347.4	<v Neil>	OK,
+347.4	349.52		I’ll be drinking herbal tea from now on.
+349.52	351.56		Let’s listen to the words we learned today.
+351.56	352		They were:
+352	353.24		diabetes
+353.24	354.8		glucose
+354.8	356.32		on the rise
+356.32	357.8		obesity
+357.8	359.56		processed food
+359.56	361.32		urbanisation
+361.32	362.88		continuum
+362.88	364		tipping point
+364	364.4	<v Neil>	Well,
+364.4	367.48		that’s the end of today’s 6 Minute English.
+367.48	369.16		Please join us again soon!
+369.16	370.64	<v Both>	Bye.
+370.64	376.6		6 minute English from BBC.

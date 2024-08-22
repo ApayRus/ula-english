@@ -1,0 +1,36 @@
+0.15	2.09	Tapescript 4.7
+3.44	3.92	1
+5.76	7.11	<v A>I’m sorry I’m late.
+7.23	8.99	The traffic is bad today.
+9.11	9.85	<v B>Don’t worry.
+10.23	11.24	Come and sit down.
+11.66	13.28	We’re on page 25.
+16.45	16.99	2
+18.60	19.55	<v A>Excuse me.
+20.03	20.63	<v B>Yes?
+20.80	22.91	<v A>Do you have a dictionary?
+23.02	24.85	<v B>I’m sorry, I don’t.
+25.10	26.09	It’s at home.
+26.13	27.81	<v A>That’s OK.
+30.85	31.45	3
+33.68	34.98	<v A>It’s very hot in here.
+35.44	36.65	Can I open the window?
+37.51	38.25	<v B>Really?
+38.66	40.12	I’m quite cold.
+40.68	41.51	<v A>OK.
+41.60	42.52	It doesn’t matter.
+46.03	46.65	4
+48.98	49.86	<v A>Excuse me!
+50.27	51.68	<v B>Can I help you?
+52.51	54.43	<v A>Can I have a film for my camera?
+54.99	56.81	<v B>How many exposures?
+57.57	58.20	<v A>Pardon?
+58.82	60.00	<v B>How many
+60.18	61.62	exposures?
+62.71	63.56	<v A>What does
+63.67	65.22	‘exposures’ mean
+66.11	67.99	<v B>How many
+68.02	71.12	pictures? 24?
+71.31	72.96	36?
+73.05	74.07	40?
+74.45	78.59	<v A>Ah! Now I understand! 40, please.

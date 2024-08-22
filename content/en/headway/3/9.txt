@@ -1,0 +1,10 @@
+0.15	1.94	Tapescript 3.9
+4.32	5.14	Excuse me.
+5.29	6.91	Can you tell me the time, please?
+7.60	8.52	Yes, of course.
+8.79	10.23	it’s (about) six o’clock.
+10.63	11.19	Thanks.
+15.89	16.82	Excuse me.
+17.14	18.75	Can you tell me the time, please?
+19.19	22.19	I’m sorry, I don’t know. I don’t have a watch.
+22.94	23.89	Never mind.

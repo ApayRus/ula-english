@@ -1,0 +1,15 @@
+0.17	2.45	Tapescript 13.2
+3.63	4.20	1
+5.94	7.47	Why do you want to go?
+8.64	9.16	2
+10.12	11.00	Who is she?
+12.45	13.07	3
+14.85	16.13	Where’s he staying?
+18.23	18.82	4
+20.42	21.78	Why didn’t they come?
+23.96	24.82	5
+26.22	27.59	How old was she?
+29.21	30.01	6
+31.06	32.52	Does he play the guitar?
+33.84	34.54	7
+35.99	37.95	Where did you go at the weekend?

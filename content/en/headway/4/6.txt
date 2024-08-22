@@ -1,0 +1,43 @@
+0.16	2.38	Tapescript 4.6
+3.35	3.82	1
+5.55	6.90	<v M> Hello, everybody!
+7.09	9.31	This is my friend Jane from England.
+9.52	10.19	<v F> Hi!
+10.24	10.79	Hello!
+10.86	11.69	Hello Jane!
+11.73	12.43	<v J> Hello.
+12.65	13.63	Pleased to meet you.
+13.77	15.27	<v M> Sit down here, Jane.
+15.49	16.12	<v J> Thanks.
+16.46	18.14	<v F> Do you like the music, Jane?
+18.36	19.33	<v J> Yes, I do.
+19.60	20.81	Is it American?
+20.88	23.05	<v F> No, it’s Brazilian jazz!
+23.31	24.85	<v M> Come and have a drink, Jane.
+30.04	30.50	2
+31.97	32.94	<v T> Mrs Jones!
+33.18	33.98	How do you do?
+34.29	35.27	<v J> How do you do?
+35.90	36.70	<v T> Please come in.
+37.42	39.53	You’re from our office in London, aren’t you?
+39.66	40.99	<v J> Yes, that’s right.
+41.44	42.70	<v T> Welcome to Tokyo!
+43.40	45.06	Do you like our headquarters here?
+45.15	46.87	<v J> Yes. It’s very big.
+47.31	48.85	How many people work here?
+49.15	50.91	<v T> About six thousand people.
+51.54	53.20	Do you want to see our offices?
+57.84	58.37	3
+59.75	61.23	<v A> What do you want to do today, Mick?
+61.83	63.36	<v M> Ooh, I don’t know.
+63.75	64.47	What do you …
+64.57	66.48	<v A> Do you like sailing?
+66.66	67.39	<v M> Yes,
+67.57	68.35	very much.
+68.63	70.61	I sometimes go sailing in Scotland
+70.71	71.74	but not very often.
+71.82	72.57	<v A> OK –
+72.82	76.46	so today it’s sailing and fishing on the lake.
+76.58	77.66	<v M> Fantastic.
+77.77	79.08	I love fishing too –
+79.45	81.26	we go fishing a lot in Scotland.

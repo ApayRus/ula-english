@@ -1,0 +1,9 @@
+0.17	2.21	Tapescript 4.2
+3.88	5.09	<v A>Where do you work?
+5.78	6.85	<v B>In New York.
+7.50	8.88	<v A>Do you like your work?
+9.30	10.69	<v B>Yes, I do.
+11.41	13.33	<v A>Do you relax at weekends?
+13.76	15.59	<v B>No, I don’t.
+16.20	18.28	<v A>Why don’t you relax at weekends?
+18.67	19.91	<v B>Because I work.

@@ -1,0 +1,140 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.76		to find out more visit our website
+6.76	13.6		6 minute English from BBClearningEnglish.com
+13.6	14.16	<v Rob>	Hello.
+14.16	15.8		This is 6 Minute English.
+15.8	16.52		I’m Rob.
+16.52	18.28		And joining me to do this is Sam.
+18.28	19.2	<v Sam>	Hello.
+19.2	20.28	<v Rob>	In this programme,
+20.28	22.72		we’re talking about robots.
+22.72	24.92		Robots can perform many tasks,
+24.92	29.36		but they’re now being introduced in social care to operate as carers,
+29.36	31.64		to look after the sick and elderly.
+31.64	36.28		We’ll be discussing the positive and negative issues around this but first,
+36.28	37.76		let’s set you a question to answer,
+37.76	38.16		Sam.
+38.16	39.12		Are you ready for this?
+39.12	40.44	<v Sam>	Fire away.
+40.44	44.56	<v Rob>	Do you know in which year was the first commercial robot built?
+44.56	45.24		Was it in …
+45.24	47.52		a) 1944
+47.52	49.6		b) 1954,
+49.6	49.92		or
+49.92	52.04		c) 1964?
+52.04	54.92	<v Sam>	They’re not a brand new invention,
+54.92	57.36		so I’ll go for 1954.
+57.36	57.92	<v Rob>	OK,
+57.92	60.48		we’ll I’ll tell you if you’re right or wrong,
+60.48	62.12		at the end of the programme.
+62.12	62.28		So,
+62.28	64.04		let’s talk more about robots,
+64.04	67.96		and specifically ones that are designed to care for people.
+67.96	68.72		Traditionally,
+68.72	73.84		it’s humans working as nurses or carers who take care of elderly people -
+73.84	77.72		those people who are too old or too unwell to look after themselves.
+77.72	82.32	<v Sam>	But finding enough carers to look after people is a problem –
+82.32	86.64		there are more people needing care than there are people who can help.
+86.64	88.52		And recently in the UK,
+88.52	96.8		the government announced a £34 million fund to help develop robots to look after us in our later years.
+96.8	97.08	<v Rob>	Well,
+97.08	104.16		robot carers are being developed but can they really learn enough <strong>empathy</strong> to take care of the elderly and unwell?
+104.16	112.36		<strong>Empathy</strong> is the ability to understand how someone feels by imagining what it would be like to be in that person’s situation.
+112.36	112.84	<v Sam>	Well,
+112.84	115.48		let’s hear about one of these new robots now,
+115.48	117.04		called Pepper.
+117.04	122.28		Abbey Hearn-Nagaf is a research assistant at the University of Bedfordshire.
+122.28	130.88		She spoke to BBC Radio 4’s You and Yours programme and explained how Pepper is first introduced to someone in a care home…
+130.88	132.48	<v Abbey Hearn-Nagaf, research assistant, University of Bedfordshire>	We just bring the robot to their room.
+132.48	134.72		And we talk about what Pepper can’t do,
+134.72	138.72		which is important so we can’t provide <strong>physical assistance</strong> in any way.
+138.72	140.08		It does have hands,
+140.08	141.16		it can wave…
+141.16	142.2		when you ask for privacy,
+142.2	146.28		it does turn around and sort of cover its eyes with its hands but that’s the most it does.
+146.28	147.28		It doesn’t grip anything,
+147.28	152.44		it doesn’t move anything because we’re more interested to see how it works as a <strong>companion</strong> -
+152.44	153.76		having something there to talk to,
+153.76	154.72		to converse with,
+154.72	156.4		to interact with.
+156.4	156.76	<v Rob>	So,
+156.76	160.84		Abbey described how the robot is introduced to someone.
+160.84	165.12	<v Sam>	She was keen to point out that this robot has limitations –
+165.12	167.16		things it can’t do.
+167.16	170.6		It can wave or turn round when a person needs privacy –
+170.6	171.76		to be private –
+171.76	175.56		but it can’t provide <strong>physical assistance</strong>.
+175.56	179.56		This means it can’t help someone by touching or feeling them.
+179.56	180.92	<v Rob>	But that’s OK,
+180.92	181.92		Abbey says.
+181.92	185.16		This robot is designed to be a <strong>companion</strong> –
+185.16	187.56		someone who is with you to keep you company -
+187.56	191.16		a friend in other words that you can converse or talk with.
+191.16	191.4	<v Sam>	Well,
+191.4	195.64		having a companion is a good way to stop people getting lonely,
+195.64	198.88		but surely a human is better for that –
+198.88	202.32		surely they understand you better than a robot ever can?
+202.32	203.04	<v Rob>	Well,
+203.04	207.36		innovation means that robots are becoming cleverer all the time.
+207.36	208.84		And as we’ve mentioned,
+208.84	215.32		in the UK alone there is a growing elderly population and more than 100,000 care assistant vacancies.
+215.32	217.76		Who is going to do all the work?
+217.76	220.32	<v Sam>	I think we should hear from Dr Sarah Woodin,
+220.32	224.44		a health researcher in independent living from Leeds University,
+224.44	228.64		who also spoke to the BBC’s You and Yours programme.
+228.64	234.16		She seems more realistic about the introduction of robot carers.
+234.16	238.48	<v Dr Sarah Woodin, Leeds University>	I think there are problems if we consider robots as replacement for people.
+238.48	241.68		We know that money is <strong>tight</strong> -
+241.68	251		if robots become mass-produced there could be large institutions where people might be housed and <strong>abandoned</strong> to robots …
+251	258.68		I do think questions of <strong>ethics</strong> need to come into the growth and jobs agenda as well because sometimes they’re treated very separately.
+258.68	259.04	<v Rob>	OK,
+259.04	262		so Sarah Woodin suggests that when money is <strong>tight</strong> –
+262	263.8		meaning there is only just enough -
+263.8	266.36		making robots in large quantities –
+266.36	267.84		or mass-produced –
+267.84	270.32		might be a cheaper option than using humans.
+270.32	273.72		And she says people might be <strong>abandoned</strong> to robots.
+273.72	274.56	<v Sam>	Yes,
+274.56	278.52		<strong>abandoned</strong> means left alone in a place,
+278.52	279.2		usually forever.
+279.2	286.68		So she says it might be possible that someone ends up being forgotten and only having a robot to care for them.
+286.68	288.8		So is this right,
+288.8	289.12		ethically?
+289.12	289.48	<v Rob>	Yes well,
+289.48	291.96		she mentions <strong>ethics</strong> –
+291.96	293.72		that’s what is morally right –
+293.72	297.16		and that needs to be considered as part of the jobs agenda.
+297.16	297.76		So,
+297.76	302.76		we shouldn’t just consider what jobs vacancies need filling but who and how it should be done.
+302.76	304.2		And earlier I asked you,
+304.2	304.68		Sam,
+304.68	308.56		did you know in which year was the first commercial robot built?
+308.56	309.32		And you said?
+309.32	310.88	<v Sam>	I said 1954.
+310.88	314.56	<v Rob>	Well you didn’t need a robot to help you there because you are right.
+314.56	316.16		Well done!
+316.16	319.28	<v Sam>	Now let’s do something a robot can’t do yet,
+319.28	321.56		and that’s recap the vocabulary we’ve highlighted today,
+321.56	324.68		starting with <strong>empathy.</strong>
+324.68	331.28	<v Rob>	<strong>Empathy</strong> is the ability to understand how someone feels by imagining what it would be like to be in that person’s situation.
+331.28	336.36	<v Sam>	<strong>Physical assistance</strong> describes helping someone by touching them.
+336.36	338.48	<v Rob>	We also mention a <strong>companion</strong> –
+338.48	341.44		that’s someone who is with you and keeps you company.
+341.44	343.44	<v Sam>	Our next word was <strong>tight</strong> –
+343.44	344.8		in the context of money,
+344.8	348.16		when money is tight it means there is not enough.
+348.16	350.64	<v Rob>	<strong>Abandoned</strong> means left alone in a place,
+350.64	351.44		usually forever.
+351.44	352.36	<v Sam>	And finally,
+352.36	354.28		we discussed the word <strong>ethics</strong> –
+354.28	357.84		we hear a lot about business ethics or medical ethics –
+357.84	361.52		and it means the study of what is morally right.
+361.52	362.04	<v Rob>	OK,
+362.04	362.36		thank you,
+362.36	362.76		Sam.
+362.76	363.6		Well,
+363.6	367.16		we’ve managed to get through 6 Minute English without the aid of a robot.
+367.16	370.04		That’s all for now but please join us again soon.
+370.04	370.56		Goodbye!
+370.56	373	<v Sam>	Bye bye everyone!
+373	379.68		6 minute English from BBC.

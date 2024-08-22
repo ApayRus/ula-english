@@ -1,0 +1,118 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.6		6 minute English from BBClearningEnglish.com
+10.6	13.24	<v Neil>	Hello.
+13.24	16.56		This is 6 Minute English from BBC Learning English.
+16.56	17.04		I’m Neil.
+17.04	18.32	<v Sam>	And I’m Sam.
+18.32	18.84		How are you,
+18.84	19.64		Neil?
+19.64	21.36	<v Neil>	I’ve been as busy as a bee this week,
+21.36	22.04		Sam.
+22.04	22.6	<v Sam>	Oh,
+22.6	24.96		don’t you sound like the bee’s knees!
+24.96	25.52	<v Neil>	All right,
+25.52	25.96		Sam,
+25.96	28.32		there’s no need to get a bee in your bonnet!
+28.32	30.04	<v Sam>	As you can hear,
+30.04	33.72		English is full of idioms involving bees.
+33.72	40.6	<v Neil>	But the sad truth is that bee numbers are declining at an alarming rate and in some places disappearing altogether.
+40.6	44.44	<v Sam>	And this has serious consequences for humans.
+44.44	45.16	<v Neil>	Today,
+45.16	49.52		one third of the food we eat depends on insects to pollinate crops,
+49.52	51.08		fruit and vegetables.
+51.08	53.12	<v Sam>	But bees are in trouble.
+53.12	59.12		In some European countries up to half of all bee species are facing extinction,
+59.12	62.16		placing our food supply chain at risk.
+62.16	65.28	<v Neil>	Bees are vital in pollinating hundreds of crops,
+65.28	67.84		from apples and blackberries to cucumbers.
+67.84	68.28		In fact,
+68.28	70.92		almost all plants need insects to reproduce –
+70.92	72.72		which is my quiz question –
+72.72	74.68		of the world’s top 50 crops,
+74.68	78.08		how many rely on insect pollination?
+78.08	78.4		Is it:
+78.4	80.8		a) 35 out of 50?,
+80.8	82.76		b) 40 out of 50?
+82.76	82.88		or
+82.88	85.72		c) 45 out of 50?
+85.72	92.88	<v Sam>	I reckon those busy bees pollinate b) 40 out of 50 of the most common crops.
+92.88	93.16	<v Neil>	OK,
+93.16	93.48		Sam,
+93.48	95.2		we’ll find out the answer later.
+95.2	95.92		Now,
+95.92	98.56		if you think back to your school biology lessons,
+98.56	105.44		you may remember that plants and flowers contain both male and female reproductive parts inside.
+105.44	109.6	<v Sam>	But what exactly is going on when bees pollinate a plant?
+109.6	117.84		Here’s Claire Bates from BBC World Service programme <em>People Fixing the World</em> to remind us:
+117.84	119.68	<v Claire Bates>	What is <strong>pollination</strong>?
+119.68	122.24		All flowering plants need it to reproduce.
+122.24	126.88		Pollen is moved from the male part of a flower to the female part of a flower,
+126.88	130.2		then <strong>fertilisation</strong> can happen causing fruit to grow.
+130.2	132.36		Some <strong>staple crops</strong> such as wheat,
+132.36	139.72		rice and corn are pollinated by the wind however many plants don’t release their pollen easily and this is where insects,
+139.72	140.84		and especially bees,
+140.84	142		come in.
+142	143.52		As they collect nectar to eat,
+143.52	148.76		pollen sticks to them and they carry it from flower to flower.
+148.76	155.12	<v Neil>	<strong>Pollination</strong> is the process in which pollen is taken from one plant to another so that it can reproduce.
+155.12	158.52		This is the important work done by bees and insects.
+158.52	162.44	<v Sam>	Only after <strong>pollination</strong> can the next process occur –
+162.44	165.84		<strong>fertilisation</strong> -
+165.84	169.92		when the pollen carried from another plant fertilises a female ovule to make new seeds.
+169.92	174.32	<v Neil>	<strong>Fertilisation</strong> occurs in all flowering plants,
+174.32	175.88		some of which like wheat,
+175.88	179.48		potatoes and rice are <strong>staple crops</strong> -
+179.48	186.44		food that is eaten in large amounts as part of a community’s daily diet and provides a large fraction of their energy and nutrient needs.
+186.44	189.28	<v Sam>	Fewer bees reduces pollination levels,
+189.28	194.28		meaning fewer new seeds are created and fewer crops grown.
+194.28	198	<v Neil>	But it isn’t just the decline in bee numbers causing a problem.
+198	198.76		Like us,
+198.76	206.16		bees need to rest and this has led some to come up with creative new ways of supplementing bee pollination.
+206.16	209.04	<v Sam>	One such innovator is Keren Mimran,
+209.04	211.64		co-founder of agro-tech company,
+211.64	212.44		Edete.
+212.44	213.48		Here she is,
+213.48	218.12		explaining how dropping pollen from drones can pollinate crops,
+218.12	222.8		giving a helping hand to hard-working bees.
+222.8	230.76	<v Keren Mimran>	How come our <strong>food security</strong> is so much dependent on an insect that we cannot really control?
+230.76	236		We can bring the bees to the <strong>orchard</strong> or to a field but we cannot control their behaviour.
+236	241.52		They do not come out of the <strong>hive</strong> when it’s raining or when there’s heavy wind,
+241.52	244.2		they work only during daytime.
+244.2	251.12		There must be a possibility of developing a mechanical solution to the pollination challenge.
+251.12	257.56	<v Neil>	Keren Mimran speaking on the BBC World Service programme <em>People Fixing The World</em>.
+257.56	258.8		Bees’
+258.8	260.28		behaviour can’t be controlled -
+260.28	263.4		when it rains they won’t leave their <strong>hive</strong> –
+263.4	264.84		the structure where bees live,
+264.84	268.32		either built by people or made by the bees themselves.
+268.32	277.16	<v Sam>	So Keren’s company has developed drones to drop pollen on her <strong>orchard –</strong> an area of land on which fruit trees are grown.
+277.16	290.12	<v Neil>	The need for these high-tech solutions reflects the seriousness of the pollination problem for <strong>food security</strong> -everyone getting enough affordable and nutritious food to meet their daily dietary needs.
+290.12	294.24	<v Sam>	I had no idea bees were so important,
+294.24	294.48		Neil.
+294.48	297.68		Maybe I underestimated how hard they work.
+297.68	298.12	<v Neil>	Ah,
+298.12	299.92		you mean today’s quiz question.
+299.92	305.32		I asked you how many of the top 50 world crops rely on insect pollination.
+305.32	310.12	<v Sam>	And I said b) 40 out of 50 of the top crops.
+310.12	312.24	<v Neil>	And you are right!
+312.24	315.96		They certainly are the bee’s knees when it comes to pollinating plants!
+315.96	325.48	<v Sam>	So in today’s programme we’ve been hearing about the important role bees play in <strong>pollination –</strong> transferring pollen from plant to plant,
+325.48	328.96		necessary for the next stage of <strong>fertilisation</strong> –
+328.96	332.64		producing new seeds and fruit inside a plant.
+332.64	337.76	<v Neil>	Bees and insects play a vital role in growing the world’s <strong>staple crops</strong> -
+337.76	338.48		food which,
+338.48	339.8		eaten in large amounts,
+339.8	344.68		makes up the majority of a community’s daily diet and meets their nutrient needs.
+344.68	350.08	<v Sam>	So bee numbers are directly linked to the issue of <strong>food security</strong> -
+350.08	352.72		everyone getting enough affordable,
+352.72	355.72		nutritious food to meet their dietary needs.
+355.72	356.92	<v Neil>	Which explains why,
+356.92	358.64		when bees won’t leave their home -
+358.64	359.44		or <strong>hive</strong> –
+359.44	363.64		some people have started using drones to pollinate their <strong>orchards</strong> –
+363.64	366.12		land growing fruit trees.
+366.12	368.68	<v Sam>	And that’s it for this edition of 6 Minute English.
+368.68	369.8		Bye for now!
+369.8	370.48	<v Neil>	Goodbye!
+370.48	378		6 minute English from BBC.

@@ -1,0 +1,148 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.6		to find out more visit our website
+6.6	13.52		6 minute English from BBClearningEnglish.com
+13.52	13.88	<v Neil>	Hello.
+13.88	16.96		This is 6 Minute English from BBC Learning English.
+16.96	17.64		I’m Neil.
+17.64	18.76	<v Sam>	And I’m Sam.
+18.76	19.72	<v Neil>	Do you like cooking,
+19.72	20.6		Sam?
+20.6	22.6		There’s a new recipe I’ve been trying out -
+22.6	24.8		it’s for ‘frosted oysters’.
+24.8	26.8	<v Sam>	Frosted oysters?!
+26.8	28		Sounds…
+28	29.16		unusual.
+29.16	29.96		How do you make it?
+29.96	30.24	<v Neil>	Well,
+30.24	32.16		take a pound of chicken,
+32.16	35.24		then some cubed pork and half a crushed garlic.
+35.24	35.64	<v Sam>	Eh?
+35.64	38.52		I thought you said it was for ‘frosted oysters’,
+38.52	39.64		whatever they are.
+39.64	39.84	<v Neil>	Yes,
+39.84	40.72		that’s right.
+40.72	43.88		Now heat it up until boiling and serve with custard.
+43.88	44.12	<v Sam>	Ugh,
+44.12	45.68		that sounds disgusting!
+45.68	47.64		Who on earth told you that recipe?
+47.64	48.92	<v Neil>	It’s not ‘who’
+48.92	49.48		told me,
+49.48	49.76		Sam,
+49.76	50.8		but ‘what’.
+50.8	51.2		In fact,
+51.2	55.48		that recipe was made by computers using artificial intelligence,
+55.48	56.32		or AI,
+56.32	58.76		which is the topic of today’s programme.
+58.76	59.6		In real life,
+59.6	61.84		AI is making huge progress -
+61.84	64.68		from car satnavs to detecting cancer cells.
+64.68	67.8		But as you can see from that revolting recipe,
+67.8	70.28		things don’t always go according to plan.
+70.28	70.64	<v Sam>	So,
+70.64	74.6		just how intelligent is artificial intelligence?
+74.6	75.04		I mean,
+75.04	77.68		it definitely needs some cooking lessons!
+77.68	78.4	<v Neil>	Right.
+78.4	81.52		AI is not as intelligent as we tend to think.
+81.52	87.48		AI programmes use artificial brain cells to roughly imitate real brain cell activity,
+87.48	91.68		but they’re still a long way behind human levels of intelligence.
+91.68	93.56		And that’s my quiz question –
+93.56	95.56		in terms of brain cell count,
+95.56	99.64		what level of intelligence is AI currently working at?
+99.64	101.2		Is AI as smart as:
+101.2	102.16		a) a frog
+102.16	104		b) an earthworm
+104	105.72		c) a bumblebee
+105.72	106.24	<v Sam>	Well,
+106.24	109.04		I don’t think any of <em>those</em> are good cooks either,
+109.04	109.8		to be honest.
+109.8	111.96		I’ll say c) a bumblebee,
+111.96	114		because at least they can make honey!
+114	114.6	<v Neil>	Nice guess,
+114.6	115.08		Sam.
+115.08	116.4		We’ll find out the answer later.
+116.4	122.36		But first let’s find out more about how AI misunderstandings like the oyster recipe can happen.
+122.36	126.92		Janelle Shane is the author of ‘You Look Like a Thing and I Love You’
+126.92	132.12		in which she tells her amusing experiences and bizarre experiments with AI.
+132.12	134.56	<v Sam>	You Look Like a Thing and I Love You –
+134.56	136.52		that’s a strange title for a book,
+136.52	137.28		Neil.
+137.28	137.6	<v Neil>	Yes.
+137.6	140.96		It’s another example of AI miscommunication.
+140.96	145.6		The book title is what a AI produced when asked to write <strong>chat-up lines</strong> –
+145.6	150.92		remarks men and women make to start up a conversation with someone they don’t know but find attractive.
+150.92	155.24		Here she is talking to the BBC World Service programme More or Less:
+155.24	157.12	<v Janelle Shane>	‘Machine learning’
+157.12	162.12		is what most programmers mean when they say ‘AI’.
+162.12	164.08		In the programme that we’re used to,
+164.08	174.64		if you want to have a computer programme solve a problem you have to have a human <strong>programmer</strong> write down exhaustive step-by-step instructions on how to do everything.
+174.64	176.8		But with ‘machine learning’
+176.8	178.28		you just give it the goal,
+178.28	183.16		and then the programme figures out via <strong>trial and error</strong> how it’s going to solve that problem.
+183.16	187.28	<v Sam>	So even though we’re talking about machines learning for themselves,
+187.28	190.76		there still need to be humans involved at the start of the journey.
+190.76	195.4		This human teaching is done by <strong>computer programmers</strong> –
+195.4	196.8		people who write,
+196.8	197.52		or code,
+197.52	200.36		the computer programmes used by AI.
+200.36	200.68	<v Neil>	Right.
+200.68	203.04		These programmers write <strong>algorithms</strong> –
+203.04	207.68		a set of rules or procedures to be followed in problem-solving exercises.
+207.68	208		So,
+208	208.76		for example,
+208.76	215.24		the AI that wrote that oyster recipe read thousands of other recipes before coming up with its own version.
+215.24	216.2	<v Sam>	In other words,
+216.2	221.36		Artificial intelligence uses a process of <strong>trial and error</strong> –
+221.36	226.08		repeating the same task over and over until finding the most successful way.
+226.08	228.56		Only in the case of the oyster recipe,
+228.56	230		there was more ‘error’
+230	231.04		than ‘trial’!
+231.04	231.28	<v Neil>	Well,
+231.28	233.04		according to Janelle Shane,
+233.04	236.28		we can learn a lot about something by seeing how it goes wrong.
+236.28	237.28		Here she is,
+237.28	241.68		talking about an AI which had been told to solve maths problems:
+241.68	246.2	<v Janelle Shane>	It seemed to be that it was getting scored on how many wrong answers it got,
+246.2	250.44		and it was supposed to be <strong>minimising</strong> the number of wrong answers,
+250.44	255.96		and just by <strong>a stroke of luck</strong> as part of its trial and error flailing around,
+255.96	261.52		one of the flails it did accidentally deleted the solutions list,
+261.52	264.36		and then it and everybody else got a perfect score.
+264.36	265.28	<v Sam>	So,
+265.28	268.64		AIs learn by <strong>minimising</strong> their errors –
+268.64	270.48		reducing them as much as possible.
+270.48	272.08		And sometimes,
+272.08	277.4		these algorithms only discover the right answer by <strong>a stroke of luck</strong> –
+277.4	281.04		when something unexpected happens by good luck or chance.
+281.04	284.68		It seems to me that they’re not so intelligent after all!
+284.68	285	<v Neil>	Well,
+285	288.6		let’s settle it once and for all by answering today’s quiz question.
+288.6	293.96		Remember I asked you how intelligent AI was in terms of brain cell count and you said,
+293.96	295.56		as intelligent as…
+295.56	297.44	<v Sam>	I said c) a bumblebee.
+297.44	298	<v Neil>	Well,
+298	300.48		here’s Janelle again with the answer…
+300.48	303.64	<v Janelle Shane>	If you’re looking at rough computing power,
+303.64	308.4		the algorithms we’re working with are probably somewhere around the level of an earthworm.
+308.4	309.36	<v Sam>	So,
+309.36	313.04		the correct answer was b) as clever as an earthworm!
+313.04	315.32		No wonder AIs can’t cook!
+315.32	318.16	<v Neil>	Or take a maths test without cheating!
+318.16	320.96		In this programme we’ve been looking at artificial intelligence,
+320.96	321.76		or AI,
+321.76	323.36		and seeing how <strong>programmers</strong> –
+323.36	328.08		that’s people who write instructions for computers to follow create <strong>algorithms</strong> –
+328.08	330.12		sets of rules used in problem-solving.
+330.12	333.72	<v Sam>	AI learns through <strong>trial and error</strong> –
+333.72	337.76		repeating the same activity again and again until discovering the best way,
+337.76	339.92		and <strong>minimising</strong> –
+339.92	341.88		reducing as much as possible,
+341.88	344.52		the number of errors it makes.
+344.52	350.52	<v Neil>	And success can be the result of <strong>a stroke of luck,</strong> when something unexpected happens purely by chance,
+350.52	354.76		although so far that hasn’t helped AIs to write good <strong>chat-up lines</strong> –
+354.76	358.72		the flattering remarks people make to get to know someone they find attractive.
+358.72	362.12	<v Sam>	And AIs don’t know much about cooking oysters either!
+362.12	363.8	<v Neil>	That’s all from us from this programme.
+363.8	370.12		Be sure to join us again for more topical discussion and vocabulary at 6 Minute English for BBC Learning English.
+370.12	371.4		Bye for now!
+371.4	372.8	<v Sam>	Bye.
+372.8	379.72		6 minute English from BBC.

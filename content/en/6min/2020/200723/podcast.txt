@@ -1,0 +1,112 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.64		6 minute English from BBClearningEnglish.com
+10.64	12.68	<v Neil>	Hello.
+12.68	15.64		This is 6 Minute English from BBC Learning English.
+15.64	16.36		I’m Neil.
+16.36	17.6	<v Georgina>	And I’m Georgina.
+17.6	21.68	<v Neil>	Last November Nasa launched a very unusual home delivery service –
+21.68	25.36		a rocket carrying four tonnes of supplies to the ISS -
+25.36	27.12		the International Space Station.
+27.12	34	<v Georgina>	Among the scientific equipment were twelve bottles of red wine from the famous Bordeaux region of France.
+34	36.84	<v Neil>	The astronauts might have wanted a glass of wine with dinner,
+36.84	43.32		but the real purpose of the bottles was to explore the possibility of producing food and drink in space –
+43.32	46.4		not for astronauts but for people back on Earth.
+46.4	55.92	<v Georgina>	In today’s programme we’ll be finding out how growing plants in space can develop crops which are more productive and more resistant to climate change here on Earth.
+55.92	60.6	<v Neil>	And we’ll hear how plants can grow in environments with little or no natural light.
+60.6	61.08		But first,
+61.08	65.36		today’s quiz question: what was the first food grown in space?
+65.36	65.68		Was it:
+65.68	67.28		a) potatoes?
+67.28	68.2		b) lettuce?,
+68.2	68.32		or
+68.32	69.6		c) tomatoes?
+69.6	70.72	<v Georgina>	Well,
+70.72	71.32		in the film,
+71.32	72.16		<em>The Martian</em>,
+72.16	75.48		a stranded astronaut grows potatoes on Mars.
+75.48	78.84		I know it’s only a film but I’ll say a) potatoes!
+78.84	79.24	<v Neil>	OK.
+79.24	81.4		We’ll find out the answer later.
+81.4	81.68		Now,
+81.68	86.12		you might be wondering how it’s possible to grow plants without natural light.
+86.12	94.12		British company <em>Vertical Future</em> has been working on this problem by developing indoor farming methods in partnership with Nasa.
+94.12	95.52	<v Georgina>	Here’s their Head of Research,
+95.52	96.64		Jen Bromley,
+96.64	100		explaining the process to BBC World Service programme,
+100	103		<em>The Food Chain.</em>
+103	110.68	<v Jen Bromley>	Basically we use LED lighting and we use <strong>LED lights</strong> that are tuned to a specific <strong>wavelength.</strong> So,
+110.68	111.92		if you image what the rainbow looks like,
+111.92	114.24		the reason a plant looks green is because it’s not using all the green light –
+114.24	116		it actually reflects a lot of that back.
+116	121.88		So the reason why it looks pink in here is because we’re actually only using red light and blue light to grow the plants,
+121.88	128.64		and that essentially tailors the light diet so that the plants look black when you look at them because they’re not reflecting any light –
+128.64	129.92		they’re being super-efficient,
+129.92	135.08		they’re using up every <strong>photon</strong> that hits them.
+135.08	140.28	<v Neil>	The lack of natural light in space means that plants are grown using <strong>LED lights</strong> –
+140.28	144.08		LED is an abbreviation of ‘light emitting diode’ -
+144.08	148.4		an electronic device that lights up when electricity is passed through it.
+148.4	154.24	<v Georgina>	On Earth plants look green because they reflect back any light travelling at a certain <strong>wavelength</strong> -
+154.24	160.32		the distance between two waves of light which make things appear to us in the various colours of the rainbow.
+160.32	163.76	<v Neil>	But when scientists control the wavelengths being fed,
+163.76	167.48		plants are able to absorb every <strong>photon</strong> –
+167.48	168.56		particle of light energy,
+168.56	170.68		making them appear black.
+170.68	178.04	<v Georgina>	Each particle of light that hits the leaves is absorbed and through photosynthesis is converted into plant food.
+178.04	180.88		Nasa found that different colour combinations,
+180.88	182.2		or light recipes,
+182.2	184.16		can change a plant’s shape,
+184.16	186.64		size and even flavour.
+186.64	191.56	<v Neil>	But the lack of natural light isn’t the biggest obstacle to growing food in space.
+191.56	192.76		Here’s Gioia Massa,
+192.76	196.2		chief plant scientist at the Kennedy Space Centre in Florida,
+196.2	198.64		to explain.
+198.64	203.04	<v Gioia Massa>	<strong>Microgravity</strong> is really challenging but plants are amazing!
+203.04	206.24		They can adapt to so many different environments –
+206.24	216.16		we call this <strong>plasticity</strong> because they can turn on or off their <strong>genes</strong> to really adapt to all sorts of conditions and that’s why you see plants growing in different areas on Earth -
+216.16	223.88		the same type of plant may look very different because it’s adapting to the environment in that specific location.
+223.88	224.44	<v Georgina>	On Earth,
+224.44	227.2		plants use gravity to position themselves –
+227.2	228.48		shoots grow up,
+228.48	230.08		roots grow down.
+230.08	238.04		But this doesn’t apply in space because of <strong>microgravity -</strong> the weaker pull of gravity making things float and seem weightless.
+238.04	249.32	<v Neil>	Plants can only survive in these conditions due to their <strong>plasticity –</strong> the ability of living organisms to adapt and cope with changes in the environment by changing their biological structure.
+249.32	254.56	<v Georgina>	Plants adapt themselves to being in space by manipulating their <strong>genes</strong> -
+254.56	261.32		chemicals and DNA in the cells of plants and animals which control their development and behaviour.
+261.32	263.48	<v Neil>	In the low-gravity atmosphere of space,
+263.48	267.56		plants become stressed but they adapt genetically.
+267.56	270.84	<v Georgina>	And as a result they’re stronger and more resilient to other,
+270.84	274.32		less stressful events when they return home to Earth.
+274.32	277.8	<v Neil>	Like those bottles of red wine orbiting Earth as we speak.
+277.8	286.68		The effects of microgravity on the wine’s organic composition will be studied and could hopefully offer solutions for growing food in Earth’s changing climate.
+286.68	287.76	<v Georgina>	So,
+287.76	288.08		Neil,
+288.08	289.28		if it wasn’t red grapes,
+289.28	291.92		what <em>was</em> the first food grown in space?
+291.92	293.04	<v Neil>	Ah yes,
+293.04	297.72		in today’s quiz question I asked what the first plant grown in space was.
+297.72	298.32	<v Georgina>	I said,
+298.32	299.6		a) potatoes.
+299.6	302.48	<v Neil>	But in fact it was…
+302.48	303.56		b) lettuce -
+303.56	306.04		grown over fifteen months on the ISS,
+306.04	309.24		then eaten in fifteen minutes in the first ever space salad.
+309.24	315.6	<v Georgina>	Today we’ve been discussing the possibilities of growing plants in space using <strong>LED lights</strong> –
+315.6	318.92		devices that use electricity to produce light.
+318.92	323.2	<v Neil>	The energy needed for plants to grow is contained in <strong>photons</strong> –
+323.2	324		or light particles,
+324	326.24		travelling at different <strong>wavelengths</strong> –
+326.24	329.72		distances between light waves which make things look different colours.
+329.72	334.24	<v Georgina>	Plants have evolved over millennia using the strong gravity on Earth.
+334.24	338.24		But this changes in space because of <strong>microgravity</strong> –
+338.24	343.64		the weaker gravitational pull making things in space float and seem weightless.
+343.64	346.72	<v Neil>	Luckily plants use their <strong>genes</strong> –
+346.72	349.68		the chemicals in DNA responsible for growth -
+349.68	353.52		to adapt to new environments by changing their biological structure –
+353.52	355.8		a process known as <strong>plasticity</strong>.
+355.8	361.64	<v Georgina>	All of which makes it possible for astronauts to enjoy a glass of wine and green salad in space.
+361.64	365.24	<v Neil>	And genetically stronger plants specimens to study back on Earth.
+365.24	368.96	<v Georgina>	That’s all for today but join us again soon at 6 Minute English.
+368.96	370.32		Bye for now!
+370.32	371.32	<v Neil>	Bye!
+371.32	377.32		6 minute English from BBC.

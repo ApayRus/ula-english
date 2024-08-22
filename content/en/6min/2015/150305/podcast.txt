@@ -1,0 +1,160 @@
+0.1	2.96		This is a download from bbc learning English
+2.96	6.72		to find out more visit our website
+6.72	12.12		6 minute English from BBClearningEnglish.com
+12.12	12.6	<v Rob>	Hello,
+12.6	13.2		I’m Rob.
+13.2	14.96		Welcome to 6 Minute English.
+14.96	16.48		With me today is Harry.
+16.48	16.76		Hello,
+16.76	17.16		Harry.
+17.16	17.4	<v Harry>	Hello,
+17.4	18.08		Rob!
+18.08	18.44	<v Rob>	Well,
+18.44	21.2		in this programme we’re talking about wealth.
+21.2	22.32		The world is getting richer,
+22.32	22.8		Harry.
+22.8	23.36	<v Harry>	Really?
+23.36	24.12		How come?
+24.12	24.4	<v Rob>	Well,
+24.4	26.12		according to recent data,
+26.12	31.2		the number of people living in extreme poverty has halved in recent decades.
+31.2	34.28		More people own a car and a mobile phone.
+34.28	34.44	<v Harry>	So,
+34.44	36.04		that’s all very good news.
+36.04	38.8		More people can have a good <strong>standard of living</strong> –
+38.8	44.92		standard of living is what we call the amount of money and quality of life people have in a particular society.
+44.92	50.28	<v Rob>	People in general may have a better life but there’s still a lot of inequality in different countries.
+50.28	52.24		<strong>Inequality</strong> -
+52.24	56.76		in other words some people have a lot of money and opportunities and others just don’t.
+56.76	57.12	<v Harry>	So,
+57.12	61.16		individual governments have to find a way of reducing this inequality,
+61.16	65.2		to allow more people to have the opportunity to improve their lives.
+65.2	65.72	<v Rob>	Yes.
+65.72	74.96		In this programme we’re talking about the gap between rich and poor and you’ll learn some words which will help you discuss this topic or read about it in the news.
+74.96	76.16		And now our quiz,
+76.16	76.8		Harry.
+76.8	77.12	<v Harry>	Ah,
+77.12	78.52		the legendary quiz!
+78.52	79.24		I’m ready!
+79.24	79.68	<v Rob>	Good.
+79.68	79.92		Right.
+79.92	85.8		A recent report by Oxfam and Credit Suisse revealed how divided we all are when it comes to wealth.
+85.8	89.32		A lot of the wealth in the world is in the hands of very few people.
+89.32	90.8		That’s what I’m going to ask you about,
+90.8	91.4		Harry.
+91.4	96.04		How much of the global wealth is owned by the richest 1%?
+96.04	96.48		Is it:
+96.48	98.4		a) 38%
+98.4	99.84		b) 48% or
+99.84	102.08		c) 58%
+102.08	102.36	<v Harry>	Well,
+102.36	104.36		it’s only 1% of the population,
+104.36	106.64		so I would have to guess the lower one,
+106.64	107.64		38%.
+107.64	109.4		Surely they can’t own more than that!
+109.4	109.64	<v Rob>	Well,
+109.64	112.76		we’ll see if you got the right answer at the end of the programme.
+112.76	113.04		Now,
+113.04	115.48		let’s talk about rich and poor.
+115.48	116.2		As we said,
+116.2	121.44		experts have concluded that more people are living better when you look at the world as a whole,
+121.44	126.56		but in individual countries you can find people with hardly anything to eat…
+126.56	128.4	<v Harry>	…and others with lots of houses,
+128.4	129.08		cars,
+129.08	130.16		land and so on…
+130.16	130.84		So,
+130.84	131.6		Rob,
+131.6	133.88		how can this situation be reversed?
+133.88	134.16	<v Rob>	Well,
+134.16	140.48		David Bryer from Oxfam mentions a country which has achieved some success in trying to make the poor less poor.
+140.48	143.08		He is talking about Brazil.
+143.08	151.12		Listen to what Bryer says and tell me: what are the two words he uses meaning ‘the least money people are paid for the work they do’?
+151.12	159.64	<v David Bryer from Oxfam>	There are examples we can look to where countries are managing to reduce the gap between the super-rich and the rest.
+159.64	163.52		Brazil has historically very high levels of economic inequality.
+163.52	166.6		And they’ve been taking just some really sensible measures –
+166.6	168.28		measures around having more progressive <strong>tax</strong>,
+168.28	170.76		around investing in a higher <strong>minimum wage</strong>,
+170.76	172.68		investing in central public services,
+172.68	172.72		you know,
+172.72	176.88		these things that all governments can do that start to reverse this tide.
+176.88	180.72	<v Harry>	So David Bryer talks about a ‘minimum wage’.
+180.72	184.32		That’s the least a worker receives in payment for work they’ve done.
+184.32	187.76		He meant that if people are paid a higher minimum wage,
+187.76	189.08		they can eat better,
+189.08	191		seek a better education,
+191	193.8		and their children can have a better job in the future.
+193.8	195.92		They can be lifted out of poverty.
+195.92	197.84	<v Rob>	And the economy can grow.
+197.84	202.64		More people with more money buy more things and factories produce more.
+202.64	206.28		A factory which produces more will need more workers.
+206.28	206.6		So,
+206.6	207.8		more jobs for all.
+207.8	208.88	<v Harry>	Right.
+208.88	214.8		Another measure by the Brazilian government which is mentioned by the representative from Oxfam has to do with tax.
+214.8	221.2		Tax is the amount of money you pay to the government depending on your salary and the cost of things you buy…
+221.2	222.96		But we have to admit this,
+222.96	225		Rob: taxes are not popular.
+225	226.4	<v Rob>	That’s true.
+226.4	231.28		Many people don’t like paying tax because they don’t receive an immediate benefit from it.
+231.28	234.8		Some very rich people try to pay as little as possible.
+234.8	241.84		But one billionaire who thinks it’s important to pay and create conditions for governments to fight poverty is Bill Gates.
+241.84	244.76		The founder of Microsoft earned a lot of money,
+244.76	246.12		retired and,
+246.12	247.2		with his wife Melinda,
+247.2	249.72		created a foundation to help the poor.
+249.72	255.56		The BBC asked him what the very rich have to do to help reduce poverty.
+255.56	257.28		Let’s listen to his answer.
+257.28	259.36		What does he say rich people have to be?
+259.36	261.08		The word is an adjective.
+261.08	262.76	<v Bill Gates, philanthropist>	Well,
+262.76	266.36		their obligation of course is to pay their taxes,
+266.36	274.4		but our advice to them is that they all look at taking their wealth and being <strong>philanthropic</strong> -
+274.4	278.88		both in their own country and to help the global poorest.
+278.88	281.52		That’s a full-time work Melinda and I do,
+281.52	283.08		we find it very <strong>fulfilling</strong>,
+283.08	284.96		we love seeing the progress.
+284.96	289.56	<v Harry>	So rich people have to be ‘philanthropic’!
+289.56	293.12		It means they have to help poor people by giving their money.
+293.12	298.08	<v Rob>	And he says he and his wife find this giving to the poor ‘fulfilling’,
+298.08	298.72		in other words,
+298.72	300.84		it makes them happy and satisfied.
+300.84	301.56	<v Harry>	Well,
+301.56	303.04		that’s his message to the very,
+303.04	303.32		very,
+303.32	303.64		very,
+303.64	304.88		very rich in the world!
+304.88	305.24		To the…
+305.24	305.92		1%!
+305.92	307.36	<v Rob>	The 1%…Well,
+307.36	309		you want the answer to my quiz question now,
+309	309.36		don’t you?
+309.36	310	<v Harry>	Yes.
+310	315.48		You asked me how much of the global wealth is owned by the richest 1% of the world’s population.
+315.48	317.84	<v Rob>	And the options I gave you were: 38%,
+317.84	319.96		48% or 58%
+319.96	325.12	<v Harry>	And I guessed 38% based on the fact that I couldn’t imagine them earning more than that.
+325.12	326.2	<v Rob>	I like your thinking,
+326.2	326.6		Harry,
+326.6	330.32		but I’m afraid the correct answer is actually (b) 48%.
+330.32	334.8		The wealthiest 1% will soon own more than the rest of the world’s population –
+334.8	338.32		that’s according to a study by anti-poverty charity Oxfam.
+338.32	342.72	<v Harry>	I think it’s truly shocking that such a small number of people can own so much.
+342.72	343.4	<v Rob>	You’re right.
+343.4	344.48		It’s an amazing statistic.
+344.48	345.24		OK,
+345.24	345.6		well,
+345.6	350.08		we’re almost out of time but let’s remind ourselves of some of the words that we’ve said today,
+350.08	350.44		Harry.
+350.44	351.84	<v Harry>	standard of living
+351.84	353.4		inequality
+353.4	355.44		minimum wage
+355.44	357.12		tax
+357.12	359.12		philanthropic
+359.12	360.64		fulfilling
+360.64	361.72	<v Rob>	Well,
+361.72	362.88		that’s it for today.
+362.88	368.08		Do log on to <a href="http://www.bbclearningenglish.com/">www.bbclearningenglish.com</a> to find more 6 Minute English programmes.
+368.08	368.88		Until next time.
+368.88	369.48		Goodbye!
+369.48	371.12	<v Harry>	Goodbye!
+371.12	378		6 minute English from BBC.

@@ -1,0 +1,144 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.6		to find out more visit our website
+6.6	13.56		6 minute English from BBClearningEnglish.com
+13.56	13.92	<v Neil>	Hello.
+13.92	15.28		This is 6 Minute English.
+15.28	16.16		I’m Neil.
+16.16	17.4	<v Sam>	And I’m Sam.
+17.4	17.64	<v Neil>	Sam,
+17.64	20.96		have you considered the future of food much?
+20.96	24.96	<v Sam>	Well I think in the future I might have a sandwich –
+24.96	27.6		in about 30 minutes in the future.
+27.6	29.12	<v Neil>	Not quite what I meant!
+29.12	35.8		With the population of the world increasing along with the negative effects of climate change and other global issues,
+35.8	39.96		we might have to radically change our diets in the future.
+39.96	40.48	<v Sam>	Ah,
+40.48	42.6		yes I have heard about this –
+42.6	49.44		there are all sorts of developments from growing artificial meat to developing insect-based foods.
+49.44	49.56	<v Neil>	Mmm,
+49.56	50.36		tasty.
+50.36	53.16		Well we’ll look a little more at this topic shortly,
+53.16	53.88		but we start,
+53.88	54.52		as ever,
+54.52	58.08		with a question and it’s a food-based question.
+58.08	60.52		In which continent did tomatoes originate?
+60.52	61.24		Is it…
+61.24	62.92		A: South America
+62.92	64.04		B: Africa
+64.04	65.08		C: Asia
+65.08	65.52		What do you think,
+65.52	66.52		Sam?
+66.52	67.56	<v Sam>	No idea.
+67.56	69.24		I’m going to say Africa,
+69.24	71.04		but that’s just a guess.
+71.04	71.48	<v Neil>	OK.
+71.48	74.64		Well I will reveal the answer later in the programme.
+74.64	81		On a recent edition of BBC Radio 4’s The Food Programme there was an interview with Dr Morgaine Gaye.
+81	88.28		She is a <strong>futurologist.</strong> A <strong>futurologist</strong> is someone who studies and predicts the way we will be living in the future.
+88.28	92.12		Her particular area of expertise is the subject of food.
+92.12	95.64		What two things does she say she thinks about?
+95.64	97.72	<v Dr Morgaine Gaye>	As a food <strong>futurologist</strong>,
+97.72	102.24		I think about not just what we’re going to be eating in the future but why.
+102.24	103.52		Why that thing,
+103.52	104.84		why that <strong>trend</strong>,
+104.84	108.84		why will people suddenly <strong>latch onto</strong> that food,
+108.84	111.44		that way of eating that food at that particular time?
+111.44	113.44		And when I work for large companies,
+113.44	114.92		that’s what they want to know.
+114.92	117.04		There is an element of <strong>a hunch</strong>.
+117.04	120.16		And then proving or disproving that <strong>hunch</strong>.
+120.16	120.6	<v Neil>	So,
+120.6	123.24		what two things does she think about?
+123.24	132.72	<v Sam>	She says that as a food <strong>futurologist</strong> she thinks about what we will be eating in the future and also why we will be eating that food.
+132.72	133.08	<v Neil>	Yes,
+133.08	136.84		in particular she looks at why there are particular <strong>trends</strong>.
+136.84	140.8		A <strong>trend</strong> is what is popular now or what is becoming popular.
+140.8	141.64		For example,
+141.64	145.24		at the moment there is a <strong>trend</strong> for eating less red meat.
+145.24	149.6	<v Sam>	She also looks at why people <strong>latch onto</strong> particular <strong>trends</strong>.
+149.6	153.76		To <strong>latch onto</strong> here means to be very interested in something.
+153.76	157.12		So if you <strong>latch onto</strong> a particular food <strong>trend</strong>,
+157.12	158.84		you start to follow that <strong>trend</strong>,
+158.84	161.48		you might start eating that particular diet.
+161.48	166.84	<v Neil>	Information about future <strong>trends</strong> is very important for companies in the food business.
+166.84	169.52		How does she actually predict these <strong>trends</strong>?
+169.52	172.28	<v Sam>	She says she starts with a <strong>hunch</strong>.
+172.28	175.76		A <strong>hunch</strong> is a feeling you get that something is true.
+175.76	178.08		You don’t have any real evidence,
+178.08	182.56		but your experience and knowledge makes you think you might be right.
+182.56	183.8	<v Neil>	Let’s listen again.
+183.8	190.72	<v Dr Morgaine Gaye>	As a food <strong>futurologist</strong> I think about not just what we’re going to be eating in the future but why.
+190.72	191.96		Why that thing,
+191.96	196.68		why that <strong>trend</strong> why will people suddenly <strong>latch onto</strong> that food,
+196.68	199.92		that way of eating that food at that particular time?
+199.92	201.84		And when I work for large companies,
+201.84	202.96		that’s what they want to know.
+202.96	205.52		There is an element of <strong>a hunch</strong>.
+205.52	208.04		And then proving or disproving that <strong>hunch</strong>.
+208.04	211.36	<v Neil>	Dr Gaye goes on to talk about how on the subject of food,
+211.36	212.92		there are restrictions.
+212.92	213.96		Why is that?
+213.96	217.4	<v Dr Morgaine Gaye>	Food business of course has different restrictions around it because it’s about safety,
+217.4	220.48		we’re <strong>ingesting</strong> that.
+220.48	232.2		The supply chain and the labelling laws are very <strong>stringent</strong> especially in this country so it takes longer to get an ide­a from just a concept that’s discussed around a table to an actual production facility,
+232.2	232.84		labelled,
+232.84	233.36		branded,
+233.36	234.48		tested,
+234.48	236.08		marketed and put on the shelves.
+236.08	237.16	<v Neil>	So,
+237.16	238.16		why restrictions?
+238.16	238.76	<v Sam>	Well,
+238.76	239.84		it’s about safety.
+239.84	242.8		Because we are <strong>ingesting</strong> food,
+242.8	245.68		which is a way of saying we are putting it into our bodies,
+245.68	247.72		it has to be safe.
+247.72	255.48	<v Neil>	It can be a long process of developing a new food and getting it into the shops because of the need to be safe and meet the laws of different countries.
+255.48	260.56		In the UK she mentions that the food safety laws are very <strong>stringent</strong>.
+260.56	262.2		This means that the laws are very tough,
+262.2	263.04		very strict.
+263.04	265.08		Let’s hear Dr Gaye again.
+265.08	269.24	<v Dr Morgaine Gaye>	Food business of course has different restrictions around it because it’s about safety,
+269.24	271.44		we’re <strong>ingesting</strong> that,
+271.44	283.88		the supply chain and the labelling laws are very <strong>stringent</strong> especially in this country so it takes longer to get an ide­a from just a concept that’s discussed around a table to an actual production facility,
+283.88	284.44		labelled,
+284.44	285		branded,
+285	286.12		tested,
+286.12	287.76		marketed and put on the shelves.
+287.76	288.48	<v Neil>	Right,
+288.48	290.64		well before we review our vocabulary,
+290.64	292.84		let’s get the answer to the question.
+292.84	295.72		In which continent did tomatoes originate?
+295.72	296.68		Is it…
+296.68	297.92		A: South America
+297.92	299.08		B: Africa
+299.08	300.52		C: Asia
+300.52	300.92		Sam,
+300.92	301.96		what did you say?
+301.96	303.72	<v Sam>	I made a guess at Africa.
+303.72	304.44	<v Neil>	Well,
+304.44	306.68		I’m afraid that’s not right.
+306.68	309.48		Congratulations though to everyone who said South America.
+309.48	309.88		Right,
+309.88	312.6		let’s recap today’s words and expressions.
+312.6	313.32	<v Sam>	OK,
+313.32	316.56		well we started with the word <strong>futurologist</strong>.
+316.56	322.72		This is a noun to describe someone who studies and predicts the way we will be living in the future.
+322.72	324.72	<v Neil>	Then we had <strong>trend</strong>.
+324.72	329.84		This word can describe what is popular now and the way in which what is popular is changing.
+329.84	335.6		For example now we are seeing a trend for eating less red meat in some parts of the world.
+335.6	337.4	<v Sam>	If you <strong>latch onto</strong> something,
+337.4	340.84		you become interested in it and associate yourself with it –
+340.84	344.8		we heard that people very quickly <strong>latch onto</strong> food <strong>trends</strong>
+344.8	346.56	<v Neil>	Then there was <strong>hunch</strong>.
+346.56	352.56		A <strong>hunch</strong> is a feeling about something you think might be true even though you don’t have real evidence for it.
+352.56	355.68		<strong>Ingesting</strong> something means taking it into your body,
+355.68	357.48		so eating or drinking it.
+357.48	361.56	<v Sam>	And finally a <strong>stringent</strong> rule is a very strict rule,
+361.56	368.4		a tough rule or law which in connection to food is designed to make sure it is safe and of a suitable quality.
+368.4	369	<v Neil>	OK,
+369	369.24		thank you,
+369.24	369.88		Sam.
+369.88	371.6		That’s all from 6 Minute English.
+371.6	373.04		Goodbye!
+373.04	374.12	<v Sam>	Bye!
+374.12	381.04		6 minute English from BBC.

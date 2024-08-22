@@ -1,0 +1,26 @@
+0.16	2.24	Tapescript 1.11 (one point eleven)
+3.71	4.30	1 (One)
+8.90	11.27	Hello, extension 3442 (three double four two).
+11.70	12.90	Hello, Mary.
+13.42	14.54	This is Edward.
+14.75	15.56	How are you?
+15.76	17.39	I’m fine, thank you.
+17.51	18.14	And you?
+18.32	19.40	I’m OK, thanks.
+21.99	22.51	2 (Two)
+23.78	25.07	Goodbye, Marcus.
+25.44	26.54	Goodbye, Bianca.
+26.66	27.68	Have a nice day.
+27.74	30.56	Thanks, Marcus. See you this evening!
+30.77	33.43	Yes, at seven in the cinema.
+37.00	37.58	3 (Three)
+42.08	42.71	Hello,
+42.92	44.77	270899 (two seven "oh" eight double nine).
+45.19	46.71	Hi, Flora!
+46.92	48.31	It’s me, Leo.
+48.58	49.36	How are you?
+49.43	50.69	Not bad, thanks.
+50.85	51.51	And you?
+51.57	52.34	Very well.
+52.74	53.92	How are the children?
+53.99	54.99	They’re fine.

@@ -1,0 +1,163 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	10.6		6 minute English from BBClearningEnglish.com
+10.6	12.6	<v Neil>	Hello.
+12.6	14.4		Welcome to 6 Minute English,
+14.4	14.84		I’m Neil.
+14.84	15.48	<v Rob>	And hello,
+15.48	16.16		I’m Rob.
+16.16	21.36	<v Neil>	Today we’re discussing music and the idea that songs are becoming faster.
+21.36	22.24		What music do you like,
+22.24	22.8		Rob?
+22.8	23.6	<v Rob>	Oh me?
+23.6	25.2		I like rock music.
+25.2	27.36		It has good vocals and it’s loud!
+27.36	27.8		How about you,
+27.8	28.24		Neil?
+28.24	28.48	<v Neil>	Well,
+28.48	32.36		I like anything and I prefer streaming my music actually.
+32.36	35.2		No old-fashioned CDs to buy and load up –
+35.2	38.32		it’s easier to play and you can play it anywhere!
+38.32	44.76		And <strong>streaming</strong> is where you listen or watch music or videos directly from the internet as a continuous stream.
+44.76	51.44	<v Rob>	Did you know that some people believe that streaming music online is actually changing the songs people write?
+51.44	54.32		And it might be leading to songs getting faster.
+54.32	54.56	<v Neil>	Well,
+54.56	56.2		that’s what we’re discussing today.
+56.2	58.52		Let’s hope it doesn’t happen to this programme,
+58.52	61.6		otherwise we might become Three Minute English!
+61.6	62.52		But before it does,
+62.52	65.8		let’s get on with our question for everyone to answer.
+65.8	72.92		In 2017 Luis Fonsi’s summer hit Despacito officially became the most streamed song of all time.
+72.92	74.32		Do you know approximately,
+74.32	76.56		how many times it was streamed?
+76.56	76.88		Was it:
+76.88	79.36		a) 1.6 billion times,
+79.36	82.24		b) 3.6 billion times,
+82.24	82.76		or
+82.76	85.48		c) 4.6 billion times?
+85.48	89.84	<v Rob>	I know the song was popular but 4.6 billion sounds too big –
+89.84	92.92		so I’ll go for a) 1.6 billion.
+92.92	93.28	<v Neil>	OK.
+93.28	93.52		Well,
+93.52	95.4		we’ll find out later in the programme.
+95.4	101.12		But now back to our discussion about how music producers are adapting their songs for modern technology.
+101.12	106.72		Researchers have found long instrumental introductions to pop songs have become almost extinct.
+106.72	110.72	<v Rob>	Of course the aim of many pop songs is to be enjoyed by many –
+110.72	112.2		to be popular -
+112.2	114.96		but they also need to be a <strong>commercial success</strong> –
+114.96	116.2		they need to make money.
+116.2	117.08	<v Neil>	Brendan Williams,
+117.08	123.28		a music producer and professor of music technology can explain what he thinks influences the songs.
+123.28	128.4		Here he is speaking on BBC Radio 4’s You and Yours programme…
+128.4	129.12	<v Brendan Williams>	I think that,
+129.12	129.36		you know,
+129.36	131.92		one of the things that’s <strong>driving</strong> this,
+131.92	133.16		there are a number of things.
+133.16	134.12		They’re all radio,
+134.12	138.08		they’re all singles designed for radio <strong>playlists</strong>.
+138.08	144.48		Radio playlists are extremely important factors in judging the success of a track and obviously do feed into the kind of commercial success of a track.
+144.48	146.04	<v Neil>	So,
+146.04	149.56		he mentions that radio playlists are important factors.
+149.56	154		A playlist is a list of songs that a radio station plans to play.
+154	158.12		And he says that radio playlists affect the commercial success of a song.
+158.12	160.68	<v Rob>	By the way he called a song a track –
+160.68	162.72		that’s a recorded piece of music.
+162.72	167.36		And notice how he used the word <strong>driving</strong> which means having a strong influence.
+167.36	174.36		So getting a song played on the radio is important and it has to be made in a way that will suit the radio station’s playlist.
+174.36	174.68	<v Neil>	Now,
+174.68	177.48		we know there are thousands of songs out there to listen to –
+177.48	179.56		and plenty of ways to listen to them –
+179.56	184.4		so how can record companies get someone to listen to their particular song?
+184.4	184.64	<v Rob>	Well,
+184.64	187.4		have a listen to Brendan Williams again to see what he thinks…
+187.4	188.6	<v Brendan Williams>	…
+188.6	191.84		But then there’s the influence of streaming services like Spotify,
+191.84	196.24		where if a track isn’t played for at least 30 seconds then it doesn’t <strong>register</strong> a play and Spotify…
+196.24	199.52		Presenter: And if we don’t hear the vocals then we might not carry on listening.
+199.52	200.12		Is that the theory?
+200.12	200.88		Brendan Williams: Absolutely,
+200.88	201.04		yeah,
+201.04	201.2		yeah.
+201.2	201.64		That’s the theory –
+201.64	202.48		it’s to get through…
+202.48	207.48		I guess to get into the meat of the song to hear the lyrical content and get through to that first chorus.
+207.48	208.84	<v Rob>	Well,
+208.84	211.84		it seems songs no longer have an ‘intro’ –
+211.84	215.72		the instrumental piece of music that’s played before the singing begins.
+215.72	216.52		In the old days,
+216.52	217.56		radio DJs –
+217.56	219.12		disc jockeys who played the records –
+219.12	220.8		loved to talk over that bit!
+220.8	224.04		Now we need to get to the lyrical content –
+224.04	226.44		that’s the lyrics or the words of the song -
+226.44	227.72		as soon as possible.
+227.72	228.24	<v Neil>	So,
+228.24	229.08		the theory,
+229.08	230.24		or idea,
+230.24	233.72		is to present listeners with vocals and a chorus more quickly,
+233.72	235.52		as it will make them want to continue listening!
+235.52	239.32		That’s because if a song isn’t streamed for more than 30 seconds,
+239.32	241.96		it doesn’t <strong>register</strong> a play –
+241.96	243.72		it doesn’t get measured or recorded as a play –
+243.72	245.2		so it doesn’t make money.
+245.2	249.24		So a song needs to hook the listener in quickly –
+249.24	252.92		in other words it needs to attract their attention and be easy to remember –
+252.92	254.96		another word for this is <strong>catchy</strong>.
+254.96	256.84		Do you have any favourite <strong>catchy</strong> songs,
+256.84	257.04		Rob?
+257.04	257.32	<v Rob>	Oh,
+257.32	257.64		I do,
+257.64	258		I do.
+258	259.2		It’s got to be Happy by Pharrell Williams.
+259.2	261.48		A very <strong>catchy</strong> song.
+261.48	261.96	<v Neil>	Well,
+261.96	265.6		something that is always catchy in this programme is our quiz question.
+265.6	269.92		Earlier I mentioned that in 2017,
+269.92	274.08		Luis Fonsi’s summer hit Despacitoofficially became the most-streamed song of all time.
+274.08	276.04		Did you know approximately,
+276.04	277.88		how many times it was streamed?
+277.88	278.2		Was it:
+278.2	280.12		a) 1.6 billion times,
+280.12	282.8		b) 3.6 billion times,
+282.8	283.12		or
+283.12	286.2		c) 4.6 billion times?
+286.2	289.48	<v Rob>	And I went for a staggering 1.6 billion times.
+289.48	289.8	<v Neil>	Well,
+289.8	290.92		it’s not staggering enough,
+290.92	291.12		Rob.
+291.12	295		It was actually streamed 4.6 billion times.
+295	296.08	<v Rob>	Amazing.
+296.08	299.68		That’s a number that we can only dream of for this programme –
+299.68	301.04		or is it?!
+301.04	301.6		Well Neil,
+301.6	303.52		shall we download to our memory,
+303.52	305.92		some of the vocabulary we’ve learnt today?
+305.92	309.56	<v Neil>	<strong>Streaming</strong> describes the activity of listening or watching music,
+309.56	313.4		radio or videos directly from the internet as a continuous stream.
+313.4	317.68	<v Rob>	Something that is a <strong>commercial success</strong> is popular and makes lots of money –
+317.68	319.84		like a new computer game or pop song.
+319.84	320.96	<v Neil>	A good pop song,
+320.96	321.32		Rob –
+321.32	323.8		not something annoying like Gangnam Style.
+323.8	324.44	<v Rob>	Well,
+324.44	327.68		that was a huge commercial success because it was <strong>catchy</strong> –
+327.68	331.88		a word that describes something that attracts attention and is easy to remember.
+331.88	333.48	<v Neil>	We also mentioneda <strong>playlist</strong> –
+333.48	336.4		that’s a list of songs that a radio station plans to play.
+336.4	338.72		And we also use the same word –
+338.72	340.8		<strong>playlist</strong> –
+340.8	343.4		to describe a list of songs you compile yourself on a streaming service.
+343.4	345.6	<v Rob>	We also heard the adjective <strong>driving</strong>,
+345.6	350.16		which in the context of our discussion means having a strong influence.
+350.16	352.36	<v Neil>	And we mentioned the verb to <strong>register</strong>.
+352.36	354.8		If you <strong>register</strong> something you record,
+354.8	356.2		count or measure it.
+356.2	359		Like every download of this programme is registered.
+359	360.8		But how do we download this programme,
+360.8	361.04		Rob?
+361.04	364.52	<v Rob>	By going to our website at bbclearningenglish.com.
+364.52	365.84	<v Neil>	And we have an app too –
+365.84	368.92		download it for free and stream all of our content!
+368.92	369.72	<v Rob>	Bye for now.
+369.72	370.4	<v Neil>	Bye.
+370.4	377.4		6 minute English from BBC.

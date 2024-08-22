@@ -1,0 +1,30 @@
+0.16	2.18	Tapescript 3.7
+3.59	4.15	1
+5.88	7.07	<v A> Good afternoon.
+7.41	9.45	Can I have two ice-creams, please?
+9.55	10.26	<v B> Chocolate
+10.29	11.15	or vanilla?
+11.39	12.67	<v A> One chocolate,
+12.89	14.47	one vanilla please.
+14.64	15.90	<v B> That’s ?1.80.
+16.19	17.15	Anything else?
+17.32	18.38	<v A> No, thank you.
+22.44	22.98	2
+25.86	28.57	<v A> Only two letters for you this morning, Mrs Craig.
+28.83	31.09	<v B> Thank you very much, Mr McSporran.
+31.77	34.24	And how’s Mrs McSporran this morning?
+34.31	36.27	<v A> Oh, she’s very well, thank you.
+36.45	37.67	She’s busy in the shop.
+42.14	42.72	3
+44.40	46.85	<v A> A glass of wine before bed, my dear?
+46.82	48.82	<v B> Oh, yes please.
+49.05	49.95	<v A> Here you are.
+50.04	51.14	<v B> Thank you, my dear.
+51.50	53.53	I’m very tired this evening.
+57.36	57.97	4
+59.60	61.06	<v A> Hello Mr McSporran!
+61.64	63.53	<v B> Good morning, boys and girls.
+63.63	65.47	Hurry up, we’re late.
+65.68	67.46	<v A> Can I sit here, Mr McSporran?
+67.72	69.43	<v C> No, no, I want to sit there.
+69.83	74.78	<v B> Be quiet all of you, and SIT DOWN!

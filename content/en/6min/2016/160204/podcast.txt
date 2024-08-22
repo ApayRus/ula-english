@@ -1,0 +1,170 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.32		6 minute English from BBClearningEnglish.com
+12.32	14.6	<v Alice>	Hello and welcome to 6 Minute English.
+14.6	15.6		I’m Alice…
+15.6	16.84	<v Neil>	And I’m Neil…
+16.84	17.28		Um…
+17.28	18.04		Alice.
+18.04	19		What’s this?
+19	20.16	<v Alice>	It’s a cup of tea,
+20.16	20.72		Neil.
+20.72	21.44		Would you like some?
+21.44	21.6	<v Neil>	Oh,
+21.6	22.76		I can’t drink that!
+22.76	25		You didn’t let the tea brew for long enough.
+25	26.68		And you forgot to add sugar.
+26.68	26.96	<v Alice>	Well,
+26.96	28.96		make it yourself next time!
+28.96	31.96		And when you <strong>brew</strong> a cup of tea,
+31.96	32.68		by the way,
+32.68	36.92		you add boiling water to tea leaves or a teabag and allow the flavour to develop.
+36.92	37.44	<v Neil>	I’m sorry,
+37.44	37.92		Alice.
+37.92	39.64		I didn’t mean to be rude about your tea.
+39.64	41.48		But I do like it very strong and sweet.
+41.48	44.44	<v Alice>	Tea is the subject of today’s show.
+44.44	45.08		And Neil,
+45.08	48.2		I think you’d like the way they serve tea in India.
+48.2	49.6		They drink <em>chai</em> –
+49.6	52.24		a strong black tea served with lots of milk,
+52.24	53.36		sugar and spices.
+53.36	53.76	<v Neil>	Mmm…
+53.76	55.2		that does sound good.
+55.2	57.16		I quite fancy a cup of <em>chai</em> now.
+57.16	61.04	<v Alice>	Did you know that it was the British who introduced tea to India?
+61.04	61.24	<v Neil>	No,
+61.24	61.64		I didn’t,
+61.64	62.4		Alice.
+62.4	63.8		This is very interesting…
+63.8	67.56		I’m proud of our habit of having tea all the time and teabags are great!
+67.56	69.08		A marvellous little invention!
+69.08	69.48	<v Alice>	Yes,
+69.48	70.6		I agree.
+70.6	70.92		Well,
+70.92	73.4		that’s my question for you today.
+73.4	76.04		Where was the teabag invented?
+76.04	77.16		Was it in …
+77.16	78.72		a) China
+78.72	80.2		b) the US
+80.2	81.92		Or c) Britain
+81.92	82.8	<v Neil>	Hmm.
+82.8	86.44		I buy a lot of teabags but I don’t know their history.
+86.44	88.72		So I’m going to guess c) Britain.
+88.72	89.12	<v Alice>	Well,
+89.12	92.68		we’ll find out if you chose the right answer later on.
+92.68	98		Let’s listen now to Professor Markman Ellis talking about the Chinese tea plant.
+98	99.68		He’s a historian at Queen Mary,
+99.68	100.68		University of London.
+100.68	108.28	<v INSERT>	Tea is a shrub that grows naturally in the mountainous areas of China and several thousand years ago,
+108.28	109.76		no one knows how exactly,
+109.76	110		there…
+110	110.36		I mean…
+110.36	111.4		there are stories…
+111.4	116.72		it became clear that if you consumed the leaves of this plant especially the younger leaves,
+116.72	118.76		then it had an interesting effect on you.
+118.76	124.28		And that effect could be thought of as medicinal or it could be thought of as just kind of sanative –
+124.28	126.24		making you feel a bit better than you used to feel.
+126.24	131.36	<v Alice>	Professor Markman Ellis tells us that people in Ancient China <strong>consumed</strong> –
+131.36	132.08		or ate –
+132.08	135.52		leaves from the tea plant and it had an interesting effect on them.
+135.52	139.24	<v Neil>	Professor Ellis says tea has a <strong>sanative</strong> effect –
+139.24	140.48		making you feel better –
+140.48	143.12		so I might try munching a few leaves later on.
+143.12	144.24	<v Alice>	Alright then.
+144.24	150.24		Apparently the Chinese started drinking tea because of its <strong>medicinal</strong> –
+150.24	150.8		or healing –
+150.8	151.6		qualities.
+151.6	153.32		And they’ve been drinking tea for thousands of years!
+153.32	155.4		Well we British may love a good cup of tea –
+155.4	158.44		but we haven’t been brewing it for nearly so long as the Chinese.
+158.44	161.4	<v Neil>	But remember that tea actually grows in China,
+161.4	162.16		Alice.
+162.16	163.68		We don’t grow it in Britain.
+163.68	164.2	<v Alice>	Good point,
+164.2	164.6		Neil.
+164.6	167.88		Which brings me back to what we were talking about earlier.
+167.88	173.84		In the 19th century the British started to grow tea in India in order to compete with Chinese tea production.
+173.84	181.08		When tea first arrived in Britain in the 17th century it was incredibly expensive and only the elite could afford to drink it.
+181.08	186.28	<v Neil>	<strong>Elite</strong> means a small group of people in society who have money and power.
+186.28	186.52		Well,
+186.52	187.92		the opposite is true today –
+187.92	188.88		everyone drinks tea!
+188.88	191.76		And cheap teabags make really strong tea –
+191.76	192.68		just the way I like it!
+192.68	193.64	<v Alice>	[noise of disgust] Oh,
+193.64	194.88		it’s not for me!
+194.88	197.52		I like tea with a delicate flavour –
+197.52	201.24		Lapsang Suchong is my favourite with its evocative fragrance.
+201.24	202.72	<v Neil>	Not teabags,
+202.72	203.08		then?
+203.08	203.48	<v Alice>	No,
+203.48	203.92		Neil.
+203.92	212.84		Lapsang is different from other types of tea because the leaves are smoke-dried over pinewood fires giving the tea its distinctive smoky flavour.
+212.84	215.36	<v Neil>	You sound like a TV advert –
+215.36	218.52		I can just see the misty mountains and fields of tea…
+218.52	221.68		Can you tell us what <strong>evocative</strong> means?
+221.68	225.12	<v Alice>	It means making you imagine something pleasant.
+225.12	229.24		And for some people tea drinking is a spiritual experience.
+229.24	234.8		Let’s listen to BBC reporter Mike Williams learning about the Asian custom of the tea ceremony.
+234.8	240.96	<v CH:>	Please enjoy a mouthful of green tea.
+240.96	241.68	<v MW:>	Thank you…
+241.68	246.44		That was a bit less than a mouthful.
+246.44	247.76		It’s a very very small amount,
+247.76	248.04		isn’t it?
+248.04	249.4	<v CH:>	It’s about 20ml.
+249.4	256.6		It’s the way to appreciate tea in very small quantities so you can concentrate and cultivate your mindfulness in drinking the tea.
+256.6	258.68	<v MW:>	Mindfulness?
+258.68	261.6		What do you mean by mindfulness?
+261.6	265	<v CH:>	Tea ceremony has some of its origin in Buddhism.
+265	269.72		The Japanese tea ceremony for example has a lot of Zen Buddhism influence.
+269.72	274.44		Mindfulness is the concentration and focus on the now –
+274.44	275.68		forget about the past,
+275.68	277.16		forget about the future,
+277.16	279.64		and enjoy this specific moment.
+279.64	281.28		And that’s what I call mindfulness.
+281.28	285.2	<v Neil>	So they don’t use mugs in the tea ceremony.
+285.2	288.92		It’s 20 millilitres or a mouthful of green tea.
+288.92	289.76	<v Alice>	That’s right.
+289.76	291.64		Drinking just a <strong>mouthful</strong> –
+291.64	292.72		or a small amount –
+292.72	295.88		helps you concentrate and cultivate mindfulness.
+295.88	296.2		As the speaker explains,
+296.2	302.32		<strong>mindfulness</strong> means living in the moment and forgetting about the past and future.
+302.32	303	<v Neil>	Well,
+303	305.12		forgive me for thinking about the past –
+305.12	307.36		but how about the answer to today’s quiz question?
+307.36	308.48	<v Alice>	OK then.
+308.48	311.72		I asked: Where was the teabag invented?
+311.72	312.84		Was it in…
+312.84	314.32		a) China?,
+314.32	316.36		b) the US?
+316.36	318.08		of c) Britain?
+318.08	319.92	<v Neil>	And I said c) Britain.
+319.92	320.92		And I must be right.
+320.92	322.56	<v Alice>	Well,
+322.56	325.6		I’m afraid you’re wrong,
+325.6	326.72		Neil!
+326.72	328.32		It was b) the US.
+328.32	336.2		Teabags first appeared commercially in the first decade of the 20th century and were successfully marketed by Thomas Sullivan,
+336.2	338.24		a tea merchant from New York,
+338.24	340.32		who shipped his teabags around the world.
+340.32	340.84	<v Neil>	Really?
+340.84	343.36		Teabags are older than I thought!
+343.36	343.8		Now,
+343.8	346.56		can you tell us the words we heard today?
+346.56	347.24	<v Alice>	They are:
+347.24	348.8		brew
+348.8	350.6		consumed
+350.6	352.32		sanative
+352.32	354.04		medicinal
+354.04	355.56		elite
+355.56	357.84		evocative
+357.84	359.96		mouthful
+359.96	362.04		mindfulness
+362.04	363.2	<v Neil>	Well,
+363.2	365.12		that’s the end of today’s 6 Minute English.
+365.12	367.4		You can go and put the kettle on now for a nice brew.
+367.4	370.32		Please join us again soon!
+370.32	371.28	<v Both>	Bye.
+371.28	378.2		6 minute English from BBC.

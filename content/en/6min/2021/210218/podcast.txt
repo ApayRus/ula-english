@@ -1,0 +1,176 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	10.64		6 minute English from BBClearningEnglish.com
+10.64	13.96	<v Neil>	Hello.
+13.96	16.64		This is 6 Minute English from BBC Learning English.
+16.64	17.44		I’m Neil.
+17.44	18.4	<v Georgina>	And I’m Georgina.
+18.4	19.76	<v Neil>	[Singing badly] DO,
+19.76	20.16		RE,
+20.16	20.52		MI,
+20.52	21.48		FA,
+21.48	21.84		SOL,
+21.84	22.16		LA,
+22.16	23		TI,
+23	24.36		DO !
+24.36	25.2	<v Georgina>	Neil!
+25.2	26.04		What are you doing?!
+26.04	27.44		Please stop!
+27.44	27.68	<v Neil>	Oh,
+27.68	28.48		hi Georgina!
+28.48	30.08		I’m practising my singing.
+30.08	32.84		I’m going to do virtual karaoke tonight with some friends!
+32.84	34.32	<v Georgina>	Karaoke?! –
+34.32	34.72		really,
+34.72	35.64		Neil?!
+35.64	40.96		I heard you singing at the Christmas party and to be honest I think you might be <strong>tone deaf</strong> –
+40.96	41.32		you know,
+41.32	43.12		you can’t sing in tune.
+43.12	43.8	<v Neil>	Me?
+43.8	44.4		Tone deaf?!
+44.4	45.36		I’m a nightingale!
+45.36	47.24		Listen: DO RE MIIII !
+47.24	49.32	<v Georgina>	Between you and me,
+49.32	53.52		I think Neil is a bit <strong>tone deaf</strong>!
+53.52	57.48		Wait until I tell him singing is the subject of this programme.
+57.48	58.08	<v Neil>	I heard that,
+58.08	59		Georgina!
+59	63.52		And I’m glad this programme is about singing because I love it and what I lack in ability,
+63.52	65.84		I make up for in enthusiasm!
+65.84	68.12	<v Georgina>	I’m sure your karaoke buddies would agree with you,
+68.12	69		Neil.
+69	70.92	<v Neil>	That reminds me of my quiz question,
+70.92	71.76		Georgina.
+71.76	72.44		As you know,
+72.44	73.6		I love karaoke -
+73.6	78.64		meeting up with friends to sing the words of our favourite pop songs over a musical backing track.
+78.64	84.2		Karaoke was invented in Japan and its name is a combination of different Japanese words –
+84.2	85.28		but what words?
+85.28	87.48		What is the meaning of ‘karaoke’?
+87.48	87.8		Is it:
+87.8	89.6		a) machine voice?,
+89.6	91.2		b) angry cat?,
+91.2	91.28		or,
+91.28	93.28		c) empty orchestra?
+93.28	93.64	<v Georgina>	Well,
+93.64	95.12		after listening to you sing,
+95.12	95.52		Neil,
+95.52	97.32		I’m tempted to say b),
+97.32	98.6		angry cat,
+98.6	99.52		but that would be mean,
+99.52	100.6		so I’ll guess,
+100.6	102.52		a) machine voice.
+102.52	102.88	<v Neil>	OK,
+102.88	103.48		Georgina.
+103.48	105.16		I’ll take that as a compliment.
+105.16	106.24		But however good -
+106.24	106.88		or bad -
+106.88	107.88		my singing may be,
+107.88	112.48		there’s no doubt that the act of singing itself is a very complex skill,
+112.48	115.72		involving a huge number of processes in our bodies and brains.
+115.72	119.48		So what happens physically when we sing a musical note?
+119.48	121.68	<v Georgina>	Usually something unexpected in your case,
+121.68	122.6		Neil!
+122.6	124.12		So here’s Marijke Peters,
+124.12	126.44		presenter of BBC World Service programme,
+126.44	127.64		CrowdScience,
+127.64	132.2		to explain exactly what happens when we open our mouths to sing.
+132.2	135	<v Neil>	Listen out for the different body parts Marijke mentions:
+135	137.68	<v Marijke Peters>	Vocal folds,
+137.68	139.52		also called <strong>vocal cords</strong>,
+139.52	140.96		are crucial here.
+140.96	146.76		They’re two flaps of skin stretched across your <strong>larynx</strong> that vibrate when you sing and create a sound.
+146.76	148.16		The pitch of that sound,
+148.16	149.68		how high or low it is,
+149.68	152.68		depends on the frequency of their vibration,
+152.68	156.8		so if you want to hit the right note they need to be working properly.
+156.8	161.28	<v Georgina>	Important body parts needed to sing include the <strong>vocal cords</strong> -
+161.28	166.92		a pair of folds in the throat that move backwards and forwards when air from the lungs moves over them.
+166.92	169.72	<v Neil>	The vocal chords are stretched over the <strong>larynx</strong> -
+169.72	171.8		also known as the voice box,
+171.8	175.4		it’s the organ between the nose and the lungs containing the vocal folds.
+175.4	179.64	<v Georgina>	Singing is similar to what happens when you play a guitar.
+179.64	184.84		The vocal cords act like the guitar strings to produce a buzz or <strong>vibration</strong> –
+184.84	187.92		a continuous and quick shaking movement.
+187.92	189.76	<v Neil>	They vibrate over the larynx which,
+189.76	191.04		like the body of a guitar,
+191.04	192.28		amplifies the sound.
+192.28	197.4	<v Georgina>	So why do some people (Neil!) find it hard to sing in tune?
+197.4	200.28		Is it because they cannot physically reproduce sounds?
+200.28	204.32		Or because they hear sounds differently from the rest of us?
+204.32	205.08	<v Neil>	Well,
+205.08	206.72		according to psychology professor,
+206.72	208		Peter Pfordresher,
+208	208.68		it’s neither.
+208.68	213.28		He thinks that for poor singers the problem is generally not in the ears or voice,
+213.28	214.48		but in their brains –
+214.48	219.16		specifically the connection between sound perception and muscle movement.
+219.16	221	<v Georgina>	So there’s no hope for you?
+221	221.96	<v Neil>	Not necessarily.
+221.96	226.12		Here’s Professor Pfordresher encouraging the listeners of BBC World Service’s,
+226.12	227.72		CrowdScience:
+227.72	233.96	<v Peter Pfordresher>	I think there’s reason for you to be hopeful and however accurate or inaccurate your singing is,
+233.96	240.56		one recommendation I would have for you is to keep singing because there is evidence that singing itself,
+240.56	242.6		whether accurate or inaccurate,
+242.6	246.92		has benefits socially and also for <strong>stress responses</strong>,
+246.92	248.24		so good reason for you <strong>to keep it up!</strong>
+248.24	252.28	<v Georgina>	Whether you’re tone deaf or pitch perfect,
+252.28	255.52		there’s lots of evidence for the health benefits of singing.
+255.52	256.6	<v Neil>	For one,
+256.6	258.76		singing strengthens your <strong>stress responses</strong>.
+258.76	260.64		Otherwise known as ‘fight or flight’,
+260.64	265.72		<strong>stress responses</strong> are the human body’s reaction to external threats that cause an imbalance,
+265.72	266.8		for example pain,
+266.8	268.24		infection or fear.
+268.24	272.96	<v Georgina>	From operatic Pavarottis to enthusiastic karaoke fans,
+272.96	276.6		Professor Pfordresher thinks singers should <strong>keep it up</strong> –
+276.6	280.28		a phrase used to encourage someone to continue doing something.
+280.28	281.68		So,
+281.68	282.16		Neil,
+282.16	283.12		maybe you should keep singing,
+283.12	283.8		after all!
+283.8	285.16	<v Neil>	You’ve changed you tune,
+285.16	285.76		Georgina!
+285.76	289.16		Maybe you’d like to come with me to karaoke next time we’re allowed out?
+289.16	290.16	<v Georgina>	Hmm,
+290.16	293.28		I think some practice would be a good idea,
+293.28	296.24		but first let’s return to the quiz question.
+296.24	300.24		You asked me about the meaning of the Japanese word karaoke…
+300.24	300.48	<v Neil>	Right.
+300.48	301.56		Does karaoke mean,
+301.56	303.12		a) machine voice,
+303.12	304.64		b) angry cat,
+304.64	305.8		or c) empty orchestra?
+305.8	306.64		What did you say?
+306.64	309.12	<v Georgina>	I said a) machine voice.
+309.12	310.52	<v Neil>	Which was…
+310.52	311.84		the wrong answer!
+311.84	314.6		Karaoke actually means c) empty orchestra,
+314.6	315.64		or in other words,
+315.64	317.4		music that has the melody missing.
+317.4	318	<v Georgina>	Well,
+318	319.72		that’s better than an angry cat,
+319.72	320.48		I guess!
+320.48	324.28		Let’s recap the vocabulary starting with <strong>tone deaf</strong> –
+324.28	329.32		a way to describe someone who cannot sing in tune or hear different sounds.
+329.32	331.16	<v Neil>	Like playing a guitar string,
+331.16	333.04		singers use their <strong>vocal cords</strong> –
+333.04	336.32		a pair of folds in the throat that are stretched over the <strong>larynx</strong>,
+336.32	336.96		or voice box,
+336.96	337.88		another part of the throat,
+337.88	340.52		to produce a sound <strong>vibration</strong> -
+340.52	341.16		a quick,
+341.16	342.28		shaking movement.
+342.28	345.16	<v Georgina>	No matter how good or bad a singer you are,
+345.16	348.16		singing is good for your <strong>stress responses</strong> –
+348.16	349.32		the ‘fight or flight’
+349.32	352.6		mechanism your body uses to regain inner balance.
+352.6	355.48	<v Neil>	So no matter what Georgina thinks about my singing,
+355.48	356.84		I’m going to <strong>keep it up</strong> –
+356.84	360.56		a phrase used to encourage someone to continue their good performance.
+360.56	361.84	<v Georgina>	That’s all from us.
+361.84	365.28		Keep singing and join us again soon at 6 Minute English.
+365.28	369.72		Don’t forget we also have a free app you can download from the app stores.
+369.72	370.6		Bye!
+370.6	372.52	<v Neil>	Goodbye!
+372.52	379.48		6 minute English from BBC.

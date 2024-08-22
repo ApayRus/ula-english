@@ -1,0 +1,131 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	13.72		6 minute English from BBClearningEnglish.com
+13.72	16.4	<v Rob>	Hello and welcome to 6 Minute English.
+16.4	17.04		I’m Rob.
+17.04	18.36	<v Dan>	And I’m Dan.
+18.36	19.24	<v Rob>	Hey Dan.
+19.24	20.44		What’s the time?
+20.44	23.32	<v Dan>	Time you got a new watch?
+23.32	27.32	<v Rob>	Now I didn’t ask you that just for a joke or a sarcastic comment now did I?
+27.32	28.16	<v Dan>	Well no,
+28.16	29.96		but look there’s a clock over there,
+29.96	31.64		you <em>are</em> wearing a watch,
+31.64	34.08		you have a smartphone and a computer,
+34.08	36.28		all of which show the time.
+36.28	37.56		So why are you asking me?
+37.56	37.92	<v Rob>	Dan!
+37.92	44.44		I was trying to introduce today’s topic which is all about virtual assistants or bots.
+44.44	46.16		You seemed to have forgotten the script.
+46.16	47.52	<v Dan>	Oh yes,
+47.52	48.08		sorry.
+48.08	52.8		We’re talking about software that you talk to and that can talk back to you.
+52.8	54.52		Like Apple’s Siri,
+54.52	55.64		Google’s Assistant,
+55.64	59.16		Amazon’s Alexa and Microsoft’s Cortana.
+59.16	64.6		It might be on your phone or computer or even a speaker in your house.
+64.6	67.12	<v Rob>	Now before we hear more about this topic,
+67.12	73.76		here is today’s quiz question: Do you know when was the first computer which could recognise speech,
+73.76	74.84		launched?
+74.84	75.36		Was it in
+75.36	77.36		a) 1951
+77.36	78.76		b) 1961
+78.76	81.44		c) 1971
+81.44	83.32	<v Dan>	I have found my script,
+83.32	87.52		so I’ve seen the answer but I have to say I was surprised.
+87.52	88.6	<v Rob>	Don’t tell anybody Dan,
+88.6	88.96		OK.
+88.96	93.24		We’ll give the answer for the listeners at the end of the programme.
+93.24	95.84		We’re going to hear now from Tom Hewitson,
+95.84	97.92		who is a conversation designer,
+97.92	100.08		working in the field of virtual assistants,
+100.08	104.48		talking on BBC Radio 4’s Word of Mouth programme.
+104.48	112.04		He talks about the whole idea of virtual assistants and how they are changing the way we interact with technology.
+112.04	116.84		How does he describe our existing relationship with computers?
+116.84	119.32	<v Tom Hewitson, Conversation Designer>	It changes the way that we think about computers.
+119.32	123.36		<strong>To date</strong> we’ve thought of them largely as tools.
+123.36	125.92		They’re just an advanced version of a calculator.
+125.92	129.28		They’re something you kind of use to get a specific thing done,
+129.28	134.16		whereas this is kind of changing them more into like an <strong>agent</strong>.
+134.16	139.6		They’re an active participant in the interaction and in guiding you to make the right decision.
+139.6	143.44	<v Rob>	How did he describe our existing relationship with computers then?
+143.44	144.8	<v Dan>	He said that <strong>to date</strong>,
+144.8	148		which is an expression which means ‘up until this point in time’,
+148	150.52		we have thought of them as advanced calculators.
+150.52	150.76	<v Rob>	Yes,
+150.76	151.56		that’s right,
+151.56	154.12		we use them as a tool to get things done.
+154.12	158.88		But he says that modern technology is turning them into an <strong>agent</strong>.
+158.88	160.44		This doesn’t mean a secret agent,
+160.44	161.88		like James Bond!
+161.88	170.64		In this sense an <strong>agent</strong> is something that has <strong>agency</strong> and that means it has the ability to act individually and make its own decisions.
+170.64	173.52	<v Dan>	I’m not sure I’d like my phone to have <strong>agency</strong>.
+173.52	175.84		It probably wouldn’t like being in my pocket all day.
+175.84	176.76	<v Rob>	Who would Dan?
+176.76	186.56		But I’m not sure Hewitson is suggesting our devices would become that clever but he did say they could become more active in our lives.
+186.56	187.96	<v Dan>	Maybe.
+187.96	188.56		I imagine,
+188.56	189.32		for example,
+189.32	193.04		telling us if we are spending too much time in fast food restaurants?
+193.04	194.36	<v Rob>	Maybe in your case Dan.
+194.36	198.4		Mine would be telling me I spend too much time in the gym!
+198.4	204.2		Hewitson goes on to explain how the way we will talk to our virtual assistants will develop.
+204.2	206.52		What does he say we <em>don’t</em> need to do?
+206.52	222.96	<v Tom Hewitson, Conversation Designer>	We will develop our own kind of <strong>vernacular</strong> for speaking with machines that will be subtly different from how we speak to other people because as you rightly point out you don’t need to make the machine like you don’t need to kind of make random <strong>chit-chat</strong> that’s just filling the time.
+222.96	225.72		It can be much more <strong>brusque</strong> and <strong>to the point</strong>.
+225.72	231.12	<v Dan>	A lot of what we say in <em>human</em> communication is to do with our relationship with the person we’re talking to.
+231.12	236.52	<v Rob>	We say things and talk about things that are maybe not directly relevant to our point.
+236.52	238.88		With a digital virtual assistant,
+238.88	240.16		we don’t need to do that,
+240.16	243		so we don’t need to make the machine like us.
+243	246.32	<v Dan>	Hewitson said that we will develop our own <strong>vernacular</strong>,
+246.32	249.56		this is a general word for a native language.
+249.56	254.52		This vernacular will be a little bit different from our everyday <strong>vernacular</strong> because,
+254.52	255.4		as we said,
+255.4	259.44		we don’t need to maintain a social relationship with the artificial assistant.
+259.44	262.12	<v Rob>	This means that we won’t need <strong>chit-chat</strong>.
+262.12	270.92		<strong>Chit-chat</strong> is another expression for small talk: conversation topics which aren’t important but are part of everyday social communication,
+270.92	272.48		like talking about the weather.
+272.48	275.64	<v Dan>	And because we don’t need to be friends with our virtual assistants,
+275.64	278.72		we can be <strong>brusque</strong> and <strong>to the point</strong>.
+278.72	281.76		Both of these mean being very direct and not very polite.
+281.76	282.84	<v Rob>	Well Dan,
+282.84	286.92		I don’t mean to be <strong>brusque</strong> but it is time for the answer to this week’s quiz question.
+286.92	291.16		Earlier I asked when was the first computer which could recognise speech,
+291.16	291.6		launched.
+291.6	292.68		The options were:
+292.68	294.2		a) 1951
+294.2	295.84		b) 1961
+295.84	297.64		c) 1971
+297.64	303.56		Well actually the first computer which could recognise speech was launched in 1961.
+303.56	311.72	<v Dan>	It was called the IBM Shoebox and could recognise 16 words and the numbers zero to nine.
+311.72	313.52		That’s nearly as many as you!
+313.52	314.36	<v Rob>	Cheeky!
+314.36	316.76		Right enough of this <strong>chat-chat</strong>.
+316.76	318.6		Let’s recap today’s vocabulary.
+318.6	321.36	<v Dan>	Well <strong>chit-chat</strong> was one of today’s expressions.
+321.36	322.84		Meaning ‘small talk’,
+322.84	325.2		but we also had the expression <strong>to date</strong>.
+325.2	328.16		That means ‘up until this moment in time’.
+328.16	330.52	<v Rob>	Then we had the noun <strong>agent</strong>.
+330.52	333.2		This refers to something that has <strong>agency</strong>.
+333.2	335.28		And that is the ability to think,
+335.28	337.2		make decisions and act independently.
+337.2	339.48	<v Dan>	The next word is <strong>vernacular</strong>,
+339.48	341.16		another word for language,
+341.16	344.04		particularly when talking about a native language.
+344.04	349.92	<v Rob>	And finally there was <strong>brusque</strong> meaning ‘direct and not polite’ and <strong>to the point</strong>,
+349.92	353.08		which also means ‘direct and without unnecessary information’.
+353.08	354.2	<v Dan>	Hey Rob
+354.2	355.08	<v Rob>	Yes,
+355.08	356.6		what can I do for you Dan?
+356.6	357.64	<v Dan>	End the programme.
+357.64	358.92	<v Rob>	Certainly Dan.
+358.92	361.44		Well that’s all from us today,
+361.44	364.36		be sure to check us out on all the usual places: Facebook,
+364.36	364.8		Twitter,
+364.8	366.2		Instagram and YouTube,
+366.2	370.4		and of course please don’t forget our website bbclearningenglish.com.
+370.4	371.84		Bye for now!
+371.84	373.04	<v Dan>	Bye!
+373.04	380.04		6 minute English from BBC.

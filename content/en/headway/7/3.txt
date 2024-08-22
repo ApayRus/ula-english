@@ -1,0 +1,10 @@
+0.14	2.29	Tapescript 7.3
+3.68	4.39	looked
+6.24	6.99	worked
+8.83	9.60	loved
+11.46	12.31	learned
+14.16	14.97	earned
+16.82	17.64	married
+19.47	20.18	died
+21.90	22.59	hated
+24.11	24.86	wanted

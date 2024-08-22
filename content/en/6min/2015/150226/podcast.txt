@@ -1,0 +1,146 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.64		to find out more visit our website
+6.64	13		6 minute English from BBClearningEnglish.com
+13	13.44	<v Rob>	Hello,
+13.44	14.08		I’m Rob.
+14.08	15.92		Welcome to 6 Minute English.
+15.92	17.4		And with me in the studio today is Neil.
+17.4	18.04	<v Neil>	Hello,
+18.04	18.36		Rob.
+18.36	22.76	<v Rob>	Today we’re going to talk about the cost of keeping people healthy.
+22.76	25.6		The price of life-saving vaccines has escalated –
+25.6	26.48		has gone up -
+26.48	30		and some of the world’s poorer countries are struggling <strong>to immunise</strong> children –
+30	31.08		to immunise,
+31.08	31.8		in other words,
+31.8	34.28		to prevent children from catching diseases.
+34.28	34.68	<v Neil>	Yes,
+34.68	42		the organisation Medecins Sans Frontieres is criticising the pharmaceutical companies which produce the vaccines.
+42	45.44		Medecins Sans Frontieres is a well-known <strong>charity</strong> –
+45.44	50.04		a charity is an organisation set up to help and raise money for people in need.
+50.04	57.72	<v Rob>	We’re going to talk about the cost of vaccines and you’ll learn some words you can use to discuss the topic yourself or to follow the news.
+57.72	58.32		But first,
+58.32	58.64		a question,
+58.64	59.04		Neil.
+59.04	59.8	<v Neil>	Yes?
+59.8	64.92	<v Rob>	The first laboratory-developed vaccine was produced in 1879.
+64.92	68.72		The vaccine was against an animal disease called chicken cholera.
+68.72	70.72		Who was the scientist behind it?
+70.72	71.16		Was it…
+71.16	73.36		a) Alexander Fleming
+73.36	75.12		b) Albert Sabin
+75.12	77		c) Louis Pasteur
+77	77.32	<v Neil>	Well,
+77.32	78.12		I don’t know,
+78.12	79.2		but I’m going to guess.
+79.2	83.64		Probably not (a) because Fleming discovered penicillin.
+83.64	87.36		Probably not © because Pasteur did pasteurisation.
+87.36	88.44		I’m gonna go for (b).
+88.44	88.76	<v Rob>	OK.
+88.76	91.24		It sounds like you know your vaccines.
+91.24	91.52		Well,
+91.52	94.72		we’ll have the answer to that question at the end of the programme.
+94.72	95.04		Now,
+95.04	99.2		let’s talk about the controversy behind these life-saving vaccines.
+99.2	101.8		On one side we have a charity and on the other side,
+101.8	103.16		the drug companies.
+103.16	105.2	<v Neil>	Which vaccines are they talking about?
+105.2	105.52	<v Rob>	Well,
+105.52	110.2		they’re talking about vaccines which prevent diseases such as tuberculosis,
+110.2	111.08		measles,
+111.08	113.24		diphtheria and polio.
+113.24	115.2		According to Medecins Sans Frontieres,
+115.2	122.08		between 2001 and 2014 there was a 68-fold increase in vaccine prices.
+122.08	122.36	<v Neil>	Well,
+122.36	123.28		that is a lot!
+123.28	124.08	<v Rob>	It certainly is.
+124.08	133.48		And the group says that there are particular cases in which rich western countries are actually getting vaccines at a cheaper rate than poorer countries.
+133.48	135.68		That’s what Medecins Sans Frontieres says,
+135.68	139.32		and they’re asking for more transparency around prices.
+139.32	141.88	<v Neil>	<strong>Transparency</strong> means clarity,
+141.88	143.28		something done in an open way,
+143.28	144.84		without secrets.
+144.84	145.2	<v Rob>	Yes,
+145.2	147.68		they want to know the cost of the vaccines.
+147.68	152.28		Let’s hear what Rohit Malpani from Medecins Sans Frontieres has to say.
+152.28	160.8		See if you can spot the expression Malpani uses to describe how high the price of the vaccine is for some countries.
+160.8	161.96	<v Rohit Malpani, from Medecins Sans Frontieres>	_This is all a black box.
+161.96	170.04		It’s a black box in terms of the price they are charging to most countries around the world so they’re often charging prices that are wildly <strong>out of proportion</strong> with their ability to pay.
+170.04	175.68		You have Morocco and Tunisia that now are paying higher prices than France for the pneumococcal vaccine.
+175.68	181.92		We also simply do not know the cost of production and if GlaxoSmithKline says that it costs more than we are saying it does,
+181.92	187.16		then they should simply submit to some sort of audit to ensure that we can <strong>verify</strong> the cost of production._
+187.16	195.48	<v Neil>	The expression which describes the relationship between the price asked and the ability to pay is ‘out of proportion’.
+195.48	199.08		It means it’s unrealistic or exaggerated.
+199.08	205.56	<v Rob>	And Malpani from Medecins Sans Frontieres says that Morocco and Tunisia are paying more than France –
+205.56	206.88		a much richer country –
+206.88	208.48		for a particular vaccine.
+208.48	211.28	<v Neil>	And his organisation wants transparency.
+211.28	214.08		They want to be able <strong>to verify</strong> the cost of production.
+214.08	225.16		To verify means to confirm that something is really true and they want the drug company to confirm that the cost to produce the vaccines is really as high as they say it is.
+225.16	225.4	<v Rob>	Well,
+225.4	226.04		at this point,
+226.04	227.96		we have to hear what the companies say.
+227.96	228.36	<v Neil>	Yes,
+228.36	232.44		because they argue that they already sell these vaccines at a <strong>discount</strong>,
+232.44	233.28		in other words,
+233.28	234.56		at a reduced price.
+234.56	234.88	<v Rob>	Yes,
+234.88	235.56		they do.
+235.56	239.76		GlaxoSmithKline says that around 80% of all their vaccines,
+239.76	242.64		including the one mentioned by Malpani,
+242.64	246.68		are provided to developing countries at a substantial discount.
+246.68	257		And the company adds that the pneumococcal vaccine is one of the most complex they’ve ever manufactured because it combines 10 vaccines in one.
+257	257.36	<v Neil>	Yes.
+257.36	258.16		On one hand,
+258.16	262.84		vaccines take many years of research and these companies want <strong>to make a profit</strong>,
+262.84	266.4		which means to sell the product for more than it costs to make it.
+266.4	268.24	<v Rob>	But on the other hand,
+268.24	275.56		the lack of vaccines can kill people and it’s really very sad to see people dying of diseases which can be prevented.
+275.56	279.6		Some vaccines may be very affordable for a person in a rich country…
+279.6	279.6	<v Neil>	…
+279.6	283.36		but they might cost a fortune to someone in a poor country.
+283.36	287.84	<v Rob>	This is a very complex problem and I’m sure we will talk about this again in the future.
+287.84	288.88		But now,
+288.88	290.4		let’s go back to the quiz question,
+290.4	290.68		Neil.
+290.68	294.92	<v Neil>	You asked about the first vaccine developed in a laboratory…
+294.92	295.16	<v Rob>	Yes,
+295.16	295.64		I did.
+295.64	300.24		The first laboratory-developed vaccine was produced in 1879.
+300.24	304.36		It was a vaccine for the animal disease called chicken cholera.
+304.36	307.44		I wanted to know the name of the scientist who developed it.
+307.44	309.8		Was it Alexander Fleming,
+309.8	311.6		Albert Sabin or Louis Pasteur?
+311.6	314.32	<v Neil>	And I said (b) Albert Sabin.
+314.32	315.28	<v Rob>	And you were wrong!
+315.28	318.84		The correct answer is © Louis Pasteur,
+318.84	321.48		who was a French microbiologist.
+321.48	321.8		Now,
+321.8	322.04		Neil,
+322.04	323.12		the option you chose,
+323.12	325.56		the American scientist Albert Sabin,
+325.56	329.84		in fact developed an oral vaccine against polio in the 1950s –
+329.84	331.28		still very useful.
+331.28	336.24		And Alexander Fleming from Scotland did indeed discover penicillin,
+336.24	336.88		as you said.
+336.88	337.56	<v Neil>	Well,
+337.56	340.96		that is interesting and I’m a bit disappointed that I got it wrong actually.
+340.96	341.76	<v Rob>	Okay.
+341.76	342.24		Well,
+342.24	343.24		that’s it for this programme.
+343.24	345.6		Now let’s remember some of the words we used today,
+345.6	345.88		Neil.
+345.88	347.6	<v Neil>	to immunise
+347.6	349.36		charity
+349.36	353.2		transparency
+353.2	354.32		out of proportion
+354.32	356.64		to verify
+356.64	358.68		discount
+358.68	360.52		to make a profit
+360.52	362.6	<v Rob>	Thank you.
+362.6	363.68		That’s it for today.
+363.68	368.56		Do log on to <a href="http://www.bbclearningenglish.com/">www.bbclearningenglish.com</a> to find more 6 Minute English programmes.
+368.56	369.64		Until next time,
+369.64	370.64		goodbye!
+370.64	371.76	<v Neil>	Goodbye!
+371.76	377.68		6 minute English from BBC.

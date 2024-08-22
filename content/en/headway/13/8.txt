@@ -1,0 +1,16 @@
+0.19	2.40	Tapescript 13.8
+4.81	5.58	<v A> Hello.
+5.62	7.73	A return to Bristol, please.
+7.95	9.89	<v C> Day return or period return?
+9.90	10.97	<v A> A day return.
+11.18	12.30	<v C> How do you want to pay?
+12.75	13.81	<v A> Cash, please.
+14.03	15.68	<v C> That’s eighteen pounds.
+15.83	17.91	<v A> Here’s a twenty-pound note.
+18.05	20.48	<v C> Here’s your change and your ticket.
+20.58	21.25	<v A> Thank you.
+21.73	23.30	Which platform is it?
+23.61	25.30	<v C> You want platform 1 over there.
+25.40	25.88	<v A> OK,
+26.18	27.30	thanks very much.
+27.71	28.35	Goodbye.

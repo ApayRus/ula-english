@@ -1,0 +1,28 @@
+0.18	2.20	Tapescript 12.4
+3.55	4.15	1
+5.33	6.54	Take an umbrella.
+6.72	7.97	It’s going to rain.
+9.51	10.08	2
+11.07	12.26	Look at the time!
+12.62	14.30	You’re going to be late for the meeting.
+16.04	16.62	3
+17.46	19.24	Anna’s running very fast.
+19.49	21.03	She’s going to win the race.
+22.70	23.40	4
+25.66	26.13	Look!
+26.67	27.78	Jack’s on the wall.
+28.26	29.17	He’s going to fall.
+31.17	31.94	5
+33.91	35.04	Look at that man!
+35.55	36.81	He’s going to jump.
+38.72	39.43	6
+41.28	42.51	They’re going to have a baby.
+42.79	44.05	It’s due next month.
+45.73	46.41	7
+47.72	49.96	There’s my sister and her boyfriend!
+50.43	51.11	Yuk!
+51.71	53.14	They’re going to kiss.
+55.13	55.68	8
+56.57	57.87	‘Oh dear.
+57.99	60.68	I’m going to sneeze. Aaattishooo!’
+61.68	62.25	‘Bless you!’

@@ -1,0 +1,11 @@
+0.18	1.15	Unit 7
+2.57	4.57	Tapescript 7.1
+6.66	7.58	Mattie Smith
+7.76	9.79	is 91 years old.
+10.66	13.02	She lives alone in Atlanta, Georgia.
+14.32	16.63	She starts her day at 7.30.
+17.47	19.10	First she has a bath,
+19.88	21.75	next she cleans the house,
+22.27	25.20	and then she sits outside on her verandah
+25.70	27.50	and thinks about her past life.
+28.70	30.99	Then she writes poems about it.

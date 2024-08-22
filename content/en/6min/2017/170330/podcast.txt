@@ -1,0 +1,174 @@
+0.1	3		This is a download from bbc learning English
+3	6.6		to find out more visit our website
+6.6	9.8		6 minute English from BBClearningEnglish.com
+9.8	12.32	<v Dan>	Hello and welcome to 6 Minute English–
+12.32	14.08		the show that brings you an interesting topic,
+14.08	21.44		authentic listening practice and six new items of vocabulary.
+21.44	25.08		I’m Dan…
+25.08	26.6	<v Neil>	…And I’m Neil.
+26.6	31.24		We’ll be discussing dogs being used in cancer detection.
+31.24	32.4	<v Dan>	Everything ok,
+32.4	33.96		Neil?
+33.96	35.68	<v Neil>	I am so tired.
+35.68	38.72		One of my children <strong>is as sick as a dog</strong>.
+38.72	41.12		I didn’t sleep all night long looking after them.
+41.12	44.04	<v Dan>	<strong>As sick as a dog</strong> is an expression meaning ‘very ill’.
+44.04	45.16		I’m sorry to hear it.
+45.16	47.72		Try and hold on if you can.
+47.72	48.4	<v Neil>	Don’t worry.
+48.4	50.28		There’s life in this old dog yet.
+50.28	50.92	<v Dan>	Good.
+50.92	53.4		It’s funny that you mention dogs because apparently,
+53.4	59.92		the UK’s National Health Service is currently assessing whether dogs can be used to detect early stage prostate cancer.
+59.92	60.8	<v Neil>	Amazing.
+60.8	61.8		Any success?
+61.8	64	<v Dan>	Let me ask you in this week’s question.
+64	68.96		In what percentage of cases were dogs able to detect the presence of cancer in urine?
+68.96	69.28		Is it
+69.28	70.64		a) 50%
+70.64	72.04		b) 70%
+72.04	76.76		c) 90%
+76.76	79.08	<v Neil>	We’ll find out later if you’re right or wrong.
+79.08	79.52		So,
+79.52	80.08		Neil,
+80.08	81.44		I say dog,
+81.44	82.44		what do you think?
+82.44	83.6	<v Neil>	A wet nose,
+83.6	89.32		four <strong>paws,</strong> which is what we call the feet of certain animals,
+89.32	91.68		a fluffy coat and a waggy tail?
+91.68	93.44		Man’s best friend?
+93.44	95.08		But I’ve never heard of cancer dogs.
+95.08	96.88		I wonder what makes them suitable?
+96.88	97.4	<v Dan>	Well,
+97.4	99		I’ll let Dr Claire Guest,
+99	102.92		CEO of the charity Medical Detection Dogs take that one.
+102.92	105.32	<v Dr Claire Guest, CEO of Medical Detection Dogs>	Although the dog has a fluffy coat and a waggy tail,
+105.32	109.08		he is in fact a highly sophisticated <strong>bio-sensor</strong>.
+109.08	109.44		You know,
+109.44	112.72		evolution has given him this highly sensitive nose,
+112.72	114.04		going down to parts per trillion.
+114.04	126.44		People board planes every day that have been <strong>screened</strong> by detector dogs to see if there are explosives on board.
+126.44	131.8		Why do we rely on them there and yet not in assisting us with health?
+131.8	132.2	<v Dan>	Yes,
+132.2	137.2		and she mentioned that humans have a history of using dogs in security to <strong>screen</strong>,
+137.2	139.04		or examine for suitability,
+139.04	140.92		for explosives and bombs.
+140.92	141.04	<v Dan>	Yep!
+141.04	144.88		Can you think of any other places that dogs are used to support humans?
+144.88	145.28	<v Neil>	Well,
+145.28	146.28		there’s guide dogs,
+146.28	149.44		or seeing-eye dogs as they’re known in North America.
+149.44	152.64		They help people who are blind to avoid danger.
+152.64	153.48	<v Dan>	Nice.
+153.48	154.52		Any more?
+154.52	155.8		Maybe around the home?
+155.8	157.56	<v Neil>	Are you referring to guard dogs,
+157.56	161.08		meaning ‘a dog which keeps a house or place safe from burglary,
+161.08	162.36		theft or trespassing.’
+162.36	163.2	<v Dan>	Yep.
+163.2	167.12		Ex-burglars have often said that they’re a much bigger <strong>deterrent</strong>,
+167.12	168.96		or reason not to do something,
+168.96	170.24		than an alarm system.
+170.24	171.88	<v Neil>	Oh and there’s rescue dogs.
+171.88	177.48		They are trained to search and find victims of natural disasters such as avalanches or earthquakes.
+177.48	178.76	<v Dan>	Exactly,
+178.76	183.68		dogs are perfect for situations where people may be buried under the earth or the snow.
+183.68	187		A human can’t see them but a dog can still smell them.
+187	192.36	<v Neil>	Do you think our National Health Service will employ them as full time <strong>biosensors</strong> then?
+192.36	192.68	<v Dan>	Well,
+192.68	193.4		I don’t know,
+193.4	194.8		but here’s what Jeremy Hunt,
+194.8	197.72		the UK Health Secretary had to say on the matter.
+197.72	202.24	<v INSERT>	One of our jobs as MPs is sometimes to question <strong>orthodoxies</strong>,
+202.24	205.72		so if this research is good then I want to know about it,
+205.72	207.4		and I will certainly look at it carefully.
+207.4	210.4	<v Dan>	He mentions that this type of research goes against <strong>orthodoxies</strong>,
+210.4	212.8		or generally accepted way of doing things.
+212.8	215.72		But he also mentions that he will be looking at it carefully.
+215.72	216.72		So let’s hope so.
+216.72	219.52	<v Neil>	Yes I wouldn’t mind having a dog doctor!
+219.52	220.84		And speaking of research,
+220.84	223.08		there was a question I need to know the answer to.
+223.08	224.04	<v Dan>	Oh yes.
+224.04	230.08		I asked you in what percentage of cases were dogs able to detect the presence of cancer in urine?
+230.08	231.2		a) 50%
+231.2	232.28		b) 70%
+232.28	233.68		c) 90%
+233.68	236.6	<v Neil>	And I said 50%
+236.6	237.52	<v Dan>	It’s a dog’s life,
+237.52	237.8		Neil.
+237.8	238.4		I’m sorry.
+238.4	240.6		The answer was c) 90%
+240.6	241.04	<v Neil>	Wow!
+241.04	242.6		90%!
+242.6	245		That’s amazing.
+245	245.32	<v Dan>	OK.
+245.32	249.24		The first expression we had was <strong>as sick as a dog</strong>.
+249.24	252.44		If you are <strong>as sick as a dog</strong> it means that you’re very sick indeed.
+252.44	256.04		When was the last time you were <strong>as sick as a dog</strong>,
+256.04	256.08		Neil?
+256.08	258.36	<v Neil>	Just after Christmas I caught a bug from my kids.
+258.36	260.4		I was <strong>as sick as a dog</strong>.
+260.4	263.44		Next we had <strong>paws</strong>.
+263.44	264.52		<strong>Paws</strong> are the feet of certain animals.
+264.52	266.12		They have pads and claws.
+266.12	267.72		Can you give us a few examples,
+267.72	268.16		Dan?
+268.16	268.52	<v Dan>	Well,
+268.52	269.48		dogs have <strong>paws</strong>.
+269.48	271.04		So do cats,
+271.04	271.6		rabbits,
+271.6	272.92		bears and mice.
+272.92	274.16		But not horses,
+274.16	275.32		sheep or pigs.
+275.32	276.56		They have hooves.
+276.56	277.56		After <strong>paws</strong>,
+277.56	279.04		we had <strong>biosensor</strong>.
+279.04	282.92		A <strong>biosensor</strong> is a combination of the words biology and sensor.
+282.92	286.88		It is a sensor which uses a living thing to detect chemicals.
+286.88	289		Can you think of a famous historical example,
+289	289.32		Neil?
+289.32	290	<v Neil>	Well,
+290	297.84		Miners in danger of a highly toxic but invisible gas called methane used to carry a canary in a cage down the mine with them.
+297.84	300.4		If the canary became ill or died,
+300.4	302.08		they knew that the air was toxic.
+302.08	304.52		Then we had <strong>screen</strong>.
+304.52	305.2		If you screen something,
+305.2	307.24		it means you examine it for its suitability,
+307.24	309.2		such as luggage going through an airport –
+309.2	311.24		where they would <strong>screen</strong> for explosives.
+311.24	312.68		How else can it be used,
+312.68	312.92		Dan?
+312.92	313.48	<v Dan>	Well,
+313.48	318.68		these days you can get an ad-blocker on your computer that will <strong>screen out</strong> those annoying pop-up adverts.
+318.68	320.4		I hate those!
+320.4	323.16		After that was <strong>deterrent</strong>.
+323.16	325.36		A deterrent is a thing which stops a person from doing something,
+325.36	327.68		such as the fear of punishment for a crime.
+327.68	330.32		How do you deter your children from being naughty,
+330.32	330.48		Neil?
+330.48	331.48	<v Neil>	That’s easy.
+331.48	334.44		I just threaten to remove a sticker from their sticker chart.
+334.44	335.44	<v Dan>	Good idea!
+335.44	336.16	<v Neil>	Finally,
+336.16	337.72		we heard <strong>orthodoxies</strong>.
+337.72	341.32		An <strong>orthodoxy</strong> is a generally accepted way of doing things.
+341.32	345.4		Its adjective is <strong>orthodox</strong> and we often hear its opposite word –
+345.4	346.4		<strong>unorthodox</strong>,
+346.4	347.44		meaning unusual.
+347.44	350.32		Do you do anything <strong>unorthodox</strong>,
+350.32	350.36		Dan?
+350.36	353.56	<v Dan>	Well I love to combine hot sausages and cold vanilla ice-cream.
+353.56	354.64		It’s delicious!
+354.64	356.64		But no one will trust me enough to try!
+356.64	358.12	<v Neil>	I don’t blame them!
+358.12	358.96		Well,
+358.96	360.92		that’s the end of today’s 6 Minute English.
+360.92	362.36		Please join us again soon!
+362.36	364.28	<v Dan>	And we are on social media too -
+364.28	364.8		Facebook,
+364.8	365.28		Twitter,
+365.28	366.52		Instagram and YouTube.
+366.52	367.52		See you there.
+367.52	368.76	<v Both>	Bye!
+368.76	375.64		6 minute English from BBC.

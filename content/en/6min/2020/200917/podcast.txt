@@ -1,0 +1,132 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	8.48		to find out more visit our website
+8.48	13.8		6 minute English from BBClearningEnglish.com
+13.8	15.4	<v Neil>	Hello.
+15.4	18.6		This is 6 Minute English from BBC Learning English.
+18.6	19.4		I’m Neil.
+19.4	20.56	<v Sam>	And I’m Sam.
+20.56	21.04	<v Neil>	Sam,
+21.04	25.56		have you ever heard the expression ‘a problem shared is a problem halved’?
+25.56	25.96	<v Sam>	Yes,
+25.96	26.28		Neil,
+26.28	26.84		I have.
+26.84	32.36		Doesn’t it mean that people often feel better after talking about their problems with someone?
+32.36	33.04	<v Neil>	Right -
+33.04	41.24		in this programme we’ll be hearing the extraordinary story of how these ideas were taken up by a team of community grandmothers in Zimbabwe.
+41.24	47.12	<v Sam>	Zimbabwe has over 14 million people but fewer than 20 psychiatrists.
+47.12	49.24		After years of economic turmoil,
+49.24	51.32		unemployment and HIV,
+51.32	53.64		mental health is a huge challenge,
+53.64	59.48		and doctors estimate that one in four Zimbabweans suffers from depression or anxiety.
+59.48	63.48	<v Neil>	When it proved impossible to find free space to use in hospitals,
+63.48	65.64		psychiatrist Dr Dixon Chibanda,
+65.64	70.56		came up with the idea of turning public park benches into spaces for therapy.
+70.56	72.44	<v Sam>	He recruited grandmothers,
+72.44	76		who have both free time and plenty of life experience,
+76	80.12		to talk with individuals struggling with mental health issues like depression,
+80.12	80.88		anxiety,
+80.88	82		and trauma.
+82	89.48	<v Neil>	The grandmothers are drawn from the local community and trained over several weeks in a talking therapy called CBT –
+89.48	91.12		but what does that abbreviation,
+91.12	92.16		CBT,
+92.16	93.2		stand for?
+93.2	94.88		That’s my quiz question.
+94.88	95.24		Is it:
+95.24	97.64		a) Chatting Based Therapy?,
+97.64	100.32		b) Conversation Brain Therapy?
+100.32	100.44		or,
+100.44	103.28		c) Cognitive Behavioural Therapy?
+103.28	103.96	<v Sam>	Well,
+103.96	107.56		I think I’ll say c) Cognitive Behavioural Therapy.
+107.56	107.92	<v Neil>	OK,
+107.92	108.2		Sam,
+108.2	109.48		we’ll find out later.
+109.48	109.92		Now,
+109.92	115.32		although the recent history of Zimbabwe has left millions struggling with mental health issues,
+115.32	116.72		at the start of his project,
+116.72	122.44		Dr Dixon Chibanda was the only psychiatrist working in public health in the whole country.
+122.44	124.4	<v Sam>	And as well as a lack of provision,
+124.4	128.12		many villagers were suspicious of talking therapy,
+128.12	132.24		preferring to rely on traditional faith healers instead.
+132.24	134.52	<v Neil>	Which is why when Kim Chakanetsa,
+134.52	137.32		of BBC World Service’s <em>The Documentary Podcast</em>,
+137.32	139.48		spoke to Dr Dixon Chibanda,
+139.48	144.64		she started by asking him whether people were supportive of his idea:
+144.64	147.2	<v Dr Dixon Chibanda>	Initially there was a lot of <strong>scepticism</strong>,
+147.2	148.88		a lot of resistance,
+148.88	152.52		particularly from colleagues who thought this was not evidence-based,
+152.52	155.12		and it wasn’t going to work.
+155.12	157.24		The whole idea of training grandmothers –
+157.24	157.4		I mean,
+157.4	160.6		this has not been done anywhere else in the world so naturally there was <strong>resistance</strong>.
+160.6	164.08	<v Kim Chakanetsa>	Were you at all <strong>apprehensive</strong>?
+164.08	164.68	<v Dr Dixon Chibanda>	I was,
+164.68	166.88		to be quite honest.
+166.88	167.68	<v Sam>	At first,
+167.68	172.68		Dr Dixon Chibanda’s ideas were met with <strong>scepticism</strong> –
+172.68	176.24		an attitude of doubting whether something is useful or true.
+176.24	177.76	<v Neil>	‘Grandma benches’
+177.76	179.28		were a totally new idea,
+179.28	184.84		never seen before anywhere in the world and so his colleagues naturally felt some <strong>resistance</strong> -
+184.84	188.04		refusal to accept a change or new idea.
+188.04	192.6	<v Sam>	Which left Dr Dixon Chibanda feeling a little <strong>apprehensive</strong> –
+192.6	197.12		worried that something bad was going to happen to his project.
+197.12	197.88	<v Neil>	Fortunately,
+197.88	198.68		as it turned out,
+198.68	202.28		Dr Dixon Chibanda’s <strong>apprehensions</strong> were wrong.
+202.28	206.92		Grandmothers are highly respected in Zimbabwean society and as they started listening,
+206.92	210.4		people began opening up and telling their stories.
+210.4	211.56	<v Sam>	The ‘grandma benches’
+211.56	220.64		have empowered over 50,000 people to deal with their life problems and Dr Dixon Chibanda even has plans to move his idea online,
+220.64	224.08		giving the world access to a virtual Friendship Bench.
+224.08	225.16	<v Neil>	Here he is again,
+225.16	233.24		explaining on the BBC World Service’s <em>The Documentary Podcast</em> why he believes his ideas have been so successful:
+233.24	234.96	<v Dr Dixon Chibanda>	It works because it’s simple,
+234.96	238.12		it’s cheap and it’s run by communities,
+238.12	243		particularly grandmothers who are in essence a resource in African communities –
+243	243.2		you know,
+243.2	248.24		they are the <strong>custodians</strong> of local culture and wisdom –
+248.24	250.16		that’s why is works,
+250.16	250.88		and I guess,
+250.88	258.52		it <strong>does away with</strong> western concepts which remove the <strong>stigma</strong> that is normally associated with mental illness.
+258.52	267	<v Sam>	Clients are willing to share their problems with the grandmother-therapists because they are respected as cultural <strong>custodians</strong> –
+267	273.32		people with responsibility for taking care of something or trying to protect ideas or principles,
+273.32	276.4		in this case local customs and wisdom.
+276.4	278.44	<v Neil>	This helps <strong>do away with</strong> –
+278.44	278.84		or remove –
+278.84	281.12		the <strong>stigma</strong> attached to mental health –
+281.12	286.88		strong feelings of shame or disapproval which most members of a community have towards something,
+286.88	288.96		such as psychological illness.
+288.96	292	<v Sam>	For Zimbabweans suffering domestic violence,
+292	294.68		unemployment and dealing with HIV,
+294.68	300.6		having a grandmother to talk to really can change their perceptions about how problems can be managed.
+300.6	303.92	<v Neil>	So it seems true that ‘a problem shared is a problem halved’,
+303.92	306.28		which reminds me of our quiz question,
+306.28	306.68		Sam.
+306.68	307.64	<v Sam>	Yes.
+307.64	313.84		You asked me what the talking therapy abbreviated to CBT stands for.
+313.84	317.4		And I said c) Cognitive Behavioural Therapy.
+317.4	319.52	<v Neil>	Which is absolutely right!
+319.52	320.8		CBT –
+320.8	324.88		a way of managing problems by changing ways of thinking and behaving.
+324.88	331.84	<v Sam>	So this week we’ve been hearing the inspiring story of Zimbabwean Dr Dixon Chibanda’s ‘grandma bench’
+331.84	332.4		therapy -
+332.4	334.4		an idea which was initially met with <strong>scepticism</strong> –
+334.4	335.64		a doubtful attitude,
+335.64	338.52		and <strong>resistance</strong> –
+338.52	341.6		refusal to change and accept new ideas.
+341.6	344.72	<v Neil>	Dr Dixon Chibanda’s feelings of <strong>apprehension</strong> –
+344.72	346.92		worries that the project would fail,
+346.92	351.64		proved false when his team of grandmother therapists were treated as <strong>custodians</strong> –
+351.64	352.8		or protectors,
+352.8	357.24		of wisdom and life experience who really could help people suffering depression,
+357.24	358.92		poverty and trauma.
+358.92	363.72	<v Sam>	The success of the project helped <strong>do away with</strong> –
+363.72	363.72		or remove –
+363.72	368.64		strong feelings of shame or disapproval felt by many people regarding mental health,
+368.64	372.4		known as <strong>stigma.</strong> To hear more inspiring,
+372.4	373.52		topical stories,
+373.52	375.96		join us again soon here at 6 Minute English.
+375.96	376.8		Bye for now!
+376.8	378.72	<v Neil>	Goodbye!
+378.72	384.68		6 minute English from BBC.

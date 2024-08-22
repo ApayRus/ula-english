@@ -1,0 +1,122 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.8		6 minute English from BBClearningEnglish.com
+12.8	13.12	<v Neil>	Hello.
+13.12	16.2		This is 6 Minute English from BBC Learning English.
+16.2	16.84		I’m Neil.
+16.84	18.12	<v Georgina>	And I’m Georgina.
+18.12	21.52	<v Neil>	After working together at BBC Learning English for many years,
+21.52	22.44		Georgina,
+22.44	24.64		you and I have a good working relationship,
+24.64	25.32		don’t we?
+25.32	25.68	<v Georgina>	Sure,
+25.68	27.72		I think we make a great team!
+27.72	31.16	<v Neil>	But have you ever had a boss who you just couldn’t work with?
+31.16	31.48	<v Georgina>	Oh,
+31.48	33		you mean a bad boss –
+33	36.4		someone you just can’t get on with no matter how hard you try.
+36.4	36.72		Yes,
+36.72	38.72		I’ve had one or two over the years –
+38.72	39.6		not <em>you</em> of course,
+39.6	40.36		Neil!
+40.36	41.52	<v Neil>	I’m glad to hear it,
+41.52	42.6		Georgina!
+42.6	46.96		Often this happens because workers feel they aren’t listened to by managers.
+46.96	50.56		Or it might be because most companies are <strong>hierarchies</strong> -
+50.56	55.16		systems of organising people according to their level of importance.
+55.16	56.48	<v Georgina>	Managers on top,
+56.48	58.2		workers down below.
+58.2	59.56	<v Neil>	But in this programme,
+59.56	64.56		we hear from companies who’ve got rid of managers and say it has helped them do a better job,
+64.56	66.8		made them happier and saved money.
+66.8	72	<v Georgina>	We’ll meet a self-managing company which isn’t <strong>hierarchical</strong> and has no boss.
+72	75.64		And of course we’ll be learning some new vocabulary along the way.
+75.64	76.24	<v Neil>	But first,
+76.24	77.76		today’s quiz question.
+77.76	83.8		One of the biggest problems in <strong>hierarchies</strong> is the excess cost of management and bureaucracy.
+83.8	88.6		But how much is that estimated to cost the US economy every year?
+88.6	88.96		Is it:
+88.96	91.44		a) 3 million dollars?,
+91.44	93.6		b) 3 billion dollars?,
+93.6	93.72		or
+93.72	96.48		c) 3 trillion dollars?
+96.48	99.4	<v Georgina>	I’ll say c) 3 trillion dollars –
+99.4	101.96		that’s one followed by twelve zeros -
+101.96	103.76		a lot of money!
+103.76	104.2	<v Neil>	OK,
+104.2	104.6		Georgina,
+104.6	106.56		we’ll find out later if you’re right.
+106.56	107		Now,
+107	115		one of the first companies to experiment successfully with self-management was Californian tomato grower <em>Morning Star</em>.
+115	116.52		Here’s one of their employees,
+116.52	117.56		Doug Kirkpatrick,
+117.56	121.16		talking to Dina Newman for the BBC World Service programme,
+121.16	122.84		<em>People Fixing the World</em>:
+122.84	133.32	<v Doug Kirkpatrick>	The first principle was that human beings should not use force or <strong>coercion</strong> against other human beings.
+133.32	144.96		And the second principle was that people should keep the <strong>commitments</strong> they make to each other and so we adopted them as pretty much the entire governance of the enterprise.
+144.96	149.24	<v Georgina>	Because <em>Morning Star</em> has no bosses,
+149.24	154.4		decisions are made by all employees equally without <strong>coercion</strong> –
+154.4	157.96		the use of force to persuade someone to do something they do not want to do.
+157.96	159.2	<v Neil>	As self-managers,
+159.2	162.48		employees can’t tell other employees what to do.
+162.48	167.08		Everything is based on requesting someone to act and them responding.
+167.08	173	<v Georgina>	This motivates and empowers workers but also means they must keep their <strong>commitments</strong> -
+173	176.24		promises or firm decisions to do something when requested.
+176.24	178.08	<v Neil>	This way of working is great for some –
+178.08	181.6		they feel listened to and have a voice in how the company is run.
+181.6	188.28	<v Georgina>	But Dina questions whether this is true for everybody working at <em>Morning Star</em>:
+188.28	197.44	<v Dina Newman>	Would it be true to say that a self-managed company like yours empowers people who are already very good and it <strong>leaves behind</strong> those who are not so good?
+197.44	201.56	<v Doug Kirkpatrick>	I’m not sure I accept the phrase ‘<strong>left behind’</strong>.
+201.56	211.68		There are some people <strong>who take full advantage</strong> of this environment; others take less advantage but they do benefit because their voice is respected,
+211.68	215.32		when they do propose something it must be listened to,
+215.32	224.08		they are not subject to force and coercion and if they don’t act according to their commitments they can <strong>be held accountable</strong> by anyone.
+224.08	227.44	<v Neil>	Having no bosses sounds great,
+227.44	231.2		but the extra responsibility can create more work and stress.
+231.2	236.84		Different workers respond to this in different ways and some employees may be <strong>left behind</strong> -
+236.84	240.92		remain at a lower level than others because they are not as quick to develop.
+240.92	246.52	<v Georgina>	However other workers enjoy managing themselves and <strong>take full advantage</strong> of the system -
+246.52	251.48		make good use of the opportunity to improve and achieve their goals.
+251.48	255.32	<v Neil>	No matter whether employees are good self-managers or not,
+255.32	258.56		ultimately they are <strong>held accountable</strong> for their work performance –
+258.56	262.84		asked to accept responsibility for the consequences of their actions.
+262.84	263.84	<v Georgina>	So,
+263.84	266		although having no boss sounds good,
+266	267.08		if things go wrong,
+267.08	269.6		there’s no-one to blame but yourself!
+269.6	272.92	<v Neil>	So maybe we do need those managers after all –
+272.92	275.6		which reminds me of our quiz question.
+275.6	283.32	<v Georgina>	You asked me to estimate how much the US economy loses in excess bureaucracy and managerial costs every year.
+283.32	284.72	<v Neil>	And you said?
+284.72	287.56	<v Georgina>	c) 3 trillion dollars.
+287.56	288.92	<v Neil>	Which was absolutely right!
+288.92	289.64		Well done!
+289.64	291.44	<v Georgina>	And the cost keeps rising because,
+291.44	291.96		of course,
+291.96	293.4		the more managers there are,
+293.4	296.32		the more managers you need to manage the managers!
+296.32	299.4	<v Neil>	Today we’ve been looking at the world of self-management -
+299.4	301.56		companies run without bosses,
+301.56	301.88		which,
+301.88	303.44		unlike most businesses,
+303.44	305.52		are not based on a <strong>hierarchy</strong> –
+305.52	309.48		system of organising people according to their level of importance.
+309.48	315.24	<v Georgina>	Instead companies like San Francisco’s <em>Morning Star</em> allow employees to make their own <strong>commitments</strong> –
+315.24	316.36		promises to act,
+316.36	318.44		rather than using <strong>coercion</strong> –
+318.44	319.76		or forceful persuasion –
+319.76	320.76		to get results.
+320.76	327.28	<v Neil>	Many employees react positively to this working environment and <strong>take full advantage of</strong> it -
+327.28	331.4		make good use of the opportunity to progress or achieve their goals.
+331.4	332.6	<v Georgina>	However,
+332.6	337.12		there is a risk that others who are more comfortable being managed may get <strong>left behind</strong> -
+337.12	341.84		remain at a lower level than others because they are not as quick to improve and adapt.
+341.84	346.04	<v Neil>	But whatever their job role or feelings about self-management,
+346.04	349.28		all workers are <strong>held accountable</strong> –
+349.28	351.44		asked to accept responsibility for their performance at work.
+351.44	354.6	<v Georgina>	Meaning they take can the credit for when things go well…
+354.6	358.4	<v Neil>	…but have nobody to hide behind when things go badly!
+358.4	360.16	<v Georgina>	That’s all from us today,
+360.16	368.2		but remember to join us again soon for more topical discussion and related vocabulary here at 6 Minute English from BBC Learning English.
+368.2	369.4	<v Neil>	Bye for now.
+369.4	370.52	<v Georgina>	Bye.
+370.52	377.56		6 minute English from BBC.

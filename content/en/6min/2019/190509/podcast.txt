@@ -1,0 +1,164 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.52		6 minute English from BBClearningEnglish.com
+12.52	14.56	<v Dan>	Hello and welcome to 6 Minute English.
+14.56	15.32		I’m Dan.
+15.32	16.56	<v Rob>	And I’m Rob.
+16.56	18.04		So Dan what’s…
+18.04	18.76		Oh,
+18.76	19.52		sorry.
+19.52	20.52		Oh,
+20.52	22.36		it’s my wife.
+22.36	23.08		Err…
+23.08	25.04		hang on…
+25.04	26.88	<v Dan>	You didn’t answer!
+26.88	28.12	<v Rob>	Don’t take this personally,
+28.12	28.68		Dan,
+28.68	32.88		but I’m not exactly crazy about someone <strong>eavesdropping</strong> on my phone call.
+32.88	34.28		If you <strong>eavesdrop</strong> on something,
+34.28	36.84		you secretly listen to someone’s conversation.
+36.84	37.72		Some things are private,
+37.72	38.16		you know?
+38.16	38.52	<v Dan>	Oh!
+38.52	39.36		Of course!
+39.36	41		I totally understand.
+41	43.6		One quick question for you though…
+43.6	45.28		do you have a smart speaker?
+45.28	45.72		You know,
+45.72	47.16		like the Google Assistant,
+47.16	49.88		Amazon’s Alexa or Apple’s Siri.
+49.88	50.32	<v Rob>	Oh sure,
+50.32	50.56		yes,
+50.56	51.12		I’ve got one!
+51.12	52.28		It’s great!
+52.28	54.32		I can ask it all sorts of questions,
+54.32	56.12		it tells me about the news and weather,
+56.12	57.64		it plays music when I want…
+57.64	59.24		it does all sorts!
+59.24	62.16		You just give it a voice command and it does what you want!
+62.16	63.2	<v Dan>	So it can hear you,
+63.2	63.72		can it?
+63.72	64.72	<v Rob>	Of course!
+64.72	66.8		How else can you give it a voice command?
+66.8	67.72	<v Dan>	All the time?
+67.72	67.76	<v Rob>	Well,
+67.76	68.92		I assume so.
+68.92	71.84	<v Dan>	So how do you know it’s not <strong>eavesdropping</strong> on you?
+71.84	72.28	<v Rob>	Well,
+72.28	72.96		I…
+72.96	73.6		oh…
+73.6	74.68		I see.
+74.68	76.2		I hadn’t thought of that.
+76.2	78.6	<v Dan>	That’s our topic for this 6 Minute English.
+78.6	80.72		How safe is your smart speaker?
+80.72	81.76		However,
+81.76	82.48		before that,
+82.48	83.72		here’s our quiz question.
+83.72	92.24		By what percentage has the number of smart speakers used in US households increased from December 2017 to December 2018?
+92.24	92.52		Is it…
+92.52	94.2		a) around 40%
+94.2	95.92		b) around 60%,
+95.92	96.04		or
+96.04	98.2		c) around 80%?
+98.2	98.68	<v Rob>	Oh,
+98.68	99.08		well,
+99.08	102.04		I know they are very popular even in my household.
+102.04	105.08		So I’m going to go for c) around 80%.
+105.08	107.88	<v Dan>	We’ll find out if you’re right later in the programme.
+107.88	109		So,
+109	110.68		smart speakers and privacy!
+110.68	116		Florian Schaub is an assistant professor at the University of Michigan School of Information.
+116	122.4		Here he is speaking on the BBC World Service programme The Why Factor about smart speakers.
+122.4	127.2		What does he say people are introducing into their homes?
+127.2	128	<v Florian Schaub>	You’re basically introducing…
+128	130.44		listening <strong>bug</strong> in your home,
+130.44	131.68		in your most <strong>intimate</strong> space.
+131.68	137.6		While the companies say they are only actively listening to what’s going on in your home when they hear the keyword,
+137.6	141.88		the microphone is still on the whole time in order to be able to detect that keyword.
+141.88	155		We don’t know to what extent companies are co-operating with the government or to what extent the government might try to <strong>circumvent</strong> company security mechanisms in order to then be able to listen to what you’re doing.
+155	156.8	<v Dan>	So what did he say people are introducing,
+156.8	157.52		Rob?
+157.52	160.6	<v Rob>	He basically said we’re introducing a listening <strong>bug</strong>.
+160.6	160.84		Now,
+160.84	166.24		a <strong>bug</strong> is a small electronic device used for secretly listening to conversations.
+166.24	167.52		Much like a spy would use.
+167.52	168.52	<v Dan>	Yes,
+168.52	170.6		and he mentioned it was in our most <strong>intimate</strong> space!
+170.6	174.96		<strong>Intimate</strong> means ‘private and personal’.
+174.96	175.24	<v Rob>	Well,
+175.24	177.96		I can’t think of anywhere more <strong>intimate</strong> than my home.
+177.96	178.96	<v Dan>	Indeed!
+178.96	183.8		He also said that the smart speaker’s microphone is on the whole time –
+183.8	188.36		even though the companies insist that they’re only actively listening when the keyword is said.
+188.36	189.16	<v Rob>	Yes,
+189.16	194.68		he suggested that we can’t know how far a company might be co-operating with a government to <strong>eavesdrop</strong> on people.
+194.68	203.8	<v Dan>	Or whether a government might be <strong>circumventing</strong> a smart speaker’s security and listening in anyway without the company’s or owner’s permission!
+203.8	207.96	<v Rob>	<strong>Circumvent</strong> means ‘cleverly bypass or go around’.
+207.96	210.32		So if all this eavesdropping is possible,
+210.32	212.96		why are smart speakers so popular?
+212.96	214.56	<v Dan>	Good question!
+214.56	216.8		And here’s Florian Schaub again with an answer.
+216.8	222.36		He conducted a study on people’s attitudes to privacy when it comes to smart speakers.
+222.36	226.4		How do people feel about having a smart speaker that could eavesdrop on them?
+226.4	237.68	<v Florian Schaub>	What we often saw is people just <strong>being resigned to</strong> ‘this is the <strong>trade</strong>-<strong>off</strong> they have to make’ if they want to enjoy the convenience that a smart speaker provides to them.
+237.68	241.44	<v Rob>	He said that people <strong>are resigned to</strong> the privacy <strong>trade-off</strong>.
+241.44	243.48		If you <strong>are resigned to</strong> something,
+243.48	246.4		you accept something unpleasant that can’t be changed.
+246.4	249.12	<v Dan>	Yes and a <strong>trade</strong>-<strong>off</strong> is a compromise.
+249.12	252.48		You accept something bad to also receive something good.
+252.48	256.44	<v Rob>	So people accept that a smart speaker gives them advantages,
+256.44	258.64		even though there could be downsides?
+258.64	259.12	<v Dan>	Yes.
+259.12	260.76		In the grand scheme of things,
+260.76	268.4		the data that these devices hear is probably not that significant considering all the data companies have about us already anyway!
+268.4	271.68	<v Rob>	So can I have the answer to the quiz then?
+271.68	272.4	<v Dan>	Of course!
+272.4	281.72		Earlier I asked by what percentage the number of smart speakers used in US households increased from December 2017 to December 2018?
+281.72	282.28		Was it…
+282.28	283.88		a) around 40%
+283.88	285.52		b) around 60%,
+285.52	285.6		or
+285.6	287.44		c) around 80%?
+287.44	288.24		What did you say,
+288.24	288.4		Rob?
+288.4	291.08	<v Rob>	I said c) around 80%.
+291.08	292.32	<v Dan>	And you are right.
+292.32	294.6		The answer is around 80% -
+294.6	301.24		from 66 million in December 2017 to 118 million in December 2018,
+301.24	305.76		and around ten million people in the UK now use one too!
+305.76	309.56		I guess they’re really not worried about <strong>eavesdropping</strong>.
+309.56	311.16	<v Rob>	Nice slide into the vocabulary there,
+311.16	311.48		Dan.
+311.48	313.64		If someone <strong>eavesdrops</strong> on you,
+313.64	316.08		it means they secretly listen to your conversation.
+316.08	319.12	<v Dan>	They could be eavesdropping on you through a <strong>bug</strong>,
+319.12	323.44		which is a small electronic device used to secretly listen to conversations.
+323.44	324.16	<v Rob>	Yes,
+324.16	326.2		they may have <strong>bugged</strong> your most <strong>intimate</strong>,
+326.2	327.56		or private and personal,
+327.56	328.24		spaces.
+328.24	330.48	<v Dan>	Next we had <strong>circumvent</strong>.
+330.48	331.8		If you <strong>circumvent</strong> something,
+331.8	332.96		such as security,
+332.96	335.88		you cleverly or bypass it or go around it.
+335.88	337.92	<v Rob>	Then we had <strong>resigned</strong>.
+337.92	339.6		If you are <strong>resigned</strong> to something,
+339.6	343.56		it means you accept something unpleasant that can’t be changed.
+343.56	344.68	<v Dan>	And lastly,
+344.68	346.12		we had <strong>trade-off</strong>.
+346.12	347.68		A <strong>trade-off</strong> is a compromise.
+347.68	348.88		You get something good,
+348.88	351.12		but you also get something bad.
+351.12	351.8	<v Rob>	Right -
+351.8	353.4		like 6 Minute English!
+353.4	355.6		A great discussion and vocabulary,
+355.6	359.12		but the <strong>trade-off</strong> is it only lasts six minutes!
+359.12	360.56	<v Dan>	Which is just about now,
+360.56	360.96		actually -
+360.96	361.64		time to go.
+361.64	363.16		So until next time,
+363.16	366.36		find us all over the place online and on social media.
+366.36	368.88		Just search for BBC Learning English.
+368.88	369.84		Bye for now.
+369.84	371.56	<v Rob>	Goodbye!
+371.56	377.52		6 minute English from BBC.

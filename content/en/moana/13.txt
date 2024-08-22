@@ -1,0 +1,23 @@
+1.76 2.76 (SIGHS)
+7.56 8.56 VILLAGER 1: The crops are turning black.
+9.52 10.52 VILLAGER 2: What about the fish?
+10.77 12.35 VILLAGER 3: This is happening all over the island.
+12.44 13.98 -- Please, please settle down.<br />-- What are you going to do?
+14.06 15.81 We will dig new fields.<br />We will find a way to...
+15.90 18.40 We can stop the darkness!<br />Save our island!
+18.78 20.11 There's a cavern of boats.
+20.49 21.82 Huge canoes.
+21.99 25.57 We can take them, find Maui,<br />make him restore the heart.
+26.03 29.20 We were voyagers.<br />We can voyage again!
+32.29 34.04 You told me to help our people.
+34.21 36.46 This is how we help our people.
+36.79 37.88 Dad?
+37.96 38.96 What are you doing?
+39.34 41.63 I should've burned those boats a long time ago!
+41.80 42.84 No! Don't!
+43.01 45.55 We have to find Maui.<br />We have to restore the heart!
+45.97 47.05 There is no heart!
+47.14 48.89 This is just a rock!
+48.97 49.97 No!
+61.44 62.82 (HORN BLOWING)
+63.40 65.49 Chief! It's your mother!

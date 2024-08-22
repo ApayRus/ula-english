@@ -1,0 +1,51 @@
+0.18	2.51	Tapescript 14.7
+3.80	4.29	1
+5.60	6.12	<v A> Listen! …
+6.59	8.86	BA516 to Geneva.
+9.25	10.37	That’s our flight.
+10.76	14.52	<v B> Did the announcement say gate 4 or 14?
+14.53	15.48	<v A> I couldn’t hear.
+15.90	17.50	I think it said 4.
+18.16	18.91	<v B> Look!
+19.15	21.29	There it is on the departure board.
+21.54	22.85	It is gate 4.
+23.05	24.11	<v A> OK. Come on!
+24.37	25.00	Let’s go.
+29.08	29.57	2
+31.25	33.09	<v A> Can I have your ticket, please?
+33.15	34.34	<v B> Yes, of course.
+34.44	35.15	<v A> Thank you.
+35.94	37.89	How many suitcases have you got?
+38.02	38.88	<v B> Just one.
+39.18	40.97	<v A> And have you got much hand luggage?
+41.27	42.43	<v B> Just this bag.
+42.77	43.71	<v A> That’s fine.
+44.24	47.09	<v B> Oh … can I have a seat next to the window?
+47.24	47.87	<v A> Yes,
+47.95	48.92	that’s OK.
+49.48	50.77	Here’s your boarding pass.
+51.53	52.53	Have a nice flight!
+56.19	56.76	3
+57.74	58.57	<v A> Rod!
+58.88	59.76	Marilyn!
+60.00	60.94	Over here!
+61.07	65.83	<v B> Hi! Judy! Great to see you!
+65.90	68.66	<v A> It’s great to see you too. You look terrific!
+68.80	70.11	Did you have a good honeymoon?
+70.16	71.56	<v B> Fantastic.
+72.12	74.52	Everything was fantastic.
+74.65	76.94	<v A> Well, you haven’t missed anything here.
+77.07	78.95	Nothing much has happened at all!
+81.58	82.16	4
+83.26	85.44	<v A> There’s my flight. It’s time to go.
+85.63	86.84	<v B> Oh no!
+87.33	89.33	It’s been a wonderful two weeks.
+89.48	91.16	I can’t believe it’s over.
+91.20	92.16	<v A> I know.
+92.43	94.09	When can we see each other again?
+94.24	95.24	<v B> Soon, I hope.
+95.38	97.26	I’ll write every day.
+97.41	98.58	<v A> I’ll phone too.
+98.98	99.66	Goodbye.
+99.93	100.64	<v B> Goodbye.
+100.94	102.40	Give my love to your family.

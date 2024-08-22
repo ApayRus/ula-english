@@ -1,0 +1,154 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.52		6 minute English from BBClearningEnglish.com
+10.52	12.68	<v Rob>	Hello,
+12.68	13.72		I’m Rob,
+13.72	15.76		and welcome to 6 Minute English,
+15.76	21.72		where today we’re chatting about a pedestrian topic and six items of related vocabulary.
+21.72	22.2	<v Neil>	Hello,
+22.2	22.68		I’m Neil.
+22.68	28.12		A <strong>pedestrian</strong> is someone who walks around rather than travelling by car or bus.
+28.12	30.96		But in Rob’s sentence he used the adjective,
+30.96	34.2		and in this context it means dull or uninteresting!
+34.2	35.68	<v Rob>	And of course I was making a pun,
+35.68	36.6		Neil.
+36.6	39.76		Because of course the show is going to be extremely interesting!
+39.76	42.36		It’sabout safety on the streets –
+42.36	46.48		and whether pedestrianisation is a good thing or not.
+46.48	52.32	<v Neil>	<strong>Pedestrianisation</strong> means changing a street into an area that can only be used by pedestrians.
+52.32	52.68	<v Rob>	Well,
+52.68	54.08		it sounds like a good idea –
+54.08	55.16		no traffic,
+55.16	57.32		less noise and air pollution.
+57.32	61.16		And no chance of getting knocked down by a car or a bus!
+61.16	64.04	<v Neil>	There are plans to pedestrianise Oxford Street,
+64.04	66.8		which is one of the busiest shopping streets in London.
+66.8	67.68	<v Rob>	That’s right.
+67.68	69.72		The Mayor of London wants to <strong>tackle</strong> –
+69.72	71.56		or make an effort to deal with –
+71.56	74.12		air pollution in this very busy spot –
+74.12	77.08		where the amount of traffic is definitely a problem!
+77.08	77.72		In fact,
+77.72	78.36		can you tell me,
+78.36	78.92		Neil,
+78.92	83.4		what’s the average speed of a bus travelling along Oxford Street?
+83.4	84.36		Is it:
+84.36	89.28	<v Neil>	And I think it’s 14.6 miles per hour –
+89.28	95.24		a) sounds too slow and c) sounds too fast!
+95.24	96.52	<v Rob>	OK,
+96.52	100.52		we’ll find out the answer later on.
+100.52	102.68		The problem is –
+102.68	104.84		the traffic doesn’t just disappear.
+104.84	107.84		You ban it from one area –
+107.84	112		and it gets rerouted somewhere else.
+112	122.28	<v Neil>	&lt;v Rob&gt;Well,
+122.28	124.32		let’s listen now to Joe Urvin,
+124.32	126.6		Chief Executive of Living Streets.
+126.6	134.24		He’s going to talk some more about why traffic is causing problems in our towns and cities.
+134.24	137.76	<v INSERT>	In 1970 we had 20 million cars in this country.
+137.76	141.32		Now we have over 30 million cars in such a short period.
+141.32	143.6		So that creates three big problems.
+143.6	144.44		One is space –
+144.44	147.44		because we’ve still got the same street structures in our towns and cities,
+147.44	148.8		causing congestion.
+148.8	149.72		It causes pollution,
+149.72	152.08		which people are concerned about more and more.
+152.08	153		And actually,
+153	155.64		it’s kind of engineering walking out of our lives.
+155.64	157.48		So we’re actually not getting enough exercise,
+157.48	159.52		which is a cause of a health crisis.
+159.52	162.72		Smart cities are looking at pedestrianisation –
+162.72	164.04		in Glasgow,
+164.04	164.92		in Birmingham,
+164.92	166.16		in London for example,
+166.16	167.04		Manchester –
+167.04	169.64		as a way of not only making their places,
+169.64	171.64		cities better and more attractive,
+171.64	172.12		actually,
+172.12	173.64		building their local economy.
+173.64	179.2	<v Neil>	So Neil Urvin identifies three problems –
+179.2	186.8		the first is that our city streets have stayed the same while the number of cars on the roads has increased dramatically.
+186.8	187.68	<v Rob>	That’s right –
+187.68	189.84		and this has led to congestion on our roads.
+189.84	192.8		<strong>Congestion</strong> means too much traffic,
+192.8	194		making it hard to move.
+194	196.6	<v Neil>	The second problem is pollution –
+196.6	197.96		which we mentioned earlier.
+197.96	204.96	<v Rob>	is damage to the environment caused by releasing waste substances such as carbon dioxide into the air.
+204.96	211.08	<v Neil>	And the third problem is that by travelling around on buses or in our cars we aren’t getting enough exercise.
+211.08	213.52		And we all know that’s a bad thing!
+213.52	217.44		Would pedestrianisation engineer walking back into our lives do you think?
+217.44	218.52	<v Rob>	I’m not sure,
+218.52	219.32		Neil.
+219.32	226.52		It would be great if we could go shopping or walk to work without breathing in fumes or worrying about getting knocked down by a car.
+226.52	232.64		But banning all motorised traffic from town centres might make life difficult for people to get around.
+232.64	233.04	<v Neil>	Well,
+233.04	234.28		I’m not a town planner –
+234.28	235.68		and I don’t have the answers.
+235.68	240.24		But I would like to know if I got the answer right to the question you asked me earlier!
+240.24	240.64	<v Rob>	OK,
+240.64	245.68		well I asked you: What’s the average speed of a bus travelling along Oxford Street?
+245.68	247.08		Is it…
+247.08	249.16		a) 4.6mph,
+249.16	254.28		b) 14.6mph or c) 46mph?
+254.28	256.4	<v Neil>	And I said 14.6mph.
+256.4	258.56	<v Rob>	And that’s not slow enough,
+258.56	258.88		Neil,
+258.88	259.52		I’m afraid.
+259.52	263.16		The answer is actually 4.6mph.
+263.16	267.6		And we pedestrians walk at an average speed of 3.1mph apparently!
+267.6	269.48	<v Neil>	Good to know.
+269.48	269.88		OK –
+269.88	271.76		shall we go over the words we learned today,
+271.76	272.36		Rob?
+272.36	273.28	<v Rob>	Sure –
+273.28	274.96		the first one is ‘pedestrian’ –
+274.96	276.6		a person who is walking,
+276.6	278.72		usually in an area where there’s traffic.
+278.72	279.76		‘Sorry –
+279.76	281		you can’t ride your bike here.
+281	283.28		This path is for pedestrians only.’
+283.28	287.8	<v Neil>	&lt;v Rob&gt;I’ve crossed it off my list,
+287.8	289.2		Neil.
+289.2	291.24		Thank you.
+291.24	291.96		OK –
+291.96	294.28		number two is ‘to tackle’ something,
+294.28	297.08		which means to make an effort to deal with a difficult problem.
+297.08	298.24		For example,
+298.24	301.92		‘The government isn’t really tackling the problem of air pollution.
+301.92	303.44		It needs to do much more.’
+303.44	304.8	<v Neil>	Very true.
+304.8	305.52		OK,
+305.52	306.08		‘ban’
+306.08	308.56		means to officially say that something can’t be done.
+308.56	313.68		‘The UK government will ban the sale of diesel and petrol cars from 2040.’
+313.68	316.24	<v Rob>	And number four is ‘reroute’
+316.24	318.88		which means to change the direction you’re travelling in.
+318.88	323.52	<v Neil>	&lt;v Rob&gt;‘Congestion’
+323.52	325.08		is number five –
+325.08	326.2		too much traffic,
+326.2	327.8		making it difficult to move.
+327.8	333.44	<v Neil>	‘Road congestion always gets better in the summer when a lot of car drivers are on holiday.’
+333.44	333.92	<v Rob>	That’s true,
+333.92	334.6		isn’t it?
+334.6	337.16		London always seems emptier in July and August.
+337.16	339.48	<v Neil>	Except for all the tourists walking around –
+339.48	340.64		congesting the streets!
+340.64	341.52	<v Rob>	Very funny!
+341.52	342.32		And finally,
+342.32	344		number six is ‘pollution’ –
+344	350.2		which is damage to the environment caused by releasing waste substances such as carbon dioxide into the air,
+350.2	351.6		or plastic into the sea.
+351.6	356.52	<v Neil>	&lt;v Rob&gt;Are you talking to me,
+356.52	358.2		Neil?
+358.2	359.92		I always walk to work!
+359.92	360.6	<v Neil>	I know you do,
+360.6	360.92		Rob –
+360.92	362.72		you’re an example to us all!
+362.72	363.6	<v Rob>	OK,
+363.6	365.08		that’s all we have time for today.
+365.08	367.76	<v Neil>	But please don’t forget to visit us via our Twitter,
+367.76	369.48		Facebook and YouTube pages!
+369.48	370.04		Goodbye!
+370.04	371.4	<v Rob>	Bye bye!
+371.4	377.4		6 minute English from BBC.

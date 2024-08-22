@@ -1,0 +1,198 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	10.6		6 minute English from BBClearningEnglish.com
+10.6	11.6	<v Neil>	Hello,
+11.6	12.6		I’m Neil.
+12.6	15.36		And welcome to 6 Minute English,
+15.36	20		where we bring you an interesting topic and six related items of vocabulary.
+20	20.64		But …
+20.64	21.84		there should be two of us …
+21.84	25.92		and my co-presenter Rob hasn’t arrived …
+25.92	26.32		Rob?
+26.32	27.04		….
+27.04	27.64		Rob! …
+27.64	29.84		You’re late!
+29.84	31.32	<v Rob>	Am I?
+31.32	32.52		What’s the time?
+32.52	34.08	<v Neil>	It’s time to start the show.
+34.08	35.56		Do you actually own a watch?
+35.56	36.24	<v Rob>	No.
+36.24	38.32		I rely on my internal clock –
+38.32	39.12		it’s pretty good.
+39.12	40.12	<v Neil>	No,
+40.12	40.88		it isn’t –
+40.88	42		you’re late!
+42	43.04	<v Rob>	But I’m usually on time.
+43.04	44.28		Now today,
+44.28	48.32		we’re talking about what would happen to the world if all the clocks stopped.
+48.32	50.6	<v Neil>	It seems like that wouldn’t worry you much,
+50.6	51.04		Rob.
+51.04	52.16	<v Rob>	You’re right.
+52.16	53.4		I think we’re slaves to time –
+53.4	55.16		we’ve got digital clocks on everything –
+55.16	55.96		smartphones,
+55.96	56.68		computers,
+56.68	57.44		microwaves,
+57.44	58.12		bus stops –
+58.12	60.2		it’s hard to get away from it.
+60.2	64.28		Did you know the word time is the most common noun in the English language,
+64.28	66		according to the Oxford English Dictionary?
+66	66.16	<v Neil>	Oh,
+66.16	66.4		well,
+66.4	67.28		I didn’t know that,
+67.28	67.48		Rob!
+67.48	70.52		But good timekeeping is extremely important –
+70.52	72.52		there are so many things to schedule in a day,
+72.52	74.2		and so many deadlines to meet…
+74.2	74.6	<v Rob>	Tick…
+74.6	74.92		tock…
+74.92	75.2		tick…
+75.2	75.92		tock…
+75.92	76.24		Well,
+76.24	78		before we <strong>run out of time</strong> Neil –
+78	79.52		and that means use it all up –
+79.52	80.64		let’s have a quiz question.
+80.64	84.96		Can you tell me what the word ‘clock’ originally referred to?
+84.96	85.4		Is it …
+85.4	86.4		a) a pendulum,
+86.4	87.92		b) a bell or
+87.92	89.96		c) a dial?
+89.96	94.64	<v Neil>	A <strong>pendulum</strong> is a stick with a weight on the end that swings regularly from side to side.
+94.64	97.84		And a <strong>dial</strong> is the round part of a clock,
+97.84	99.64		but there are dials on loads of things –
+99.64	101.52		they aren’t just on clocks.
+101.52	102.04		And a bell…
+102.04	102.28		is…
+102.28	103.36		well…
+103.36	108.2		a bell!Well,
+108.2	108.6		hurry up,
+108.6	109		Neil –
+109	111.24		you’re wasting time with all these explanations!
+111.24	112.44	<v Neil>	That’s cheeky coming from you,
+112.44	112.92		Rob.
+112.92	115.24		I think the answer is probably ‘bell’.
+115.24	115.64	<v Rob>	Well,
+115.64	116.76		you could be right –
+116.76	119.8		because not all timepieces go tick tock.
+119.8	120.6		In fact,
+120.6	125.16		mechanical clocks and watches are quite recent in the history of timekeeping.
+125.16	127.96	<v Neil>	<strong>Mechanical</strong> means to do with machines.
+127.96	128.92		So in the past,
+128.92	131.32		before people had mechanical timepieces,
+131.32	133.32		how did they know when to arrive at work,
+133.32	134.28		for example –
+134.28	135.64		or when to finish?
+135.64	137.28	<v Rob>	They would have looked up at the sky,
+137.28	139.36		and observed how the position of the sun,
+139.36	139.84		the moon,
+139.84	142.36		and the stars changed as time passed.
+142.36	144	<v Neil>	That doesn’t sound very precise!
+144	146.84	<v Rob>	<strong>Precise</strong> means accurate or exact.
+146.84	149.48		It was precise enough for many people.
+149.48	153.96		Let’s listen to the Director of the Museum of the History of Science in Oxford,
+153.96	158.24		Dr Silke Ackermann talking about this.
+158.24	167.28	<v Dr Silke Ackermann, Director of the Museum of the History of Science in Oxford>	We certainly gain precision but we completely get devolved or divorced from where time originally came from.
+167.28	176.16		The time we use was based on the movement of the sun and it’s roughly still in sync but…
+176.16	180.28		for many societies it wasn’t at all relevant to know that it’s four o’clock.
+180.28	184.16		They needed to know how much daylight have I got left,
+184.16	189.68		or when is the prayer time I need to observe for completely different reasons,
+189.68	194.96		and whilst precision is wonderful it’s also very much a straitjacket.
+194.96	197.32		Everybody is dominated by…
+197.32	199.96		looking at the watch and smartphone all the time,
+199.96	201.04		when we observe people.
+201.04	203.32		So we basically became a slave to time.
+203.32	206.04	<v Neil>	So in the past,
+206.04	208.36		they had different reasons for wanting to know the time,
+208.36	209.32		is that it?
+209.32	209.8	<v Rob>	Yes –
+209.8	210.76		in ancient times,
+210.76	214.84		people were concerned about the changing of the seasons and how this affected them.
+214.84	216.28		When it was time to plants crops,
+216.28	217.56		or when to harvest them.
+217.56	219.24		When the rainy season was going to start…
+219.24	220.12	<v Neil>	Now you mention it,
+220.12	221.28		in the Muslim world,
+221.28	226.32		the start of Ramadan is traditionally calculated by the rising of the crescent moon –
+226.32	228.28		which changes every year.
+228.28	231.68		And you can’t calculate that with modern methods of timekeeping.
+231.68	232.8	<v Rob>	You’re catching on,
+232.8	233.4		Neil!
+233.4	233.88		Now,
+233.88	237.44		what does Dr Ackermann mean when she says precision is a <strong>straitjacket</strong>?
+237.44	243.44	<v Neil>	She means that always wanting to be precise about time can limit what we do in a way that is damaging.
+243.44	245.36	<v Rob>	So we need to take our time –
+245.36	246.36		relax a bit…
+246.36	247.88		That’s my philosophy for life.
+247.88	250.56	<v Neil>	But we are seriously running out of time now,
+250.56	250.72		Rob –
+250.72	253.8		so please hurry up and tell us the answer to today’s quiz question.
+253.8	255.56	<v Rob>	OK.
+255.56	255.72		Well,
+255.72	257.32		the answer is bell.
+257.32	257.52		So,
+257.52	258.04		you were right,
+258.04	258.36		Neil!
+258.36	264.6		The word clock is derived from the Celtic words clagan and clocca meaning “bell”.
+264.6	269.16		A silent instrument that doesn’t have a bell has traditionally been known as a timepiece.
+269.16	270.76		But today a “clock”
+270.76	273.8		refers to any device for measuring and displaying the time.
+273.8	274.4	<v Neil>	Well,
+274.4	275.44		moving quickly on,
+275.44	277.56		let’s go through the words we learned today.
+277.56	279.72		First up was ‘run out of time’ –
+279.72	280.64		or use it all up.
+280.64	282.6		You can run out of pretty much anything…
+282.6	283.6	<v Rob>	'Oh no!
+283.6	284.64		We’ve run out of sugar!
+284.64	286.72		Who’s going to the shops to buy some more?’
+286.72	288	<v Neil>	Number two –
+288	288.88		‘pendulum’ –
+288.88	292.4		a stick with a weight on the end that swings regularly from side to side,
+292.4	294.16		controlling the movement of a clock.
+294.16	297.28	<v Rob>	‘The pendulum on my Grandfather Clock has stopped swinging.’
+297.28	297.96	<v Neil>	Sorry to hear that,
+297.96	298.24		Rob.
+298.24	299.88		Number three –
+299.88	302.24		a ‘dial’ is the round part of a clock.
+302.24	303.4		But more generally,
+303.4	306.84		it refers to a round instrument that shows you the amount of something,
+306.84	307.4		for example,
+307.4	307.72		heat,
+307.72	309.32		pressure or speed.
+309.32	312.48	<v Rob>	‘The hands moved slowly round the clock dial.’
+312.48	316.64	<v Neil>	Phones used to have dials that you turned to make a phone call.
+316.64	321.36		Here’s the verb: ‘I dialled his number but he didn’t answer.’
+321.36	324.52	<v Rob>	Alfred Hitchcock made a film called ‘Dial M for Murder’!
+324.52	326.04		OK –
+326.04	327.68		number four is ‘mechanical’ –
+327.68	328.88		to do with machines.
+328.88	333.48		‘Our plane was delayed because of a mechanical problem.’
+333.48	334.16	<v Neil>	Number five –
+334.16	334.88		‘precise’ –
+334.88	336.96		which means accurate and exact.
+336.96	338.92		So 'What type of mechanical problem?
+338.92	340.2		Could you be more precise,
+340.2	340.48		Rob?’
+340.48	341.28	<v Rob>	No,
+341.28	341.84		I don’t have time,
+341.84	342.16		Neil!
+342.16	344.56		Number six is ‘straitjacket’.
+344.56	348.28	<v Neil>	Which means limiting what somebody can do in a way that is damaging.
+348.28	354		It’s also a jacket with long arms that are tied behind a person to stop them from behaving violently.
+354	354.64	<v Rob>	'Oh,
+354.64	355.2		no,
+355.2	356		not the straitjacket!
+356	357.32		I promise I’ll behave myself,
+357.32	357.8		Neil.’
+357.8	358.2	<v Neil>	OK,
+358.2	359.12		if you really promise,
+359.12	359.4		Rob.
+359.4	363.6	<v Rob>	Right.
+363.6	364.52		Well,
+364.52	365.84		we’ve run out of time!
+365.84	367.12		Please check out our Instagram,
+367.12	367.6		Twitter,
+367.6	369.44		Facebook and YouTube pages.
+369.44	370.08	<v Neil>	Goodbye!
+370.08	371.88	<v Rob>	Bye-bye!
+371.88	377.88		6 minute English from BBC.

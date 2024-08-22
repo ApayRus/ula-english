@@ -1,0 +1,25 @@
+0.19	2.19	Tapescript 3.5
+3.48	3.96	1
+4.71	6.58	Philippe comes from Paris.
+8.52	9.03	2
+9.73	11.34	Philippe lives in London.
+13.82	14.37	3
+14.98	17.20	He works in the centre of Paris.
+19.37	20.00	4
+20.60	22.42	He speaks English very well.
+24.48	25.24	5
+25.58	26.37	He’s married.
+28.12	28.81	6
+29.30	31.76	Keiko lives and works in New York.
+33.98	34.62	7
+35.01	36.84	She speaks French and German.
+38.65	39.20	8
+39.57	41.61	She plays tennis in her free time.
+43.42	44.13	9
+44.52	45.83	She isn’t married.
+47.83	48.39	10
+48.85	51.25	Mark works in an office in Moscow.
+53.24	53.88	11
+54.32	55.76	He has three sons.
+57.42	58.13	12
+58.43	60.71	He likes playing football in his free time.

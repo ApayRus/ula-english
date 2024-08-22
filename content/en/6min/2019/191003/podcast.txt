@@ -1,0 +1,140 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	12.48		6 minute English from BBClearningEnglish.com
+12.48	12.92	<v Sam>	Hello,
+12.92	14.48		this is 6 Minute English.
+14.48	15.28		I’m Sam.
+15.28	16.2	<v Rob>	And I’m Rob.
+16.2	18.16	<v Sam>	Are good at complaining,
+18.16	18.72		Rob?
+18.72	20.28	<v Rob>	Of course not.
+20.28	21.64		I’m British!
+21.64	22.72		I never complain,
+22.72	24.6		even when I get terrible service.
+24.6	26.52		It’s just too embarrassing.
+26.52	27.4	<v Sam>	Well,
+27.4	33.72		you might be in a minority now as it seems we British are complaining more than we used to.
+33.72	38.12		We’ll look at this topic a little more after this week’s quiz question.
+38.12	43.16		The oldest recorded complaint is on a stone tablet in the British Museum.
+43.16	46.08		It’s nearly 4000 years old.
+46.08	48.32		What was the complaint about?
+48.32	54.2		a) An incorrect number of goats that were delivered after being bought at market
+54.2	58.6		b) The quality of copper bars that were supplied,
+58.6	58.88		or
+58.88	62.84		c) The non-payment of a bill for a banquet
+62.84	63.48		What do you think,
+63.48	63.8		Rob?
+63.8	66.72	<v Rob>	I’m just going to guess at the goats.
+66.72	70.96		Someone bought a load of goats and fewer were delivered than were bought.
+70.96	71.84		That sounds good,
+71.84	73.44		but it’s just a guess.
+73.44	73.8	<v Sam>	OK.
+73.8	74.4		Well,
+74.4	77.8		I will reveal the answer later in the programme,
+77.8	81.52		and don’t complain if you get it wrong!
+81.52	85.28		You and Yours is a BBC radio programme about consumer affairs.
+85.28	94.96		On a recent programme they discussed the topic of complaining and customer service with Giles Hawke from an organisation called the Institute of Customer Service.
+94.96	97.92		He talks about different <strong>sectors</strong>.
+97.92	101.36		A <strong>sector</strong> is a particular area of business.
+101.36	110.28		Which <strong>sectors</strong> does he say have most problems when it comes to keeping the complaining customer satisfied?
+110.28	116	<v Giles Hawke>	The <strong>sectors</strong> that probably have more problems than the UK average are public services,
+116	117.56		telecommunications,
+117.56	119.96		transport and service <strong>sector</strong>.
+119.96	122.84		And there are probably some <strong>inherent</strong> challenges within those <strong>sectors</strong> -
+122.84	124.52		they may have more impact on a day-to-day basis.
+124.52	128.52		Those <strong>sectors</strong> which are <strong>performing</strong> well …
+128.52	130		travel is <strong>performing</strong> well,
+130	131.68		retail is <strong>performing</strong> well,
+131.68	134.72		leisure appears to be <strong>performing</strong> well.
+134.72	135.44	<v Sam>	So,
+135.44	139.12		which <strong>sectors</strong> are not keeping the customer satisfied?
+139.12	141.44	<v Rob>	He says that public services,
+141.44	142.12		telecoms,
+142.12	145.88		transport and the service sector have most problems.
+145.88	150.56	<v Sam>	And he says that these sectors may have <strong>inherent</strong> challenges.
+150.56	152.16		What does he mean by that?
+152.16	152.4	<v Rob>	Well,
+152.4	153.36		some <strong>sectors</strong>,
+153.36	154.4		by their nature,
+154.4	158.72		are more complicated and more likely to cause problems for customers.
+158.72	160		Public services,
+160	160.8		for example,
+160.8	163.4		often don’t have enough money or enough staff.
+163.4	165.24		Telecommunications systems,
+165.24	167		such as your internet connection,
+167	169.68		are very complicated and sometimes go wrong.
+169.68	172.04		Bad weather can affect transport,
+172.04	172.84		and so on.
+172.84	176.68		So an <strong>inherent</strong> problem is a problem that is part of the nature of the thing itself.
+176.68	176.8	<v Sam>	So,
+176.8	181.52		those <strong>sectors</strong> are not <strong>performing</strong> well.
+181.52	188.16		We usually think of the word <strong>perform</strong> when we are talking about actors or musicians,
+188.16	194.12		but in a business sense to <strong>perform</strong> well or badly means to be successful or not,
+194.12	194.48		and,
+194.48	196		according to Giles Hawke,
+196	200.8		travel and retail are <strong>performing</strong> well in terms of customer service.
+200.8	206.2		Giles Hawke goes on to talk about how people are actually making their complaints,
+206.2	212.24		but are modern methods taking over from the traditional letter or phone call?
+212.24	219.28	<v Giles Hawke>	We still see over 58% of complaints are made by phone or by letter so,
+219.28	219.6		you know,
+219.6	223.72		the more traditional methods of making a complaint are still <strong>dominant</strong>,
+223.72	225.4		but we are seeing social media rise,
+225.4	234.64		although it’s still a very small part of how people complain and it tends to be used as an <strong>escalation</strong> point if people aren’t getting what they want <strong>dealt with</strong> in the first instance.
+234.64	236.32	<v Sam>	So,
+236.32	239.84		are people using modern methods more than traditional ones?
+239.84	240.68	<v Rob>	Actually,
+240.68	241.36		no.
+241.36	245.6		He says that phoning or writing a letter are still <strong>dominant</strong>.
+245.6	247.76		This means they are still the main,
+247.76	250.4		most used methods for making a complaint.
+250.4	255.96	<v Sam>	Where people are turning to social media is if their complaint is not <strong>dealt with</strong>.
+255.96	259.6		To <strong>deal with</strong> something means to sort it,
+259.6	260.08		to fix it –
+260.08	263.24		and if you complain and it’s <em>not</em> <strong>dealt with</strong>,
+263.24	263.76		then,
+263.76	264.56		he says,
+264.56	268.44		people turn to social media as a form of <strong>escalation</strong>.
+268.44	270.48	<v Rob>	When you <strong>escalate</strong> a complaint,
+270.48	272.12		you take it to a higher level.
+272.12	279.92		Putting your complaint on social media means that a lot more people are going to see it and it might encourage a company to <strong>deal with</strong> the complaint.
+279.92	280.84	<v Sam>	Right,
+280.84	283.44		well before we receive any complaints,
+283.44	291.08		let’s review today’s vocabulary after the answer to the question which was about a 4000-year-old complaint.
+291.08	293		Was the complaint about:
+293	298.08		a) An incorrect number of goats that were delivered after being bought at market.
+298.08	302.48		b) The quality of copper bars that were supplied,
+302.48	302.56		or
+302.56	305.92		c) The non-payment of a bill for a banquet.
+305.92	306.52		Rob,
+306.52	307.36		what did you say?
+307.36	308.44	<v Rob>	I went for a).
+308.44	310		I went for the goats.
+310	310.6	<v Sam>	Sorry!
+310.6	317.6		It was actually a complaint about the quality of copper ingots or bars that were supplied.
+317.6	318.32		If you knew that,
+318.32	319.76		very well done.
+319.76	320.88		If you guessed right,
+320.88	321.52		also,
+321.52	322.28		very well done.
+322.28	324.36		No shame to get that one wrong.
+324.36	326.36	<v Rob>	And no complaints from me!
+326.36	327.16	<v Sam>	OK.
+327.16	327.52		Right,
+327.52	328.6		now vocabulary.
+328.6	333.68		We had <strong>sectors</strong>,which are particular areas of business in the economy.
+333.68	337.48	<v Rob>	Something that is <strong>inherent</strong> is a natural part of something.
+337.48	342.76		It’s usually used to describe a problem or risk that is an unavoidable part of something.
+342.76	348.44	<v Sam>	How successful a company is can be describe as how well it’s <strong>performing</strong>.
+348.44	350.32		And if something is <strong>dominant</strong>,
+350.32	352.52		it means it is the strongest or most used.
+352.52	354.6	<v Rob>	And if a company doesn’t <strong>deal with</strong>,
+354.6	356.4		or try to fix a problem,
+356.4	360.32		the customer might take the complaint to the next level on social media,
+360.32	362.84		which would mean an <strong>escalation</strong>.
+362.84	363.24	<v Sam>	Thank you,
+363.24	363.6		Rob.
+363.6	365.8		That’s all from 6 Minute English this time.
+365.8	369.24		Do join us again soon and don’t forget to check us out online.
+369.24	370.4		Bye bye!
+370.4	371.4	<v Rob>	Bye!
+371.4	377.36		6 minute English from BBC.

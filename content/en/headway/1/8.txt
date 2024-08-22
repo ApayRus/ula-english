@@ -1,0 +1,13 @@
+0.18	2.23	Tapescript 1.8 (one point eight)
+4.20	4.98	a stamp
+7.73	8.61	a bag
+11.31	12.08	a key
+15.16	15.97	a camera
+18.01	18.78	a ticket
+21.44	22.48	a postcard
+24.81	25.51	a letter
+28.35	29.11	an apple
+31.24	32.11	an orange
+35.21	36.09	a dictionary
+38.30	39.26	a newspaper
+41.79	42.79	a magazine

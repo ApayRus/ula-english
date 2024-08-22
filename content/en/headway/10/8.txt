@@ -1,0 +1,9 @@
+0.16	2.09	Tapescript 10.8
+3.32	6.53	Drive along Park Road and turn right.
+7.26	8.52	Go under the bridge
+8.58	9.85	and past the pub.
+10.93	12.61	Turn left up the hill,
+12.74	15.19	then drive down the hill to the river.
+15.98	17.83	Turn right after the farm
+18.09	19.79	and the lake is on the right.
+20.06	21.80	It takes twenty minutes.

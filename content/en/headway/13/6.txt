@@ -1,0 +1,18 @@
+0.17	2.61	Tapescript 13.6
+5.54	7.10	Trains from Oxford
+7.27	8.97	to Bristol Temple Meads.
+9.63	11.16	Monday to Friday.
+12.42	14.96	Here are the departure times from Oxford
+15.37	17.42	and arrival times in Bristol.
+19.01	20.56	0816
+20.90	21.75	arriving
+22.01	23.74	0946
+24.88	26.53	0945
+26.73	27.56	arriving
+27.98	29.32	1114
+30.83	32.02	1040
+32.44	33.32	arriving
+33.53	34.89	1208
+36.40	38.08	1114
+38.80	39.55	arriving
+40.37	40.66	13...

@@ -1,0 +1,34 @@
+0.18	2.35	T 2.5
+4.04	5.15	Dear Miguel,
+5.88	6.87	How are you?
+7.40	8.45	I’m fine.
+8.93	10.85	Here’s a letter in English.
+11.17	13.14	It’s good practice for you and me!
+14.24	18.72	I have classes in English at La Guardia Community College.
+19.23	21.46	I’m in a class with eight students.
+21.91	24.03	They’re all from different countries:
+24.22	27.32	Japan, Brazil, Switzerland,
+27.51	28.98	Poland, and Italy.
+29.62	31.77	Our teacher’s name is Isabel.
+32.26	33.55	She’s very nice
+33.73	35.25	and a very good teacher.
+36.78	40.19	I live in an apartment with two American girls,
+40.52	42.52	Annie and Marnie Kass.
+43.09	44.18	They are sisters.
+44.83	47.04	Annie’s twenty years old
+47.07	48.00	and a dancer.
+48.48	50.23	Marnie’s eighteen
+50.31	51.31	and a student.
+51.84	55.96	They’re very friendly, but it isn’t easy to understand them.
+56.39	57.94	They speak very fast!
+59.34	61.08	New York is very big,
+61.19	64.50	very exciting but very expensive!
+65.01	66.00	The subway
+66.06	67.69	isn’t difficult to use
+68.03	68.97	and it’s cheap.
+70.34	72.07	It’s very cold now
+72.09	74.94	but Central Park is lovely in the snow.
+75.37	76.81	I’m very happy here.
+77.24	78.45	Write to me soon.
+78.82	79.41	Love,
+79.50	80.19	Dorita

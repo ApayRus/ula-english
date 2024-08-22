@@ -1,0 +1,23 @@
+0.18	2.16	Tapescript 10.2
+3.04	3.56	1
+6.25	8.95	<v A> Life in the country is slower than city life.
+9.37	11.91	<v B> Yes, the city’s much faster.
+13.43	13.95	2
+15.52	17.50	<v A> New York is safer than London.
+17.84	19.38	<v B> No, it isn’t.
+19.82	22.09	New York is much more dangerous.
+23.66	24.24	3
+25.45	27.21	<v A> Paris is bigger than Madrid.
+27.97	29.08	<v B> No, it isn’t!
+29.35	30.61	It’s much smaller.
+32.11	32.69	4
+33.68	36.02	<v A> Madrid is more expensive than Rome.
+36.39	39.41	<v B> No, it isn’t. Madrid is much cheaper.
+40.87	41.64	5
+42.55	46.61	<v A> The buildings in Rome are more modern than the buildings in New York.
+47.19	48.29	<v B> No, they aren’t.
+48.55	49.82	They’re much older.
+51.08	51.82	6
+52.93	56.37	<v A> The Underground in London is better than the Metro in Paris.
+56.56	57.34	<v B> No!
+57.72	60.02	The Underground is much worse.

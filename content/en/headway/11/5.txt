@@ -1,0 +1,29 @@
+0.18	2.52	Tapescript 11.5
+3.34	5.14	What a wonderful world
+12.50	15.64	I see trees of green
+16.78	18.68	Red roses too
+20.00	25.16	I see them bloom for me and you
+25.84	28.30	And I think to myself
+31.18	34.04	what a wonderful world.
+38.86	42.00	I see skies of blue
+43.32	45.66	and clouds of white
+46.72	49.14	the bright sunny day
+50.04	52.40	and the dark starry night
+52.54	54.88	and I think to myself
+57.70	60.36	what a wonderful world
+66.14	68.42	The colours of the rainbow
+69.20	71.66	so pretty in the sky
+72.74	75.28	are also on the faces
+75.88	78.38	of the people going by.
+79.02	81.88	I see friends shaking hands
+82.40	85.28	saying ‘How do you do?’
+86.72	89.06	They’re really saying
+89.42	91.70	‘I love you.’
+92.32	95.28	I hear babies cry
+96.60	99.06	I watch them grow.
+100.46	102.26	They’ll learn much more
+103.38	105.70	than you’ll ever know
+106.02	108.82	and I think to myself
+110.82	114.12	what a wonderful world.
+118.90	121.86	Yes, I think to myself
+124.04	127.68	what a wonderful world.

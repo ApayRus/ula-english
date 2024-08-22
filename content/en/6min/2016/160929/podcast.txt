@@ -1,0 +1,168 @@
+0.1	3		This is a download from bbc learning English
+3	6.6		to find out more visit our website
+6.6	12.04		6 minute English from BBClearningEnglish.com
+12.04	14.44	<v Alice>	Hello and welcome to 6 Minute English.
+14.44	15.2		I’m Alice…
+15.2	16.04	<v Neil>	And I’m Neil.
+16.04	16.52	<v Alice>	So,
+16.52	17.04		Neil,
+17.04	21.32		you texted me earlier and didn’t put a full stop at the end.
+21.32	21.92	<v Neil>	You’re right,
+21.92	23.72		I never use full stops in texts –
+23.72	25.08		they’re much too <strong>stuffy</strong> –
+25.08	25.96		or formal.
+25.96	29.12		Texting is like conversation and you don’t need lots of punctuation.
+29.12	29.68	<v Alice>	Well,
+29.68	32.56		punctuation is the subject of today’s show.
+32.56	35.04		And I know I’m a bit of a stickler about this,
+35.04	38.88		but I think you’re letting the standards of written English language slip.
+38.88	48.52	<v Neil>	A <strong>stickler</strong> is someone who insists on a certain way of doing a particular thing.Surely you aren’t such a stickler for punctuation rules that you want to stop the evolution of English,
+48.52	49.08		Alice?
+49.08	49.64	<v Alice>	No,
+49.64	50.52		of course not,
+50.52	58.96		but I am a stickler when people don’t follow the rules of punctuation because this makes written text ambiguous or difficult to understand.
+58.96	62.6	<v Neil>	<strong>Ambiguous</strong> means when something has two or more meanings.
+62.6	66.88		Can you give me some examples of punctuation making text easier to understand?
+66.88	67.4	<v Alice>	Alright then,
+67.4	69.92		here you are: Let’s eat Grandma.
+69.92	70.8	<v Neil>	Ugh!
+70.8	73.96		It brings to mind the children’s story Little Red Riding Hood,
+73.96	74.32		about a girl,
+74.32	76.88		her grandmother and a hungry wolf.
+76.88	80.24		Is that the wolf talking to another wolf friend of his?
+80.24	80.84	<v Alice>	No,
+80.84	82.04		it’s the girl,
+82.04	83.08		Red Riding Hood,
+83.08	85.44		talking to her grandmother.
+85.44	90.08		And with a well-placed comma it becomes: Let’s eat,
+90.08	91.36		Grandma.
+91.36	95.16		Without proper punctuation the sentence is ambiguous.
+95.16	95.52		Now,
+95.52	99.08		before we look at more reasons why punctuation is important,
+99.08	100.96		let’s have today’s quiz question.
+100.96	101.64	<v Neil>	OK.
+101.64	106.96		What is another word for the keyboard sign that represents a paragraph?
+106.96	107.36		Is it…
+107.36	109.68		a) pilcrow?
+109.68	111.12		b) bodkin?
+111.12	113.28		or c) pica?
+113.28	115.2	<v Alice>	I’ll say c) pica.
+115.2	115.44	<v Neil>	Well,
+115.44	118.44		we’ll find out later in the show if you got that right or not.
+118.44	119.64	<v Alice>	Moving on now,
+119.64	123.88		punctuation was invented by the Ancient Greeks.
+123.88	128.8		They used a series of dots to indicate different lengths of pauses.
+128.8	131.16		A short unit of text was a comma,
+131.16	133.12		a longer unit was a colon,
+133.12	135.88		and a complete sentence was a periodos.
+135.88	139.28		We used these terms to name our punctuation marks –
+139.28	145.84		although they actually refer to the clauses not to the dots themselves.So early punctuation wasn’t about grammar,
+145.84	146.28		then?
+146.28	146.72	<v Alice>	No,
+146.72	148.4		it was about public speaking.
+148.4	152.72		The different dots indicated different lengths of pauses: short,
+152.72	153.24		medium,
+153.24	153.84		and long.
+153.84	160.04		These pauses broke the text up so it was easier to read and therefore easier to understand.
+160.04	160.4	<v Neil>	OK,
+160.4	162.64		let’s hear from the punctuation expert,
+162.64	163.72		Keith Houston,
+163.72	167.52		who is author of _Shady Characters: Ampersands,
+167.52	175.84		Interrobangs and Other Typographical Curiosities._ Here he’s talking on BBC Radio 4’s programme Word of Mouth*.*
+175.84	180	<v Keith Houston, author of _Shady Characters: Ampersands, Interrobangs and Other Typographical Curiosities_>	_Punctuation started off being all about rhetoric –
+180	181.48		about speech –
+181.48	184.04		but we started to assign rules,
+184.04	186.32		I think around about the 8th century or so.
+186.32	188.88		We started to associate the marks,
+188.88	189.92		not just with pauses,
+189.92	192.88		but with the actual grammatical units that were used to punctuate.
+192.88	193.36		So,
+193.36	195.72		a comma wasn’t just a dot that meant,
+195.72	197.68		pause for this length of time.
+197.68	200.16		It now actually marked out a clause,
+200.16	200.68		you know,
+200.68	203.6		it marked out a sort of consistent logical bit of writing.
+203.6	207.4	<v Alice>	So <strong>rhetoric</strong> –
+207.4	209.64		or the art of persuasive speaking –
+209.64	212.92		was very important to the Greeks and to the Romans.
+212.92	214.16		And to be persuasive,
+214.16	216.04		you need to be understood.
+216.04	220.56		And these little punctuation marks helped the speaker to deliver their text more effectively.
+220.56	221.48	<v Neil>	Later on,
+221.48	223.68		these marks were given grammatical functions.
+223.68	226.56		The comma marks out a <strong>clause</strong> –
+226.56	229.32		or grammatical unit containing a subject and a verb –
+229.32	231.6		as well as telling the reader to pause briefly.
+231.6	234.88	<v Alice>	Are you beginning to see why being <strong>sloppy</strong> –
+234.88	235.88		or careless –
+235.88	237.24		with punctuation isn’t a good thing,
+237.24	238.2		Neil?
+238.2	238.56	<v Neil>	Yes,
+238.56	238.96		I am.
+238.96	247.84		Though recent research into texting and punctuation suggests that people consider messages ending in full stops to be less sincere than ones without.
+247.84	248.48	<v Alice>	Really?
+248.48	249.36		Well,
+249.36	254.36		now might be a good time to hear about how it can be hard to make writing unambiguous.
+254.36	256.44		We can misinterpret the written word,
+256.44	258.44		even with punctuation to guide us.
+258.44	260.12		Here’s Keith Houston again,
+260.12	261.36		talking to Michael Rosen,
+261.36	262.56		presenter of Word of Mouth.
+262.56	267.88	<v Michael Rosen and Keith Houston>	MR: Quite often I notice on Twitter and places like that people misunderstand irony.
+267.88	271.68		I mean because we only have text in front of us not intonation.
+271.68	275.44		So do we need an irony punctuation –'hello,
+275.44	276.68		I’m being ironic now’ –
+276.68	277.32		do we need that?
+277.32	281.32		KH: You might say that emoticons are the best way to go about that –
+281.32	282.8		a little winking emoticon –
+282.8	283.16		you know,
+283.16	283.92		semicolon,
+283.92	284.52		dash,
+284.52	285.72		closing parenthesis.
+285.72	286.4		MR: Oh yes,
+286.4	286.76		yes,
+286.76	287.08		of course -
+287.08	291.04		they’ve invented all these with the punctuation that we have on the keyboard.
+291.04	296.04	<v Neil>	<strong>Irony</strong> means using words to mean something that is the opposite of its <strong>literal</strong> –
+296.04	297.24		or most usual –
+297.24	297.68		meaning.
+297.68	299.2		But when we’re online –
+299.2	300.4		using email or Twitter –
+300.4	301.88		you don’t hear the words,
+301.88	305.52		and that’s why it can be hard to know what feelings the writer intended.
+305.52	306.32	<v Alice>	That’s right.
+306.32	308.92		When we use <strong>emoticons</strong> –
+308.92	311.64		facial expressions made out of keyboard characters –
+311.64	314.56		we can signpost the feelings we intend.
+314.56	315.32	<v Neil>	Now,
+315.32	315.72		Alice,
+315.72	320.84		remember I asked you: What is another word for the keyboard sign that represents a paragraph?
+320.84	322.88		Is it a) pilcrow,
+322.88	325.96		b) bodkin or c) pica?
+325.96	326.68	<v Alice>	Yes,
+326.68	328.88		I said pica.
+328.88	330.2	<v Neil>	And you were wrong,
+330.2	331		I’m afraid.
+331	333.6		The right answer is pilcrow,
+333.6	336.68		which comes from the Greek word ‘paragraphos’.
+336.68	345		The earliest reference of the modern ‘pilcrow’ is from 1440 with the Middle English word ‘pylcrafte’.
+345	346.44	<v Alice>	Oh dear,
+346.44	347.72		sad face.
+347.72	350.36		I hate it when I get the quiz question wrong.
+350.36	350.88		Now,
+350.88	352.36		can we hear the words we learned today?
+352.36	353.04	<v Neil>	Yes,
+353.04	353.68		they are:
+353.68	354.4		stuffy
+354.4	355.76		stickler
+355.76	357.32		rhetoric
+357.32	358.76		clause
+358.76	360.08		sloppy
+360.08	361.52		irony
+361.52	363.04		literal
+363.04	364.68		emoticons
+364.68	365.6	<v Alice>	Well,
+365.6	367.64		that’s the end of today’s 6 Minute English.
+367.64	370.12		Please join us again soon!
+370.12	371	<v Both>	Bye!
+371	376.96		6 minute English from BBC.

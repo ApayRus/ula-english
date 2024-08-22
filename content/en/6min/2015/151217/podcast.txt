@@ -1,0 +1,150 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	12.12		6 minute English from BBClearningEnglish.com
+12.12	14.48	<v Alice>	Hello and welcome to 6 Minute English.
+14.48	15.2		I’m Alice…
+15.2	15.4	<v Finn>	…
+15.4	16.52		and I’m Finn.
+16.52	17.08		Hello.
+17.08	17.44	<v Alice>	Hello,
+17.44	17.84		Finn.
+17.84	19.72		You’re off on holiday tomorrow,
+19.72	20.04		aren’t you?
+20.04	21.24	<v Finn>	I am and you know,
+21.24	22.88		and I’m dreading it.
+22.88	24.24		I hate flying!
+24.24	24.8	<v Alice>	Do you?
+24.8	26.8		I didn’t know you had a <strong>phobia</strong> –
+26.8	30.04		and that means a strong and unreasonable fear of something.
+30.04	30.92	<v Finn>	Well,
+30.92	35.8		I don’t think this is a phobia because it isn’t unreasonable.
+35.8	40.28		Flying thousands of feet up in the sky in a tin can,
+40.28	40.72		you know,
+40.72	41.88		that’s not safe!
+41.88	43.84	<v Alice>	Flying is safer than you think,
+43.84	44.88		Finn.
+44.88	47.96		It’s much riskier to drive or cycle to work.
+47.96	48.24		And,
+48.24	49.24		actually,
+49.24	52.28		risk taking is the subject of today’s show!
+52.28	57.04		<strong>Risk</strong> means the chances of something bad happening.
+57.04	57.96		For example,
+57.96	69.48		did you know that your chance of being knocked off your bicycle and killed during a one-mile journey is the same as your chances of winning the lottery?
+69.48	70.16	<v Finn>	You know Alice,
+70.16	71.32		I didn’t know that.
+71.32	76.72	<v Alice>	And this leads me on to our quiz question for today: What are the odds …
+76.72	80.84		what are the chances of either of these two things happening?
+80.84	81.84		Is it…
+81.84	84.52		a) 1 in 4 million?
+84.52	87.68		b) 1 in 14 million?
+87.68	91.28		Or c) 1 in 400 million?
+91.28	93.92	<v Finn>	I have no idea.
+93.92	97.28		I’ll go with the big number: 1 in 400 million,
+97.28	98.04		c).
+98.04	98.68	<v Alice>	OK.
+98.68	102.32		So we’ll find out later if you’re right or wrong later on.
+102.32	104.24		Now let’s listen to Andreas Wilkey,
+104.24	107.48		a psychologist at Clarkson University in New York,
+107.48	110.64		talking about why we’re bad at assessing risk.
+110.64	117.44	<v Andreas Wilkey, Psychologist, Clarkson University, Potsdam, New York>	People typically fear anything which is small probability but it’s extremely catastrophic if it were to happen…
+117.44	119.84		Think about dying in a plane crash,
+119.84	123.48		think about a nuclear meltdown from the nearby power plant.
+123.48	128.04		Recently we have another increase in these birds’ virus outbreaks in South Korea.
+128.04	129.52		People read about that.
+129.52	135.08		And they may pay a lot of attention to that in the news but they may forget to get their flu shot.
+135.08	138.32	<v Finn>	That was Andreas Wilkey from Clarkson University.
+138.32	145.84		And we heard that a small <strong>probability</strong> of something happening means it’s unlikely to happen.
+145.84	157.12		But we worry about big or catastrophic events such as catching bird flu or dying in a plane crash because we have a <strong>gut</strong> <strong>reaction</strong> to them–
+157.12	158.04		in other words,
+158.04	159.8		we react emotionally.
+159.8	165.2		A <strong>catastrophic</strong> event is something that causes a huge amount of damage and suffering.
+165.2	168.52	<v Alice>	And it’s often because of <strong>media coverage</strong> –
+168.52	169.2		for example,
+169.2	172.04		watching the news and reading the newspapers –
+172.04	177.6		that it can be difficult for us to understand how likely certain things are to happen.
+177.6	181.4		Catastrophic events feel like very real threats,
+181.4	187.24		while we tend to forget about the small but chronic risks that become more likely over time.
+187.24	187.68	<v Finn>	We do.
+187.68	192.04		<strong>Chronic</strong> means something that lasts for a long time.
+192.04	193.84		So for example,
+193.84	199.44		what if there was a cigarette that killed you as soon as you smoked it?
+199.44	200		Nobody would do that,
+200	200.64		would they?
+200.64	201.08	<v Alice>	No,
+201.08	202.4		they wouldn’t.
+202.4	206.04	<v Finn>	But plenty of people are happy to smoke for years,
+206.04	210.16		and put off worrying about the health risks for the future.
+210.16	210.48	<v Alice>	Yes,
+210.48	211.8		that’s a good point,
+211.8	212.16		Finn!
+212.16	216.28		People feel they are in control of risks that stretch over time.
+216.28	217		You know,
+217	217.68		they think,
+217.68	220.96		‘I could stop tomorrow’ or ‘I could smoke less’.
+220.96	224.24		But what about people who enjoy taking big risks –
+224.24	226.6		those <strong>thrill seekers</strong> out there?
+226.6	231.96	<v Finn>	People who enjoy extreme sports actually seek out danger –
+231.96	234.88		it gives them extreme pleasure!
+234.88	238.48		So let’s listen to Karina Hollekim from Norway.
+238.48	240.76		She’s a <strong>base jumper</strong> –
+240.76	244.32		that’s a person with a parachute who leaps from tall buildings or cliffs –
+244.32	249.08		and she’s talking about what she feels about risk.
+249.08	251.24	<v Karina Hollekim, base jumper>	You need to measure the pleasure.
+251.24	252.84		Is it going to be worth it for you?
+252.84	254.92		So if the risk is really high,
+254.92	257.96		it means that the pleasure needs to be equally high.
+257.96	259.48		Or hopefully even higher…
+259.48	262.36		You can’t measure it on a scale or anything.
+262.36	262.8		For me,
+262.8	263.84		it’s a stomach feeling.
+263.84	265.8		It’s the value within me,
+265.8	269.76		and I’m the only one who can tell what value it has to me.
+269.76	270.76	<v Alice>	Yes.
+270.76	273.6		It must be a magical feeling to step off a cliff,
+273.6	274.04		mustn’t it,
+274.04	274.76		Finn?
+274.76	276.28	<v Finn>	‘It’s a stomach feeling’,
+276.28	276.52		you know –
+276.52	278.76		my stomach would definitely be saying,
+278.76	279.32		'oh no,
+279.32	280.04		no,
+280.04	285.56		no!’ So why not change the subject and give me the answer to today’s quiz question?
+285.56	296.44	<v Alice>	I asked: What are your chances of being knocked off your bicycle and killed during a one-mile journey and this is the same as your chances of winning the national lottery?
+296.44	297.08		So is it…
+297.08	300.6		a) 1 in 4 million?
+300.6	304.08		b) 1 in 14 million?
+304.08	307.64		Or c) 1 in 400 million?
+307.64	311.2	<v Finn>	I said c) 1 in 400 million.
+311.2	312.24	<v Alice>	Yes.
+312.24	313.12		And you were wrong,
+313.12	313.32		Finn.
+313.32	314.6	<v Finn>	Alright.
+314.6	314.96		Really?
+314.96	315.56		OK.
+315.56	315.88	<v Alice>	Yes.
+315.88	320.12		The odds are actually 1 in 14 million.
+320.12	327.76		You are as likely to win the national lottery from a single ticket as you are to be knocked off your bicycle and killed during a one-mile journey.
+327.76	331.76		This statistic comes from the Professor David Spiegelhalter,
+331.76	338.88		who is Winton Professor of the Public Understanding of Risk in the Statistical Laboratory at the University of Cambridge in the UK.
+338.88	341.04		So I think he really knows his stuff.
+341.04	342.4	<v Finn>	That’s a very long title,
+342.4	342.8		yes,
+342.8	343.64		I’m sure he does.
+343.64	343.88	<v Alice>	Yeah.
+343.88	346.2	<v Finn>	So let’s hear today’s words again,
+346.2	346.72		Alice?
+346.72	347.36	<v Alice>	Here they are:
+347.36	348.6		phobia
+348.6	349.96		risk
+349.96	351.64		probability
+351.64	353.24		gut reaction
+353.24	354.6		catastrophic
+354.6	356.56		media coverage
+356.56	357.84		chronic
+357.84	359.44		thrill seekers
+359.44	360.64		base jumper
+360.64	364.28		And that brings us to the end of today’s 6 Minute English.
+364.28	366.92		We hope you were thrilled by today’s programme.
+366.92	368.48		Please join us again soon.
+368.48	369.8	<v Both>	Bye.
+369.8	376.72		6 minute English from BBC.

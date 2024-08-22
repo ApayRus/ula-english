@@ -1,0 +1,149 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.6		to find out more visit our website
+6.6	11.6		6 minute English from BBClearningEnglish.com
+11.6	13.48	<v Neil>	Hello and welcome to 6 Minute English.
+13.48	14.44		I’m Neil.
+14.44	14.88	<v Catherine>	Hello.
+14.88	16.04		And I’m Catherine.
+16.04	16.24	<v Neil>	Now,
+16.24	16.8		Catherine,
+16.8	21.24		how do you feel about <strong>cephalopods</strong>?
+21.24	23.56	<v Catherine>	Er …<strong>cephalopods</strong>?
+23.56	23.8	<v Neil>	Yeah.
+23.8	25.36		You do know what <strong>cephalopods</strong> are,
+25.36	25.52		don’t you?
+25.52	26.04	<v Catherine>	Yes,
+26.04	26.76		of course I do.
+26.76	27.96		It’s a new kind of ipod,
+27.96	28.24		isn’t it?
+28.24	28.64	<v Neil>	Not exactly,
+28.64	29.76		no.
+29.76	33.32		A <strong>cephalopod</strong> is a kind of sea creature,
+33.32	35.64		like a squid or octopus.
+35.64	36.16	<v Catherine>	Oh,
+36.16	36.84		<strong>cephalopods</strong>,
+36.84	37.24		yes,
+37.24	37.8		of course.
+37.8	40.4		I know what a <strong>cephalopod</strong> is.
+40.4	41.16	<v Neil>	Of course you do.
+41.16	41.36		Well,
+41.36	45.08		today’s programme is all about one of these squishy creatures,
+45.08	46.16		the octopus,
+46.16	48.88		which apparently is a pretty clever animal.
+48.88	49.48		To start,
+49.48	51.6		here’s today’s quiz question.
+51.6	54.72		What is the correct plural form of octopus?
+54.72	55		Is it:
+55	57.04		a) octopuses
+57.04	61.84		b) octopodes /ɒkˈtɒpəʊdɪːz/
+61.84	62.6		c) octopi
+62.6	62.84		What do you think,
+62.84	63.48		Catherine?
+63.48	64	<v Catherine>	OK.
+64	65.48		I think this is a trick question.
+65.48	67.84		I think people think that it’s ‘octopi’,
+67.84	68.8		but it’s actually,
+68.8	70.56		there’s a technical term for it,
+70.56	73.04		which is the correct term and that’s ‘octopodes’.
+73.04	74.24		But some people think,
+74.24	75.24		like children and stuff,
+75.24	78.64		they just put the plural ‘s’ on so they say ‘octopuses’.
+78.64	82.28		So I’m going for answer b) octopodes.
+82.28	83	<v Neil>	Wow!
+83	85.24		Listen out for the answer at the end of the programme,
+85.24	87.36		just to see how right or wrong you are.
+87.36	88.36		Now,
+88.36	91.76		apparently the octopus is a remarkably intelligent creature.
+91.76	100.48		They have the ability to solve some complex problems and in one famous case one was even able to predict the result of World Cup football matches.
+100.48	101.32	<v Catherine>	Oh yes,
+101.32	103.36		that was Paul the octopus.
+103.36	105.16		I don’t think he was really psychic though.
+105.16	108.48		It was just <strong>a publicity stunt</strong> by the zoo that had him,
+108.48	110.48		as a way to promote their zoo.
+110.48	111.92	<v Neil>	It may have been a <strong>publicity stunt</strong>,
+111.92	113.84		but he was actually quite accurate.
+113.84	114.24		In fact,
+114.24	118		he correctly predicted the result of 12 matches out of 14 -
+118	119.8		that’s 86%.
+119.8	120.28		Not bad,
+120.28	120.56		eh?
+120.56	121.28	<v Catherine>	That’s amazing.
+121.28	123.2		I didn’t know he was that good.
+123.2	123.6		Anyway,
+123.6	123.88		Neil,
+123.88	126.16		tell us more about the octopus.
+126.16	126.52	<v Neil>	Well,
+126.52	129.16		I’ll leave that to Peter Godfrey-Smith,
+129.16	133.44		philosopher of science and author of Other Minds: The Octopus,
+133.44	134.2		the Sea,
+134.2	136.24		and the Deep Origins of Consciousness.
+136.24	139.84		He is quite a fan of our eight-tentacled friends.
+139.84	147.04		On the BBC Radio 4 programme Start the Week he said that humans and the octopus have a <strong>common ancestor</strong>.
+147.04	151.24		This is a term in science which means ‘a creature from which both species evolved’.
+151.24	153.2		Like a very distant relative.
+153.2	159		How long ago does he say this <strong>common ancestor</strong> lived?
+159	163.6	<v Peter Godfrey-Smith>	We got the octopus as a very special evolutionary product.
+163.6	166.8		It’s an animal that’s removed from us by a lot of evolutionary distance.
+166.8	175.4		The <strong>common ancestor</strong> that we share with an octopus lived about 600 million years ago or actually even a bit longer than that.
+175.4	183.16		But it has a large nervous system in a range <strong>comparable</strong> <strong>to</strong> <strong>vertebrates</strong>.
+183.16	187.56	<v Catherine>	So our <strong>common ancestor</strong> lived about 600 million years ago –
+187.56	190.08		or maybe a little bit longer than that.
+190.08	194.84	<v Neil>	And he says that the octopus has a nervous system that is <strong>comparable to</strong> <strong>vertebrates</strong>.
+194.84	196.48		<strong>Comparable</strong> means ‘similar to’,
+196.48	197.72		like,
+197.72	202.44		and <strong>vertebrates</strong> is the term for the group of animals that have a spine or backbone.
+202.44	204.52		We humans are examples of vertebrates.
+204.52	215.64	<v Catherine>	So what Godfrey-Smith is saying is that the squishy octopus has a nervous system which has some similarities to our own in that it’s quite large.
+215.64	218.36	<v Neil>	And a large nervous system is a sign of intelligence.
+218.36	223.08		He goes on to talk a bit more about how we might be able to relate to the octopus.
+223.08	226.24		He talks about the <strong>protean</strong> nature of its body.
+226.24	229.36		<strong>Protean</strong> is an adjective which means ‘adaptable or changeable’,
+229.36	232.08		and the octopus’s body is certainly that.
+232.08	234.84		Why might that be a problem for us?
+234.84	238.84	<v Peter Godfrey-Smith>	The sensory world of an octopus has,
+238.84	241.2		in some way it’s recognisable.
+241.2	242.68		They’re very visual animals,
+242.68	248.08		they’re very taste-oriented animals and those things make sense to us.
+248.08	250.64		But the absence of hard parts,
+250.64	258		the <strong>protean</strong> nature of the body and the sort of extent of the sensitivity makes it a hard thing to think about.
+258	260.48	<v Catherine>	This is interesting,
+260.48	261.24		isn’t it?
+261.24	265.12		So the octopus uses its senses of vision and taste,
+265.12	266.6		like we do,
+266.6	268.56		and this is something we can recognise,
+268.56	274.92		but what is tricky for us is that its form is so completely different from ours.
+274.92	281.28		The octopus isn’t a <strong>vertebrate</strong> so it can change its form and its shape very easily.
+281.28	282.44	<v Neil>	Yes,
+282.44	286.84		we’re not used to thinking of soft squishy things having intelligence.
+286.84	287.96		And speaking of intelligence,
+287.96	297.56		we’ve been very careful not to use the plural of octopus so as not to give away the answer to today’s question which was: what’s the correct plural form?
+297.56	297.96		a) octopuses
+297.96	302.28		b) octopodes /ɒkˈtɒpəʊdɪːz/
+302.28	302.28		c) octopi
+302.28	302.64		Catherine,
+302.64	303.08		you said…
+303.08	303.8	<v Catherine>	Well,
+303.8	307.08		I said that some people think it’s ‘octopuses’,
+307.08	309.52		a lot of people think it’s ‘octopi’,
+309.52	312.56		but the actual answer is ‘octopodes’.
+312.56	313.68	<v Neil>	And you’re completely right.
+313.68	315.88		Congratulations!
+315.88	316.28	<v Catherine>	Thank you.
+316.28	319.72		So let’s review today’s vocabulary.
+319.72	324.36		<strong>Cephalopod</strong> is the name of the group of animals to which the octopus belongs.
+324.36	330.28	<v Neil>	A <strong>publicity stunt</strong> is something a company might do to grab your attention and promote its products.
+330.28	334.32		Like claiming an octopus can predict the winner of football matches.
+334.32	340.32	<v Catherine>	A <strong>common ancestor</strong> is a distant relative from which two different species evolved.
+340.32	346.72	<v Neil>	<strong>Comparable to</strong> means ‘similar to’ and <strong>vertebrates</strong> are animals that have a spine.
+346.72	350.28	<v Catherine>	And then finally we had <strong>protean</strong>,
+350.28	353.56		this adjective means ‘adaptable and changeable’.
+353.56	357.68	<v Neil>	Time now for us to say goodbye but remember you can find us on ­­Instagram,
+357.68	358.28		Facebook,
+358.28	358.84		Twitter,
+358.84	360.44		YouTube as well as our website,
+360.44	362.52		bbclearningenglish.com.
+362.52	364.52		So be sure to check us on one,
+364.52	367.32		several or all of those before joining us again.
+367.32	368.32		Goodbye.
+368.32	369.32	<v Catherine>	Bye!
+369.32	377.32		6 minute English from BBC.

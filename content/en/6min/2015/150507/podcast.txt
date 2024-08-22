@@ -1,0 +1,170 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	12.2		6 minute English from BBClearningEnglish.com
+12.2	13.8	<v Rob>	…and I’m Neil.
+13.8	14.72		Hello.
+14.72	16.32	<v Rob>	Hello,
+16.32	16.92		Neil!
+16.92	17.48		Now,
+17.48	18.28		Neil,
+18.28	20		could I borrow your phone charger?
+20	21.6		My phone’s just died.
+21.6	22.28	<v Neil>	Er…
+22.28	25.28		I don’t think my charger is compatible with your phone.
+25.28	30		<strong>Compatible</strong> means when you can use things together…
+30	33.92		I’m afraid there’ll be no status updates for you today then Rob.
+33.92	34.44	<v Rob>	Oh dear.
+34.44	36.68		I can’t believe it’s run out of power already.
+36.68	37.28	<v Neil>	Well,
+37.28	40.4		you shouldn’t have bought a state-of-the-art phone –
+40.4	42.6		it’s a big drain on the battery.
+42.6	46.68	<v Rob>	<strong>State of the art</strong> means something that has the newest ideas and features,
+46.68	47.4		like my phone.
+47.4	50.6		So I should have stuck with a dinosaur like yours,
+50.6	50.64		eh,
+50.64	50.88		Neil?
+50.88	55.64	<v Neil>	And <strong>dinosaur</strong> here means something that is out-dated.
+55.64	57.24		You can laugh at my phone,
+57.24	59.84		but it’s got plenty of battery life left –
+59.84	60.92		unlike yours!
+60.92	61.32	<v Rob>	Hmmm…
+61.32	61.68		OK,
+61.68	62.08		well,
+62.08	65.48		I might just pop out and ask if someone’s got the same charger…
+65.48	66.6	<v Neil>	Stay where you are.
+66.6	68.68		We’re recording a programme!
+68.68	70.08		And today’s show is…
+70.08	71.16		you guessed it…
+71.16	73.24		all about phones!
+73.24	73.92	<v Rob>	That’s right,
+73.92	74.36		Neil.
+74.36	78.12		And we’re also talking about <strong>wireless furniture</strong>…
+78.12	79.44	<v Neil>	Pardon?
+79.44	80.04	<v Rob>	Yes,
+80.04	83.68		furniture with built-in wireless charging technology -
+83.68	85.4		like a coffee table.
+85.4	89.8		<strong>Built in</strong> means the technology is included as part of the table.
+89.8	92.16		So you just pop your phone on the table,
+92.16	93.8		and technology does the rest!
+93.8	94.24	<v Neil>	Magic!
+94.24	102.72		And <strong>wireless technology</strong> is the way mobile phones work using radio waves to send and receive data.
+102.72	104.28		So that’s what we need -
+104.28	108.76		a desk with a built-in charging spot for both our phones!
+108.76	111.72		But would it be compatible for both of them?
+111.72	111.92	<v Rob>	Well,
+111.92	113.76		that’s an excellent question -
+113.76	116.08		and I don’t have the answer.
+116.08	121.64		But can you tell me the answer to this: What do modern phone batteries contain?
+121.64	122.32		Is it…
+122.32	123.96		a) nickel
+123.96	125.28		b) lithium
+125.28	127.76		or c) lead-acid
+127.76	128.44	<v Neil>	Well,
+128.44	130.52		lead-acid sounds dangerous…
+130.52	134.2		so I think it’s either nickel or lithium.
+134.2	136.08		I’ll go with lithium.
+136.08	136.96	<v Rob>	OK,
+136.96	137.88		well,
+137.88	140.16		we’ll find out if you’re right or wrong later on.
+140.16	148.76		But now let’s listen to journalist Daisy Buchanan who thinks that mobile phones have stopped us having conversations.
+148.76	153.36		And listen out for a phrase that means ‘it’s unlikely to happen soon’.
+153.36	155.44	<v Daisy Buchanan, writer for the Telegraph & the Guardian newspapers>	I was thinking yesterday how it used to be,
+155.44	155.52		you know,
+155.52	164.8		you used to sort of go into a café or a pub maybe and look for where the loos are but now the first thing we’re looking for is sockets to try and find where you can charge if you…
+164.8	165.84		you know,
+165.84	168.04		if you’re having an emergency…
+168.04	169.48		And maybe with this,
+169.48	170.4		I might be being naïve -
+170.4	171.04		I suspect I am -
+171.04	174.96		especially with Ikea’s new wireless charging furniture…
+174.96	179.28		that maybe if our batteries died a bit more frequently we are going to…
+179.28	179.68		you know…
+179.68	181.56		look up a bit more and have a few more conversations.
+181.56	182.56		I’m not holding my breath,
+182.56	184.32		but you can but hope.
+184.32	186.6	<v Rob>	Daisy said some really interesting things there,
+186.6	189.16		so let’s listen to that clip again.
+189.16	191.12	<v Daisy Buchanan, writer for the Telegraph & the Guardian newspapers>	I was thinking yesterday how it used to be,
+191.12	191.52		you know,
+191.52	200.6		you used to sort of go into a café or a pub maybe and look for where the loos are but now the first thing we’re looking for is sockets to try and find where you can charge if you…
+200.6	201.6		you know,
+201.6	203.84		if you’re having an emergency…
+203.84	205.2		And maybe with this,
+205.2	206.48		I might be being naïve -
+206.48	207.44		I suspect I am -
+207.44	210.76		especially with Ikea’s new wireless charging furniture…
+210.76	213.76		that maybe if our batteries died a bit more frequently we are going to…
+213.76	214.16		you know…
+214.16	217.4		look up a bit more and have a few more conversations.
+217.4	218.4		I’m not holding my breath,
+218.4	220.48		but you can but hope.
+220.48	221.32	<v Rob>	Did you get it?
+221.32	228.12		Another way of saying ‘It’s unlikely to happen soon’ is <strong>I’m not holding my breath</strong>.
+228.12	228.52		Now,
+228.52	233.04		Daisy doesn’t seem keen on the idea of wireless charging furniture.
+233.04	236.64		She thinks our phones are stopping us from having conversations.
+236.64	237.92	<v Neil>	It sounds ridiculous,
+237.92	239		but it’s true,
+239	239.76		isn’t it?
+239.76	244.68		We spend far too much time staring at our phones instead of talking to each other.
+244.68	246.28	<v Rob>	Sorry.
+246.28	246.64		What’s that,
+246.64	246.64		Neil?
+246.64	247.84		I was just looking at my phone.
+247.84	248.24	<v Neil>	Come on,
+248.24	248.64		Rob!
+248.64	249.84		Put the phone away.
+249.84	250	<v Rob>	OK.
+250	250.2		Well,
+250.2	252.76		that’s because phone <strong>functionality</strong> -
+252.76	254.16		that’s what a phone can do -
+254.16	256.12		is increasing all the time.
+256.12	259.48		But let’s move on now and <strong>think green</strong> for a minute.
+259.48	265.4		Are there any environmental factors to consider in relation to new mobile phone technology?
+265.4	271.72	<v Neil>	Let’s listen to Fevzi Turkalp talking about the latest model of one mobile phone brand -
+271.72	272.56		and find out.
+272.56	278.36	<v Fevzi Turkalp, editor of tech advice website GadgetDetective.com>	They’ve taken the decision to make it a sealed unit so no user-replaceable battery…
+278.36	279.52		And I guess…
+279.52	283.12		you’re more likely then to say you know what I won’t replace the battery I’ll just get a new phone.
+283.12	288.6	<v Rob>	So Fevzi says this new phone doesn’t have a <strong>user-replaceable</strong> battery,
+288.6	291.32		meaning you can’t take it out and replace it -
+291.32	293.64		and this is a problem for the environment.
+293.64	294.64	<v Neil>	That’s right -
+294.64	298.84		environmentalists want products that are designed to be taken apart.
+298.84	301.56		Then they can be easily upgraded,
+301.56	303.4		repaired or recycled.
+303.4	306.72		But you can’t do this with a <strong>sealed unit</strong> -
+306.72	308.56		a unit that cannot be opened.
+308.56	310.16	<v Rob>	And this means <strong>toxic</strong> -
+310.16	311.2		or poisonous -
+311.2	313.72		materials are often dumped in landfill.
+313.72	315.08		And you guessed it –
+315.08	317.16		that’s really bad for the environment.
+317.16	318.24		Now,
+318.24	323.24		remember at the beginning of the programme I asked you: What do modern phone batteries contain?
+323.24	324.88	<v Neil>	And I said lithium…
+324.88	328.44	<v Rob>	And you know your batteries well because that’s the right answer!
+328.44	329.08	<v Neil>	Wow.
+329.08	330.36		What a great guess!
+330.36	330.92		Now Rob,
+330.92	332.56		how about those words again?
+332.56	333.52	<v Rob>	OK,
+333.52	335.12		the words we heard today were:
+335.12	336.32		compatible
+336.32	338.8		state of the art
+338.8	340.28		dinosaur
+340.28	342.76		wireless furniture
+342.76	344.28		built in
+344.28	346.64		wireless technology
+346.64	349.2		I’m not holding my breath
+349.2	351		functionality
+351	352.92		think green
+352.92	355.48		user-replaceable
+355.48	357.52		sealed unit
+357.52	359.24		toxic
+359.24	360.52	<v Neil>	Well,
+360.52	363.52		that brings us to the end of today’s 6 Minute English.
+363.52	366.48		We hope you’re feeling charged up by today’s programme.
+366.48	368.2		Please join us again soon.
+368.2	369.52	<v Both>	Bye.
+369.52	377.64		6 minute English from BBC.

@@ -1,0 +1,149 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.2		6 minute English from BBClearningEnglish.com
+12.2	14.48	<v Alice>	Hello and welcome to 6 Minute English.
+14.48	15.04		I’m Alice…
+15.04	16.12	<v Neil>	And I’m Neil.
+16.12	16.84	<v Alice>	What are you eating,
+16.84	17.4		Neil?
+17.4	19.36	<v Neil>	It’s a chocolate chip muffin.
+19.36	21.68	<v Alice>	How many calories do you think it contains?
+21.68	24.6	<v Neil>	I have no idea.Check the packet.
+24.6	29.16	<v Neil>	It’s hard to find the calorie content amongst all the other information here.
+29.16	29.88		Ah,
+29.88	31.88		here we go: 450.
+31.88	32.84	<v Alice>	That’s a lot!
+32.84	34.84		Are you sure you should be eating that?
+34.84	35.64	<v Neil>	Why not?
+35.64	38.8		I expect I cycled off quite a few calories on the way to work.
+38.8	39.16	<v Alice>	Well,
+39.16	44.56		that depends on the length of your journey and how much energy you <strong>expended</strong> –
+44.56	44.68		or used up.
+44.68	45.12		Now,
+45.12	50.44		on today’s show we’re talking about food and the exercise it takes to burn off calories.
+50.44	51.88		And I have a question for you,
+51.88	58.04		Neil: How long would you have to walk to burn off the calories in a quarter of a large pizza?
+58.04	60.24		Is it…a) 33 minutes?
+60.24	62.08		b) 53 minutes?
+62.08	64.04		c) 83 minutes?
+64.04	66.92	<v Neil>	I’ll go for a) 33 minutes.
+66.92	73.24		That sounds quite enough considering if you ate the whole pizza it would mean walking for 132 minutes to <strong>burn off</strong> –
+73.24	73.88		or use –
+73.88	74.6		the calories.
+74.6	75.76		And that’s over two hours!
+75.76	76.56	<v Alice>	Well,
+76.56	80.12		we’ll find out later on whether you got the answer right or not,
+80.12	80.56		Neil.
+80.56	81.44		But be warned –
+81.44	85.68		people are bad at estimating how many calories there are in food.
+85.68	86.04		Now,
+86.04	95.32		the Royal Society for Public Health here in the UK is concerned that people don’t read the information on food packaging because the text is so <strong>dense</strong> –
+95.32	95.84		it means,
+95.84	97.08		tightly packed.
+97.08	97.4	<v Neil>	Well,
+97.4	99.84		I never look at food labelling when I’m shopping for food.
+99.84	100.32		How about you,
+100.32	100.8		Alice?
+100.8	101.12	<v Alice>	Well,
+101.12	101.84		personally,
+101.84	105.44		I like to make an informed choice about what I put in my body,
+105.44	106.12		Neil!
+106.12	110.36		And <strong>informed</strong> means based on an understanding of the facts.
+110.36	112.92		So I spend a lot of time reading the packaging.
+112.92	116.04		And I think the current traffic lights are a great idea.
+116.04	117.48	<v Neil>	Traffic lights?
+117.48	119.56		What are you talking about?
+119.56	122.32	<v Alice>	It’s where food content is colour-coded red,
+122.32	123.52		orange or green –
+123.52	124.96		like traffic lights –
+124.96	127.04		depending on its percentage of fat,
+127.04	127.52		sugar,
+127.52	128.68		and salt.
+128.68	133.24		So you can see at a glance which pizza on the supermarket shelf is better for you.
+133.24	135.28		This helps the consumer to make an informed choice.
+135.28	139.68	<v Neil>	To <strong>see at a glance</strong> means to understand something immediately.
+139.68	139.92		Well,
+139.92	144.12		my informed choice is based on which pizza has the most pepperoni on it.
+144.12	148.24		I had no idea food companies were putting traffic lights on their food packaging!
+148.24	148.56	<v Alice>	Yes,
+148.56	149.92		and that’s not all,
+149.92	150.24		Neil.
+150.24	153.52		There are now plans to put an <strong>icon</strong> –
+153.52	154.32		or simple picture –
+154.32	162.04		of someone running plus the time it would take to burn off the calories contained in a particular food item on the front of packaging.
+162.04	166.08		Let’s hear what some consumers on the streets of London thought about this idea.
+166.08	175.2	<v INSERT>	MAN: I would think twice about buying crisps if I have to run 19 minutes just to burn the calories I ate.
+175.2	180.84		WOMAN: I’d either consider working out those 19 minutes or not eating the crisps at all.
+180.84	189.44	<v Alice>	Two people who would think twice about whether to buy crisps if they knew how long it would take to burn off the calories.
+189.44	194.32	<v Neil>	And <strong>think twice</strong> means to think carefully about doing something before you do it.
+194.32	194.56		But,
+194.56	195.12		to be honest,
+195.12	197.56		I want freedom to do what I feel like.
+197.56	201.6		Even if they put a label on the food I think I’d exercise if I wanted to exercise,
+201.6	205.92		but I think I’d still have a packet of crisps if I wanted a packet of crisps.
+205.92	213.52	<v Alice>	That’s fine so long as you are clear about how active you need to be to eat what you do and not put on weight.
+213.52	216.8	<v Neil>	But a healthy diet isn’t just about calories is it?
+216.8	219.92		I wouldn’t need to cycle to work to burn off a diet cola,
+219.92	223.12		but drinking a fresh orange juice would be a healthier choice –
+223.12	225		even though it contains more calories.
+225	225.24	<v Alice>	Well,
+225.24	227.12		that’s a good point.
+227.12	229.04		Let’s listen now to Shirley Cramer,
+229.04	231.92		Chief Executive at the Royal Society for Public Health,
+231.92	235.16		talking about why she thinks the new labelling is necessary.
+235.16	241.68	<v INSERT>	We’ve got 60% of the UK population either overweight or obese.
+241.68	242.52		We have a very,
+242.52	243.56		very urgent problem.
+243.56	246.16		We have a growing population,
+246.16	246.88		literally,
+246.88	250.44		and we need to have a lot of tools in our toolbox,
+250.44	251.72		a lot of new strategies,
+251.72	252.08		I think,
+252.08	255.68		in order to support people to make good choices.
+255.68	260.32	<v Neil>	Shirley Cramer of the Royal Society of Public Health.
+260.32	261.12		So,
+261.12	263.8		she says we need lots of <strong>tools</strong> –
+263.8	266.8		or strategies –to help tackle obesity in the UK.
+266.8	272.04		And linking energy content in food to physical activity is just one tool in the toolbox,
+272.04	273.24		so to speak.
+273.24	274.52	<v Alice>	Indeed.
+274.52	274.92		Now,
+274.92	277.96		I think it’s time for the answer to today’s quiz question,
+277.96	278.88		Neil.
+278.88	285.16		I asked you: How long would you have to walk to burn off the calories in a quarter of a large pizza?
+285.16	285.88		Is it…
+285.88	287.68		a) 33 minutes?
+287.68	289.6		b) 53 minutes?
+289.6	291.8		Or c) 83 minutes?
+291.8	295.64	<v Neil>	And I said a) 33 minutes.And you underestimated,
+295.64	296.16		I’m afraid,
+296.16	296.8		Neil!
+296.8	299.92		The answer is c) 83 minutes.
+299.92	302.36		This figures comes from Shirley Cramer,
+302.36	306		Chief Executive of the Royal Society for Public Health.
+306	307.8		Writing in the British Medical Journal,
+307.8	313.08		she argues that food should be labelled with the equivalent exercise needed to burn off its calories.
+313.08	321.44		This would give consumers an immediate link between food’s energy content and physical activity that might help to reduce obesity.Note,
+321.44	321.84		Alice,
+321.84	324.52		that I’ve put my muffin to one side.
+324.52	329.52		You’ve convinced me to eat more healthily and I’ll be eating a green salad for lunch.
+329.52	331.4		I’ll believe that when I see it,
+331.4	331.88		Neil.
+331.88	332.44		OK,
+332.44	335.16		here are the words we learned today:
+335.16	335.88		expended
+335.88	338.2		burn off
+338.2	340.52		dense
+340.52	343		informed
+343	345.76		see at a glance
+345.76	348.12		icon
+348.12	350.64		think twice
+350.64	352.64		tool
+352.64	354.36	<v Neil>	Well,
+354.36	356.68		that’s the end of this edition of 6 Minute English.
+356.68	358.6		Join us again soon.
+358.6	362.28		Meanwhile visit our website bbclearningenglish.com,
+362.28	364.16		where you’ll find guides to grammar,
+364.16	368.2		exercises videos and articles to read and improve your English.
+368.2	370.08	<v Both>	Bye!
+370.08	377.04		6 minute English from BBC.

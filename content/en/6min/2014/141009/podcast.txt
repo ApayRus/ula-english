@@ -1,0 +1,151 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	11.24		6 minute English from BBClearningEnglish.com
+11.24	13.52	<v Rob>	Hello and welcome to 6 Minute English.
+13.52	13.96		I’m Rob…
+13.96	14.36	<v Finn>	…
+14.36	15.28		and I’m Finn.
+15.28	15.92		Hello.
+15.92	16.2	<v Rob>	Hello,
+16.2	16.96		Finn.
+16.96	17.4		Now,
+17.4	19.16		you like food don’t you?
+19.16	19.48	<v Finn>	Yes,
+19.48	20.44		I do.
+20.44	23.48	<v Rob>	But how much of it do you actually throw away?
+23.48	28.2	<v Finn>	Probably too much although I’m trying to get better at that,
+28.2	28.52		Rob.
+28.52	29.48	<v Rob>	I’m asking you this
+29.48	32.56		because many people around the world throw away food
+32.56	34.8		that’s still good enough to eat –
+34.8	38.24		this food waste could feed millions of other people.
+38.24	39.92		That’s what we’re talking about today
+39.92	42.68		as well as looking at some related vocabulary.
+42.68	43.32	<v Finn>	Yes,
+43.32	44.76		food waste is a big problem.
+44.76	48.84		We <strong>stock up</strong> <strong>on</strong> food that we don’t really need,
+48.84	52.84		and we’re often tempted by supermarkets to <strong>consume</strong> –
+52.84	53.28		or to eat –
+53.28	54.4		more.
+54.4	55.96	<v Rob>	Before we talk more about this,
+55.96	58.92		let’s find out what you know about food waste.
+58.92	59.28		So,
+59.28	60		do you know,
+60	64.08		according to the United Nations Food and Agricultural Organisation,
+64.08	67.68		what percentage of food is actually wasted?
+67.68	69.36		a) 25%
+69.36	71.8		b) 33%
+71.8	74.36		c) 50%
+74.36	76.84	<v Finn>	50%,
+76.84	78.72		I seem to remember that.
+78.72	79.72		I might be wrong.
+79.72	83.12	<v Rob>	We’ll find out if you’re right or wrong later on.
+83.12	83.88		But now,
+83.88	85.96		here’s another figure for you: In Europe,
+85.96	90.72		people throw away 100 million tonnes of food every year.
+90.72	91.64	<v Finn>	Wow,
+91.64	92.72		such a waste.
+92.72	97.84		Most of this food just ends up rotting in <strong>landfill sites</strong>
+97.84	99.48		and that adds to another problem –
+99.48	102.32		it creates greenhouse gases.
+102.32	103.08	<v Rob>	It does.
+103.08	105.36		But the problem isn’t just <em>us</em>
+105.36	108.56		throwing away <strong>leftovers</strong> in the fridge or cupboard,
+108.56	111.96		as we can hear now from BBC reporter Caroline Hepker.
+111.96	115.8		What are the other reasons that lead to food being wasted?
+115.8	117.08	<v Caroline Hepker, BBC Reporter>	Typically,
+117.08	118.68		supermarkets demand
+118.68	122.16		that onions are about two to two-and-a-quarter inches in diameter.
+122.16	126.24		This one will get pretty close to it but this one is too small,
+126.24	128.16		although it is perfectly edible.
+128.16	129.68		The question is,
+129.68	131.32		what happens to it then?
+131.32	134.12		Food waste is a huge issue in America –
+134.12	137.36		40% of all food goes uneaten
+137.36	142.68		and it’s a problem that starts long before you get to the dining-room table.
+142.68	145.12	<v Finn>	Another staggering figure there Rob –
+145.12	149.72		40% of all food in America goes uneaten –
+149.72	151.32		it doesn’t get eaten.
+151.32	155.48		And she explained that supermarkets are partly to blame.
+155.48	156	<v Rob>	Yes.
+156	157.92		We all love the <strong>convenience</strong>,
+157.92	161.6		the price and the choice of food that supermarkets offer –
+161.6	162.88		but a lot of food is binned –
+162.88	163.64		thrown out –
+163.64	166.12		long before it reaches the shelves.
+166.12	171.28	<v Finn>	The reporter gave the example of onions: if they’re the wrong size,
+171.28	172.64		they can’t be sold;
+172.64	175.4		they’re thrown away even though they’re good enough to eat –
+175.4	177.32		or <strong>edible</strong>.
+177.32	180.72	<v Rob>	There are many other types of fruit and vegetables that are <strong>discarded</strong> –
+180.72	181.68		or thrown away –
+181.68	183.88		because of their shape and size.
+183.88	185.32		And that’s our fault really,
+185.32	189.28		because we often think food that looks good is better quality.
+189.28	196.28	<v Finn>	Another issue is the ‘sell by’ and ‘use by’ dates printed on food packaging.
+196.28	198.6		They confuse customers.
+198.6	201.04		Anything older than the ‘sell by’ date
+201.04	204.72		makes us think it’s old and the food has <strong>gone off</strong>,
+204.72	210.08		but in fact this is just the date the supermarket wants to sell it by.
+210.08	211.88	<v Rob>	And there is another reason why some of us
+211.88	214.4		are encouraged to buy too much food.
+214.4	216.36		Have a listen to working mum,
+216.36	217.44		Tara Sherbrooke,
+217.44	222.4		about her shopping habits and see if you can hear what the problem is.
+222.4	222.96	<v Finn>	Also,
+222.96	228.24		see if you can hear what she does to try and minimise food waste.
+228.24	231.04	<v Tara Sherbrooke>	I try very hard to meal-plan
+231.04	235.92		because as a working mum and having a busy family,
+235.92	237.72		I really try to make sure
+237.72	239.36		that there’s enough food at the beginning of the week.
+239.36	241.6		I find it very difficult to walk pass two-for-one offers
+241.6	244.4		especially on things that we use.
+244.4	246.6		I even find it hard to walk past them
+246.6	248.8		when they’re items I’ve never purchased before –
+248.8	249.56		I stop and look!
+249.56	254.28	<v Finn>	So she is a busy working mum and she tries to meal-plan –
+254.28	258.72		she plans the family’s meals for the week and works out what to buy.
+258.72	262.6	<v Rob>	But she still gets tempted by the two-for-one offers.
+262.6	268.24		That’s when you buy one item and you get another one of the same item for free.
+268.24	270.92	<v Finn>	Buy-one-get-one-free –
+270.92	272.32		or as it’s sometimes known,
+272.32	275.76		<strong>BOGOF</strong>!
+275.76	278.2		You can get a bargain but it also means
+278.2	280.92		we sometimes buy too much of something.
+280.92	282.88		If it’s fresh produce,
+282.88	286.16		it might go off before you get to use it all.
+286.16	288.16	<v Rob>	But in other parts of the world
+288.16	291.16		people struggle to buy even the most basic food.
+291.16	295.36		A report by the UN’s Food and Agricultural Organisation found
+295.36	297.4		that there is enough food for everyone,
+297.4	299.4		just a lot of inefficiency.
+299.4	300.52		So what can be done?
+300.52	301.2	<v Finn>	Well,
+301.2	303.32		things are being done.
+303.32	308.48		Apps and websites that <strong>distribute</strong> excess food are becoming more popular.
+308.48	311.44	<v Rob>	And food banks are being set up too.
+311.44	315.64		These are charitable organisations people donate food to.
+315.64	319.52		It’s then distributed to those who have difficulty buying their own food.
+319.52	323.72		And one trial project in New York requires the city’s restaurants
+323.72	327		to stop sending food waste to landfills by 2015.
+327	328.76		But at the moment,
+328.76	329.44		globally,
+329.44	331.72		there’s still a lot of food being thrown away.
+331.72	332.48		And Finn,
+332.48	334.08		I asked you how much?
+334.08	336.08		Is it 25%,
+336.08	340.36		33% or 50% of all food produced?
+340.36	341.96	<v Finn>	I said half –
+341.96	343.36		50%.
+343.36	348.84	<v Rob>	According to the United Nations Food and Agricultural Organisation,
+348.84	351.24		the answer is 33%.
+351.24	352.44		Still not good.
+352.44	353.84		It also found
+353.84	359.04		the amount of land needed to grow all the food wasted in the world each year
+359.04	361.04		would be the size of Mexico.
+361.04	361.88		Well,
+361.88	365.08		that brings us to the end of today’s 6 Minute English.
+365.08	366.72		We hope you enjoyed today’s programme.
+366.72	368.28		Please join us again soon.
+368.28	370.04	<v Both>	Bye.
+370.04	375.72		6 minute English from BBC.

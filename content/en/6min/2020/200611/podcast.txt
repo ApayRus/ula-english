@@ -1,0 +1,119 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.8		to find out more visit our website
+6.8	13.08		6 minute English from BBClearningEnglish.com
+13.08	13.4	<v Neil>	Hello.
+13.4	16.36		This is 6 Minute English from BBC Learning English.
+16.36	17.12		I’m Neil.
+17.12	18.56	<v Georgina>	And I’m Georgina.
+18.56	20.52		I’m going to order some takeaway food,
+20.52	20.96		Neil,
+20.96	22.2		do you want anything?
+22.2	23.48		Maybe a pizza?
+23.48	24.68		Fish and chips?
+24.68	25.92		Indian curry?
+25.92	26.48	<v Neil>	Hmmm,
+26.48	28.12		takeaway food to eat at home –
+28.12	29.8		that’s a great idea.
+29.8	30.16		Yes,
+30.16	31.56		I’ll have a poké bowl,
+31.56	32.24		please.
+32.24	33.08	<v Georgina>	What’s that?
+33.08	35.76		It doesn’t sound like typical takeaway food.
+35.76	36.92	<v Neil>	It is nowadays,
+36.92	37.68		Georgina!
+37.68	46.16		Over the last few years the explosion of food delivery apps like Deliveroo and Just Eat has seen a revolution in takeaway food.
+46.16	50.36		Today it’s not just pizza and curries being delivered to people’s front door –
+50.36	54.64		there’s a wide range of food dishes and styles from all around the world.
+54.64	57.76	<v Georgina>	And with cafés and pubs closed during lockdown,
+57.76	63		more and more food chains and restaurants are switching to delivery-only services –
+63	63.76		takeaways –
+63.76	66.84		to bring meals to people who are isolating.
+66.84	76.68	<v Neil>	Over the last few weeks many takeaway companies have seen orders increase dramatically as people find themselves stuck at home due to the coronavirus pandemic.
+76.68	78.68		But what are they choosing to eat?
+78.68	80.32		That’s my quiz question for today,
+80.32	81.28		Georgina –
+81.28	85.24		last year what was Deliveroo’s most ordered dish?
+85.24	85.72		Was it:
+85.72	88.32		a) Hawaiian Poké bowls?
+88.32	90.12		b) Cheeseburgers?
+90.12	92.12		c) Chicken burritos?
+92.12	94.76	<v Georgina>	I would have thought it was ‘fish and chips’,
+94.76	97.76		but I’ll go with b) Cheeseburgers.
+97.76	98.08	<v Neil>	OK,
+98.08	100.24		we’ll find out later if you were right.
+100.24	106.24		One consequence of the increasing popularity of takeaways is something called ‘dark kitchens’.
+106.24	112.08		Unlike apps such as Deliveroo and Just Eat which connect customers to local takeaways,
+112.08	114.64		these digital ‘dark kitchens’
+114.64	117.32		work as just-for-delivery restaurants.
+117.32	118.04		Inside,
+118.04	120.36		chefs cook in kitchens without waiters,
+120.36	122.2		tables or diners,
+122.2	126.2		preparing high-quality dishes ready for delivery straight to your home.
+126.2	127.68	<v Georgina>	One of the first ‘dark kitchen’
+127.68	128.32		operations,
+128.32	128.8		Taster,
+128.8	139.2		was started by chef Anton Soulier who in 2013 was working for Deliveroo when it was just a tiny company operating only in London.
+139.2	143.44		Now he’s in charge of twelve kitchens catering for customers in London,
+143.44	145.08		Paris and Madrid.
+145.08	154.44	<v Neil>	Sheila Dillon of BBC Radio 4’s The Food Programme went to the Bethnal Green area of east London find out more.
+154.44	159.48	<v Sheila Dillon>	When you go on the Taster website the restaurant names are <strong>virtual</strong>,
+159.48	162.12		all of them sold as ‘designed for delivery’
+162.12	163.32		by Taster.
+163.32	165.12		What that means is all the menus,
+165.12	169.08		drawn up by serious chefs are designed to <strong>travel well</strong>,
+169.08	170.12		chosen so they’ll be warm,
+170.12	175.56		retain their texture and won’t look like <strong>a dog’s dinner</strong> when they come off the back of a bike.
+175.56	177.96		So strangely the delivery,
+177.96	178.88		the bike,
+178.88	183		has become a <strong>shaper</strong> of the foods we eat.
+183	185.92	<v Neil>	All the restaurants on Taster are <strong>virtual</strong> –
+185.92	189.96		existing online and created by computers to appear like the real thing.
+189.96	195.52	<v Georgina>	Chefs cook the dishes using recipes and ingredients designed to <strong>travel well</strong> -
+195.52	200.76		be transported a long way without being damaged or their quality being spoiled.
+200.76	204.84	<v Neil>	That’s to avoid the takeaway food ending up like <strong>a dog’s dinner</strong> -
+204.84	209.88		an informal way to say something that looks messy or has been very badly done.
+209.88	218.48	<v Georgina>	Usually the takeaways are transported in a box on the back of a delivery cyclist who rushes them from the kitchen to the customer’s home.
+218.48	220.4		It’s a very modern way of eating,
+220.4	224.84		which Sheila thinks has become a <strong>shaper</strong> of the foods we eat –
+224.84	229.04		meaning that it has a strong influence on how a situation develops.
+229.04	237.64	<v Neil>	However some are worried that the increase in takeaways and delivery-only food means people are losing basic cooking skills.
+237.64	241.92		It’s something that Taster boss Anton has noted too.
+241.92	245.76	<v Anton Soulier>	There is a strong <strong>underlying trend</strong> that maybe,
+245.76	246.4		in twenty,
+246.4	248.68		thirty years people won’t have kitchens –
+248.68	251.8		and it’s already happening in the US for example.
+251.8	253.72		I love cooking,
+253.72	256.32		it’s one of my passions but I’m rarely doing it -
+256.32	261		occasionally on Sundays and everything as it’s almost going to become a weekend <strong>hobby</strong>.
+261	268.44	<v Georgina>	People choosing to eat takeaways instead of cooking at home has become an <strong>underlying trend</strong> –
+268.44	274.16		a general development in how people behave which is real but not immediately obvious.
+274.16	274.88	<v Neil>	And in the future,
+274.88	279.8		cooking at home may even switch from being a daily necessity to a <strong>hobby</strong> –
+279.8	284.64		an activity someone does in their spare time for pleasure or relaxation.
+284.64	290.2	<v Georgina>	I do enjoy tucking into a takeaway sometimes but personally I couldn’t survive without my kitchen,
+290.2	291.12		Neil.
+291.12	291.44	<v Neil>	Ah,
+291.44	293.6		but could you survive without Deliveroo?
+293.6	298.2		Remember in today’s quiz question I asked you what Deliveroo’s most ordered dish was.
+298.2	301.84	<v Georgina>	I said b) Cheeseburgers.
+301.84	304.68	<v Neil>	But the correct answer was a) Hawaiian Poké bowls –
+304.68	307.04		a Hawaiian version of sushi.
+307.04	309.4	<v Georgina>	Now that’s something I couldn’t cook at home!
+309.4	316.52	<v Neil>	Today we’ve been discussing the revolution in takeaways and home-delivered food which in recent years has become an <strong>underlying trend</strong> -
+316.52	319.24		a general development in how people behave,
+319.24	319.96		or in this case,
+319.96	320.32		eat.
+320.32	324.32	<v Georgina>	Another trend has been the creation of <strong>v</strong> <strong>irtual</strong> restaurants –
+324.32	329.12		online restaurants which look like the real thing but exist only on the internet.
+329.12	337.04	<v Neil>	Chefs create dishes using ingredients which <strong>travel well -</strong> can be transported a long way without being damaged or spoiled.
+337.04	344.04		That’s so the customer doesn’t end up with <strong>a dog’s dinner -</strong> an informal expression meaning something messy or badly done.
+344.04	351.04	<v Georgina>	Recent developments like high-quality restaurant meals being delivered by bike are <strong>shapers</strong> of modern eating –
+351.04	355.12		things that have a strong influence on how a situation develops.
+355.12	358.28	<v Neil>	All of which means that cooking may soon become just a <strong>hobby</strong> –
+358.28	362.88		an activity someone does in their spare time for pleasure or relaxation,
+362.88	364.48		for example cycling…
+364.48	366.48	<v Georgina>	…or learning English.
+366.48	368.32	<v Neil>	That’s all we have time for today.
+368.32	370.96		Happy cooking and goodbye for now!
+370.96	371.96	<v Georgina>	Bye!
+371.96	377.92		6 minute English from BBC.

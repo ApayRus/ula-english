@@ -1,0 +1,43 @@
+0.18	2.24	T 6.8
+3.55	4.10	1
+9.08	9.71	<v A> Hello.
+10.00	10.78	<v B> Hello.
+10.97	12.65	Can I speak to Jo, please?
+12.92	13.97	<v A> This is Jo.
+14.28	15.85	<v B> Oh! Hi, Jo.
+16.00	17.10	This is Pat.
+17.61	19.66	Is Sunday still OK for tennis?
+19.96	21.46	<v A> Yes. That’s fine.
+21.48	22.42	<v B> Great!
+22.61	25.02	See you on Sunday at ten, then. Bye!
+25.10	25.69	<v A> Bye!
+29.53	30.04	2
+35.47	36.04	<v A> Hello.
+36.61	37.28	<v B> Hello.
+37.62	38.67	Is that Liz?
+38.78	39.84	<v A> No it isn’t.
+39.85	40.69	I’ll just get her.
+43.76	44.88	<v C> Hello, Liz here.
+45.24	46.10	<v B> Hi, Liz.
+46.33	47.20	It’s Tom.
+47.74	48.28	Listen!
+48.70	50.78	There’s a party at my house on Saturday.
+51.25	52.03	Can you come?
+52.26	55.60	<v C> Oh sorry, Tom. I can’t.
+55.66	56.99	It’s my sister’s wedding.
+57.59	59.30	<v B> Oh, never mind.
+59.74	60.90	Perhaps next time.
+61.33	61.96	Bye!
+62.32	62.94	<v C> Bye!
+66.30	66.87	3
+71.21	73.38	<v A> Good morning. Barclays Bank, Watford.
+73.56	74.55	How can I help you?
+74.61	75.51	<v B> Good morning.
+75.63	77.79	Can I speak to the manager, please?
+78.03	81.08	<v A> I’m afraid Mr Smith isn’t in his office at the moment.
+81.15	82.43	Can I take a message?
+83.31	84.31	<v B> Don’t worry.
+84.43	85.55	I’ll ring back later.
+85.86	86.49	<v A> All right.
+86.52	87.10	Goodbye.
+87.11	87.77	<v B> Goodbye.

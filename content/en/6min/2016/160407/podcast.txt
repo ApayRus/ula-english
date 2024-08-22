@@ -1,0 +1,162 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.08		6 minute English from BBClearningEnglish.com
+12.08	14.68	<v Sophie>	Hello and welcome to 6 Minute English.
+14.68	15.68		I’m Sophie…
+15.68	16.8	<v Neil>	<em>Watashi-wa</em> <em>Ni-ru</em>.
+16.8	17.88	<v Sophie>	What did you say?
+17.88	19.68	<v Neil>	<em>Watashi-wa</em> <em>Ni-ru</em>.
+19.68	21.56		‘I’m Neil.’ It’s Japanese,
+21.56	22.32		Sophie.
+22.32	23.28	<v Sophie>	Very good,
+23.28	24.08		Neil!
+24.08	26.56		So your Japanese language lessons are going well,
+26.56	27.08		then?
+27.08	28.2	<v Neil>	They are indeed.
+28.2	28.84		And did you know,
+28.84	29.28		Sophie,
+29.28	33.8		that scientists believe learning a second language can boost brainpower?
+33.8	35.2		<strong>Bilingualism</strong> –
+35.2	37.48		or speaking two languages equally well –
+37.48	39.2		is a form of brain training.
+39.2	44.16	<v Sophie>	<strong>Brain training</strong> is where you’re learning ways to increase your memory or intelligence.
+44.16	45.64		That’s great Neil –
+45.64	46.96		but you’re not exactly…
+46.96	48.04		bilingual…
+48.04	48.84		are you?
+48.84	49.92	<v Neil>	Not yet.
+49.92	50.8		No.
+50.8	51.6	<v Sophie>	Well,
+51.6	54.36		brain training is the subject of today’s show.
+54.36	57.88		And ways to train your brain might be doing a crossword puzzle,
+57.88	59.4		playing chess,
+59.4	61.6		or studying a new language!
+61.6	62.92		Now I have a question for you,
+62.92	63.36		Neil.
+63.36	65.76	<v Neil>	I hope my brain is up to the challenge.
+65.76	66.72	<v Sophie>	I’m sure it is.
+66.72	69.2		Can you tell me: How many <strong>neurons</strong> –
+69.2	70.4		or nerve cells –
+70.4	73.32		are there in the typical human brain?
+73.32	73.64		Is it …
+73.64	75.8		a) 8.6 billion
+75.8	78.12		b) 86 billion
+78.12	80.96		Or c) 860 billion
+80.96	81.8	<v Neil>	Hmm.
+81.8	84.44		I’m going to say a) 8.6 billion.
+84.44	84.76	<v Sophie>	Well,
+84.76	89.08		we’ll find out later on in the show whether you got the answer right or not.
+89.08	101.4		But now let’s listen to neuropsychologist Dr Catherine Loveday talking about why being bilingual may protect your brain from damage if you have a stroke.
+101.4	108.04	<v INSERT>	I think the theory behind why bilingualism might be a protective factor is that [it] involves a lot of switchings –
+108.04	109.36		a lot of attentional changes –
+109.36	110.08		lots of switching.
+110.08	113.96		And that seems to exercise the sort of executive parts of our brain.
+113.96	121.24		Those parts of the brain are kind of stronger and fitter when it comes to resisting some kind of damage from the stroke.
+121.24	126.44	<v Neil>	A <strong>stroke</strong> is a serious illness that occurs when blood flow to an area of the brain is cut off.
+126.44	133.44		And <strong>executive functions</strong> are the mental skills involved in doing things like problem solving and planning.
+133.44	136.64	<v Sophie>	So when a bilingual speaker <strong>switches</strong> –
+136.64	137.6		or changes –
+137.6	139.68		from one language to another –
+139.68	143.24		this exercises the executive parts of their brain,
+143.24	145.64		making it stronger and fitter.
+145.64	147.64		And because the brain is stronger,
+147.64	149.36		it’s able to <strong>resist</strong> –
+149.36	150.68		or prevent –
+150.68	152.64		damage caused by a stroke.
+152.64	154.96	<v Neil>	But many of us aren’t bilingual are we?
+154.96	158.64		So our brains aren’t going to be protected against strokes.
+158.64	159.2	<v Sophie>	Don’t worry,
+159.2	159.88		Neil.
+159.88	163.16		There are other things you can do to exercise your brain.
+163.16	164.64		If you’re right handed,
+164.64	169.8		doing tasks like brushing your teeth with your left hand will stimulate your brain –
+169.8	172.68		or getting dressed in the dark with your eyes shut.
+172.68	175.52		Or simply memorizing a list of words,
+175.52	177.36		for example your shopping list.
+177.36	180.32	<v Neil>	Doing things with the wrong hand sounds hard.
+180.32	182.6		But the shopping list thing sounds easier…
+182.6	183.04		OK.
+183.04	183.48		Let’s see…
+183.48	185.48		pizza,
+185.48	186.52		doughnuts,
+186.52	188.12		crisps,
+188.12	190.84		bottle of coke,
+190.84	192.16		chocolate cake…
+192.16	193.88	<v Sophie>	That’s not a very healthy list,
+193.88	194.6		Neil!
+194.6	199.08		A good diet is also important in keeping your brain fit and healthy.
+199.08	202.56	<v Neil>	Maybe I should cut down on the chocolate cake then?
+202.56	203.92	<v Sophie>	Actually,
+203.92	206.28		that’s one thing you could leave on the list.
+206.28	208.64		According to research,
+208.64	210.72		chocolate may <strong>enhance</strong> –
+210.72	211.84		or improve –
+211.84	214.12		cognitive performance,
+214.12	217.6		and that is your ability to acquire and utilize knowledge.
+217.6	223.44		Now let’s listen to Dr Loveday talking about building up our <strong>cognitive reserve</strong> –
+223.44	230.4		this is the idea of building up extra abilities to help protect the brain against declining memory or thinking.
+230.4	233.96	<v INSERT>	Continually just stimulating the brain –
+233.96	235.8		things like learning a language,
+235.8	237.04		learning music,
+237.04	238.72		just educating yourself,
+238.72	241.64		seems to continue to build up that cognitive reserve.
+241.64	246.72		So even if people take up languages or take up other things later in life it will give them a degree of protection.
+246.72	251.92	<v Neil>	<strong>Stimulate</strong> means to make something become more active.
+251.92	253.28		Hmm.
+253.28	256.32		Not sure I’m continually stimulating my brain.
+256.32	256.76		What do you think,
+256.76	257.28		Sophie?
+257.28	259.8	<v Sophie>	With all our stimulating discussions,
+259.8	260.6		Neil,
+260.6	263.72		I’m sure we’re both building up our cognitive reserve.
+263.72	266.12		And there are your Japanese lessons too.
+266.12	266.76	<v Neil>	Well,
+266.76	270.2		so I am doing well as far as my cognitive reserve goes.
+270.2	272.76		Sophie you’ve put my mind at rest.
+272.76	277	<v Sophie>	And if you <strong>put someone’s mind at rest</strong> you stop them worrying.
+277	277.24		Well,
+277.24	278.76		don’t get too relaxed Neil –
+278.76	281		your brain needs constant stimulation,
+281	281.4		remember?
+281.4	281.76	<v Neil>	Hmm.
+281.76	286.4		I think I might just lie down after the show with a box of chocolates and today’s crossword…
+286.4	288.96		or maybe I’ll memorize another shopping list…
+288.96	290.8		this time in Japanese.
+290.8	291.56	<v Sophie>	OK.
+291.56	295.48		I think it’s time to hear the answer to today’s quiz question.
+295.48	300.12		I asked: How many neurons are there in the typical human brain?
+300.12	300.88		Is it …
+300.88	308.16		a) 8.6 billion b) 86 billion or c) 860 billion?
+308.16	310.84	<v Neil>	And I said a) 8.6 billion.
+310.84	312.52	<v Sophie>	I thought you were feeling clever today,
+312.52	313.08		Neil.
+313.08	315.92		I’m afraid that’s the wrong answer.
+315.92	318.32		It’s b) 86 billion.
+318.32	322.44		But do you know how scientists calculated that number?
+322.44	323.52	<v Neil>	Did they have a guess,
+323.52	324.24		Sophie?
+324.24	324.84	<v Sophie>	No,
+324.84	326.24		not exactly.
+326.24	327.4		Apparently,
+327.4	334.96		the easiest way is to count how many neurons there are in one part of the brain and then multiply that for the rest of the brain’s volume.
+334.96	335.4	<v Neil>	Well,
+335.4	337.44		that’s a lot of brain cells.
+337.44	337.96		OK,
+337.96	339.88		can we hear the words we learned today?
+339.88	340.6	<v Sophie>	They are:
+340.6	342.36		bilingualism
+342.36	343.84		brain training
+343.84	345.44		neurons
+345.44	346.8		stroke
+346.8	349.28		executive functions
+349.28	351.12		switches
+351.12	352.76		resist
+352.76	354.56		enhance
+354.56	356.68		cognitive reserve
+356.68	358.48		stimulate
+358.48	361		put someone’s mind at rest
+361	361.84	<v Neil>	Well,
+361.84	364.4		that’s the end of today’s 6 Minute English.
+364.4	369.92		Don’t forget to join us again soon!
+369.92	370.92	<v Both>	Bye.
+370.92	376.92		6 minute English from BBC.

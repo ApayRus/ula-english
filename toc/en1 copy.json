@@ -1,0 +1,163 @@
+[
+	{
+		"id": "headway",
+		"title": "New Headway, Elementary",
+		"content": [
+			{
+				"id": "1",
+				"title": "Unit 1. Hello everybody! am/is/are; my/her/his/her; Everyday objects; Numbers; Hello and goodbye",
+				"content": [
+					{ "id": "0", "type": "richAudio", "title": "Course info" },
+					{
+						"id": "1",
+						"type": "richAudio",
+						"title": "1.1. Dialog between Paula and Rosa"
+					},
+					{
+						"id": "2",
+						"type": "richAudio",
+						"title": "1.2. Dialog between Richard and Kurt"
+					}
+				]
+			},
+			{
+				"id": "2",
+				"title": "Unit 2. Meeting people. am/is/are - questions and negatives; Possessive's; Family; Opposites; In a cafe",
+				"content": [
+					{
+						"id": "1",
+						"type": "richAudio",
+						"title": "2.1. Questions in dialogs"
+					},
+					{ "id": "2", "type": "richAudio", "title": "2.2. Negatives" }
+				]
+			}
+		]
+	},
+	{
+		"id": "6min",
+		"title": "6 minute English from BBC",
+		"content": [
+			{
+				"id": "2014",
+				"title": "2014",
+				"content": [
+					{
+						"id": "140821",
+						"title": "Dealing with boredom",
+						"content": [
+							{
+								"id": "podcast",
+								"title": "Podcast",
+								"type": "richAudio",
+								"mediaLink": "https://downloads.bbc.co.uk/learningenglish/features/6min/140821_6min_boredom_download.mp3"
+							},
+							{ "id": "vocabulary", "title": "Vocabulary", "type": "html" }
+						]
+					},
+					{
+						"id": "140929",
+						"title": "The fame game",
+						"content": [
+							{
+								"id": "podcast",
+								"title": "Podcast",
+								"type": "richAudio",
+								"mediaLink": "https://downloads.bbc.co.uk/learningenglish/features/6min/6mineng_famegame_fordownload.mp3"
+							},
+							{ "id": "vocabulary", "title": "Vocabulary", "type": "html" }
+						]
+					}
+				]
+			},
+			{
+				"id": "2015",
+				"title": "2015",
+				"content": [
+					{
+						"id": "150101",
+						"title": "Time capsules",
+						"content": [
+							{
+								"id": "podcast",
+								"title": "Podcast",
+								"type": "richAudio",
+								"mediaLink": "https://downloads.bbc.co.uk/learningenglish/features/6min/150101_6min_time_capsule_download.mp3"
+							},
+							{ "id": "vocabulary", "title": "Vocabulary", "type": "html" }
+						]
+					},
+					{
+						"id": "150108",
+						"title": "Bullying or normal competition?",
+						"content": [
+							{
+								"id": "podcast",
+								"title": "Podcast",
+								"type": "richAudio",
+								"mediaLink": "https://downloads.bbc.co.uk/learningenglish/features/6min/150108_6min_bullying_download.mp3"
+							},
+							{ "id": "vocabulary", "title": "Vocabulary", "type": "html" }
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "hobbit",
+		"title": "The Hobbit",
+		"content": [
+			{
+				"id": "1",
+				"title": "1. An Unexpected Party",
+				"content": [
+					{
+						"id": "1",
+						"title": "1.1. A comfortable hole",
+						"type": "richAudio"
+					},
+					{
+						"id": "2",
+						"title": "1.2. Bilbo \"a second edition\" of his father",
+						"type": "richAudio"
+					}
+				]
+			},
+			{
+				"id": "2",
+				"title": "2. Roast Mutton",
+				"content": [
+					{
+						"id": "1",
+						"title": "2.1. An awful mess in the morning",
+						"type": "richAudio"
+					},
+					{
+						"id": "2",
+						"title": "2.2. Learn to manage without a handkerchief",
+						"type": "richAudio"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "moana",
+		"title": "Moana",
+		"content": [
+			{
+				"id": 1,
+				"title": "1. Prehistory from Gramma",
+				"type": "richVideo",
+				"mediaLink": "https://youtu.be/URA8KtqzIf4"
+			},
+			{
+				"id": 2,
+				"title": "2. Moana finds Te Fiti's heart",
+				"type": "richVideo",
+				"mediaLink": "https://youtu.be/qfH_77IE2Zg"
+			}
+		]
+	}
+]

@@ -1,0 +1,12 @@
+0.17	2.25	Tapescript 5.2
+5.60	7.96	There are three people in the living room.
+10.82	12.90	A man and a woman on the sofa
+13.47	15.37	and a little girl in the armchair.
+18.88	20.95	There’s a radio on the coffee table
+21.23	22.59	and a rug under it.
+26.57	29.34	There’s a cat on the rug in front of the fire.
+33.95	36.04	There are a lot of pictures on the walls
+36.41	38.15	but there aren’t any photographs.
+41.28	44.31	There are two plants on the floor next to the television
+44.75	46.95	and some flowers on the small table
+47.00	48.18	next to the sofa.

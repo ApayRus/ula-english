@@ -1,0 +1,150 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.68		6 minute English from BBClearningEnglish.com
+12.68	13	<v Neil>	Hello,
+13	14.36		this is 6 Minute English.
+14.36	15.04		I’m Neil.
+15.04	16.2	<v Georgina>	And I’m Georgina.
+16.2	16.8	<v Neil>	Georgina,
+16.8	19.4		what do you do to cheer yourself up?
+19.4	21.04	<v Georgina>	Having a walk usually helps –
+21.04	23.12		especially if it’s in the countryside.
+23.12	23.52	<v Neil>	Yes,
+23.52	28.68		being in all the green open space can certainly help us relax and de-stress –
+28.68	31.96		getting back to nature can be a <strong>tonic</strong> when you’re feeling down.
+31.96	35.2	<v Georgina>	A <strong>tonic</strong> is something that makes you feel happier and healthier.
+35.2	36.32		I’ll drink to that!
+36.32	37.24	<v Neil>	Me too.
+37.24	44.24		But connecting with the natural world is particularly beneficial to people with mental health issues such as clinical depression.
+44.24	48.24		And it’s something that’s being called ‘ecotherapy’.
+48.24	51.72		More on that in a moment but here’s a question for you to answer,
+51.72	52.44		Georgina.
+52.44	52.88	<v Georgina>	OK,
+52.88	53.24		Neil.
+53.24	54.16		Fire away.
+54.16	54.48	<v Neil>	Well,
+54.48	58.48		seeing or even hugging trees is a form of therapy,
+58.48	62.24		but how high is the world’s tallest tree thought to be?
+62.24	62.6		Is it…
+62.6	65.16		a) 65.8 metres,
+65.16	67.72		b) 115.8 metres,
+67.72	67.76		or
+67.76	70.96		c) 185.8 metres
+70.96	71.52		Georgina,
+71.52	72.88		any ideas?
+72.88	73.64	<v Georgina>	Not a clue –
+73.64	78.12		but let’s go for the highest figure of 185.8 metres.
+78.12	79.08	<v Neil>	Are you sure?
+79.08	79.44		Well,
+79.44	83.08		we’ll have to wait until the end of the programme to find out.
+83.08	83.56		Now,
+83.56	84.96		the mental health charity,
+84.96	85.56		Mind,
+85.56	92.28		describes ecotherapy as a formal type of treatment which involves doing outdoor activities in nature.
+92.28	93.16		However,
+93.16	94.96		there’s not one simple definition,
+94.96	98.48		it just relates to doing activities outdoors.
+98.48	98.84	<v Georgina>	Yes,
+98.84	100.48		it can involve doing many things,
+100.48	103.36		such as outdoor yoga or <strong>horticulture</strong> –
+103.36	105.24		another name for gardening.
+105.24	107.24		It doesn’t involve taking medication,
+107.24	111.2		but instead it just develops a person’s relationship with nature.
+111.2	114.08	<v Neil>	It’s something Patricia Hasbach knows a lot about.
+114.08	121.16		She’s a clinical psychotherapist and told the BBC Radio programme Health Check how ecotherapy can help.
+121.16	125.92		Does she say it can help everyone?
+125.92	131.52	<v Patricia Hasbach, clinical psychotherapist>	I often think about ecotherapy as another tool in the therapist’s toolbox.
+131.52	136.04		It’s not a <strong>panacea</strong>.
+136.04	140.08		It’s not going to erase somebody’s pain or grief.
+140.08	143.12		But it is a powerful tool,
+143.12	144.08		you know.
+144.08	150.28		Traditionally therapy has stopped at the urban boundary.
+150.28	154.04	<v Neil>	So it’s interesting that she describes ecotherapy as a tool –
+154.04	157.2		something that can be used to achieve something else.
+157.2	161.48		Here is can be used to help improve someone’s mental health.
+161.48	161.8	<v Georgina>	Ah,
+161.8	163.92		but she says it’s not a <strong>panacea</strong> –
+163.92	166.52		so not something that will solve everything –
+166.52	168.84		it won’t erase or get rid of someone’s pain.
+168.84	172.24		But going beyond what she calls the ‘urban boundary’,
+172.24	173.92		and into the natural world,
+173.92	176.64		means there is another method for helping people.
+176.64	177.08	<v Neil>	Now,
+177.08	178.24		as we’ve mentioned,
+178.24	180.32		ecotherapy can take on many forms –
+180.32	184.56		doing art in a forest or running on a beach are all <strong>therapeutic</strong>.
+184.56	187.56		They’re things that makes you feel better or healthier.
+187.56	187.96	<v Georgina>	Well,
+187.96	189.12		I think that’s clear,
+189.12	192.28		but what is it about the outdoors that affects us?
+192.28	193.2	<v Neil>	A good question,
+193.2	193.52		Georgina.
+193.52	197.96		It seems from research that our busy brains are always on guard,
+197.96	200.44		but when we get into nature it gets a break,
+200.44	204.56		there’s not so much to be on the lookout for and we can relax.
+204.56	204.96	<v Georgina>	Well,
+204.96	210		it does seem the negative symptoms of urban life can benefit from a dose of nature –
+210	212.12		a dose is an amount of something.
+212.12	214.68		Let’s get a good explanation from an expert.
+214.68	222.96		Environmental psychologist Birgitta Gatersleben also spoke to the BBC Health Check programme and gave two reasons –
+222.96	223.4		one of them,
+223.4	224.2		she explained,
+224.2	229.32		was something called ‘<strong>biophilia</strong>’.
+229.32	230.4	<v Birgitta Gatersleben, environmental psychologist>	<strong>Biophilia</strong>,
+230.4	231.24		very briefly,
+231.24	238.08		is really an innate positive response that people have with life and life-like features.
+238.08	242.2		The idea that nature reminds us of life,
+242.2	255.12		and if we (are) exposed to the natural elements then our sort of negative feelings get almost immediately replaced with positive emotions.
+255.12	258.32	<v Neil>	Birgitta Gatersleben there explaining <strong>biophilia</strong> –
+258.32	262.6		which is a passion for or empathy with the natural world and living things.
+262.6	265.16	<v Georgina>	She said biophilia is <strong>innate</strong>,
+265.16	267.4		which means is a quality that you’re born with.
+267.4	268.68		So basically,
+268.68	270.88		most of us were born to connect with nature –
+270.88	273.84		nature reminds us of life and gives us good,
+273.84	275.64		positive emotions.
+275.64	277	<v Neil>	Naturally.
+277	277.44		OK.
+277.44	277.68		Well,
+277.68	278.16		Georgina,
+278.16	282.68		maybe getting today’s quiz question right will give you positive emotions.
+282.68	286.8		Earlier I asked you how high the world’s tallest tree is thought to be.
+286.8	287.12		Is it…
+287.12	289.64		a) 65.8 metres,
+289.64	292.8		b) 115.8 metres,
+292.8	292.88		or
+292.88	296.2		c) 185.8 metres
+296.2	297.32		What did you say?
+297.32	300.88	<v Georgina>	I said c) 185.8 metres.
+300.88	301.88	<v Neil>	Oh dear,
+301.88	304.6		I’m afraid that’s far too high!
+304.6	307.96		The correct answer is 115.8 metres.
+307.96	308.88		Never mind.
+308.88	309.6		The tree,
+309.6	311		named Hyperion,
+311	315.6		is a type of redwood and was found in California in 2006.
+315.6	315.8	<v Georgina>	Well,
+315.8	316.88		that’s still very tall,
+316.88	318.16		and would be great to see.
+318.16	321.6	<v Neil>	Now we’ve just got time to recap some of the vocabulary we’ve discussed,
+321.6	326.44		starting with <strong>tonic</strong> which can be a fizzy drink you mix with an alcoholic drink,
+326.44	331.36		but in the context of therapy it can mean something that makes you feel happier and healthier.
+331.36	335.8	<v Georgina>	<strong>Horticulture</strong> is the study or activity of growing garden plants –
+335.8	336.52		in other words,
+336.52	337.24		gardening.
+337.24	340.76	<v Neil>	A <strong>panacea</strong> is something believed to solve everything.
+340.76	342.32	<v Georgina>	If something is <strong>therapeutic</strong>,
+342.32	344.36		it makes you feel better or healthier.
+344.36	346.8	<v Neil>	We also discussed <strong>biophilia</strong>,
+346.8	350.4		which is a passion for or empathy with the natural world and living things.
+350.4	353.84	<v Georgina>	And <strong>innate</strong> means a quality that you naturally have –
+353.84	354.8		you’re born with it.
+354.8	355.24	<v Neil>	Well,
+355.24	358.2		as you know I have an innate quality for presenting this programme –
+358.2	359.88		but now it’s time to go.
+359.88	361.48		Please join us next time,
+361.48	364.76		and don’t forget to check us out on your favourite social media platform,
+364.76	368.48		on our app and of course the website bbclearningenglish.com.
+368.48	369.52		Goodbye.
+369.52	370.64	<v Georgina>	Bye!
+370.64	377.56		6 minute English from BBC.

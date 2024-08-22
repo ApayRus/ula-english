@@ -1,0 +1,169 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.04		6 minute English from BBClearningEnglish.com
+12.04	14	<v Alice>	Hello and welcome to 6 Minute English.
+14	14.24		I’m Alice…
+14.24	14.32	<v Neil>	…
+14.32	15.32		and I’m Neil.
+15.32	16.04		Hello.
+16.04	16.72	<v Alice>	Hello,
+16.72	17.28		Neil.
+17.28	18.08		You went to university,
+18.08	19.2		didn’t you?
+19.2	20.04	<v Neil>	Yes.
+20.04	21.44		University –
+21.44	23		the best days of my life.
+23	24.48		I made fantastic friends,
+24.48	25.84		went to great parties…
+25.84	27.44	<v Alice>	Did some work?
+27.44	28.04	<v Neil>	Well,
+28.04	28.28		yeah,
+28.28	29.72		I did <em>some</em> work,
+29.72	31.08		but probably not enough.
+31.08	31.84	<v Alice>	Well,
+31.84	35.44		the subject of today’s show is student mental health.
+35.44	35.76		So,
+35.76	36.12		Neil,
+36.12	41.16		do you think you’re looking back at your university days <strong>through rose-tinted spectacles</strong>?
+41.16	45.08		And that means looking at a situation as being better than it really was.
+45.08	47.92	<v Neil>	I did feel out of my comfort zone when I arrived.
+47.92	48.72		Yes,
+48.72	50.24		everyone seemed to know everyone…
+50.24	51.48		knew where to go.
+51.48	51.88	<v Alice>	Yes,
+51.88	52.28		well,
+52.28	59.6		being <strong>out of your comfort zone</strong> means being in a situation that you aren’t familiar with and which makes you feel nervous.
+59.6	61.36		Did you talk to anyone about your feelings,
+61.36	61.72		Neil?
+61.72	64.32		Did you get any <strong>counselling</strong>?
+64.32	68.32		And that means professional help with personal or psychological problems.
+68.32	69.36	<v Neil>	What?
+69.36	69.88		No,
+69.88	70.84		not me.
+70.84	74.4		I’m one of those men who isn’t good at talking about their feelings,
+74.4	75.12		Alice.
+75.12	78.4		I just felt a bit <strong>homesick</strong> that’s all –
+78.4	80.2		I missed my friends and family.
+80.2	80.92		But let’s move on,
+80.92	81.56		shall we!
+81.56	83.8		Why don’t you ask me today’s quiz question?
+83.8	84.48	<v Alice>	Alright then.
+84.48	89.56		So here it is: In a survey of students at Imperial College London,
+89.56	96.56		how many students said they suffered from high levels of stress or a mental health condition during their time at college?
+96.56	97.32		Was it…
+97.32	100.12		a) 1 out of 4?
+100.12	102.76		b) 2 out of 4?
+102.76	106.08		or c) 3 out of 4?
+106.08	106.44	<v Neil>	Well,
+106.44	113.08		I’m going to go for c) 3 out of 4 because I do think that university life can be more stressful than people realize.
+113.08	113.52	<v Alice>	Yes.
+113.52	118.48		And <strong>stress</strong> means pressure or worry caused by a difficult situation.
+118.48	118.92		OK,
+118.92	122.08		we’ll find out if you’re right or wrong later on.
+122.08	123.6		Now in the UK,
+123.6	127.2		there has been a rise in students using counselling services.
+127.2	127.84	<v Neil>	Why’s that,
+127.84	128.2		Alice?
+128.2	128.56	<v Alice>	Well,
+128.56	129.88		let’s listen to Kirsty,
+129.88	132.04		a student at Exeter University,
+132.04	134.6		talking about why she has had problems.
+134.6	141.88		And here’s a question for you while you listen: Did she enjoy her first days in college?
+141.88	142.4	<v INSERT>	No.
+142.4	143.16		The thing is…
+143.16	143.36		it…
+143.36	145		is a real balancing act.
+145	150.72		When I first got to university I don’t think I’d really realized that I’d forgotten how to make friends you know,
+150.72	153.24		I’d been with the same school friends for seven years,
+153.24	163.24		and so I was trying to balance you know social success with academic success whilst learning how to look after myself at quite a young age.
+163.24	165.08		And I think that’s the experience of a lot of young people.
+165.08	166.52		And people really struggle with it.
+166.52	170.84	<v Neil>	What’s a <strong>balancing act</strong>,
+170.84	171.44		Alice?
+171.44	176.28	<v Alice>	It’s where you try to give your attention to two or more things at the same time.
+176.28	177.04		So here,
+177.04	183.8		Kirsty is trying to balance making new friends with doing her academic work and learning to look after herself.
+183.8	188.24	<v Neil>	What does Kirsty mean when she says she’s learning to look after herself?
+188.24	188.52	<v Alice>	Well,
+188.52	192.48		to <strong>look after someone</strong> means to protect or take care of someone –
+192.48	193.4		and in this case,
+193.4	196		Kirsty’s learning to take care of herself –
+196	199.04		for example doing her own shopping and cooking.
+199.04	199.4	<v Neil>	OK,
+199.4	214.4		let’s listen to Dr Ruth Caleb of the counselling service at Brunel University in London talking about what practical stuff students could learn before leaving for university that might make life easier for them.
+214.4	222.68	<v Dr Ruth Caleb, Head of the counselling service at Brunel University, London>	Certain things that I think it would be very very helpful for students to have put in place are an ability to do the practical things of life –
+222.68	223.44		to do the washing,
+223.44	226.16		to do the cleaning and so on –
+226.16	227.56		being able to cook.
+227.56	232.88		Budgeting is extremely important in university life.
+232.88	236.68		And also spending time on your own comfortably.
+236.68	238.76	<v Neil>	Yes,
+238.76	240.04		that’s excellent advice.
+240.04	242.4		I couldn’t boil an egg when I arrived at uni.
+242.4	242.72	<v Alice>	Oh,
+242.72	243		really?
+243	243.92		Can you do it now,
+243.92	244.44		Neil?
+244.44	245.08	<v Neil>	Just about,
+245.08	245.56		just about.
+245.56	245.92	<v Alice>	Yeah?
+245.92	246.28		Great.
+246.28	248.2		And what about <strong>budgeting</strong>?
+248.2	252.12		This means planning how much money you have and how you will spend it.
+252.12	254.36	<v Neil>	I’m still pretty bad at that.
+254.36	255.24		However,
+255.24	258.92		I am very good at spending time on my own comfortably.
+258.92	259.16	<v Alice>	Yes,
+259.16	259.92		I can believe that –
+259.92	260.56		feet up,
+260.56	262.12		watching TV with a takeaway.
+262.12	262.72	<v Neil>	Takeaway,
+262.72	264.44		of course a takeaway cause I can’t cook anything…
+264.44	265.56	<v Alice>	No.
+265.56	265.56	<v Neil>	…
+265.56	266.36		not even an egg.
+266.36	267.32		You know me so well.
+267.32	270.8		So how about the answer to today’s quiz question,
+270.8	271.24		Alice?
+271.24	271.88	<v Alice>	Alright then.
+271.88	275.6		I asked: In a survey of students at Imperial College London,
+275.6	282.4		how many said they suffered from high levels of stress or a mental health condition during their time at college?
+282.4	283.88		Was it…
+283.88	286.76		a) 1 out of 4?
+286.76	290.08		b) 2 out of 4?
+290.08	293.48		or c) 3 out of 4?
+293.48	296.12	<v Neil>	And I said c) 3 out of 4.
+296.12	297.36	<v Alice>	Yes.
+297.36	299.08		And you are correct –
+299.08	299.76		well done,
+299.76	300.16		Neil!
+300.16	301.68		The survey,
+301.68	303.76		completed by over a thousand students,
+303.76	309.76		also found that almost 70% of those that suffer from stress do so at least once a week,
+309.76	313.12		and 9% of students feel <strong>stressed</strong> constantly.
+313.12	315.76		Stressed means anxious and worried.
+315.76	316.2	<v Neil>	Well,
+316.2	319.48		I feel anxious just thinking about all that stress.
+319.48	321.16		Can we hear today’s words again?
+321.16	322.44	<v Alice>	We certainly can.
+322.44	323.04		They are:
+323.04	325.88		through rose-tinted spectacles
+325.88	329.32		out of your comfort zone
+329.32	331.92		counselling
+331.92	334.48		homesick
+334.48	337.16		stress
+337.16	339.92		balancing act
+339.92	343.36		look after yourself
+343.36	346.16		budgeting
+346.16	348.64		stressed
+348.64	350.72	<v Neil>	Well,
+350.72	354.28		that brings us to the end of today’s 6 Minute English.
+354.28	356.88		We hope you’ve had a stress-free time.
+356.88	358.6		Please do join us again soon.
+358.6	359.96		You know where to find us,
+359.96	360.44		don’t you?
+360.44	363.4		Go to <a href="http://www.learningenglish.com/">www.learningenglish.com</a> ,
+363.4	364.92		where you’ll find grammar points,
+364.92	368.52		vocabulary and more editions of 6 Minute English.
+368.52	370.12	<v Both>	Bye.
+370.12	377.08		6 minute English from BBC.

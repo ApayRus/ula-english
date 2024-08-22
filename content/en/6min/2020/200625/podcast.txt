@@ -1,0 +1,100 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	13.6		6 minute English from BBClearningEnglish.com
+13.6	14	<v Rob>	Hello.
+14	17.28		This is 6 Minute English from BBC Learning English.
+17.28	18.08		I’m Rob.
+18.08	19.16	<v Sam>	And I’m Sam.
+19.16	20.6	<v Rob>	Have you got a ‘business brain’,
+20.6	21.36		Sam?
+21.36	23.48		Would you like to start your own business?
+23.48	24.28	<v Sam>	It sounds good,
+24.28	24.68		Rob.
+24.68	27.88		I like the idea of being my own boss.
+27.88	28.04	<v Rob>	Well,
+28.04	30		that’s the dream for many millennials -
+30	35.32		the name given to the current generation of young people aged between 24 and 38.
+35.32	40.92	<v Sam>	Some of the millennial generation are dissatisfied with the old ways of doing things,
+40.92	50.36		for example how big business uses data from social media and the negative impact of companies on society and the environment.
+50.36	51.4	<v Rob>	In today’s programme,
+51.4	60.24		we’ll look at why millennials are so attracted to starting their own businesses and asking whether this really is the way to make the world a better place.
+60.24	61.2	<v Sam>	And of course,
+61.2	64.32		we’ll be learning some new vocabulary on the way.
+64.32	65.16	<v Rob>	But first,
+65.16	68.08		it’s time for today’s quiz question.
+68.08	69.88		At 79 years old,
+69.88	75.64		Muhammad Yunus is hardly a millennial but he’s a hero to many young business people.
+75.64	79.32		In 2006 he won the Nobel Peace Prize,
+79.32	80.6		but what for?
+80.6	81.36		Was it for:
+81.36	85.6		a) offering microfinance to low-income businesses,
+85.6	90.52		b) starting the first business to earn £1m in under a week,
+90.52	91.04		or
+91.04	95.8		c) developing a progressive model of taxation
+95.8	96.24	<v Sam>	Hmmm,
+96.24	100		I know millennials like starting businesses so I’ll say,
+100	103.84		b) earning £1 million in under a week.
+103.84	104.36	<v Rob>	OK.
+104.36	106.88		We’ll find out the later if you were right.
+106.88	107.24		Now,
+107.24	110.36		whether it’s TV shows like ‘The Apprentice’
+110.36	114.4		or the big success of companies in California’s Silicon Valley,
+114.4	120.56		the last decade saw a huge growth in 20 and 30-year-olds starting their own businesses.
+120.56	124.92		BBC World Service programme <em>The Why Factor</em> asked business professor,
+124.92	129.96		Ethan Mollick to explain how this situation came about…
+129.96	134.88	<v Ethan Mollick>	There’s all these platforms that let you built <strong>entrepreneureal</strong> ventures much more easily.
+134.88	139.04		The growth of things like <strong>crowdfunding</strong> have helped make entrepreneurship more accessible,
+139.04	148.36		led to tons of new <strong>start-ups.</strong> So there’s a lot of new methods for launching businesses and the cost of launching new businesses dropped at the same time.
+148.36	154.64	<v Rob>	Ethan lists some of the reasons why it’s now easier to become an e<strong>ntrepreneur -</strong> someone who starts their own business,
+154.64	156.88		often after seeing a new opportunity.
+156.88	163.64	<v Sam>	Entrepreneurs see opportunities for products and services not being supplied by existing companies,
+163.64	166.72		so they create <strong>start-ups</strong> -
+166.72	173.52		newly formed businesses intended to grow rapidly by providing for a particular market gap.
+173.52	180.12	<v Rob>	One of the main problem to starting up your own business used to be getting the large amounts of money needed,
+180.12	190.04		but nowadays this can be solved with <strong>crowdfunding -</strong> getting the funding for a new business by asking a large number of people to give small amounts of money,
+190.04	191.4		usually via the internet.
+191.4	197.04	<v Sam>	But while start-up success stories have made going into business a good option,
+197.04	205.68		for many millennials it’s not just about making money but also about being socially responsible and doing good.
+205.68	206.48		However,
+206.48	213.28		others argue that most big changes for the better have come from governments not millennial businesses.
+213.28	214.24		Here,
+214.24	223.4		former World Bank economist Charles Kenny cautions against overemphasising individual business over governments…
+223.4	227.16	<v Charles Kenny>	If you are working in a place with a <strong>corrupt</strong> and inefficient government,
+227.16	233.24		one of the best ways you can push development in your country is to try and make that problem a little bit better.
+233.24	235.16		It’s not something that any one individual can do,
+235.16	237.36		it has to be a <strong>collective effort</strong>,
+237.36	239.36		but the more we have young,
+239.36	240.04		committed,
+240.04	244.2		smart people who want to make the world a better place working in government,
+244.2	251.56		the more likely government is to start delivering the kind of services we need in order to ensure a high <strong>quality of life</strong> in that country.
+251.56	251.88	<v Rob>	So,
+251.88	258.64		Charles mentions the problem that governments can be <strong>corrupt -</strong> act in morally wrong or illegal ways,
+258.64	261.36		often in return for money or power.
+261.36	275.16	<v Sam>	The talent and passion that millennials put into starting their own business could instead be used to improve governments through <strong>collective effort -</strong> a group of people acting together to achieve a common goal.
+275.16	282.36	<v Rob>	It’s this working together than can raise people’s <strong>quality of life –</strong> level of personal satisfaction and comfort.
+282.36	284.56	<v Sam>	Something that Muhammad Yunus was doing.
+284.56	285.12	<v Rob>	Ah yes,
+285.12	286.68		that’s today’s quiz question.
+286.68	291.84		I asked you why Muhammad Yunus won the Nobel Prize in 2006.
+291.84	293.16	<v Sam>	I said that,
+293.16	297.76		b) he started the first business to earn £1m in under a week.
+297.76	304.36	<v Rob>	But in fact it was a) offering microfinance to low-income businesses –
+304.36	305.52		a way for anyone,
+305.52	306.48		rich or poor,
+306.48	308.76		to run a business in a positive way.
+308.76	309.96	<v Sam>	Today,
+309.96	318.16		we’ve been talking about why young people in the millennial generation want to be <strong>entrepreneurs –</strong> people who start their own business.
+318.16	321.08	<v Rob>	Many millennials create <strong>start-ups</strong> -
+321.08	334.2		newly formed businesses intended to grow rapidly using a method called <strong>crowdfunding -</strong> getting the funding for their new business by asking large numbers of people on the internet to each give a little bit of money.
+334.2	337.32	<v Sam>	But it’s not only about making profits.
+337.32	341.92		Millennials <strong>start-ups</strong> can help solve many of the developing world’s problems,
+341.92	345.64		instead of governments which may be <strong>corrupt</strong> -
+345.64	348.48		acting immorally or illegally for money or power.
+348.48	357.68	<v Rob>	What’s needed more than individual businessmen and women is <strong>collective effort -</strong> a group of people acting together to achieve a common goal.
+357.68	361.4	<v Sam>	And one important goal is to improve the <strong>quality of life</strong> –
+361.4	366.4		the level of satisfaction and comfort that a person or group enjoys.
+366.4	368.32	<v Rob>	That’s all from us today.
+368.32	373		But remember to join us again soon for more topical discussion and vocabulary.
+373	373.6		Bye for now!
+373.6	374.4	<v Sam>	Bye!
+374.4	382.8		6 minute English from BBC.

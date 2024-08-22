@@ -1,0 +1,171 @@
+0.1	3		This is a download from bbc learning English
+3	6.6		to find out more visit our website
+6.6	12.32		6 minute English from BBClearningEnglish.com
+12.32	14.52	<v Dan>	Hello and welcome to 6 Minute English.
+14.52	16.44		I’m Dan and joining me today is Neil.
+16.44	17		Hey Neil.
+17	17.56	<v Neil>	Hello Dan.
+17.56	19.08		What’s on the agenda today?
+19.08	19.48	<v Dan>	Well,
+19.48	20.72		I’ll give you a clue.
+20.72	22.8		It’s something that makes the world go round,
+22.8	24.8		but it doesn’t really exist.
+24.8	25.64		In fact,
+25.64	27.64		if we all stopped believing in it,
+27.64	30		it would have no use at all!
+30	30.8		What is it?
+30.8	32.24	<v Neil>	I haven’t got a clue!
+32.24	33.96	<v Dan>	Ok…how about this?
+33.96	47.84	<v Neil>	<strong>Currency</strong> is the money that’s being used in a given country at a certain time.
+47.84	49.68		But what about the cryptopart?
+49.68	50.04	<v Dan>	Well,
+50.04	53.52		crypto is a prefix meaning hidden or secret –
+53.52	58.52		it comes from the word <strong>cryptic</strong> which means mysterious or difficult to understand.
+58.52	62.64		You may have heard about the most popular crypto-currency at the moment,
+62.64	63.76		the Bitcoin.
+63.76	65.36	<v Neil>	Well I’ve certainly heard the name,
+65.36	67.32		but I can’t say I know what it is.
+67.32	69.36	<v Dan>	First our quiz question.
+69.36	73.24		When was the Bitcoin crypto-currency first created?
+73.24	74.92		a) 2004
+74.92	76.4		b) 2009
+76.4	78.36		c) 2013
+78.36	78.76	<v Neil>	Well,
+78.76	81.6		I think 2004 may have been a little early,
+81.6	84.8		and I think 2013 could be a little late,
+84.8	87.28		so the smart money’s on 2009.
+87.28	89.8	<v Dan>	We’ll see if you’re right later on in the show.
+89.8	91.72		So…Bitcoin,
+91.72	93		what do you know about it?
+93	93.28	<v Neil>	Well,
+93.28	98.04		I know it’s a digital currency…so presumably you can use it online to buy things?
+98.04	99.76	<v Dan>	You are right on the money,
+99.76	100.68		which means correct,
+100.68	102.28		both times.
+102.28	106.68		Bitcoin is just like any other currency except for two things.
+106.68	107.44		First,
+107.44	109.8		it’s not printed by governments or banks,
+109.8	112.92		which means that it’s not <strong>legal tender.</strong>
+112.92	116.96	<v Neil>	<strong>Legal tender</strong> means the official money that can be used within a country.
+116.96	120.32		So that means we can’t use it to pay taxes or settle debts,
+120.32	120.8		right?
+120.8	122.12	<v Dan>	Exactly.
+122.12	124.92		Governments won’t recognise it as an official currency,
+124.92	127.32		although it acts just like one.
+127.32	130.44		You can use it to buy items from anyone who will accept it,
+130.44	133.8		and its value <strong>fluctuates</strong>.
+133.8	136.72	<v Neil>	<strong>Fluctuates</strong> means changes in level or amount.
+136.72	138.12		And what’s the second thing?
+138.12	138.6	<v Dan>	Ah,
+138.6	142.12		the second thing is that bitcoin is a digital currency,
+142.12	145.48		meaning that with the exception of a few tokens,
+145.48	148.96		it largely exists online only.
+148.96	152.28		You can’t carry a load of bitcoins around in your pocket!
+152.28	152.56	<v Neil>	Well,
+152.56	154.96		that makes a nice…change!
+154.96	155.72	<v Dan>	Oh dear,
+155.72	156.24		Neil.
+156.24	157.32		Was that a money pun?
+157.32	158.16		Terrible!
+158.16	161.44	<v Neil>	So if it’s a digital only currency,
+161.44	162.84		where do new ones come from?
+162.84	166.64		Can’t I just say that I’ve got a million of them and make myself rich!?
+166.64	167.04	<v Dan>	Well,
+167.04	167.8		no.
+167.8	168.4		You see,
+168.4	171.88		even though Bitcoin is not regulated by a bank or government,
+171.88	175.2		it still has a process that stops people from cheating.
+175.2	178.08		There are only two ways to get bitcoins.
+178.08	179.72		You either trade them from someone,
+179.72	181.24		or you go mining.
+181.24	182	<v Neil>	Oh wait,
+182	183.52		I’ve heard about this.
+183.52	189.4		This is when you use your computer to run calculations which verify other Bitcoin transactions.
+189.4	191.12		You get rewarded for this ‘work’
+191.12	192.56		by earning bitcoins.
+192.56	193.4	<v Dan>	Yep!
+193.4	194.72		It’s money for old rope,
+194.72	197.4		which means it’s an easy way to earn money.
+197.4	198.08	<v Neil>	Wow!
+198.08	199.76		I’m going to start mining immediately!
+199.76	200.08	<v Dan>	Well,
+200.08	202.28		you wouldn’t be the only one!
+202.28	208.04		Bitcoin’s value has recently gone up quite a lot and this has caused a lot of interest.
+208.04	208.88		In fact,
+208.88	214.4		one stock exchange in Chicago has begun trading in Bitcoin futures contracts.
+214.4	215.84	<v Neil>	A futures contract?
+215.84	216.56		What’s that?
+216.56	220.6	<v Dan>	I’ll let BBC correspondent Rory Cellan-Jones explain that.
+220.6	222.4	<v INSERT>	A futures contract,
+222.4	225.12		a bet on where the currency will be a month from now,
+225.12	227.68		<strong>soared</strong> above 18,000 dollars.
+227.68	230.04		That means that investors believe Bitcoin,
+230.04	234.88		which started the year worth under 1000 dollars will continue to rise in value,
+234.88	236.92		albeit at a slower rate.
+236.92	242.4		But at the big banks there’s still plenty of scepticism about the currency.
+242.4	246.04	<v Neil>	<strong>Soared</strong> in this context means increased very quickly.
+246.04	246.24		So,
+246.24	249.84		now big investors are betting on the value of Bitcoin in the future.
+249.84	250.76	<v Dan>	Yes.
+250.76	254		But he also mentioned that the banks have a lot of <strong>scepticism</strong>.
+254	256.92		That’s a doubt that something is real or true.
+256.92	258.12		In this case,
+258.12	260.04		whether Bitcoin is reliable or not.
+260.04	262.76	<v Neil>	Maybe it’s best I don’t get involved then.
+262.76	263.2		After all,
+263.2	265.6		a fool and his money are soon parted.
+265.6	265.84	<v Dan>	Well,
+265.84	268.56		you don’t have to be sceptical about the answer to our quiz.
+268.56	270.4		We know that for a fact.
+270.4	273.56		I asked you when the Bitcoin crypto-currency was first created.
+273.56	275.12		a) 2004
+275.12	276.32		b) 2009
+276.32	277.8		c) 2013
+277.8	279.6	<v Neil>	And I said 2009.
+279.6	280.76	<v Dan>	And you were right!
+280.76	281.56		Well done.
+281.56	283.44		Shall we go over the vocabulary again?
+283.44	285.6	<v Neil>	First we had <strong>currency</strong>.
+285.6	288.68		That’s the money being used in a given country at a certain time.
+288.68	290.8		Name three currencies and their countries,
+290.8	291.08		Dan.
+291.08	292.08	<v Dan>	Ok.
+292.08	293.52		Baht for Thailand.
+293.52	295.8		Rupee for India and my favourite,
+295.8	297.64		Metical for Mozambique.
+297.64	299.52		Next we had <strong>cryptic</strong>.
+299.52	303.44		Something which is cryptic is mysterious or difficult to understand.
+303.44	304.4		For example,
+304.4	306.2		what do rich people need,
+306.2	308.48		poor people have and if you eat it,
+308.48	309.36		you die?
+309.36	311.48	<v Neil>	A cryptic riddle indeed!
+311.48	312.88		I’ll have to think about that.
+312.88	315.48		Then we had <strong>legal tender</strong>,
+315.48	317.56		that’s the official money that can be used within a country.
+317.56	320.2		The Euro is legal tender within Spain,
+320.2	323.04		but what was the legal tender before that?
+323.04	324.52	<v Dan>	Wasn’t it the Peseta?
+324.52	327.64		Then we had <strong>fluctuates</strong>.
+327.64	328.92		If something fluctuates,
+328.92	330.72		it changes in amount or level.
+330.72	332.68		The stock market fluctuates.
+332.68	335.36	<v Neil>	But my love for my family never does.
+335.36	337.24		Then we had <strong>soared</strong>,
+337.24	339.56		which means increased very quickly.
+339.56	341.72		It’s used with this meaning in the context of money,
+341.72	343.36		prices and statistics.
+343.36	346.2	<v Dan>	Finally we had <strong>scepticism</strong>.
+346.2	349.4		<strong>Scepticism</strong> is doubt that something is real or true.
+349.4	352.16		What sort of things are people sceptical about,
+352.16	352.48		Neil?
+352.48	357.8	<v Neil>	Some people think that human activity hasn’t caused climate change.
+357.8	358.96		They are sceptical.
+358.96	362.16	<v Dan>	And that brings us to the end of today’s 6 Minute English.
+362.16	364.44		Don’t forget to check out our Youtube,
+364.44	365		Facebook,
+365	366.8		Twitter and Instagram pages,
+366.8	367.96		and we’ll see you next time.
+367.96	369.84		Goodbye.
+369.84	370.88	<v Neil>	Goodbye
+370.88	377.84		6 minute English from BBC.

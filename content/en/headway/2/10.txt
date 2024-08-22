@@ -1,0 +1,21 @@
+0.16	2.10	T 2.10
+3.49	3.94	1
+5.68	6.57	<v A> Good morning.
+7.26	8.10	<v B> Good morning.
+8.16	10.29	Can I have an orange juice, please?
+11.30	12.25	<v A> Here you are.
+12.43	13.60	Anything else?
+13.74	14.68	<v B> No, thanks.
+15.11	16.27	<v A> Ninety p, please.
+16.69	17.53	<v B> Thanks.
+17.54	18.34	<v A> Thank you.
+22.53	23.02	2
+24.16	25.69	<v A> Hi. Can I help?
+26.21	29.27	<v B> Yes. Can I have a tuna and egg salad, please?
+29.74	30.81	<v A> Anything to drink?
+31.11	33.15	<v B> Yeah. A mineral water, please.
+33.26	34.34	<v A> OK.
+34.96	35.68	Here you are.
+36.34	37.32	<v B> How much is that?
+38.15	40.48	<v A> Four pounds ninety-five, please.
+41.05	41.74	<v B> Thanks.

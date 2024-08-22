@@ -1,0 +1,133 @@
+0.1	3		This is a download from bbc learning English
+3	6.8		to find out more visit our website
+6.8	10.68		6 minute English from BBClearningEnglish.com
+10.68	13.2	<v Neil>	Hello.
+13.2	16.24		This is 6 Minute English from BBC Learning English.
+16.24	17.04		I’m Neil.
+17.04	18	<v Sam>	And I’m Sam.
+18	20	<v Neil>	Are you a saver or a spender,
+20	20.88		Sam?
+20.88	21.32	<v Sam>	Well,
+21.32	27.64		I’m trying to limit my spending right now because I’m saving up for a deposit to buy a house.
+27.64	29.6	<v Neil>	Saving money is not always easy -
+29.6	31.88		as we’ll find out in today’s programme,
+31.88	33.6		which is all about ‘thrift’.
+33.6	34.52		‘Thrift’
+34.52	37.2		is not a simple idea to define.
+37.2	43.28		It’s to do with living a simple life free from the need to constantly buy the latest products.
+43.28	46.84	<v Sam>	Today’s consumer culture encourages us to ‘spend,
+46.84	47.32		spend,
+47.32	48.2		spend’,
+48.2	50.64		but it hasn’t always been that way.
+50.64	55.52		The Victorians for example told people to ‘save up for a rainy day’,
+55.52	61.28		meaning to keep some money back in case of unforeseen emergencies.
+61.28	63.6	<v Neil>	But before we discover more about that,
+63.6	66.12		it’s time for today’s quiz question.
+66.12	69.96		If you’re trying to save money you probably know how hard it can be.
+69.96	73.76		So my question is: what percentage of people in the UK,
+73.76	74.56		do you think,
+74.56	77.76		have less than £1000 in savings?
+77.76	78.36		Is it:
+78.36	79.72		a) 5%,
+79.72	81.04		b) 15 %,
+81.04	81.16		or
+81.16	83.16		c) 30%?
+83.16	83.52	<v Sam>	Well,
+83.52	87.68		if I’m anything to go by I’d say c) 30%.
+87.68	88.24	<v Neil>	OK.
+88.24	88.6		Well,
+88.6	91.68		we’ll find the correct answer out later.
+91.68	93.28		I mentioned before that ‘thrift’
+93.28	95.36		is a difficult idea to define,
+95.36	97.04		so here’s Alison Hulme,
+97.04	99.52		a lecturer at the University of Northampton,
+99.52	105.72		explaining more to BBC Radio 4’s programme <em>Thinking Allowed</em>:
+105.72	108.36	<v Alison Hulme>	There are two dictionary definitions of thrift.
+108.36	110.72		The older of the two comes from the word ‘thrive’
+110.72	111.96		etymologically,
+111.96	115.84		and described thrift as the ability to live well and to <strong>flourish</strong>,
+115.84	117.88		so it’s that sense of human flourishing.
+117.88	123.2		The more recent definition is the one we’re probably more familiar with which is about <strong>frugality</strong>.
+123.2	123.92		All of that said,
+123.92	135.32		it’s been used historically of course by various people in various moments in various different places in very different ways and they’ve often had a social or religious <strong>agenda</strong>.
+135.32	137.48	<v Neil>	It seems the oldest definition of ‘thrift’
+137.48	142.08		has nothing to do with saving money and is connected to the verbs ‘thrive’
+142.08	143.64		and ‘<strong>flourish</strong>’ -
+143.64	146.52		meaning to grow or develop successfully.
+146.52	149.48	<v Sam>	It was only later with the Puritans -
+149.48	155.2		16th century English Christians with a reputation for strict discipline -
+155.2	160.72		that the meaning of thrift changed and became associated with <strong>frugality</strong> -
+160.72	165.16		being careful not to spend too much money or eat too much food.
+165.16	173.48	<v Neil>	The Puritans believed that being frugal was a religious virtue and that people ought to save money in order to give to others in need.
+173.48	175.16	<v Sam>	Later on the meaning of ‘thrift’
+175.16	176.2		changed again.
+176.2	178.52		During the Victorian era,
+178.52	185.24		it was connected to the idea of managing your own money in order to be a responsible citizen.
+185.24	186.4	<v Neil>	Throughout history then,
+186.4	189.2		there have been different versions of ‘thrift’,
+189.2	194.44		and this may be because different religions or social groups had their own <strong>agenda</strong> -
+194.44	198.08		a specific aim or reason for a particular group to do something.
+198.08	199.32		For example,
+199.32	206.48		the Victorian definition of thrift was based on a social <strong>agenda</strong> about being a respectable member of society.
+206.48	218.68	<v Sam>	Ideas about frugality and thrift changed again during the Second World War when the public was encouraged to avoid waste so that every material resource could go into the war effort.
+218.68	220.24	<v Neil>	And in the post-war period,
+220.24	224.08		it changed again as people’s wealth and standard of living increased.
+224.08	226.68		Here’s Alison Hulme again:
+226.68	234	<v Alison Hulme>	It’s the idea that once people had enough to meet their kind of <strong>basic needs</strong> there was this kind of <strong>moral slide</strong> into consumerism.
+234	237.6		It’s not a view that I subscribe to in a simplistic sense myself -
+237.6	239.6		I think there’s a very fine line to tread here.
+239.6	240.96		There’s no point denying that,
+240.96	242.12		certainly in the developed world,
+242.12	243.52		there’s been a rise in consumer capitalism,
+243.52	245.32		that’s just a <strong>truism</strong>,
+245.32	247.92		but thrift hasn’t declined.
+247.92	248.84	<v Neil>	In modern times,
+248.84	257		people’s motivation to save up and be thrifty declined once they had enough to meet their <strong>basic needs</strong> -
+257	257.96		the basic necessities needed to survive,
+257.96	258.6		like food,
+258.6	261.2		clothes and shelter and nothing extra.
+261.2	266.36	<v Sam>	Alison mentions that once these <strong>basic needs</strong> were satisfied,
+266.36	269.68		people moved away from thrift into consumerism,
+269.68	271.84		the desire to buy ‘luxury’
+271.84	275.64		products which were not absolutely necessary.
+275.64	276.72		According to some,
+276.72	279.52		this created a <strong>moral slide</strong> –
+279.52	282.88		a decrease in the standards of behaving in good,
+282.88	285.16		fair and honest ways.
+285.16	291.16	<v Neil>	The rise in consumer capitalism we have seen around the world is an example of a <strong>truism</strong> -
+291.16	294.36		something that is so obviously true it is not worth repeating.
+294.36	297.36	<v Sam>	What <em>is</em> worth repeating is the quiz question,
+297.36	298.12		Neil.
+298.12	298.36	<v Neil>	Yes,
+298.36	303.48		I asked you how many British people had savings of under £1000.
+303.48	304.12	<v Sam>	And I said,
+304.12	305.88		c) 30%.
+305.88	306.52	<v Neil>	In fact,
+306.52	306.96		Sam,
+306.96	308.64		it’s b) 15%.
+308.64	313.04	<v Sam>	So I guess I’m not such a bad saver after all!
+313.04	313.72	<v Neil>	OK.
+313.72	313.88		Well,
+313.88	317.12		today we’ve been talking about the changing meanings of ‘thrift’,
+317.12	319.84		an idea connected to <strong>frugality</strong> -
+319.84	322.36		being careful not to spend too much money.
+322.36	323.68	<v Sam>	The original meaning of ‘thrift’
+323.68	325.76		was to <strong>flourish</strong> -
+325.76	327.92		grow or develop successfully -
+327.92	331.76		but that definition changed as different religious groups,
+331.76	332.88		like the Puritans,
+332.88	335.08		promoted their own <strong>agenda</strong> -
+335.08	338.52		aim or reason for a particular group to do something.
+338.52	339.96	<v Neil>	In recent times,
+339.96	342.68		people’s ability to meet their <strong>basic needs</strong> –
+342.68	345.68		the necessities for survival like food and shelter,
+345.68	348.16		have reduced the importance of ‘thrift’,
+348.16	351.64		which some believe has created a <strong>moral slide</strong> –
+351.64	354.56		a reduction in standards of moral behaviour.
+354.56	360.56	<v Sam>	And the associated rise of consumer capitalism is an example of a <strong>truism</strong> -
+360.56	364.68		something that is obviously true and generally accepted by all.
+364.68	365.72	<v Neil>	That’s all for now.
+365.72	369.36		Join us again next time for more topical discussion and vocabulary.
+369.36	370		Bye for now!
+370	371.96	<v Sam>	Bye bye!
+371.96	377.92		6 minute English from BBC.

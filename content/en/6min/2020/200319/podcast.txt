@@ -1,0 +1,135 @@
+0.1	3		This is a download from bbc learning English
+3	6.88		to find out more visit our website
+6.88	12.48		6 minute English from BBClearningEnglish.com
+12.48	12.96	<v Neil>	Hello.
+12.96	15.8		This is 6 Minute English from BBC Learning English.
+15.8	16.36		I’m Neil.
+16.36	17.24	<v Sam>	And I’m Sam.
+17.24	18.04	<v Neil>	How do you relax,
+18.04	18.96		Sam?
+18.96	19.4	<v Sam>	Well,
+19.4	22.48		I love watching movies and I go swimming.
+22.48	29.08	<v Neil>	One thing that millions of people around the world do is <em>meditate</em> to relax and that’s the subject of our programme.
+29.08	35.16		We’ll be looking at experiments by scientists in the US into the Buddhist practice of meditation.
+35.16	41		We’ll find out how Tibetan monks use meditation techniques to focus better and manage their emotions.
+41	43.92	<v Sam>	But what exactly is meditation?
+43.92	46.8		People just sitting cross-legged on the floor,
+46.8	48.44		thinking of nothing?!
+48.44	50.16	<v Neil>	There’s a lot more to it than that.
+50.16	50.72		After all,
+50.72	53.2		Buddhist meditation is an ancient practice –
+53.2	54.04		even science,
+54.04	55		according to some.
+55	56.28		Tibetan Buddhism,
+56.28	58.16		as embodied by the Dalai Lama,
+58.16	61.52		is what many people think of when you mention meditation.
+61.52	63.68		Which brings me to my quiz question.
+63.68	64.76	<v Sam>	Which is…?
+64.76	68.32	<v Neil>	What is the meaning of the Tibetan word for ‘meditation’?
+68.32	68.76		Is it…
+68.76	70.24		a) to relax
+70.24	71.72		b) to feel blissful
+71.72	74.16		c) to become familiar
+74.16	77.2	<v Sam>	I think it must be either a) to relax,
+77.2	82.16		or b) to feel blissful because they sound like positive states of mind.
+82.16	85.68		But I’m not sure about calling meditation a ‘science’,
+85.68	86.12		Neil.
+86.12	89.68		Isn’t it more like a philosophy or a lifestyle?
+89.68	94.28	<v Neil>	Not according to Professor Richard Davidson of the Center for Healthy Minds.
+94.28	107		He spoke to Alejandra Martins of BBC World Service programme <em>Witness History</em> about his remarkable scientific experiment which proved for the first time that meditation can actually change the brain.
+107	112.4	<v Richard Davidson>	When I first met His Holiness the Dalai Lama it was 1972.
+112.4	114.04		He challenged me,
+114.04	114.64		he said,
+114.64	122.28		‘I understand that you’ve been using tools of modern neuroscience to study anxiety and depression.
+122.28	128.08		Why can’t you use those same tools to study kindness and to study compassion?’
+128.08	133.24	<v Neil>	<strong>Neuroscience</strong> is the scientific study of the workings of the human brain and nervous system.
+133.24	137.2		Professor Davidson measured negative mental states like depression,
+137.2	141.08		in contrast to positive attitudes such as <strong>compassion</strong> –
+141.08	144.16		that’s the wish for everyone to be free from suffering.
+144.16	144.8	<v Sam>	Right.
+144.8	145.88		In his test,
+145.88	149.96		Buddhist monks sent out loving thoughts to everyone equally –
+149.96	151.44		to friends,
+151.44	154.88		enemies and strangers as well as to themselves.
+154.88	158.32	<v Neil>	Compassionate thoughts such as ‘May you be happy and peaceful’,
+158.32	160.44		‘May you not suffer’.
+160.44	162.32		And the results were astonishing!
+162.32	163.12	<v Sam>	What did they show,
+163.12	163.56		Neil?
+163.56	166.6	<v Neil>	Very high levels of gamma oscillations –
+166.6	171.64		now that’s brain waves showing increased connections between different parts of the brain.
+171.64	175.4		This is what you or I might experience as <strong>a flash of insight</strong> –
+175.4	178.48		a moment of sudden understanding and clarity.
+178.48	179.24		For us,
+179.24	181.48		it might last less than a second.
+181.48	183.6		But for these experienced Buddhist monks,
+183.6	185.76		the gamma waves lasted minutes!
+185.76	186.48		Furthermore,
+186.48	188.4		as Richard Davidson explains,
+188.4	192.4		brain changes as a result of meditation can be long lasting.
+192.4	202.64	<v Richard Davidson>	There is no question at this point in time based upon the current science that has been conducted over the last 10 years,
+202.64	212.24		that meditation can change the brain in enduring ways; and the circuits that are involved are multiple,
+212.24	218.44		but they include circuits that are important for regulating attention and regulating emotion.
+218.44	218.8	<v Neil>	So,
+218.8	221.76		this was proof of <strong>neuroplasticity</strong> –
+221.76	225.92		our brain’s ability to change in response to conscious effort.
+225.92	226.52		In other words,
+226.52	231.16		the meditating monks were intentionally remoulding their minds in more positive ways!
+231.16	234.92	<v Sam>	And this was possible because the brain <strong>circuits</strong> –
+234.92	238.28		different parts of the brain responsible for different functions –
+238.28	243.72		start talking to each other in new ways that created <strong>enduring</strong> –
+243.72	245		meaning long-lasting -
+245	246.12		changes.
+246.12	249.6	<v Neil>	The meditators gained insight into how their minds work.
+249.6	253.72		They were more focused and emotionally balanced and less likely to get upset.
+253.72	255.16		How cool is that?
+255.16	256.32	<v Sam>	Pretty cool!
+256.32	258.8		But these Tibetan monks sound like Buddhas!
+258.8	262		They spend thousands of hours sitting in meditation.
+262	264.36		I’ve got to go to work,
+264.36	264.76		Neil!
+264.76	266.68		What good is meditation to me?
+266.68	266.88	<v Neil>	Well,
+266.88	267.48		Sam,
+267.48	275.88		in fact the experiment showed that 30 minutes of meditation a day significantly increased feelings of loving kindness in new meditators too!
+275.88	276.68	<v Sam>	OK,
+276.68	279		maybe I’ll give meditation a go after all.
+279	283.36		But not before I find out the answer to today’s quiz.
+283.36	283.68	<v Neil>	Yes,
+283.68	286.08		I asked you what the Tibetan word for ‘meditation’
+286.08	286.76		meant.
+286.76	289.56	<v Sam>	And I said either a) to relax,
+289.56	291.44		or b) to feel blissful.
+291.44	294.76		And I’m feeling pretty confident of getting it right this time,
+294.76	295.08		Neil.
+295.08	295.56	<v Neil>	Well,
+295.56	295.96		Sam,
+295.96	305.08		if the answer came to you in <strong>a flash of insight</strong> then I’m afraid you need more practice because the correct answer is c) to become familiar,
+305.08	307.96		in this case with more positive thoughts and emotions.
+307.96	312.36	<v Sam>	You mean emotions like kindness and <strong>compassion</strong> –
+312.36	316.2		the thought wishing everyone to be free from their problems.
+316.2	318.16		What other vocabulary did we learn today,
+318.16	318.48		Neil?
+318.48	318.92	<v Neil>	Well,
+318.92	321.44		it turns out meditation is actually a science.
+321.44	323.16		<strong>Neuroscience</strong> in fact,
+323.16	326.08		which is the study of the human brain and nervous system.
+326.08	332.76		Meditation experiments proved <strong>neuroplasticity -</strong> the brain’s ability to restructure.
+332.76	336.4	<v Sam>	By generating and sending out the compassionate wish,
+336.4	338.52		‘May all beings be happy’,
+338.52	342.2		Buddhist meditators change their <strong>brain circuits</strong> –
+342.2	345.08		different parts of the brain responsible for different functions.
+345.08	348.28		And this is an <strong>enduring</strong> change,
+348.28	352.64		meaning it lasts and increases over a long period of time.
+352.64	353.08	<v Neil>	I must say,
+353.08	353.44		Sam,
+353.44	356.32		you took it pretty well when you guessed the wrong answer just then.
+356.32	357.04	<v Sam>	Thanks,
+357.04	357.6		Neil.
+357.6	359		I don’t like getting upset,
+359	362.88		so I’m trying out some breathing meditation!
+362.88	364.4		Breathing in the positive,
+364.4	366.48		breathing out the negative…
+366.48	372.56	<v Neil>	Join us again soon for another interesting discussion on 6 Minute English from BBC Learning English.
+372.56	374.68		Bye for now!
+374.68	381.52		6 minute English from BBC.

@@ -1,0 +1,142 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.96		to find out more visit our website
+6.96	10.4		6 minute English from BBClearningEnglish.com
+10.4	13.2	<v Neil>	Hello.
+13.2	15.64		Welcome to 6 Minute English.
+15.64	19.4		I’m Neil and with me in the studio today is Harry.
+19.4	20.56	<v Harry>	Hello!
+20.56	29.32	<v Neil>	We all have two biological parents but in the future if someone from the UK tells you they have three parents,
+29.32	31		it might be true.
+31	32	<v Harry>	That’s right.
+32	39.96		This is because the UK has become the first country to approve laws allowing the creation of babies with <strong>DNA</strong> from three people!
+39.96	46.4		DNA is the chemical structure present in the centre of a cell which defines somebody’s characteristics.
+46.4	48.56		This is to fight a particular disease.
+48.56	49.12	<v Neil>	Yes.
+49.12	58.48		Sometimes parts of the DNA called <strong>genes</strong> are <strong>faulty</strong>; it means they don’t work properly and this might cause problems later on.
+58.48	65.16		A new technique will allow some of these genes to be replaced by healthy ones from a third person.
+65.16	66.76	<v Harry>	This practice is controversial –
+66.76	68.24		people argue about it.
+68.24	73.64		They fear we’re going to mess with nature and end up with a Frankenstein’s monster!
+73.64	74.08	<v Neil>	Wow,
+74.08	75.64		that would be frightening,
+75.64	77.56		let’s hope it doesn’t happen!
+77.56	77.92		Well,
+77.92	85.32		in this programme we’re talking about the three-parent baby and you’re going to learn some vocabulary related to reproduction.
+85.32	86.44	<v Harry>	<strong>Genetics</strong> –
+86.44	90.64		the science of how living creatures pass their characteristics to their offspring –
+90.64	91.52		is fascinating,
+91.52	92.28		Neil!
+92.28	93.24	<v Neil>	It is fascinating,
+93.24	95.44		and you know what I find most surprising,
+95.44	96.24		Harry?
+96.24	100.36		It’s how much DNA we have in common with other living creatures.
+100.36	106	<v Harry>	I’ve heard that a very high percentage of our DNA is similar to the DNA of monkeys.
+106	108.2	<v Neil>	The comparison with monkeys is easy.
+108.2	112.48		Over 95% of our DNA is identical to theirs.
+112.48	115.16		But what you might not know is…
+115.16	119.48		how much of our DNA is similar to the DNA in a banana?
+119.48	120.32	<v Harry>	A banana?!
+120.32	121.28	<v Neil>	Yes.
+121.28	123.24		And that’s my quiz question today.
+123.24	129.08		What percentage of our DNA is similar to that of a banana?
+129.08	130		Is it:
+130	131.32		a) About 1%
+131.32	135.28		b) About 20% or
+135.28	137.76		c) About 50%
+137.76	142.44	<v Harry>	I think we have very little in common with bananas so I’m gonna go for 1%.
+142.44	142.96	<v Neil>	Well,
+142.96	146.28		I’ll give you the correct answer at the end of the programme.
+146.28	149.28		Now let’s talk about the three-parent baby.
+149.28	151.04		A <strong>pioneering</strong> technique,
+151.04	151.76		in other words,
+151.76	154.08		a technique never used before,
+154.08	158.96		has been developed by scientists in Newcastle University here in the UK.
+158.96	163.12		The technique helps people with faulty <strong>mitochondria</strong>,
+163.12	167.2		which are structures that work like energy factories in our cells.
+167.2	170.16		The mitochondria are like batteries.
+170.16	174.28	<v Harry>	And what kind of problems do people who inherit faulty mitochondria have?
+174.28	178.88	<v Neil>	They have serious health problems such as brain damage and heart failure.
+178.88	180.4	<v Harry>	That’s terrible!
+180.4	183.08		Maybe it would be good to have this technique approved.
+183.08	183.36	<v Neil>	Well,
+183.36	185.28		not everybody agrees with it.
+185.28	186.04		Fiona Bruce,
+186.04	188.32		who is a Member of Parliament here in Britain,
+188.32	191.16		expressed concern when the proposal was discussed in Parliament.
+191.16	195.88		Listen out for the expression she uses right at the beginning of her speech.
+195.88	197.92		It means that when you start something,
+197.92	201.32		you can’t take it back.
+201.32	203.88	<v Fiona Bruce MP>	Once <strong>the genie is out of the bottle</strong>,
+203.88	207.76		once these procedures that we are being asked to authorise today go ahead,
+207.76	212.64		there will be no going back for society.
+212.64	215.72	<v Harry>	She says that <strong>the genie is out of the bottle</strong>.
+215.72	217.88		It’s an expression to do with fairy tales –
+217.88	218.6		in particular,
+218.6	219.8		the story of Aladdin,
+219.8	222.8		when he rubs a lamp and a genie appears.
+222.8	224.16		When the genie is released,
+224.16	225.4		anything is possible –
+225.4	226.96		even bad things.
+226.96	229.12		And there’s nothing anyone can do to stop it.
+229.12	232.88	<v Neil>	So in the case of DNA engineering,
+232.88	238.04		people are afraid that similar techniques might be used to create <strong>designer babies</strong> –
+238.04	240.52		babies whose characteristics like height,
+240.52	241.52		sex,
+241.52	244.2		hair and eye colour are created to order.
+244.2	247.92		Or we might be looking at babies with several parents -
+247.92	250		and who knows where it might end.
+250	255.04	<v Harry>	But the approval of this proposal has also made many people happy,
+255.04	255.4	<v Neil>	Yes,
+255.4	257		people like Victoria,
+257	260.92		a mother who has a sick child because of faulty mitochondria.
+260.92	264.92		She uses an expression which means ‘amazing or astonishing’.
+264.92	267.32		Which expression is it?
+267.32	271.96	<v Victoria Holliday, mother who will benefit from the new technique>	It’s just <strong>mind-boggling</strong> what this could mean for our family and for other families who are affected.
+271.96	273.32		It’s just the best news!
+273.32	277.96	<v Harry>	She uses the expression ‘mind-boggling’,
+277.96	280.08		in other words something astonishing,
+280.08	281.68		overwhelming.
+281.68	283.2		That’s great news for this lady.
+283.2	284.12		I’m happy for her.
+284.12	284.88	<v Neil>	Yes,
+284.88	285.36		it is.
+285.36	290.72		According to statistics faulty mitochondria affects one in every 6,500 babies -
+290.72	293.04		a considerable number of people.
+293.04	293.36		Well,
+293.36	296.68		this is an interesting subject but we’re running out of time and…
+296.68	296.68	<v Harry>	…
+296.68	301.68		and you’re going to tell me what percentage of DNA we have in common with a banana,
+301.68	302.76		aren’t you?
+302.76	303.16	<v Neil>	I am.
+303.16	306.24		And the options I gave you were about 1%,
+306.24	309.72		20% or 50%.
+309.72	310.52		And you said…
+310.52	312.64	<v Harry>	I said I thought it was just 1%.
+312.64	312.92	<v Neil>	Well,
+312.92	316		can you believe that it’s 50%?
+316	316.84		We are half…
+316.84	319		half and half like bananas.
+319	320.36	<v Harry>	That’s incredible!
+320.36	321.6		They’re not even mammals,
+321.6	322.88		we are so different to them …
+322.88	324.92		It’s mind-boggling!
+324.92	327.56	<v Neil>	Let’s listen to today’s words once again,
+327.56	327.92		Harry.
+327.92	329.36	<v Harry>	Yes.
+329.36	329.8		They were:
+329.8	332.56		DNA
+332.56	335.32		genes
+335.32	338.68		faulty
+338.68	342.04		genetics
+342.04	345.16		pioneering
+345.16	351.32		mitochondria (the singular is irregular: mitochondrion)
+351.32	352.96		the genie is out of the bottle
+352.96	356.2		designer babies
+356.2	358.8		mind-boggling
+358.8	361.12	<v Neil>	Well,
+361.12	362.24		that’s it for today.
+362.24	366.96		Do go to <a href="http://www.bbclearningenglish.com/">www.bbclearningenglish.com</a> to find more 6 Minute English programmes.
+366.96	367.88		Until next time.
+367.88	369.84		Goodbye!
+369.84	371.52	<v Harry>	Bye!
+371.52	377.48		6 minute English from BBC.

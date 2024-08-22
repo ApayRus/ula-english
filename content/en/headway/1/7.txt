@@ -1,0 +1,8 @@
+0.16	2.31	Tapescript 1.7 (one point seven)
+3.39	4.42	The alphabet song
+5.40	9.49	A, B, C, D, E, F, G,
+9.78	13.74	H, I, J, K, L, M, N, O, P,
+14.04	17.99	L, M, N, O, P, Q, R, S, T,
+18.37	22.10	L, M, N, O, P, Q, R, S, T,
+22.44	26.39	U, V, W, X, Y, Z,
+26.71	30.59	That is the English alphabet!

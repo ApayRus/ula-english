@@ -1,0 +1,13 @@
+0.18	2.07	Tapescript 1.3 (one point three)
+4.49	5.74	the USA
+7.29	8.09	Spain
+10.49	11.36	France
+13.69	14.43	Egypt
+16.59	17.29	Russia
+19.99	20.72	England
+23.43	24.24	Brazil
+26.71	27.64	Japan
+29.90	30.79	Mexico
+33.05	33.88	Germany
+36.01	36.62	Italy
+38.94	39.68	Hungary

@@ -1,0 +1,25 @@
+0.19	2.25	Tapescript 10.4
+3.49	4.03	1
+5.33	7.02	That house is very big.
+7.05	9.41	Yes, it’s the biggest house in the village.
+12.99	13.52	2
+16.42	19.27	Claridges is a very expensive hotel.
+19.41	22.68	Yes, it’s the most expensive hotel in London.
+25.72	26.34	3
+27.37	30.27	Castle Combe is a very pretty village.
+30.33	33.28	Yes, it’s the prettiest village in England.
+36.68	37.28	4
+40.37	43.46	New York is a very cosmopolitan city.
+43.52	46.84	Yes, it’s the most cosmopolitan city in the world.
+49.60	50.27	5
+51.61	54.29	Tom Hanks is a very popular film star.
+54.61	58.54	Yes, he’s the most popular film star in America.
+62.72	63.42	6
+64.61	67.25	Miss Smith is a very funny teacher.
+67.31	70.95	Yes, she’s the funniest teacher in our school.
+74.29	74.93	7
+76.38	78.93	Anna is a very intelligent student.
+79.13	82.91	Yes, she’s the most intelligent student in the class.
+85.80	86.37	8
+87.51	90.50	This is a very easy exercise.
+90.77	94.34	Yes, it’s the easiest exercise in the book.

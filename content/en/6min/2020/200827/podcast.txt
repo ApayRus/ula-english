@@ -1,0 +1,133 @@
+0.1	3		This is a download from bbc learning English
+3	6.64		to find out more visit our website
+6.64	12.8		6 minute English from BBClearningEnglish.com
+12.8	13.12	<v Neil>	Hello.
+13.12	16.04		This is 6 Minute English from BBC Learning English.
+16.04	16.68		I’m Neil.
+16.68	18.76	<v Sam>	And I’m Sam.
+18.76	20.6	<v Neil>	What blood type are you,
+20.6	21.4		Sam?
+21.4	21.76	<v Sam>	Ah,
+21.76	25.8		you mean the different groups used to classify humans by blood –
+25.8	27		types A,
+27	27.96		B,
+27.96	28.52		AB and O.
+28.52	31.24		I think I’m type O.
+31.24	32.68		How about you,
+32.68	33.96		Neil?
+33.96	34.56	<v Neil>	Well,
+34.56	37.48		it may sound strange but actually I don’t know.
+37.48	37.96	<v Sam>	Hmm,
+37.96	40.52		lots of westerners don’t know their blood type,
+40.52	45.4		but in parts of Asia blood groups are a topic of daily conversation.
+45.4	53.28		People select romantic partners based on blood type and different blood groups are associated with different personalities.
+53.28	56.52	<v Neil>	In this programme we’ll be finding out all about blood –
+56.52	64		why humans have different blood types and whether blood is something more than just a way of pumping oxygen around your body.
+64	67.4	<v Sam>	And of course we’ll be learning some new vocabulary as well.
+67.4	68		Now,
+68	68.32		Neil,
+68.32	70.68		I have an interesting fact for you -
+70.68	73.28		did you know that many Japanese popstars’
+73.28	80.2		websites will feature their blood type alongside information like their age and hobbies?
+80.2	80.68	<v Neil>	I didn’t,
+80.68	81.08		Sam,
+81.08	84.28		but Japanese culture is certainly interested in blood.
+84.28	86.48		There’s even a word ‘burahara’
+86.48	88.88		meaning ‘blood harassment’,
+88.88	94.76		which is used to describe hostility towards people from a certain blood group considered to be selfish –
+94.76	95.96		but which group?
+95.96	98.12		That’s my quiz question for today –
+98.12	102.2		which blood types may fall victim to ‘burahara’?
+102.2	102.92		Is it:
+102.92	105.32		a) blood type A?
+105.32	107.44		b) blood type B?
+107.44	110.28		Or c) blood type O?
+110.28	112.2	<v Sam>	I’ll say a) blood type A.
+112.2	113.72	<v Neil>	OK,
+113.72	114.04		Sam,
+114.04	116.16		we’ll find out the answer later.
+116.16	117.12		As we’ve heard,
+117.12	119.4		blood is a big deal in Japan.
+119.4	120.4		Marnie Chesterton,
+120.4	122.48		from BBC World Service programme,
+122.48	123.4		<em>CrowdScience</em>,
+123.4	126.52		travelled to Tokyo where she asked Japanese translator,
+126.52	127.6		Chie Kobayashi,
+127.6	128.84		to explain more:
+128.84	131.24	<v Chie Kobayashi>	For blood type A,
+131.24	134.4		generally it is thought they are <strong>perfectionists</strong>,
+134.4	136.44		more detail-oriented,
+136.44	139.24		pretty much good at precise type jobs,
+139.24	146.8		and that makes them good at helping others and good at teamwork and respecting rules and customs.
+146.8	148.6		That’s a typical blood A type.
+148.6	152.08	<v Marnie Chesterton>	40 percent of Japan’s population are sensitive,
+152.08	152.88		anxious type As.
+152.88	157.4		30 percent are curious and <strong>stubborn,</strong> generous type Os.
+157.4	159.64		Ten percent are creative ABs.
+159.64	167.24		But <strong>woe betide</strong> the twenty percent type Bs because they have a far less desirable personality,
+167.24	168.44		apparently.
+168.44	170.48	<v Sam>	According to Japanese tradition,
+170.48	173.36		blood type As are <strong>perfectionists</strong> -
+173.36	179.12		people who want everything to be perfect and demand the highest standards possible.
+179.12	182.72	<v Neil>	This contrasts with type Os who are considered to be <strong>stubborn</strong> –
+182.72	187.56		people who are determined to do what they want and refuse to change their mind.
+187.56	192.4	<v Sam>	But it’s unfortunate blood type Bs who have the least desirable personality –
+192.4	194.24		selfish and independent.
+194.24	198.32		“<strong>Woe betide</strong> the type Bs” remarks the presenter,
+198.32	199.84		Marnie Chesterton –
+199.84	205.16		an informal British expression said when there will be trouble ahead for someone –
+205.16	205.92		in this case,
+205.92	207.12		poor type Bs!
+207.12	210.92	<v Neil>	But apart from customs and traditions,
+210.92	214.28		is there actually any science behind these beliefs?
+214.28	214.8	<v Sam>	Well,
+214.8	220.16		not according to Dr Emma Pomeroy of Cambridge University’s archaeology department.
+220.16	221.44		She thinks that -
+221.44	222.4		like horoscopes –
+222.4	227.44		there’s no scientific basis for a connection between blood types and personalities.
+227.44	230.96	<v Neil>	Which makes me wonder what exactly blood types are.
+230.96	237.52	<v Sam>	Blood types are kinds of stickers or chemical markers which support our <strong>immune system</strong> -
+237.52	238.56		the organs,
+238.56	244.44		cells and processes which protect the human body from infection and illness.
+244.44	249.88	<v Neil>	Those chemical markers can identify foreign bodies like <strong>pathogens -</strong> small organisms,
+249.88	251.72		such a virus or bacteria,
+251.72	253		that can cause disease.
+253	261.12		The variety of blood types seems to be a result of different bodily responses to different disease-causing pathogens.
+261.12	266.2	<v Sam>	Which explains why blood of the same type is needed in <strong>blood transfusions</strong> –
+266.2	272.04		medical procedures in which blood is taken from one person and put into another person’s body,
+272.04	275.8		often after an accident or during an operation.
+275.8	280.8	<v Neil>	And explains the high demand for type O blood which can be given to anyone.
+280.8	281.28	<v Sam>	Ah,
+281.28	282.64		generous type Os –
+282.64	283.36		like me.
+283.36	284.88		I always knew I was special…
+284.88	287.72		and curious and stubborn,
+287.72	290.48		wasn’t that the type O personality?
+290.48	291.4	<v Neil>	Oh yes,
+291.4	294.92		today’s quiz question was about blood type personalities.
+294.92	299.72		I asked you which undesirable blood type is considered selfish in Japan.
+299.72	303	<v Sam>	I said a) blood type A.
+303	303.96	<v Neil>	But as we’ve heard,
+303.96	306.6		it’s actually b) blood type B.
+306.6	307.76	<v Sam>	Never mind,
+307.76	309.64		I’ll settle for being curious,
+309.64	311.28		stubborn and generous!
+311.28	316.8		In today’s programme we’ve been talking all about blood types and personalities.
+316.8	317.76		In Japan,
+317.76	324.36		blood type A people are thought of as <strong>perfectionists -</strong> people who want everything to be perfect.
+324.36	327.48	<v Neil>	Unlike type Os who are considered <strong>stubborn</strong> –
+327.48	329.96		determined to get their own way and unwilling to change.
+329.96	332.88	<v Sam>	And <strong>woe betide</strong> selfish type Bs –
+332.88	340.4		an informal expression said when there will be trouble for someone or if they will be punished for doing a particular thing.
+340.4	342.56	<v Neil>	Scientifically speaking,
+342.56	345.28		blood types help support our <strong>immune system</strong> -
+345.28	350.32		the organs and cellular processes which protect the human body from infection.
+350.32	355.6	<v Sam>	They also help identify foreign <strong>pathogens -</strong> small organisms,
+355.6	357.52		such a virus or bacteria,
+357.52	359.2		that can cause a disease.
+359.2	363.96	<v Neil>	And explain why the same blood type is needed for a successful <strong>blood transfusion</strong> –
+363.96	369.44		the procedure in which blood is transferred from one person’s body to another during an operation.
+369.44	371.92	<v Sam>	That’s all we have time for today.
+371.92	372.76		Bye for now.
+372.76	373.44	<v Neil>	Bye!
+373.44	383		6 minute English from BBC.

@@ -1,0 +1,165 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	13.08		6 minute English from BBClearningEnglish.com
+13.08	15.32	<v Alice>	Hello and welcome to 6 Minute English.
+15.32	16.08		I’m Alice…
+16.08	16.28	<v Neil>	…
+16.28	16.92		and I’m Neil.
+16.92	17.36		Hello.
+17.36	17.76	<v Alice>	Hello,
+17.76	18.24		Neil.
+18.24	19.16		Have you been shopping?
+19.16	19.6	<v Neil>	Yes,
+19.6	22.4		I went a bit mad with my credit card actually.
+22.4	22.6	<v Alice>	Gosh,
+22.6	23.84		I can see that!
+23.84	25.8		But look at all those plastic bags.
+25.8	27.72		Why don’t you use your own bags?
+27.72	28.56	<v Neil>	You know what,
+28.56	29.88		I’m going to.
+29.88	33.32		Because they’re now charging 5p per bag!
+33.32	34.32	<v Alice>	Don’t you follow the news,
+34.32	35.04		Neil?
+35.04	37.08		It’s a recent government <strong>initiative</strong> –
+37.08	39.52		which means a new plan for dealing with something –
+39.52	40.2		in this case,
+40.2	44.12		to cut the number of thin plastic bags being given away in shops.
+44.12	47.88		And the environmental impact of plastic is the subject of today’s show.
+47.88	50.44	<v Neil>	Is England the first country to charge for these bags,
+50.44	50.84		Alice?
+50.84	51.56	<v Alice>	No –
+51.56	54.64		other countries in the UK started charging a few years ago.
+54.64	57.4		And countries around the world including Bangladesh,
+57.4	58.4		South Africa,
+58.4	58.92		China,
+58.92	62		and Italy have actually banned them altogether.
+62	62.76	<v Neil>	Interesting.
+62.76	64.44		But I don’t throw my bags away,
+64.44	64.92		Alice.
+64.92	66.44		I put them under the kitchen sink.
+66.44	67.96	<v Alice>	Are you a <strong>hoarder</strong>,
+67.96	69.4		Neil?
+69.4	74.12		That means someone who collects large amounts of stuff and can’t throw things away.
+74.12	75.36	<v Neil>	Maybe I am…
+75.36	76.2		But seriously,
+76.2	80.44		with the 5p charge I’m definitely going to recycle my plastic bags.
+80.44	81.84	<v Alice>	Good.
+81.84	83.56		Now let me ask you today’s quiz question,
+83.56	90.4		Neil: How many tonnes of plastic rubbish from the UK is being sent to China each year for recycling?
+90.4	90.96		Is it:
+90.96	94.28		a) 20,000?
+94.28	98.08		b) 200,000?
+98.08	102.36		or c) 2,000,000?
+102.36	103.96	<v Neil>	Well I think it’s …
+103.96	105.92		a) 20,000.
+105.92	109.2	<v Alice>	We’ll find out if you’re right or wrong later on.
+109.2	110.12		But first,
+110.12	112.4		why are plastic bags bad for the environment?
+112.4	114.8	<v Neil>	Because they’re too thin?
+114.8	117.04		And when they break all your shopping falls out?
+117.04	118.12		That must be it.
+118.12	119.24	<v Alice>	No.
+119.24	121.88		They take hundreds of years to <strong>decompose</strong> –
+121.88	124.76		or break down by natural chemical processes.
+124.76	127.28		And also people don’t dispose of them properly.
+127.28	127.6		They litter our streets.
+127.6	129.28		They <strong>clog</strong> –
+129.28	130.16		or block –
+130.16	131.64		drains and sewers.
+131.64	134.24		They spoil the countryside and damage wildlife.
+134.24	136.04	<v Neil>	Well that’s quite a list.
+136.04	137.6		So what’s the solution then,
+137.6	138.16		Alice?
+138.16	142.4	<v Alice>	Well to either recycle or stop using plastic bags.
+142.4	146.12		But let’s hear about the pharmaceutical company with another idea.
+146.12	148.28		This is BBC reporter John Maguire.
+148.28	160.36	<v John Maguire, BBC reporter>	At this company laboratory in North London they’re testing how bags made with a special additive break down when exposed to sunlight,
+160.36	161.92		oxygen and heat…
+161.92	169.84		The technology was discovered by a British scientist in the 1970s and is now sold to around half the world’s countries.
+169.84	170.48		In some,
+170.48	175		biodegradable bags are backed by law.
+175	181.12	<v Neil>	And <strong>biodegradable</strong> means able to break down naturally in a way that isn’t harmful to the environment.
+181.12	184.32	<v Alice>	So adding small amounts of a chemical to the plastic –
+184.32	186.16		a special <strong>additive</strong> –
+186.16	189.36		allows the plastic to break down in the open air.
+189.36	192.96		But if the technology was discovered back in the 1970s,
+192.96	196.76		why aren’t these biodegradable bags being used in <em>every</em> country by now?
+196.76	198	<v Neil>	I have no idea,
+198	198.84		Alice.
+198.84	202.12		Maybe they aren’t as strong as non-biodegradable bags.
+202.12	203.28		I like a good strong bag,
+203.28	203.72		myself,
+203.72	204.2		you see.
+204.2	204.88	<v Alice>	Alright.
+204.88	205.24		Well,
+205.24	207.08		just go and buy yourself some canvas bags,
+207.08	207.36		Neil!
+207.36	208.16		In fact,
+208.16	209.76		I’ll get you some for your birthday.
+209.76	210.12	<v Neil>	Thank you.
+210.12	211.16	<v Alice>	You’re very welcome.
+211.16	211.68		Now,
+211.68	212.92		moving on.
+212.92	216.52		Out of around 300 million tons of plastic produced every year,
+216.52	219.28		some goes in <strong>landfill</strong> –
+219.28	221.48		a place where our rubbish is buried under the earth –
+221.48	224.8		but about 10% of plastic ends up in the sea.
+224.8	229.88		Let’s listen to Biologist Dr Pennie Lindeque from Plymouth Marine Laboratory talking about this.
+229.88	240.6	<v Biologist Dr Pennie Lindeque from Plymouth Marine Laboratory>	We’re already finding that there’s a lot of microplastics in the sea and that some of these microplastics are actually being ingested by the zooplankton that live there.
+240.6	251.16		We’re also concerned this could end up being passed up through the food chain to food which is destined for human consumption so it could end up on your or my plate.
+251.16	254.92	<v Neil>	What are <strong>microplastics</strong>,
+254.92	255.32		Alice?
+255.32	259.04	<v Alice>	They’re small plastic fragments less than 5mm in size.
+259.04	261.92		You find them in cosmetic products such as facial scrubs,
+261.92	262.88		shower gel,
+262.88	263.68		and toothpaste.
+263.68	267.2	<v Neil>	And I’m guessing that <strong>ingested</strong> means ‘eaten’?
+267.2	267.36	<v Alice>	Yes,
+267.36	269.2		the <strong>zooplankton</strong> –
+269.2	271.24		tiny little animals in the sea –
+271.24	274.48		mistake the microplastics for food and eat them.
+274.48	277.48		And because the zooplankton and humans are in the same food chain –
+277.48	279.36		they’re at the bottom and we’re at the top –
+279.36	281.36		but we’re still connected –
+281.36	285.04		we may end up eating them and the microplastics inside them!
+285.04	287.36	<v Neil>	That doesn’t sound very tasty!
+287.36	289.08		Now a <strong>food chain</strong>,
+289.08	289.64		by the way,
+289.64	295.56		refers to a series of living things where each creature feeds on the one below it in the chain.
+295.56	296.72	<v Alice>	Indeed.
+296.72	297.08		OK.
+297.08	299.24		Remember my question from earlier?
+299.24	305.6		I asked: How many tonnes of plastic rubbish from the UK is being sent to China each year for recycling?
+305.6	306.48		Is it…
+306.48	308.48		a) 20,000?
+308.48	311.44		b) 200,000?
+311.44	314.2		or c) 2,000,000?
+314.2	316.48	<v Neil>	And I said a) 20,000.
+316.48	318.44	<v Alice>	Yes but you’re wrong,
+318.44	319.76		I’m afraid.
+319.76	323.04		The answer is b) 200,000 tonnes.
+323.04	326.04		And that statistic comes from the University of Cambridge in the UK.
+326.04	328.56	<v Neil>	That’s a load of rubbish!
+328.56	329.44		Get it –
+329.44	330.68		load of rubbish?
+330.68	330.92	<v Alice>	Very good.
+330.92	332.68	<v Neil>	Can we hear today’s words again please?
+332.68	333.6	<v Alice>	We certainly can.
+333.6	334.24		Here they are:
+334.24	336.28		initiative
+336.28	338.68		hoarder
+338.68	341.56		decompose
+341.56	343.84		clog
+343.84	346.76		biodegradable
+346.76	349.08		additive
+349.08	351.8		landfill
+351.8	354.64		microplastics
+354.64	356.92		ingested
+356.92	359.56		zooplankton
+359.56	362.04		food chain
+362.04	362.52	<v Neil>	Well,
+362.52	365.16		that brings us to the end of this 6 Minute English.
+365.16	368.28		We hope you enjoyed today’s environmentally-friendly programme.
+368.28	370.84		Please do join us again soon.
+370.84	371.84	<v Both>	Bye.
+371.84	377.76		6 minute English from BBC.

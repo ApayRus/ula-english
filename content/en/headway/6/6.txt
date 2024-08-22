@@ -1,0 +1,14 @@
+0.17	2.40	T 6.6
+4.33	6.87	<v K> Were you at Charlotte’s party last Saturday?
+7.16	8.50	<v M> Yes, I was.
+8.65	9.50	<v K> Was it good?
+9.80	11.72	<v M> Well, it was OK.
+12.32	13.62	<v K> Were there many people?
+13.75	14.89	<v M> Yes, there were.
+15.38	16.90	<v K> Was Henry there?
+17.43	18.82	<v M> No, he wasn’t.
+19.20	20.43	And where were you?
+20.87	22.21	Why weren’t you there?
+22.48	23.22	<v K> Oh …
+24.04	26.74	I couldn’t go because I was at Mark’s party!
+27.03	28.60	It was brilliant!

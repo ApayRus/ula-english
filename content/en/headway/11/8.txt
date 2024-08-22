@@ -1,0 +1,29 @@
+0.17	2.23	Tapescript 11.8
+4.39	5.27	<v SA> Can I help you?
+5.77	6.87	<v C> Yes, please.
+7.22	10.16	I’m looking for a shirt to go with my new suit.
+10.58	11.93	<v SA> What colour are you looking for?
+12.52	13.09	<v C> Blue.
+13.95	15.06	<v SA> What about this one?
+15.66	16.56	Do you like this?
+16.92	19.08	<v C> No, it isn’t the right blue.
+19.28	21.11	<v SA> Well, what about this one?
+21.49	22.77	It’s a bit darker blue.
+23.06	24.03	<v C> Oh yes.
+24.31	26.13	I like that one much better.
+26.60	27.81	Can I try it on?
+28.02	29.01	<v SA> Yes, of course.
+29.64	31.01	The changing rooms are over there.
+33.37	34.45	Is the size OK?
+34.95	36.99	<v C> No, it’s a bit too big.
+37.43	39.29	Have you got a smaller size?
+40.01	42.48	<v SA> That’s the last blue one we’ve got, I’m afraid.
+42.97	44.44	But we’ve got it in white.
+44.66	45.42	<v C> OK.
+45.70	46.83	I’ll take the white.
+47.15	48.18	How much is it?
+48.59	50.16	<v SA> ?39.99.
+50.63	51.74	How do you want to pay?
+51.96	53.90	<v C> Can I pay by credit card?
+54.17	55.32	<v SA> Credit card’s fine.
+55.82	56.81	Thank you very much.

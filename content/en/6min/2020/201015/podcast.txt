@@ -1,0 +1,103 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	13.08		6 minute English from BBClearningEnglish.com
+13.08	13.72	<v Rob>	Hello.
+13.72	17		This is 6 Minute English from BBC Learning English.
+17	17.84		I’m Rob.
+17.84	19	<v Sam>	And I’m Sam.
+19	22.08	<v Rob>	When it comes to US presidential elections,
+22.08	24.48		some are more dramatic than others.
+24.48	32.52	<v Sam>	But few elections have been as controversial as this November’s contest between current President Trump and his Democratic rival,
+32.52	33.48		Joe Biden.
+33.48	34.16	<v Rob>	In America,
+34.16	36.12		where many votes are cast digitally,
+36.12	41.32		there is a risk of cyber-attacks on election day and with so much depending on the result,
+41.32	43.6		US election officials are worried.
+43.6	54.96	<v Sam>	In this programme we’ll be hearing about plans to prevent election cyber-attacks which involve election officials working with a very unusual group of people: volunteer hackers.
+54.96	58.56		<strong>Volunteers</strong> are people who work willingly,
+58.56	59.8		without being paid…
+59.8	60.16	<v Rob>	…
+60.16	68.04		and <strong>hackers</strong> are people who break into computer systems without permission in order to find information or do something illegal.
+68.04	74	<v Sam>	But cyber-attacks from hackers are not the only threat to fair and democratic elections.
+74	78.44	<v Rob>	In 2000 the presidential race between Al Gore and George W.
+78.44	83.08		Bush ended in recounts and disputes over missing votes.
+83.08	90.48		George Bush became the first modern president to win the election despite gaining fewer popular votes than his opponent –
+90.48	92		but how many fewer?
+92	93.6		That’s our quiz question –
+93.6	99.96		how many fewer votes did Bush win than Gore in the 2000 American presidential election?
+99.96	100.48		Was it:
+100.48	102.36		a) half a million votes?,
+102.36	104.04		b) a million votes?,
+104.04	104.32		or
+104.32	106.48		c) two million votes?
+106.48	109.24	<v Sam>	I’ll say b) a million votes.
+109.24	110.04	<v Rob>	OK,
+110.04	111.72		we’ll find out later.
+111.72	112		Now,
+112	113.36		the project Sam mentioned,
+113.36	118.76		where official administrators team up with expert volunteers to keep the election secure,
+118.76	121.76		is called <em>The Election Cyber Surge</em>.
+121.76	133.8	<v Sam>	BBC World Service programme <em>Digital Planet</em> met up with project organiser Maya Worman to discuss the importance of keeping the election free from interference.
+133.8	137.28	<v Maya Worman>	Any attempt to manipulate or interfere with election infrastructures –
+137.28	142.8		the machines or the information sets that determine who is <strong>eligible</strong> to vote and where –
+142.8	144		undermines the right to vote.
+144	149.56		And it puts burdens on voters and it impacts public confidence; and <strong>high-profile</strong> elections,
+149.56	151.4		especially like the one coming up,
+151.4	154.48		heighten the types of risks that we’re talking about.
+154.48	157.72	<v Rob>	You can only vote in an election if you are <strong>eligible</strong> –
+157.72	161.08		qualified by having the necessary requirements,
+161.08	164.96		for example being a US citizen who’s aged 18 or over.
+164.96	174.8	<v Sam>	It’s up to each of the eight thousand local jurisdictions around the United States to keep their area free from cyber-attacks and misinformation -
+174.8	179.88		risks which have increased because the coming election is so <strong>high-profile</strong> -
+179.88	184.2		attracting a lot of attention and interest from newspapers and the public.
+184.2	192.28	<v Rob>	The <em>Cyber Surge</em> project to put expert volunteers in touch with local officials aims to prevent these risks.
+192.28	200.64		It covers everything from making sure administrators are using the latest anti-virus software to more serious threats from troublemakers.
+200.64	202.52	<v Sam>	Now that’s got me thinking actually,
+202.52	203.4		Rob.
+203.4	207.76		Suppose I’m a troublemaker who wants to influence the election result –
+207.76	212.96		so I sign up as a volunteer and gain access to all kinds of information.
+212.96	216.56		How do we know that the volunteers who sign up are trustworthy?
+216.56	217.68	<v Rob>	That’s a good question,
+217.68	218.44		Sam,
+218.44	220.72		and one that BBC World Service programme,
+220.72	221.56		<em>Digital Planet</em>,
+221.56	221.92		put to Maya Worman.
+221.92	229.24	<v Maya Worman>	The expectation is not that the <strong>volunteer</strong> will have <strong>the keys to the castle</strong> by any means,
+229.24	238.68		more that they will have an open dialogue with an election administrator who wants to know more to explore <strong>cybersecurity</strong> enhancements in general or specifically.
+238.68	246.08	<v Sam>	Volunteers are carefully selected according to their experience and skills in <strong>cybersecurity</strong> -
+246.08	254		measures that help organisations and countries keep their computer information safe against crimes and attacks carried out through the internet.
+254	258.76	<v Rob>	Volunteers share their expert advice by talking with election officials.
+258.76	264.4		They won’t be given access to sensitive information so they won’t have <strong>the keys to the castle</strong> –
+264.4	270.16		an idiom meaning to possess information or knowledge which gives the possessor access to power.
+270.16	273.56	<v Sam>	All of which means that the 2020 election result will,
+273.56	274.36		hopefully,
+274.36	276.32		be accepted by everyone.
+276.32	278.68	<v Rob>	Unlike the situation twenty years ago.
+278.68	279.12	<v Sam>	Ah,
+279.12	280.28		you mean our quiz question,
+280.28	280.6		Rob,
+280.6	284.56		about the 2000 US presidential election which George W.
+284.56	288.76		Bush won despite securing fewer votes than his opponent.
+288.76	293.2	<v Rob>	I asked you how many fewer votes Bush won than Al Gore that year.
+293.2	295.76	<v Sam>	And I said b) a million votes.
+295.76	297.12	<v Rob>	But in fact,
+297.12	298.4		it was even closer –
+298.4	302.72		just a) half a million votes in Florida.
+302.72	315.44	<v Sam>	In this programme we’ve been looking ahead to the US presidential elections and its <strong>cybersecurity –</strong> measures taken to protect countries and their computer information against online crimes and attacks.
+315.44	321.92	<v Rob>	The <em>Cyber Surge</em> project aims to put officials in touch with <strong>volunteers –</strong> people who work for free,
+321.92	325.12		who also happen to be expert <strong>hackers</strong> –
+325.12	328.8		people who break into computer systems without permission.
+328.8	331.92	<v Sam>	But the idea isn’t to commit election crime –
+331.92	336.56		rather to prevent it by making sure only those who are <strong>eligible</strong> –
+336.56	337.48		or qualified -
+337.48	338.28		to vote,
+338.28	339.16		do so.
+339.16	350.28	<v Rob>	The project was set up because the November 2020 election has become so <strong>high-profile -</strong> attracting a lot of attention and interest from the public and the media.
+350.28	359.4	<v Sam>	And of course the volunteers themselves are carefully chosen to be impartial experts who give advice without holding <strong>the keys to the castle</strong> –
+359.4	363.24		an idiom about possessing information which gives access to power.
+363.24	366.96	<v Rob>	What’s certain is that the world will be watching this election,
+366.96	370.08		so if you’re <strong>eligible,</strong> remember to vote.
+370.08	372.92	<v Sam>	And remember to join us again soon.
+372.92	373.68		Bye for now!
+373.68	375.12	<v Rob>	Bye bye!
+375.12	382.04		6 minute English from BBC.

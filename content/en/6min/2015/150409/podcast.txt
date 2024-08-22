@@ -1,0 +1,168 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	7.08		to find out more visit our website
+7.08	13.6		6 minute English from BBClearningEnglish.com
+13.6	15.96	<v Rob>	Hello and welcome to 6 Minute English.
+15.96	16.4		I’m Rob…
+16.4	16.48	<v Neil>	…
+16.48	17.2		and I’m Neil.
+17.2	17.88		Hello.
+17.88	18.16	<v Rob>	Hello,
+18.16	18.72		Neil,
+18.72	20.6		and what a glorious sunny day it is today.
+20.6	22.4		Not a cloud in the sky!
+22.4	24.68		Spring is definitely here!
+24.68	25.24		Now,
+25.24	25.52		Neil,
+25.52	27		you’re a bit of a sun worshipper,
+27	27.32		aren’t you?
+27.32	28.56		You like sunbathing…
+28.56	29.72	<v Neil>	I do indeed!
+29.72	32.28		I love sitting in my deckchair in the garden,
+32.28	33.6		catching some rays…
+33.6	34.12	<v Rob>	Hmm,
+34.12	34.4		yes,
+34.4	36.56		you look a bit orange actually.
+36.56	38.16		Are you sure that tan’s not fake?
+38.16	38.88	<v Neil>	Very cheeky,
+38.88	39.04		Rob,
+39.04	39.96		very cheeky…
+39.96	44.32	<v Rob>	Now the reason I mentioned sunbathing is because we’re discussing the sun in this programme.
+44.32	44.52	<v Neil>	Yes,
+44.52	45.44		that’s right.
+45.44	47.8		The sun is our nearest star –
+47.8	53.16		although it’s a staggering 150 million kilometres away.
+53.16	55.96		Earth is one of nine planets that <strong>orbit</strong> –
+55.96	57		or circle around –
+57	57.96		the sun.
+57.96	62.48		And life on Earth couldn’t exist without its warmth and light.
+62.48	63.8	<v Rob>	And we should mention…
+63.8	66.92		the sun is absolutely <strong>massive</strong>.
+66.92	72.08		Its volume is so large you could fit a million Earths inside it.
+72.08	73.6	<v Neil>	That’s amazing!
+73.6	76.04		It’s also incredibly hot.
+76.04	78.68		Hotter than anything you could imagine.
+78.68	79.36	<v Rob>	So Neil,
+79.36	85.12		can you answer this question: How hot is the surface of the sun?
+85.12	88.68		Now I’ll help you out by telling you that the sun’s <strong>core</strong> –
+88.68	89.88		that’s the centre –
+89.88	93.96		is a blistering five million degrees Celsius.
+93.96	96.48		But how hot is the sun’s surface?
+96.48	96.84		Is it …
+96.84	100.56		a) 1.5 billion degrees Celsius
+100.56	103.52		b) 1.5 million degrees Celsius
+103.52	107.64		or c) 5500 degrees Celsius
+107.64	108.48	<v Neil>	Hmm.
+108.48	109.52		I have no idea.
+109.52	111.84		They all sound quite warm to me.
+111.84	112.6		But …
+112.6	115.4		I think it must be a bit cooler than the core.
+115.4	120.24		So I’m going to go for 1.5 million degrees.
+120.24	120.56	<v Rob>	Okay.
+120.56	120.88		Well,
+120.88	123.56		we’ll find out if you’re right or wrong later on.
+123.56	131.88		But now let’s listen to Professor of Solar Physics Louise Harra to discover what the sun is made of.
+131.88	134.44	<v Louise Harra, Professor of Solar Physics at UCL Mullard Space Science>	It’s just a big ball of gas.
+134.44	136		And we measure it…
+136	137.76		it’s made mostly of hydrogen.
+137.76	139.88		So it’s roughly 90% hydrogen,
+139.88	141.6		it’s maybe 8% helium,
+141.6	144.44		and the rest of it’s made up of things like iron,
+144.44	145.04		carbon,
+145.04	146.08		oxygen,
+146.08	147.84		nickel.
+147.84	149.8	<v Neil>	So the main gas is hydrogen,
+149.8	154.08		which accounts for 90% of the sun’s <strong>matter</strong>.
+154.08	154.36		Now,
+154.36	157.8		‘matter’ means what something is made of.
+157.8	161.16	<v Rob>	And hydrogen creates all the sun’s <strong>energy</strong>.
+161.16	169		Heat and light energy is created all the time in the sun’s core as a result of gas explosions or nuclear reactions.
+169	171.8		And this bit is hard to believe –
+171.8	178.92		it takes a hundred thousand years for this light energy to travel from the sun’s core to the sun’s surface.
+178.92	181.88	<v Neil>	But once it reaches the sun’s surface –
+181.88	184.16		the <strong>photosphere</strong> –
+184.16	184.8		it can escape.
+184.8	185.32		In fact,
+185.32	189.64		it takes only eight minutes for light energy from the sun to reach the Earth.
+189.64	196.92		Scientists these days are able to see the photosphere in fantastic detail using powerful telescopes.
+196.92	202.52	<v Rob>	Though Galileo observed dark spots on the sun through his telescope several hundred years ago,
+202.52	203.36		didn’t he?
+203.36	207.2		Which brings us on to another question: How old is the sun?
+207.2	207.52	<v Neil>	Well,
+207.52	212.8		I happen to know that it came into being around four and a half billion years ago.
+212.8	215.6	<v Rob>	Did you study solar physics at university,
+215.6	215.92		Neil?
+215.92	216.2	<v Neil>	No,
+216.2	216.4		just…
+216.4	217		you know,
+217	218.64		just general knowledge.
+218.64	218.96	<v Rob>	Well,
+218.96	220.76		the sun <strong>came into being</strong> –
+220.76	221.76		or was created –
+221.76	223.48		a very long time ago!
+223.48	226.04		We’re going to hear now from Professor of Physics,
+226.04	227.48		Yvonne Elseworth.
+227.48	232.52		What does she say about how long the sun is going to stay the same?
+232.52	236.76	<v Yvonne Elseworth, Poynting Professor of Physics at the University of Birmingham>	In terms of its current lifestyle it’s here for as long again,
+236.76	238.92		so we’re about half way through.
+238.92	240.8		And then it becomes a different sort of star –
+240.8	244.56		it becomes a giant star and that’s probably curtains for us,
+244.56	245.4		actually.
+245.4	246.96		It’ll get a bit warm,
+246.96	247.68		a bit toasty,
+247.68	249.84		and we’ll get enveloped in the sun,
+249.84	250.76		and it won’t be nice…
+250.76	257.24	<v Neil>	So the sun is going to stay the same for another four and a half billion years.
+257.24	261.12		But the professor also says that the sun will change.
+261.12	263.96		When it becomes a giant star,
+263.96	266.6		it will be <strong>curtains</strong> for our planet –
+266.6	267.4		and ‘curtains’
+267.4	268.52		means the end,
+268.52	269.44		I’m afraid!
+269.44	269.76	<v Rob>	Yes,
+269.76	270.2		it does.
+270.2	271.72		And as a giant star,
+271.72	273.8		the sun will get hotter –
+273.8	275.68		it will make the Earth <strong>toasty</strong>.
+275.68	275.88		Now,
+275.88	278.52		toasty usually means hot in a nice way.
+278.52	279.28	<v Neil>	That’s right –
+279.28	280.32		for example,
+280.32	283.84		my toes are warm and toasty in my new slippers.
+283.84	289.2		But in reality the giant sun will make the Earth unbearably hot.
+289.2	290.28		It will surround –
+290.28	292.4		or <strong>envelop</strong> –
+292.4	294.2		our planet and burn it up.
+294.2	294.92	<v Rob>	Well,
+294.92	297.52		I’m glad we’re not going to be around when that happens.
+297.52	298.92		Now,
+298.92	303.84		remember at the beginning of the show I asked you how hot the sun’s surface is?
+303.84	312.2		Is it a) 1.5 billion b) 1.5 million or c) 5500 degrees Celsius?
+312.2	314.64	<v Neil>	And I said 1.5 million…
+314.64	315.84	<v Rob>	It’s way too hot,
+315.84	316.68		I’m afraid you were wrong.
+316.68	321.72		The answer is actually 5500 degrees Celsius.
+321.72	322.4		But still,
+322.4	324.44		if you’re planning on visiting the sun,
+324.44	327.52		remember to take your sunglasses and plenty of sunscreen!
+327.52	328.52		Now,
+328.52	329.32		before we go,
+329.32	333.6		it’s time to remind ourselves of some of the vocabulary that we’ve heard today.
+333.6	334.08		Neil.
+334.08	335.56	<v Neil>	orbit
+335.56	338.76		massive
+338.76	341.24		core
+341.24	344.16		energy
+344.16	346.72		matter
+346.72	349.72		photosphere
+349.72	352.52		come into being
+352.52	356.16		curtains for something
+356.16	358.88		toasty
+358.88	361.08		envelop
+361.08	363.04	<v Rob>	Thanks.
+363.04	364.16		Well,
+364.16	366.76		that brings us to the end of today’s 6 Minute English.
+366.76	368.68		We hope you enjoyed today’s programme.
+368.68	369.96		Please join us again soon.
+369.96	371.12		Bye bye.
+371.12	372.4	<v Neil>	Bye.
+372.4	378.36		6 minute English from BBC.

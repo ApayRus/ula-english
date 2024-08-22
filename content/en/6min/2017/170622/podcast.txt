@@ -1,0 +1,165 @@
+0.1	3		This is a download from bbc learning English
+3	6.76		to find out more visit our website
+6.76	12.48		6 minute English from BBClearningEnglish.com
+12.48	14	<v Neil>	Welcome to 6 Minute English,
+14	18		where we bring you an interesting topic and six items of vocabulary.
+18	19.48	<v Catherine>	And all in just six minutes,
+19.48	20.24		of course.
+20.24	20.96		I’m Catherine.
+20.96	21.6	<v Neil>	And I’m Neil.
+21.6	22.84		Today –
+22.84	25.52		is technology built to fail?
+25.52	28.76		And are we throwing away too much technology and harming the planet?
+28.76	29.36		Catherine,
+29.36	29.76		tell me -
+29.76	31.36		how old is your TV?
+31.36	34.28	<v Catherine>	My TV has just had its fifth birthday.
+34.28	35.92	<v Neil>	And your mobile phone?
+35.92	38.2	<v Catherine>	It’s about two and a half.
+38.2	40.04	<v Neil>	So you do like to have <strong>gizmos</strong>,
+40.04	41.64		but not necessarily the latest.
+41.64	42.52	<v Catherine>	Exactly.
+42.52	43.68	<v Neil>	<strong>Gizmo</strong> –
+43.68	44.28		nice word.
+44.28	46.64		A <strong>gizmo</strong> is a small piece of technology –
+46.64	48.32		otherwise called a gadget.
+48.32	51.76	<v Catherine>	And of course I’m not alone in buying gadgets from time to time.
+51.76	54.32		They actually keep on getting more advanced –
+54.32	56.2		so people keep buying new ones.
+56.2	59.12	<v Neil>	Technology also gets cheaper and cheaper.
+59.12	59.64		In fact,
+59.64	63.4		many gadgets are more expensive to fix than replace.
+63.4	66.28	<v Catherine>	And this means that we throw a lot of gadgets away –
+66.28	67.76		but how many?
+67.76	73.4	<v Neil>	See if you can guess: how much electronic waste is thrown away every year globally?
+73.4	73.68		Is it…
+73.68	75.72		a) 420 tonnes,
+75.72	78.44		b) 4.2 million tonnes or
+78.44	80.84		c) 42 million tonnes?
+80.84	83.12	<v Catherine>	And I do actually know the answer to this once,
+83.12	84.28		so I’m gonna keep quiet,
+84.28	85.36		just for once!
+85.36	85.68	<v Neil>	Ah,
+85.68	87.32		first time for everything!
+87.32	87.64		So,
+87.64	89.72		to bring us back to our main point.
+89.72	92.44		Is technology no longer built to last?
+92.44	100.36		Let’s hear first from Professor Tim Cooper who is an expert in <strong>sustainable</strong> consumption and production at Nottingham Trent University in the UK.
+100.36	101.52	<v Catherine>	<strong>Sustainable</strong>,
+101.52	102.28		by the way,
+102.28	106.6		means ‘able to continue over a long period of time’.
+106.6	111.12		We often use it to mean ‘able to continue without causing harm’ –
+111.12	113		like environmental damage.
+113	116.48		What’s the problem with mobile phones?
+116.48	119.16	<v Tim Cooper, Professor of Sustainable Consumption and Production at Nottingham Trent University>	The classic example of this is the mobile phone,
+119.16	119.72		where,
+119.72	120.36		for example,
+120.36	122		screens are glued into the product.
+122	125		Now they know that if there was a <strong>screw</strong> there,
+125	126.2		the consumer could easily,
+126.2	127.28		when that screen cracks,
+127.28	129.24		which is obviously a very common problem with mobile phones,
+129.24	131.4		<strong>unscrew</strong> it and put a new screen on.
+131.4	131.84		They don’t.
+131.84	136.76		They know perfectly well that that would be a way in which mobile phones would last longer.
+136.76	137.4		They don’t want that,
+137.4	139.76		they want you to replace your mobile phone every year or two.
+139.76	144.8	<v Neil>	Professor Cooper says that mobile phones’ screens crack often –
+144.8	147.72		and generally when that happens people buy a new one.
+147.72	153.56	<v Catherine>	That’s partly because mobile phones’ screens are glued on rather than <strong>screwed</strong> on.
+153.56	159.08		Now a <strong>screw</strong> is a piece of metal like a nail but with a raised twisted part –
+159.08	162.04		and we use screws to join two things together.
+162.04	164	<v Neil>	The verb form is the same –
+164	165.04		to <strong>screw</strong> –
+165.04	167.12		and the opposite is to <strong>unscrew</strong>.
+167.12	169.92		If you could <strong>unscrew</strong> a cracked screen and then replace it,
+169.92	172.32		there’d be no need to buy a whole new phone,
+172.32	174.32		he says.He thinks that generally,
+174.32	178.88		people have <strong>lowered their expectations</strong> when it comes to how long things should last.
+178.88	181.04	<v Neil>	<strong>Expectations</strong> is a good word –
+181.04	184.04		an <strong>expectation</strong> is a strong belief something will happen.
+184.04	187.2		<strong>Expectations</strong> can be raised or <strong>lowered</strong>.
+187.2	187.44	<v Catherine>	Or managed –
+187.44	196.48		to ‘manage your <strong>expectations</strong>’ means to not let your expectations get so high that you then become disappointed when something fails.
+196.48	197.16	<v Neil>	Yes,
+197.16	198.28		by way of an example,
+198.28	203.44		Professor Cooper says that his parents’ washing machine lasted for 37 years.
+203.44	203.96		These days,
+203.96	206.24		they last between five and ten.
+206.24	206.6	<v Catherine>	Yeah.
+206.6	211.84		And we don’t see electrical products as an investment in the same way that people used to.
+211.84	216.56		We now worry that what we buy today will become <strong>obsolete</strong> tomorrow.
+216.56	217.44	<v Neil>	<strong>Obsolete</strong> –
+217.44	219.08		no longer valid or useful.
+219.08	219.84		And also –
+219.84	224.88		he says we’ve become so used to cheap products that we don’t want to spend more on good quality.
+224.88	226.2	<v Catherine>	So what’s to be done?
+226.2	228.16	<v Neil>	Cooper suggests that if we can afford it,
+228.16	231.32		we really should try to buy higher quality products.
+231.32	235.92		And manufacturers should put labels on their products saying how long they are designed to last.
+235.92	237.04	<v Catherine>	An interesting idea.
+237.04	243.6		Cooper says that over 2m pounds worth of electrical goods are thrown away each year in the UK.
+243.6	245.92		He calls it a &quot;<strong>throwaway culture&quot;</strong>.
+245.92	248.96	<v Neil>	A culture in which we throw things out much more easily.
+248.96	250.68		Not good for the planet either.
+250.68	251.2		So –
+251.2	253.68		will you try to keep your mobile for a bit longer,
+253.68	256.2		or are you already tempted by the latest model,
+256.2	256.88		Catherine?
+256.88	258.72	<v Catherine>	I’m happy with the one I’ve got,
+258.72	260.76		but I’m gonna protect the screen very carefully.
+260.76	261.32	<v Neil>	Yes,
+261.32	262.48		a good idea.
+262.48	264.64		Maybe this will help you make up your mind,
+264.64	264.88		though.
+264.88	268.8		I asked how many tonnes of electrical waste are thrown away globally.
+268.8	270.28	<v Catherine>	And I said I know the answer –
+270.28	272.92		it’s actually 42m tonnes,
+272.92	275.76		according to a UN report back in 2015.
+275.76	277.6		The figure could be a lot higher now.
+277.6	278.72		And as you know –
+278.72	280.12		my mobile isn’t very heavy –
+280.12	284.04		so 42m tonnes is an awful lot of phones!
+284.04	286.12		While we try to picture that,
+286.12	288.8		let’s quickly run through today’s vocabulary.
+288.8	291.16		So first up was <strong>gizmo</strong> -
+291.16	292.96		a small piece of technology –
+292.96	293.72		a gadget.
+293.72	294.56	<v Neil>	Smartphones,
+294.56	295.44		smart watches,
+295.44	296.2		fitness trackers,
+296.2	296.92		sat navs –
+296.92	298.76		all <strong>gizmos</strong>!
+298.76	300.04	<v Catherine>	We had <strong>sustainable</strong> –
+300.04	301.8		able to last or continue.
+301.8	303.96		We talk about <strong>sustainable</strong> energy,
+303.96	306.24		<strong>sustainable</strong> economic development…
+306.24	308.88	<v Neil>	The opposite would be <strong>unsustainable</strong> development…
+308.88	310.12		And another pair of words –
+310.12	317.12		to <strong>screw</strong> and to <strong>unscrew</strong>.
+317.12	324.08	<v Catherine>	A <strong>screw</strong> is that little metal thing like a nail that we use to join things together.
+324.08	328.44		You can <strong>screw</strong> shelves into the wall,
+328.44	331.2		you can <strong>screw</strong> furniture together…
+331.2	334.24	<v Neil>	And when you move house you <strong>unscrew</strong> it.
+334.24	337.64		Three more: to <strong>lower your expectations</strong>.
+337.64	340.64		What have you lowered your expectations about?
+340.64	342.76	<v Catherine>	about performance over the next five years.
+342.76	343.36	<v Neil>	Yes –
+343.36	345.16		another one looking ahead into the future –
+345.16	348.52		I’m pretty sure my computer will be <strong>obsolete</strong> in ten years.
+348.52	349.96		It will no longer be used –
+349.96	351.04		it will be out of date.
+351.04	352.12	<v Catherine>	I just urge you,
+352.12	352.4		Neil,
+352.4	353.88		when you do get a new one –
+353.88	356.84		please recycle this one responsibly.
+356.84	359.2		We already live in a <strong>throwaway culture</strong>.
+359.2	360.12	<v Neil>	Yes –
+360.12	362.2		it’s pretty <strong>unsustainable</strong>.
+362.2	362.28		Now,
+362.28	365.36		before your laptop or phone becomes <strong>obsolete</strong> –
+365.36	366.64		I suggest you check out our Facebook,
+366.64	367.04		Twitter,
+367.04	368.64		Instagram and YouTube pages!
+368.64	372.6		Bye for now.Bye!
+372.6	378.6		6 minute English from BBC.

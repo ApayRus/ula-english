@@ -1,0 +1,147 @@
+0.1	3		This is a download from bbc learning English
+3	6.8		to find out more visit our website
+6.8	13.52		6 minute English from BBClearningEnglish.com
+13.52	16.6	<v Rob>	Hello I’m Rob and this is 6 Minute English –
+16.6	19.4		a programme that brings you an interesting topic,
+19.4	24.88		authentic listening practice and some vocabulary to help you improve your language skills.
+24.88	26.36		Joining me today is Neil.
+26.36	27.04	<v Neil>	Hello.
+27.04	32.68		And today we’re discussing those pilotless aircraft that we seem to be hearing and reading a lot about at the moment.
+32.68	34.44	<v Rob>	You mean drones.
+34.44	34.92		And yes,
+34.92	38.64		they are in the news quite often for good and bad reasons.
+38.64	41.48		They’ve been used for many things from smuggling drugs,
+41.48	44.56		detecting water leaks and <strong>surveillance</strong>.
+44.56	45.2	<v Neil>	And surveillance –
+45.2	48.96		that means ‘the act of carefully watching someone or something’ –
+48.96	50.52		perhaps a criminal –
+50.52	52.56		but also it means spying,
+52.56	54.24		maybe on me and you Rob?
+54.24	57.68		So should we be welcoming the rise of the use of drones?
+57.68	57.92	<v Rob>	Well,
+57.92	60.44		before our discussion about that ‘takes off’,
+60.44	62.6		we need to set today’s question for you to answer,
+62.6	63.52		Neil.
+63.52	66.08	<v Neil>	What are you <strong>droning on</strong> about Rob?
+66.08	67.96		And by that I don’t mean ‘flying a drone’ –
+67.96	71.12		I mean ‘talking too much in a very boring way’!
+71.12	71.92	<v Rob>	Thanks Neil.
+71.92	72.88		Now just answer this,
+72.88	73.72		will you?
+73.72	77.84		Drones are sometimes also referred to as UAVs.
+77.84	78.24		So,
+78.24	80.6		what does UAV stand for?
+80.6	81.32		Is it…
+81.32	84.72		a) Unidentified aerial vehicle
+84.72	87.4		b) Unmanned aerial vehicle
+87.4	90.36		c) Unaided aircraft vehicle
+90.36	90.96	<v Neil>	Well,
+90.96	94.16		I’m going to go for b) unmanned aerial vehicle.
+94.16	95.12	<v Rob>	Ok well,
+95.12	97.4		we’ll see if you’re right later on.
+97.4	99.24		Now let’s talk more about drones,
+99.24	99.76		which,
+99.76	100.64		apparently,
+100.64	102.68		seem to be everywhere now.
+102.68	105.64	<v Neil>	But are they safe and are they necessary?
+105.64	110.36		I’ve heard about them being a hazard to aircraft because they’ve been flown close to airports.
+110.36	110.68	<v Rob>	Well,
+110.68	117.08		figures in 2016 showed that in the UK there were 70 near misses involving drones.
+117.08	119.48		And that’s more than double the year before.
+119.48	121.56		So that is a little worrying.
+121.56	122.12	<v Neil>	Yes.
+122.12	128.8		And there’s the potential risk of people’s privacy being invaded when a drone is flown over their property with a camera attached to it.
+128.8	129	<v Rob>	Ah,
+129	133.44		but those cameras are also good at capturing some great <strong>aerial footage</strong> –
+133.44	137.12		that’s the film recording of the view from the above the ground.
+137.12	138.44		So they’re not all bad.
+138.44	140.76		And Dr Yoge Patel would agree.
+140.76	142.96		She is CEO of Blue Bear,
+142.96	145.68		which supplies unmanned planes and drones.
+145.68	149.96		Here she is speaking about drones on the BBC’s Woman’s Hour programme…
+149.96	151.88	<v Dr Yoge Patel, CEO of Blue Bear>	They have the potential to be dangerous,
+151.88	152.68		agreed.
+152.68	153.84		They also have though,
+153.84	154.8		on the flip side,
+154.8	161.36		the ability to be a <strong>game changer</strong> in both domestic use and in military use.
+161.36	161.48		So,
+161.48	164.16		some of our drones are being used for aircraft inspections.
+164.16	166.52		We’ve put our drones into Fukushima.
+166.52	167.72	<v Rob>	So there you go Neil.
+167.72	170.84		There are many useful things drones can do,
+170.84	174.84		and Dr Patel said they have the ability to be a game changer.
+174.84	179.56	<v Neil>	And by that you mean ‘something that completely changes the way something is done or thought about’.
+179.56	180.32	<v Rob>	Yes.
+180.32	187.28		Her company has used drones to inspect the inside of the damaged Fukushima nuclear power station in Japan.
+187.28	195.08		And another example of drones being a game changer is UNICEF and the Malawian government testing drones for carrying medical supplies.
+195.08	197.84		This could help save lives in remote places.
+197.84	199.36	<v Neil>	And I have read that in Australia,
+199.36	204.04		lifeguards are using drones to help rescue swimmers who get in trouble in the sea.
+204.04	214.48	<v Rob>	And have you heard about a Japanese firm that’s planning to use a drone to force employees out of their offices by playing music at them if they stay to work evening overtime.
+214.48	214.92	<v Neil>	I haven’t,
+214.92	216.2		but you’ve convinced me –
+216.2	219.6		it seems like <strong>the sky’s the limit</strong> for the uses of drones!
+219.6	221.6		I mean there’s no limit to what they can do.
+221.6	226.16		But I am a little concerned about how they are regulated or controlled.
+226.16	229.84	<v Rob>	Well Dr Yoge Patel says because the technology is new,
+229.84	230.96		regulations –
+230.96	232.36		or legal controls -
+232.36	234.88		are developing all the time…
+234.88	236.4	<v Dr Yoge Patel, CEO, Blue Bear>	As technology progresses,
+236.4	240.84		regulation and operational use needs to then be <strong>harmonised</strong> with it.
+240.84	241.52		And we are,
+241.52	242.4		as a community,
+242.4	250.72		going through that whole process of saying what is proportionate and appropriate regulation to go with different uses of drones.
+250.72	255.64	<v Neil>	So she talked about regulations being harmonised as technology progresses.
+255.64	261.72	<v Rob>	So I think she means ‘making regulations suitable and appropriate for what the drones are being used for’.
+261.72	263.32		So they need some control,
+263.32	266		but not so they can’t be useful and effective.
+266	268.96	<v Neil>	Like flying drones to stop you working late!
+268.96	269.4		Now Rob,
+269.4	271.92		I’m dying to know what the other name for a drone is.
+271.92	272.24	<v Rob>	OK,
+272.24	273.2		let me tell you.
+273.2	276.48		So earlier I asked what does UAV stand for?
+276.48	277.12		Was it…
+277.12	279.52		a) Unidentified aerial vehicle
+279.52	282.2		b) Unmanned aerial vehicle
+282.2	285.4		c) Unaided aircraft vehicle
+285.4	287.08	<v Neil>	And I said b) –
+287.08	288.36		was that correct?
+288.36	289.04	<v Rob>	Yes Neil,
+289.04	290.08		you know your drones –
+290.08	290.96		that’s correct.
+290.96	291.64		Well done.
+291.64	296.6		UAVs or drones have been around for quite a while in different forms.
+296.6	302.28		It’s thought they were first used for providing practice targets for training military personnel.
+302.28	303.2		OK Neil,
+303.2	306.88		let’s quickly go over some of the vocabulary we have mentioned today,
+306.88	308.72		starting with surveillance.
+308.72	313.92	<v Neil>	“The police kept the jewellery shop under surveillance because they had a tip-off about a robbery.”
+313.92	316.68		So that means ‘carefully watching someone or something,
+316.68	319.72		usually to try to stop something illegal’.
+319.72	322.44	<v Rob>	Then we mentioned aerial footage –
+322.44	324.88		that’s film recording made from the sky.
+324.88	329.32		“The aerial footage on TV of the dolphins swimming was spectacular.”
+329.32	329.8	<v Neil>	Yes,
+329.8	333.92		drones have been a game changer for wildlife programmes on TV.
+333.92	338.8		That means ‘something that completely changes the way something is done or thought about’.
+338.8	341.88	<v Rob>	We also mentioned the phrase ‘the sky’s the limit’,
+341.88	343.24		meaning ‘there’s no limit to something’.
+343.24	347.12		“The sky is the limit to what professional footballers can earn these days.”
+347.12	349	<v Neil>	Then we discussed harmonised –
+349	353.68		that describes two things being suitable for each other to allow them to work properly.
+353.68	357.76		“The garden has been designed to harmonise with the natural landscape.”
+357.76	360.32	<v Rob>	Very useful vocabulary,
+360.32	360.64		Neil.
+360.64	362.56		But let’s stop droning on –
+362.56	365.2		and that means ‘talking too much in a boring way’ -
+365.2	367.76		and remind everyone to check out our You Tube,
+367.76	368.24		Facebook,
+368.24	370		Twitter and Instagram pages –
+370	370.8		and of course,
+370.8	373.6		our website at bbclearningenglish.com.
+373.6	374.72		See you next time.
+374.72	375.72		Goodbye.
+375.72	376.8	<v Neil>	Goodbye
+376.8	383.76		6 minute English from BBC.

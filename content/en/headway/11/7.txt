@@ -1,0 +1,13 @@
+0.19	2.38	Tapescript 11.7
+3.66	4.66	Tongue twisters
+5.99	6.51	1
+7.60	9.71	Four fine fresh fish for you.
+11.87	12.40	2
+14.90	18.20	Six silly sisters selling shiny shoes.
+19.74	20.31	3
+21.43	25.53	If a dog chews shoes, whose shoes does he choose?
+27.54	28.13	4
+28.57	29.69	I’m looking back,
+29.72	31.28	To see if she’s looking back,
+31.32	32.84	To see if I’m looking back,
+32.96	34.98	To see if she’s looking back at me!

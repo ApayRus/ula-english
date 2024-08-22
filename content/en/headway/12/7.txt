@@ -1,0 +1,8 @@
+0.18	2.35	Tapescript 12.7
+3.79	4.28	1
+6.96	9.08	<v A>It’s a lovely day! What shall we do?
+9.43	11.03	<v B>Let’s play tennis!
+12.86	13.39	2
+14.63	16.07	<v A>It’s raining again!
+16.22	17.26	What shall we do?
+17.57	19.97	<v B>Let’s stay at home and watch a video.

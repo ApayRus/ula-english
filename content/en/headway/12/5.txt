@@ -1,0 +1,11 @@
+0.19	2.46	Tapescript 12.5
+4.09	4.86	<v MB> First
+5.35	6.57	I’m going to Holland.
+6.95	7.59	<v H> Why?
+8.03	9.89	<v MB> To see the tulips, of course!
+9.93	11.00	<v H> Oh yes!
+11.33	12.24	How wonderful!
+12.88	14.32	Where are you going after that?
+14.39	15.24	<v MB> Well,
+15.81	17.40	then I’m going to Spain
+17.82	19.57	to watch flamenco dancing.

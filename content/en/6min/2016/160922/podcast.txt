@@ -1,0 +1,163 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.2		6 minute English from BBClearningEnglish.com
+12.2	14.28	<v Alice>	Hello and welcome to 6 Minute English.
+14.28	15.24		I’m Alice…
+15.24	15.68	<v Neil>	And I’m Neil.
+15.68	18.12		[rattles a bottle of pills]
+18.12	18.88	<v Alice>	What have you got there,
+18.88	19.36		Neil?
+19.36	20.72	<v Neil>	Antibiotics.
+20.72	22.8		I had a blister on my big toe,
+22.8	24.32		and it got infected.
+24.32	27.24		My whole toe swelled up like a balloon!
+27.24	30.96		The swelling has gone down now with these little wonder drugs.
+30.96	31.36		Look,
+31.36	32.12		I’ll show you.
+32.12	32.72	<v Alice>	No,
+32.72	33.56		Neil.
+33.56	36.68		Please keep your socks on.
+36.68	37.8		Thank you.
+37.8	38.36		Now,
+38.36	41.2		the subject of today’s show is penicillin,
+41.2	44.88		which was one of the first antibiotics to be discovered.
+44.88	45.12		So,
+45.12	45.8		Neil,
+45.8	52.92		can you tell me how many lives penicillin has saved since its first use as a medicine in 1942?
+52.92	53.68		Is it…
+53.68	55.96		a) 20 million?
+55.96	57.88		b) 200 million?
+57.88	60.68		Or c) 2 billion?
+60.68	61.52	<v Neil>	Well,
+61.52	63.96		I’ll say b) 200 million.
+63.96	65.8		That sounds like a good number.
+65.8	66.56	<v Alice>	OK,
+66.56	66.92		well,
+66.92	69.96		we’ll see if you’re right or wrong later on in the show.
+69.96	70.2		Now,
+70.2	72.88		penicillin is a common <strong>antibiotic</strong> –
+72.88	75.72		or substance that kills microorganisms –
+75.72	79.16		that acts very effectively against certain bacteria.
+79.16	89.2		And it was discovered in 1928 by a Scottish scientist called Alexander Fleming who noticed some mould growing on a petri dish of bacteria in his lab,
+89.2	91.12		which had a <strong>halo</strong> –
+91.12	92.2		or circle –
+92.2	94.96		around it where no bacteria were growing.
+94.96	95.68	<v Neil>	<strong>Mould</strong>,
+95.68	96.24		by the way,
+96.24	99.36		is the soft green fuzzy stuff that grows…
+99.36	100.88		for example,
+100.88	103.72		in the bottom of my coffee cups when I forget to wash them up,
+103.72	104.4		Alice.
+104.4	105.48	<v Alice>	We didn’t need to know that,
+105.48	105.68		Neil.
+105.68	106.56	<v Neil>	OK,
+106.56	106.92		well,
+106.92	107.44		moving on,
+107.44	112.84		it took decades before scientists learned how to successfully manufacture penicillin.
+112.84	120.32		But they got there just in time to treat huge numbers of soldiers in World War Two where so many men were dying from infected wounds.
+120.32	123	<v Alice>	And you could have died from your infected toe,
+123	123.4		Neil,
+123.4	124.96		before penicillin!
+124.96	126.6	<v Neil>	That is a sobering thought,
+126.6	128.04		isn’t it Alice?
+128.04	130.16		Let’s listen now to Christopher Tang,
+130.16	133.4		Professor of Cellular Pathology at the University of Oxford,
+133.4	137.84		talking about how penicillin has been a game changer in the field of medicine.
+137.84	142.28	<v INSERT>	The sort of cancer chemotherapy which we currently use,
+142.28	143.56		which immunosuppress people,
+143.56	146.8		we couldn’t possibly consider that without the use of antibiotics.
+146.8	152.12		So not only has penicillin opened the door for treating people with infection,
+152.12	154.24		it’s also essentially paved the way for modern medicine,
+154.24	159.08		modern interventional medicine that we benefit from now.
+159.08	164.64	<v Alice>	<strong>Chemotherapy</strong> is a chemical treatment used to kill cancer cells that also <strong>suppresses</strong> –
+164.64	165.76		or stops –
+165.76	167.88		the body’s immune system from working.
+167.88	173.12		The <strong>immune system</strong> is our body’s defence against infection and disease.
+173.12	179.44		So cancer patients have to take antibiotics to prevent infections that the body can’t fight off by itself.
+179.44	184.56	<v Neil>	So the discovery of penicillin paved the way for chemotherapy and other types of medical treatment –
+184.56	188.04		and to <strong>pave the way</strong> means to make something possible.
+188.04	188.48		But surely,
+188.48	188.88		Alice,
+188.88	191.72		there are some bacteria that penicillin doesn’t kill?
+191.72	193.12	<v Alice>	You’re right.
+193.12	198.52		It only works against bacteria with proteins that are sensitive to penicillin.
+198.52	200.68		Other types are less sensitive,
+200.68	205.8		and also have systems built into the structure of the cell that sweep out harmful compounds,
+205.8	208.16		such as penicillin.
+208.16	210.12	<v Neil>	And what about that superbug,
+210.12	211.68		what’s it called…
+211.68	212.76		MS…
+212.76	214.68		MR…MSR…?
+214.68	215.36	<v Alice>	MRSA,
+215.36	216		Neil.
+216	221.52		This bacterium was sensitive to penicillin but has developed a <strong>resistance</strong> to it,
+221.52	223.2		and to other antibiotics,
+223.2	225.64		meaning the drugs can’t harm it any more.
+225.64	226.92	<v Neil>	Are we returning to the past,
+226.92	227.08		then,
+227.08	227.32		Alice,
+227.32	230.56		where people like me might die from an infected toe?
+230.56	231.08	<v Alice>	Well,
+231.08	232		it’s possible,
+232	232.48		Neil.
+232.48	234.4		But drug-resistance isn’t new.
+234.4	237		Here’s Professor Steve Jones to tell us more.
+237	240.24	<v Steve Jones, Emeritus Professor of Genetics, University College, London>	Penicillin is not new.
+240.24	241.92		It’s been around for millions,
+241.92	244.76		probably hundreds of millions of years in the soil.
+244.76	249.76		And it’s because the moulds protect themselves with it.
+249.76	253.72		And in fact you find resistance to penicillin in the most unlikely places.
+253.72	258.88		You find it for example in corpses from before Columbus in the New World.
+258.88	261.36	<v Neil>	Professor Steve Jones.
+261.36	267.44		So penicillin was discovered in 1928 but it’s actually been around for hundreds of millions of years.
+267.44	267.84	<v Alice>	Yes.
+267.84	273.2		And scientists have been able to test bacteria present in very old <strong>corpses</strong> –
+273.2	274.44		or dead bodies –
+274.44	276.44		discovered in the New World –
+276.44	278.52		that’s North and South America –
+278.52	281.72		and found that some of it was resistant to penicillin.
+281.72	283.8	<v Neil>	But penicillin resistance is growing,
+283.8	284.52		isn’t it?
+284.52	284.92	<v Alice>	Yes.
+284.92	289.92		These days we overuse penicillin both in agriculture and human medicine,
+289.92	293.68		which has given bacteria the chance to adapt and fight back.
+293.68	298.52		So it’s now up to scientists to adapt penicillin to extend its lifespan,
+298.52	301.08		and to search for new types of antibiotics.
+301.08	302.92	<v Neil>	But prevention is better than cure,
+302.92	303.72		isn’t it?
+303.72	305.4		We should all wash our hands more –
+305.4	307.84		it’s a fantastic way of killing bacteria.
+307.84	308.28	<v Alice>	Yes.
+308.28	308.84		Good point,
+308.84	309.16		Neil,
+309.16	311.96		but washing your hands didn’t cure your toe,
+311.96	312.84		did it?
+312.84	313.2		Now,
+313.2	320.8		remember I asked you earlier: How many lives has penicillin saved since its first use as a medicine in 1942?
+320.8	321.36		Was it…
+321.36	323.28		a) 20 million,
+323.28	327.96		b) 200 million or c) 2 billion?
+327.96	334.32	<v Neil>	And I said b) 200 million.And you were right!
+334.32	337.72		Penicillin became the most effective life-saving drug in the world,
+337.72	340.44		conquering diseases such as tuberculosis,
+340.44	342.12		gangrene,
+342.12	342.4		pneumonia,
+342.4	342.96		diphtheria,
+342.96	348.48		and scarlet fever and made Alexander Fleming an international hero for discovering it.
+348.48	349.28	<v Neil>	Now,
+349.28	351.32		let’s hear the words we learned today.
+351.32	352.2		They are:
+352.2	353.16		antibiotic
+353.16	354.36		halo
+354.36	355.52		mould
+355.52	357		chemotherapy
+357	358.48		suppresses
+358.48	360.08		immune system
+360.08	361.48		pave the way
+361.48	362.92		resistance
+362.92	364.24		corpses
+364.24	365.32	<v Alice>	Well,
+365.32	367.4		that’s the end of today’s 6 Minute English.
+367.4	368.92		And join us again soon!
+368.92	369.96	<v Both>	Bye!
+369.96	376.96		6 minute English from BBC.

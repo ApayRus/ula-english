@@ -1,0 +1,137 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.6		to find out more visit our website
+6.6	12.72		6 minute English from BBClearningEnglish.com
+12.72	14.68	<v Neil>	Hello and welcome to 6 Minute English.
+14.68	15.52		I’m Neil.
+15.52	16.24	<v Catherine>	And I’m Catherine.
+16.24	16.92		Hello!
+16.92	17.12	<v Neil>	Now,
+17.12	18		Catherine,
+18	18.92		say cheese.
+18.92	20.6	<v Catherine>	Cheeeese.
+20.6	22.24	<v Neil>	[takes photo on smartphone] Thank you,
+22.24	24.36		a little souvenir of our time together.
+24.36	25.68	<v Catherine>	Let’s have a look…
+25.68	26.2		Hang on a minute.
+26.2	27.84		You just took a selfie,
+27.84	29.68		I wasn’t even in the picture.
+29.68	29.92	<v Neil>	Ah,
+29.92	30.28		well,
+30.28	32.16		that’s the magic of the smartphone,
+32.16	33.72		two cameras!
+33.72	34.08		You know,
+34.08	36.92		that’s not something you can do with a traditional camera.
+36.92	37.56		I mean,
+37.56	40.4		do you even have a separate camera these days?
+40.4	41.68	<v Catherine>	I do actually.
+41.68	43.48		It’s in a cupboard somewhere at home.
+43.48	44.12	<v Neil>	Well,
+44.12	46.44		that is the topic of this programme.
+46.44	50.56		Have traditional cameras been completely replaced by smartphones,
+50.56	51.68		or to put it another way,
+51.68	56.24		have cameras been made <strong>obsolete</strong> by the smartphone?
+56.24	57	<v Catherine>	Interesting question.
+57	58.4		But before we get into this topic,
+58.4	61.28		how about a question for our listeners?
+61.28	62.24	<v Neil>	Of course.
+62.24	68.8		We are certainly in the digital age of photography but when was the first digital camera phone released?
+68.8	69.04		Was it:
+69.04	70.44		a) 2000
+70.44	71.84		b) 2004 or
+71.84	73.56		c) 2007?
+73.56	74.84		What do you think?
+74.84	75.24	<v Catherine>	Well,
+75.24	76.76		I actually know this one,
+76.76	80.28		so I’m going to be fair and keep it to myself.
+80.28	80.6	<v Neil>	OK,
+80.6	80.92		well,
+80.92	83.36		listen out for the answer at the end of the programme.
+83.36	86.56		There are different kinds of cameras available today.
+86.56	88.28		There are compact cameras,
+88.28	92.84		which are small and mostly automatic and usually come with a fixed lens.
+92.84	93.92	<v Catherine>	That’s right.
+93.92	98.24		And then there are SLRs and DSLRs which are bigger,
+98.24	104.48		and you can change the lenses on these cameras and they allow for a lot of manual control.
+104.48	106.68	<v Neil>	And there are also mirrorless cameras,
+106.68	110.48		which are a cross between compact cameras and DSLRs.
+110.48	117.24		They are small like a compact camera but you can also use the same lenses on them that you can use on DSLRs.
+117.24	118	<v Catherine>	And of course,
+118	120.32		there are the cameras on smartphones,
+120.32	125.08		and these are convenient and they’re becoming increasingly sophisticated.
+125.08	128.32	<v Neil>	Phil Hall is the editor of Tech Radar magazine.
+128.32	135.48		He was asked on the BBC programme You and Yours if he thought smartphones would make other cameras <strong>obsolete</strong>.
+135.48	139.12		What is his opinion?
+139.12	140.84	<v Phil Hall>	I don’t think so.
+140.84	145.32		I think while compact camera sales have really sort of <strong>dropped off a cliff</strong>,
+145.32	146.32		it’s the lower end,
+146.32	156		cheap compacts where people have <strong>opted for</strong> a smartphone and I think manufacturers are looking at the more higher end premium cameras,
+156	157.08		high-end compacts,
+157.08	157.96		DSLRs,
+157.96	160.08		which are the ones you can attach lenses to,
+160.08	160.68		mirrorless cameras.
+160.68	161.4		So,
+161.4	162.36		the market’s changing.
+162.36	165.04		And I don’t think there’ll be a time soon,
+165.04	165.28		yet,
+165.28	166		that…
+166	169.44		the smartphone will take over the camera completely.
+169.44	174.56	<v Neil>	So does Phil think smartphones will kill the camera?
+174.56	175.4	<v Catherine>	In a word,
+175.4	175.84		no.
+175.84	181.24		He does say that sales of cheap compact cameras have <strong>dropped off a cliff</strong>.
+181.24	186.72		This rather dramatic expression describes a very big fall in sales.
+186.72	193.76	<v Neil>	This is because the kind of consumers who would choose a compact camera are now <strong>opting</strong> <strong>for</strong> the camera on their smartphone.
+193.76	197.36		When you <strong>opt for</strong> something you choose it rather than something else.
+197.36	199.64	<v Catherine>	For people who want a quick,
+199.64	204.16		easy to use and convenient way to take reasonable quality photos,
+204.16	207.68		compact cameras used to be the best choice –
+207.68	209.8		but now it’s a smartphone.
+209.8	213.72	<v Neil>	So camera makers are now moving to the more high-end market,
+213.72	216.08		the DSLRs and mirrorless cameras.
+216.08	219.96		So who is still buying these more expensive cameras?
+219.96	222.48		Here’s Phil Hall again.
+222.48	223.16	<v Phil Hall>	I think it’s…
+223.16	232.36		some of it is people who are picking up a smartphone and sort of <strong>getting into</strong> photography that way and that’s a really great first step into photography and I think people are probably,
+232.36	233.08		sometimes,
+233.08	246.68		getting a bit <strong>frustrated</strong> with the quality once they sort of start pushing their creative skills and then looking to see what’s <strong>the next rung up</strong> so it’s people wanting to broaden their creative skills a bit.
+246.68	250.16	<v Neil>	Who does he say might be buying cameras?
+250.16	256.52	<v Catherine>	He says that people who are <strong>getting into</strong> photography might get <strong>frustrated</strong> with the quality of smartphones.
+256.52	259.84	<v Neil>	<strong>Getting into</strong> something means becoming very interested in it.
+259.84	264.16	<v Catherine>	And if you are <strong>frustrated</strong> with something it means you are disappointed with it.
+264.16	265.48		You are not happy with it.
+265.48	274.6	<v Neil>	So people who have <strong>got into</strong> photography with a smartphone but are <strong>frustrated</strong> with its limitations and want to be more creative are going to the next level.
+274.6	275.48		They are moving up,
+275.48	275.56		they are,
+275.56	279.2		as Phil said '<strong>taking the next rung up’</strong>.
+279.2	279.8	<v Catherine>	Now,
+279.8	283.08		<strong>a rung</strong> is the horizontal step of a ladder,
+283.08	290.72		so the expression <strong>taking the next rung up</strong> is a way to describe doing something at a higher level.
+290.72	291.72	<v Neil>	Now,
+291.72	293.04		talking of higher levels,
+293.04	295.88		did you get this week’s quiz question right?
+295.88	300.32		The question was: When was the first phone with a digital camera released?
+300.32	301.4		Was it 2000,
+301.4	304.48		2004 or 2007?
+304.48	309.24		The first phone with a digital camera was released in 2000.
+309.24	309.48		Now,
+309.48	311.2		to take us up to the end of the programme,
+311.2	313.8		let’s look at the vocabulary again.
+313.8	321.52	<v Catherine>	First we had the adjective <strong>obsolete</strong> which describes something that has been replaced and is no longer the first choice.
+321.52	324.8	<v Neil>	When the expression <strong>to drop off a cliff</strong> is used about,
+324.8	325.48		for example,
+325.48	326.4		sales numbers,
+326.4	330.4		it means sales have fallen significantly over a short period of time.
+330.4	341.16	<v Catherine>	To <strong>opt for</strong> something means to choose something and when you become very interested in an activity you can say that you <strong>get into</strong> it.
+341.16	348.16	<v Neil>	If you are trying to do something and you can’t do it because you don’t have the skill or the equipment you are using is not right or not good enough,
+348.16	350.04		you can become <strong>frustrated</strong>.
+350.04	356.8	<v Catherine>	And developing your skills to a higher level can be described as <strong>taking the next rung up.</strong>
+356.8	357.52	<v Neil>	Right,
+357.52	359.24		that’s all from us from us in this programme.
+359.24	363.64		Do join us again next time and don’t forget that in the meantime you can find us on Instagram,
+363.64	364.2		Facebook,
+364.2	364.64		Twitter,
+364.64	368.56		YouTube and of course our website bbclearningenglish.com.
+368.56	369.6		See you soon.
+369.6	370.56		Goodbye.
+370.56	372.08	<v Catherine>	Bye!
+372.08	378.08		6 minute English from BBC.

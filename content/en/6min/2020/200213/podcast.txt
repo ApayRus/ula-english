@@ -1,0 +1,137 @@
+0.1	3		This is a download from bbc learning English
+3	5.8		to find out more visit our website
+5.8	12.76		6 minute English from BBClearningEnglish.com
+12.76	13.32	<v Rob>	Hello,
+13.32	17.28		and welcome to 6 Minute English from BBC Learning English.
+17.28	18.04		I’m Rob…
+18.04	19.28	<v Georgina>	And I’m Georgina.
+19.28	19.68	<v Rob>	Now,
+19.68	20.28		Georgina,
+20.28	22.8		how <strong>resilient</strong> are you?
+22.8	24.12	<v Georgina>	Resilient?
+24.12	27.2		You mean able to cope with difficult situations.
+27.2	29.6		I have a pile of work to do today,
+29.6	32.68		but I’m remaining calm and not getting stressed.
+32.68	33.36	<v Rob>	That’s good,
+33.36	35.4		you are showing <strong><em>resilience</em></strong>.
+35.4	39.72		And today we’re discussing whether we’re born with resilience or we have to learn it.
+39.72	40.16	<v Georgina>	OK,
+40.16	40.68		Rob.
+40.68	43.56		But first I expect you’re going to ask me a question –
+43.56	44.24		bring it on!
+44.24	45.2	<v Rob>	OK.
+45.2	52.32		Resilience is also a word used in science to describe the characteristic of a substance or object.
+52.32	53.56		But what does it mean?
+53.56	56		a) That it’s is very tough or hard.
+56	60		b) That it can return to its original shape after being bent.
+60	63.44		c) It can turn from a solid into a liquid quickly.
+63.44	70	<v Georgina>	I have a feeling it means b) an object that returns to its original shape after being bent.
+70	70.56	<v Rob>	OK,
+70.56	73.92		I’ll let you know if you were correct at the end of the programme.
+73.92	76.92		But let’s talk more about human resilience.
+76.92	83.64		There are many self-help books and motivational speakers all promising us we can learn to be resilient.
+83.64	84.08	<v Georgina>	Well,
+84.08	85.72		it is a useful trait to have,
+85.72	94.32		and it’s something that can help you deal with many difficult situations from coping with the pressures of work to handling the death of a loved one.
+94.32	96.96	<v Rob>	And it’s more than just telling someone to ‘toughen up’
+96.96	98		or ‘get a grip’,
+98	100		as Dr David Westley knows.
+100	107.32		He is Head of Psychology at Middlesex University and talked about levels of resilience on the BBC World Service programme,
+107.32	109.12		The Why Factor.
+109.12	110.08	<v Dr David Westley, Head of Psychology at Middlesex University>	First of all,
+110.08	112.64		there’s our social supports,
+112.64	113.88		our communities,
+113.88	114.88		our families,
+114.88	116.16		the people who are important to us,
+116.16	117.84		the organisations we work for,
+117.84	121.24		so one way we can look at resilience is to measure that –
+121.24	124.16		the amount of social support available to us.
+124.16	129.16		Another way to think about resilience is to think about how we think about the situations we are in.
+129.16	130.08		So,
+130.08	130.56		for example,
+130.56	137.84		one way to look at that would be just to look at how <strong>optimistic</strong> people are as a guide to how resilient they might be when times get tough.
+137.84	142.48		And then a third level that we can look at for resilience is a biological level -
+142.48	144.52		how well we can soothe ourselves,
+144.52	146.24		calm ourselves down,
+146.24	152.88		how well we can actually regulate our own nervous systems at times of <strong>distress</strong>.
+152.88	153.36	<v Georgina>	Right,
+153.36	156.12		so Dr Westley describes social supports –
+156.12	162.12		the people around us who we can talk to and support us and generally make us feel better.
+162.12	163.32		I think he’s saying,
+163.32	166.72		with more support we feel more resilient.
+166.72	171.08	<v Rob>	It’s interesting to note that a resilient person isn’t necessarily someone quiet,
+171.08	173.6		who doesn’t make a fuss and gets on with things.
+173.6	180.68		Some experts think it’s people who ask for help and use this social support network who are acting in a more resilient way.
+180.68	181.96	<v Georgina>	It’s a good point.
+181.96	186.44		And another level of resilience is how <strong>optimistic</strong> someone is.
+186.44	192.48		Being optimistic means having positive thoughts about the future and believing things will turn out well.
+192.48	195.92		A positive mind means you can deal with situations that,
+195.92	196.48		at first,
+196.48	197.76		look tough.
+197.76	201.52		Another level Dr Westley mentioned was our biological level -
+201.52	204.84		how our bodies cope in times of <strong>distress</strong>.
+204.84	208.76		Distress is the feeling you get when you are worried or upset by something.
+208.76	209.08	<v Rob>	So,
+209.08	210.28		when we’re distressed,
+210.28	216.24		a resilient person is able to soothe his or her body and regulate his or her nervous system,
+216.24	217.8		which helps them stay calm.
+217.8	218.84	<v Georgina>	But,
+218.84	218.96		Rob,
+218.96	219.8		the big question is,
+219.8	222.52		are we born with resilience or can we learn it?
+222.52	228.12		Experts speaking on The Why Factor programme tended to think it could be learned.
+228.12	228.64	<v Rob>	Yes,
+228.64	230.24		one of them is Ann Masten,
+230.24	232.36		a professor at the University of Minnesota.
+232.36	233.6		From her studies,
+233.6	237.04		she found it was something that we learn when we need to.
+237.04	243.2	<v Georgina>	Ann Masten talks about how some of the children she studied <strong>manifest</strong> resilience from the start.
+243.2	244.6		When something manifests,
+244.6	247.32		it shows clearly and is easy to notice.
+247.32	250.16		They remain resilient despite <strong>adversity</strong> –
+250.16	253.36		a difficult time in their life they’ve had to face.
+253.36	254.12	<v Rob>	Other children,
+254.12	255.76		what she calls the late bloomers,
+255.76	257.84		started off less resilient,
+257.84	259.88		struggled with adversity,
+259.88	263.24		but turned their lives around by becoming more resilient.
+263.24	266.32		Maybe we can learn resilience from a having a bad experience?
+266.32	266.72	<v Georgina>	Well,
+266.72	272.6		one thing Ann went on to say was that families and friends can be a great support and help with resilience.
+272.6	274.56		Those that were ‘late bloomers’
+274.56	278.16		only connected with adults and mentors later in life.
+278.16	278.4	<v Rob>	Yes,
+278.4	282.96		she says that teachers or parents are role models in how to handle adversity.
+282.96	290		And children are watching; they’re learning from the adults around them by seeing how they react when they get challenged by something.
+290	297.2		Time now to find out how resilient you are when you discover the correct answer to the question I asked earlier.
+297.2	298.32		I said that ‘resilience’
+298.32	303.68		is also a word used in science to describe the characteristic of a substance or object.
+303.68	305.72		But what does it mean?
+305.72	306.04		Is it…
+306.04	307.88		a) It is very tough or hard.
+307.88	311.56		b) It can return to its original shape after being bent.
+311.56	315.68		c) It can turn from a solid into a liquid quickly.
+315.68	316.32		And what did you say,
+316.32	316.8		Georgina?
+316.8	321.6	<v Georgina>	I said it was b) It can return to its original shape after being bent.
+321.6	322.92	<v Rob>	And you are right -
+322.92	323.6		well done!
+323.6	326.92		Bamboo is a good example of a resilient material –
+326.92	327.8		you can bend it,
+327.8	330.72		it doesn’t break and returns to its original shape.
+330.72	331.72	<v Georgina>	Thanks for the science lesson,
+331.72	332.04		Rob.
+332.04	335.24		Now we need to recap the vocabulary we’ve mentioned today…
+335.24	335.72	<v Rob>	Yes,
+335.72	342.72		we’ve talked about being <strong>resilient,</strong> an adjective that describes someone’s ability to cope with difficult situations.
+342.72	345.4		When you do this you show <strong>resilience</strong>.
+345.4	351.28	<v Georgina>	Someone who is <strong>optimistic</strong> has positive thoughts about the future and believes things will turn out well.
+351.28	355.28	<v Rob>	<strong>Distress</strong> is the feeling you get when you are worried or upset by something.
+355.28	356.92	<v Georgina>	When something <strong>manifests</strong> itself,
+356.92	358.64		it shows clearly and is easy to notice.
+358.64	364.16		And <strong>adversity</strong> is a difficult time in somebody’s life that they have had to face.
+364.16	367.56	<v Rob>	And that brings us to the end of this discussion about resilience.
+367.56	369.4		Please join us again next time.
+369.4	370.68		Bye bye.
+370.68	371.6	<v Georgina>	Bye.
+371.6	377.56		6 minute English from BBC.

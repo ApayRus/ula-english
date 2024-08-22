@@ -1,0 +1,12 @@
+0.21	1.23	Unit 5
+2.44	4.18	Tapescript 5.1
+6.94	8.16	<v A> Is there a television?
+9.33	10.39	<v B> Yes, there is.
+12.25	13.41	<v A> Is there a radio?
+13.71	14.78	<v B> No, there isn’t.
+16.48	17.64	<v A> Are there any books?
+17.81	18.81	<v B> Yes, there are.
+19.74	21.10	<v A> How many books are there?
+21.13	22.19	<v B> There are a lot.
+23.32	24.68	<v A> Are there any photographs?
+24.79	25.78	<v B> No, there aren’t.

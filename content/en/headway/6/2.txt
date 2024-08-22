@@ -1,0 +1,5 @@
+0.20	2.08	T 6.2
+4.61	6.06	I can speak French.
+8.83	10.19	Can you speak French?
+13.34	14.48	Yes, I can.
+18.13	19.35	No, I can’t.

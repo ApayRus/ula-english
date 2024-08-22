@@ -1,0 +1,28 @@
+0.21	2.27	Tapescript 9.8
+3.60	4.13	1
+5.42	6.82	Would you like some more carrots?
+6.88	8.95	Yes, please. They’re delicious.
+10.14	10.60	2
+11.49	12.80	Could you pass the salt, please?
+13.10	14.24	Yes, of course.
+14.50	15.29	Here you are.
+17.43	18.00	3
+19.42	21.17	Could I have a glass of water, please?
+21.85	23.63	Do you want fizzy or still?
+25.23	25.82	4
+27.23	29.08	Does anybody want more dessert?
+29.21	30.19	Yes, please.
+30.57	31.56	I’d love some.
+31.73	32.61	It’s delicious.
+33.73	34.51	5
+35.44	36.61	How would you like your coffee?
+37.47	39.14	Black, no sugar, please.
+41.06	41.73	6
+42.27	43.87	This is delicious!
+44.40	45.87	Can you give me the recipe?
+46.29	47.61	Yes, of course.
+48.04	49.13	I’m glad you like it.
+50.42	51.01	7
+52.70	54.12	Do you want help with the washing-up?
+54.79	56.18	No, of course not.
+56.58	57.62	We have a dishwasher.

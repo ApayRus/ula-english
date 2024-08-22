@@ -1,0 +1,127 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.72		to find out more visit our website
+6.72	12.64		6 minute English from BBClearningEnglish.com
+12.64	12.96	<v Neil>	Hello.
+12.96	15.96		This is 6 Minute English from BBC Learning English.
+15.96	16.64		I’m Neil.
+16.64	17.72	<v Sam>	And I’m Sam.
+17.72	20.44	<v Neil>	We all know that sport is great for our health -
+20.44	23.36		and if you’re talented it can make you rich.
+23.36	28.96	<v Sam>	Many great champions have found a way out of poverty through their sporting ability –
+28.96	31.6		think of someone like footballer Maradona.
+31.6	34.8	<v Neil>	But in today’s programme we’re not looking at the superstars.
+34.8	39.8		Instead we’ll discuss how sport can change the lives of young people from some of the poorest,
+39.8	41.64		toughest backgrounds on earth.
+41.64	42.44	<v Sam>	And of course,
+42.44	45		we’ll be learning some new vocabulary on the way.
+45	48.36	<v Neil>	Many projects around the world use sports to change children’s’
+48.36	49.16		lives -
+49.16	50.36		improving mental health,
+50.36	53.4		challenging stereotypes and giving hope.
+53.4	60.96		Among them is the Ebony Club in Brixton which uses sport to help young people in London’s most disadvantaged communities –
+60.96	62.32		but which sport?
+62.32	64.04		That’s my quiz question.
+64.04	64.72		Is it:
+64.72	65.68		a) golf,
+65.68	66.44		b) tennis,
+66.44	66.56		or
+66.56	68		c) horse riding?
+68	68.28	<v Sam>	Well,
+68.28	72.36		I can’t imagine there’s enough space for golf and horse riding in the city,
+72.36	74.72		so I’ll say b) tennis.
+74.72	75.04	<v Neil>	OK,
+75.04	77.72		we’ll find out the answer later.
+77.72	84.32		Just now we were talking about London but sporting projects like the Ebony Club are happening all over the world.
+84.32	85.32	<v Sam>	In Cape Town,
+85.32	86.28		South Africa,
+86.28	93.56		British surfer Tim Conibear noticed how kids from poor townships hardly ever went to the beach.
+93.56	96.8		So he started giving them free surfing lessons.
+96.8	99.28	<v Neil>	Tim founded the ‘Waves for Changes’
+99.28	104.36		project and now hundreds of kids go along each week to get “surfing therapy”.
+104.36	106.72		Not only is surfing giving them a buzz,
+106.72	109.36		it’s helping to improve their life chances.
+109.36	115.92	<v Sam>	Here he is talking to the BBC World Service programme <em>People Fixing the World</em>:
+115.92	121.64	<v Tim Conibear>	Surfing also is quite difficult so you’re learning a very <strong>challenging</strong> skill that takes a lot of confidence.
+121.64	126.8		Very small successes which children have when they go into the water elicit a really big emotional response.
+126.8	131.88		If you come from a background of <strong>trauma</strong> quite often you’ll have a negative <strong>self-image</strong> and being able to try something new,
+131.88	132.84		achieve something new,
+132.84	138.32		be recognised by a coach or a <strong>mentor</strong> is very very good for your confidence as well.
+138.32	141.68	<v Neil>	Most of the surfers have experienced <strong>trauma</strong> –
+141.68	145.32		emotional pain and shock caused by very distressing experiences.
+145.32	148.48	<v Sam>	This has given them a negative <strong>self-image</strong> –
+148.48	151.52		the way a person feels about themselves,
+151.52	152.36		their ability,
+152.36	154.56		personality and value.
+154.56	158.76	<v Neil>	Surfing helps kids improve their <strong>self-image</strong> because it’s <strong>challenging</strong> -
+158.76	162.28		difficult in a way that tests your ability and determination.
+162.28	163.28	<v Sam>	So challenging,
+163.28	163.96		in fact,
+163.96	166.8		that the children have a <strong>mentor</strong> –
+166.8	172.28		a trusted advisor who gives help and support to a younger or less experienced person.
+172.28	177.96	<v Neil>	Tim believes that the concentration needed to surf makes the children’s other problems disappear -
+177.96	179.56		at least for a short time.
+179.56	182.76	<v Sam>	And the results so far have been optimistic,
+182.76	188.6		with a significant reduction in violent behaviour reported among Cape Town’s young surfers.
+188.6	190.8	<v Neil>	Surfing is quite well-known in South Africa.
+190.8	196.64		But what happens when you take a completely unknown sport into one of the least developed countries on earth?
+196.64	197.92	<v Sam>	In 2007,
+197.92	203.36		Australian Oliver Percovich was travelling in Afghanistan with his skateboard.
+203.36	207.84		The children there were fascinated so he started showing them how to skate.
+207.84	213.8	<v Neil>	The idea grew and a few years later he founded the organisation ‘Skateistan’
+213.8	217.8		giving free skateboard lessons to children aged five to seventeen,
+217.8	219.92		with a focus on those with disabilities,
+219.92	222.28		from low-income backgrounds and especially,
+222.28	222.72		girls.
+222.72	224	<v Sam>	Here’s ‘Skateistan’
+224	224.96		volunteer,
+224.96	226.28		Jessica Faulkner,
+226.28	233.92		explaining how skateboarding reinforces positive educational messages which Afghan kids don’t always get at home.
+233.92	237.96	<v Jessica Faulkner>	There’s a few things that skateboarding does as a kind of function.
+237.96	240.68		It is really quite <strong>challenging</strong> –
+240.68	243.36		it’s not an easy sport for anyone whether you’re young or old.
+243.36	255.84		And that means that it also teaches quite a lot of <strong>life skills.</strong> You have to fall off a skateboard quite a lot of times before you get better and it really helps children with things like <strong>goal setting</strong> and resilience and determination.
+255.84	256.32		Also,
+256.32	257.36		and really importantly,
+257.36	260.6		we do believe that children should have fun.
+260.6	261.44	<v Neil>	Like surfing,
+261.44	263.56		skateboarding is challenging and difficult.
+263.56	269.12		It requires effort and Jessica believes this teaches children important <strong>life skills</strong> –
+269.12	274.56		the basic skills needed to solve problems commonly encountered in everyday life.
+274.56	277.92	<v Sam>	One important life skill is <strong>goal setting</strong> –
+277.92	282.04		deciding what things you want to achieve and how you plan to achieve them.
+282.04	285.6	<v Neil>	Along with other skills like determination and resilience,
+285.6	288.72		this helps kids improve their outlook on life.
+288.72	291.8	<v Sam>	And to experience one of the most important things –
+291.8	293.64		having fun!
+293.64	298.24	<v Neil>	Which reminds me about the kids at the Ebony Club and my quiz question.
+298.24	303.88		Remember that I asked you which sport the club uses to support disadvantaged children in London.
+303.88	304.36	<v Sam>	Yes,
+304.36	304.84		and I said,
+304.84	306.36		b) tennis.
+306.36	307.32	<v Neil>	But in fact,
+307.32	309		it’s c) horse riding -
+309	311.8		a sport normally associated with the elite.
+311.8	318.52	<v Sam>	In this episode we’ve been discussing how sport can help improve the life chances of young people from tough backgrounds,
+318.52	321.24		many of whom have suffered <strong>trauma</strong> –
+321.24	323.64		severe emotional pain and distress.
+323.64	326.44	<v Neil>	Such pain damages a child’s <strong>self-image</strong> –
+326.44	329.2		how they see and value themselves in the world.
+329.2	331.92	<v Sam>	This can be improved by taking part in sports,
+331.92	332.88		like surfing,
+332.88	334.24		skating and horse riding,
+334.24	335.84		which are <strong>challenging</strong> –
+335.84	338.68		demanding and testing of your abilities.
+338.68	341.32	<v Neil>	Often kids are supported by a <strong>mentor</strong> –
+341.32	342.44		a trusted,
+342.44	345.92		more experienced friend who can offer help and advice.
+345.92	349.12	<v Sam>	And with this support they learn <strong>life skills</strong> –
+349.12	353.2		basic skills everyone needs to cope with everyday problems.
+353.2	355.24	<v Neil>	One important skill is <strong>goal setting</strong> –
+355.24	359		deciding what you want to accomplish and planning how to do it.
+359	360.2	<v Sam>	And of course,
+360.2	364.04		sometimes the most important goal is just to have fun!
+364.04	365.84	<v Neil>	That’s all we have time for today.
+365.84	368.8		Join us again soon as we discuss more topical issues.
+368.8	370.36		Bye for now!
+370.36	371.48	<v Sam>	Bye!
+371.48	377.44		6 minute English from BBC.

@@ -1,0 +1,39 @@
+0.18	2.20	T 2.6
+3.46	3.93	1
+5.45	8.18	<v D> Hello. My name’s Dorita.
+8.30	10.46	<v O> Hello, Dorita. I’m Orlando.
+10.60	12.13	<v D> Where are you from, Orlando?
+12.37	14.44	<v O> I’m from Italy, from Rome.
+14.51	15.21	And you?
+15.35	16.19	Where are you from?
+16.39	18.04	<v D> I’m from Argentina.
+18.31	19.44	<v O> From Buenos Aires?
+19.58	21.22	<v D> Yes, that’s right.
+25.15	25.70	2
+27.26	28.94	<v I> Good morning everybody.
+29.05	30.66	<v C> Good morning, Isabel.
+30.69	32.05	<v I> How are you all?
+32.06	33.55	<v C> Fine. Good. OK.
+33.82	35.11	<v I> How are you Dorita?
+35.28	36.68	<v D> I’m fine thank you.
+36.93	37.55	And you?
+37.56	38.70	<v I> Very well.
+39.14	40.54	Now listen everybody
+40.61	41.87	because i wanna tell you...
+44.67	45.24	3
+47.34	49.28	<v M> Bye, Dorita. Have a nice day.
+49.33	50.85	<v D> Pardon?
+50.95	53.79	<v A> Have a good day at the school of English.
+53.80	55.95	<v D> Oh, yes. Thank you.
+55.99	57.04	Same to you.
+57.14	58.52	<v M> What’s your teacher called?
+58.92	60.75	<v D> My teacher called?
+61.14	62.55	<v A> Your teacher’s name –
+62.92	63.63	what is it?
+63.93	66.72	<v D> Ah, yes. Her name’s Isabel.
+67.07	68.07	<v M> And is she good?
+68.28	69.93	<v D> My teacher good?
+70.50	71.07	<v A> Yeah.
+71.38	73.11	Isabel, your teacher,
+73.42	74.93	is she a good teacher?
+75.14	78.48	<v D> Oh yes, yes. Very good, very nice.

@@ -1,0 +1,143 @@
+0.1	3		This is a download from bbc learning English
+3	7.48		to find out more visit our website
+7.48	13.84		6 minute English from BBClearningEnglish.com
+13.84	14.08	<v Neil>	Hello.
+14.08	16.88		This is 6 Minute English from BBC Learning English.
+16.88	17.64		I’m Neil.
+17.64	18.48	<v Sam>	And I’m Sam.
+18.48	19.52	<v Neil>	In this programme,
+19.52	28.88		we’ll be looking at an unusual food called microalgae and asking whether eating algae might be better for our health and the health of the planet.
+28.88	29.48		And of course,
+29.48	33.12		we’ll be looking at some of the related vocabulary along the way.
+33.12	33.8	<v Sam>	Yuck!
+33.8	35.44		I’m not sure about eating algae,
+35.44	35.76		Neil!
+35.76	36.32		I mean,
+36.32	38.84		what’s the strangest thing you’ve ever eaten?
+38.84	39.2	<v Neil>	Well,
+39.2	42.4		I once tried fried stick insect in Thailand…
+42.4	43.64		and I’ve had ants,
+43.64	44.08		as well,
+44.08	46.16		that were from Colombia.
+46.16	46.4	<v Sam>	Ah,
+46.4	46.76		OK,
+46.76	47.12		yeah –
+47.12	49.92		both fairly strange for us here in the UK.
+49.92	51.68		But what about <strong>pond scum</strong>,
+51.68	52.16		Neil?
+52.16	53.4	<v Neil>	Pond scum?
+53.4	56.68		Pond scum is the slang name for microalgae -
+56.68	59.04		green plant <strong>organisms</strong>,
+59.04	59.84		such as spirulina,
+59.84	65.76		which grow in water-like ponds and look a bit slimy or scummy before being dried.
+65.76	66.04		Here,
+66.04	68.08		we’re talking about edible algae,
+68.08	69.88		meaning it’s OK to eat.
+69.88	71.08	<v Sam>	More than OK,
+71.08	71.8		in fact –
+71.8	75.68		these types of food algae are actually good for your body!
+75.68	80.24		Microalgae like spirulina and chlorella are packed full of proteins,
+80.24	82.88		vitamins and antioxidants.
+82.88	84.28		Because they are so healthy,
+84.28	87.16		they’re <strong>having a moment</strong> right now,
+87.16	89.6		meaning they are becoming more well-known and popular.
+89.6	90.08	<v Neil>	Yes,
+90.08	93.52		microalgae is trending just now and for good reasons,
+93.52	95.52		which we’ll find out about later.
+95.52	96.04		But first,
+96.04	98.24		let me ask you our quiz question.
+98.24	101.8		What do the following three things have in common: oceans,
+101.8	105.32		snow and my garden patio?
+105.32	105.96		Is it…
+105.96	108.56		a) They are all good places to relax
+108.56	110.32		b) They are all very cold
+110.32	113.88		c) They are all places where microalgae grow
+113.88	114.32	<v Sam>	Well,
+114.32	118.76		I know that oceans and snow are made up of water…
+118.76	121.24		but your garden patio?
+121.24	123.76		Did your barbeque get rained off again,
+123.76	124.32		Neil?
+124.32	124.52	<v Neil>	No,
+124.52	125.32		not quite,
+125.32	125.92		Sam!
+125.92	126.12		Well,
+126.12	128.04		hopefully you’ll know by the end of the programme.
+128.04	128.56		Now,
+128.56	133.08		I mentioned before that microalgae is sometimes called a <strong>superfood</strong> -
+133.08	136.48		a type of food which is essentially full of healthy vitamins,
+136.48	138.4		minerals and nutrients.
+138.4	141.88		But microalgae is not the first superfood to become popular.
+141.88	142.88	<v Sam>	That’s right.
+142.88	144.6		In the early 2010s,
+144.6	150.72		many juice bars started popping up in places around the world selling green smoothies -
+150.72	154.44		energy drinks made by blending healthy ingredients like kale,
+154.44	156.36		chard and spinach.
+156.36	166.4		The recent trend for microalgae and spirulina has been promoted in part by big drinks companies wanting to sell the latest brightly coloured smoothies.
+166.4	167.36	<v Neil>	And more and more,
+167.36	170.84		spirulina is also being used as a cooking ingredient –
+170.84	172.72		in hot dogs and meatballs –
+172.72	176.84		and as a protein-rich substitute for eggs in pasta and mayonnaise.
+176.84	179.4	<v Sam>	But as well as all these health benefits,
+179.4	182.96		there’s another advantage to microalgae superfoods -
+182.96	186.08		one that could potentially benefit the whole planet.
+186.08	191.28		BBC Radio 4’s The Food Programme asked Professor Alison Smith,
+191.28	194.2		Head of Plant Sciences at Cambridge University,
+194.2	196.32		to explain:
+196.32	205.56	<v Alison Smith>	As the population of the world increases and the land that’s available for agriculture is <strong>becoming stretched</strong>,
+205.56	211.68		there’s an interest in trying to increase productivity by other means…so <strong>sustainable intensification</strong> of agriculture is one way…
+211.68	214.28	<v Neil>	So food security is an issue -
+214.28	220.52		making sure enough nutritionally-rich food is produced to feed the growing world population.
+220.52	226.48		Alison Smith says the amount of agricultural land available for growing food is becoming stretched,
+226.48	228.72		meaning there are not enough resources,
+228.72	230.16		in this case farm land,
+230.16	231.72		to meet everyone’s needs.
+231.72	232.6	<v Sam>	Yes,
+232.6	238.96		and she mentions that one possible solution is sustainable intensification of agriculture -
+238.96	246.08		which means increasing food production in ways which don’t damage the environment or use new land.
+246.08	246.32	<v Neil>	Well,
+246.32	248.52		we know that microalgae are superfoods,
+248.52	251.12		nutritionally rich in vitamins and protein,
+251.12	254.56		but how do they help reduce the need for agricultural land?
+254.56	257.32		Alison Smith explains:
+257.32	260.36	<v Alison Smith>	…they can be grown in all sorts of locations –
+260.36	261.4		in water,
+261.4	262.04		in oceans,
+262.04	262.68		in ponds,
+262.68	263.72		lakes and so on,
+263.72	267.4		even on your patio and on snow…
+267.4	276.28		so one of the possibilities is to produce these organisms in cities and towns because they don’t need the open landscape to be grown.
+276.28	279	<v Sam>	I think I’ve spotted the answer to your quiz question,
+279	279.36		Neil.
+279.36	280.16	<v Neil>	Oh yes?
+280.16	281.6		I asked what oceans,
+281.6	283.96		snow and my patio have in common.
+283.96	286.92		a) They are all good places to relax
+286.92	289.2		b) They are all very cold
+289.2	292.56		c) They are all places where microalgae grows
+292.56	294.16	<v Sam>	The answer is c ) -
+294.16	296.64		places where microalgae can grow!
+296.64	298.6		What an amazing plant!
+298.6	305.16		I think I’m going to stop calling it pond scum and use the correct scientific name Prof Smith mentioned,
+305.16	306.44		organisms.
+306.44	310.52	<v Neil>	Today’s programme was all about microalgae like spirulina,
+310.52	311.28		a green,
+311.28	314.92		edible food algae which some people call pond scum,
+314.92	317.64		although scientifically speaking it’s an <strong>organism</strong>,
+317.64	319.88		meaning an animal or plant life form.
+319.88	320.8	<v Sam>	Yes,
+320.8	324.64		and this plant life form is also called a <strong>superfood</strong>,
+324.64	326.92		because it’s especially rich in vitamins,
+326.92	329.8		minerals and nutrients which promote good health.
+329.8	332.76	<v Neil>	Superfoods are <strong>having a moment</strong> right now,
+332.76	337.2		meaning they’re becoming more popular or trending because they’re so healthy.
+337.2	341.92	<v Sam>	And another benefit of microalgae is that it grows almost anywhere.
+341.92	344.96		So it doesn’t use much agricultural land,
+344.96	346.76		which is <strong>becoming stretched</strong>,
+346.76	350		meaning there’s not enough of it to meet the world’s food needs.
+350	354.84		<strong>Sustainable intensification</strong> is another possible solution to this problem,
+354.84	361.4		because it is a way of increasing food production without harming the environment or using new land.
+361.4	368.4		Don’t forget you can find lots more learning materials and topical vocabulary on our website at bbclearningenglish.com.
+368.4	370.12		And please join us again soon.
+370.12	370.92		Bye for now!
+370.92	371.44	<v Neil>	Bye!
+371.44	379.48		6 minute English from BBC.

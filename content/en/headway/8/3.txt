@@ -1,0 +1,10 @@
+0.18	2.29	Tapescript 8.3
+3.60	7.90	<v A> Did you know that Marco Polo brought spaghetti back from China?
+8.04	8.70	<v B> Really?
+8.88	9.73	He didn’t!
+9.87	10.85	That’s incredible!
+11.09	12.90	<v A> Well, it’s true!
+14.98	17.99	<v C> Did you know that Napoleon was afraid of cats?
+18.24	19.52	<v D> He wasn’t!
+19.67	21.21	I don’t believe it!
+21.25	22.26	<v C> Well, it’s true!

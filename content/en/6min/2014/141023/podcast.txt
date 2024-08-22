@@ -1,0 +1,154 @@
+0.1	3		This is a download from bbc learning English
+3	6.68		to find out more visit our website
+6.68	13.8		6 minute English from BBClearningEnglish.com
+13.8	14.96	<v Rob>	Hello I’m Rob.
+14.96	16.72		Welcome to 6 Minute English.
+16.72	19.32		I’m joined today by Neil.
+19.32	20.84	<v Neil>	Hello.
+20.84	21.72		Neil here.
+21.72	24.64		Excuse me I’m enjoying a bar of chocolate…
+24.64	26.64	<v Rob>	Where did you get that from?
+26.64	28.88	<v Neil>	In the <strong>vending machine</strong> upstairs –
+28.88	32.2		that’s the automatic machine with drinks and sweets –
+32.2	35.68		you put coins in it to release whatever you paid for.
+35.68	36.2	<v Rob>	Now,
+36.2	38.6		if it was up to some health professionals,
+38.6	41.52		you wouldn’t see many of those machines around anymore.
+41.52	42.4	<v Neil>	What?
+42.4	45.72		No more machines which offer you as many sweets as you like,
+45.72	47.16		no questions asked?
+47.16	48.28	<v Rob>	Exactly.
+48.28	55.6		The World Health Organisation has recently proposed a cut in its recommendation for how much sugar we should have.
+55.6	60.36		They now say that it should be less than 5% of our <strong>calorie intake</strong>.
+60.36	64.36	<v Neil>	A <strong>calorie</strong> is a unit that measures how much energy you get from food,
+64.36	69.24		and calorie intake is how many calories we eat in a period of time –
+69.24	69.96		say a day,
+69.96	70.72		for example.
+70.72	71.4	<v Rob>	Yes.
+71.4	73.72		So this might be it for sugar for you today,
+73.72	73.96		Neil.
+73.96	74.36	<v Neil>	Well,
+74.36	75.4		let me see…
+75.4	80.8		this bar of chocolate contains 215 calories!
+80.8	81.6		That’s quite a lot,
+81.6	81.88		isn’t it?
+81.88	84.52	<v Rob>	But life can be sweet even with less sugar,
+84.52	84.88		Neil.
+84.88	85.84		So today,
+85.84	92.12		we’re going to talk about what should be done to help us eat less sugar and you’ll learn words about food.
+92.12	94.56	<v Neil>	But I like my sugar!
+94.56	95.68	<v Rob>	Many people do.
+95.68	100		So let me ask you about how much they like it.
+100	103		Which country has the highest sugar consumption?
+103	103.56		Is it:
+103.56	105.04		a) China
+105.04	106.28		b) India
+106.28	108.44		c) The United States
+108.44	111.76	<v Neil>	I think it’s the United States.
+111.76	112.48	<v Rob>	Okay.
+112.48	112.88		Well,
+112.88	115.68		we’ll have the answer at the end of the programme!
+115.68	116		Right,
+116	117.96		so let’s talk about sugar.
+117.96	122.16		Health experts are looking for ways to make us eat less of it.
+122.16	128.2	<v Neil>	We all know that too much sugar can cause not only obesity and diabetes but also <strong>tooth decay</strong> –
+128.2	132.64		this destroys the hard surface of your teeth and exposes more sensitive parts.
+132.64	133.6		Ouch!
+133.6	133.96	<v Rob>	Yes,
+133.96	135.72		it can be very painful.
+135.72	139.48		You might enjoy eating sweets but nobody likes <strong>toothache</strong> –
+139.48	141.64		that’s what we call the pain in your teeth.
+141.64	145.8	<v Neil>	Experts say we should always brush our teeth after eating sugary food.
+145.8	146.2	<v Rob>	Yes.
+146.2	146.96		Aubrey Sheiham,
+146.96	150.24		Professor of Dental Public Health at University College London,
+150.24	151.48		goes even further.
+151.48	158.96		He is part of a team which is suggesting the authorities in England reduce the number of vending machines in public places.
+158.96	160.16		Listen to what he says.
+160.16	165.84		Which word does he use to describe Neil’s chocolate bar and other kinds of wrapped sweets?
+165.84	176.36	<v INSERT>	We shouldn’t have vending machines with <strong>confectionery</strong> and <strong>soft drinks</strong> in any publicly-funded institutions –
+176.36	177.68		no schools,
+177.68	179.24		nurseries,
+179.24	181.28		hospitals etc. –
+181.28	187.2		and also limit the amount of sugar in school meals,
+187.2	188.48		nurseries’ meals.
+188.48	192.84		That again would be a first step that one would take.
+192.84	194.4	<v Neil>	He mentions ‘confectionery’,
+194.4	196.32		meaning chocolate and sweet snacks,
+196.32	198.4		which can be bought from vending machines,
+198.4	200		along with soft drinks –
+200	203.28		which are cold sweet drinks that are not alcoholic.
+203.28	207.52	<v Rob>	The professor doesn’t want these machines in state schools or hospitals.
+207.52	211.32		And he also wants meals served to children in schools to have less sugar.
+211.32	212.48	<v Neil>	He’s got a point there.
+212.48	214.64		We get used to sugar in childhood.
+214.64	216.24		And it seems that the more sugar we eat,
+216.24	217.32		the more we want.
+217.32	220.76		But if we get used to eating things which are less sweet,
+220.76	223.68		after a while when we eat something very sweet,
+223.68	225.16		it doesn’t taste so good.
+225.16	226.36		Do you understand what I mean?
+226.36	226.68	<v Rob>	Yes,
+226.68	227.28		I do.
+227.28	229.32		It’s a matter of habit.
+229.32	232.2		We don’t need so much sugar to enjoy the sweet taste.
+232.2	237.68		But the professor says there’s another way of encouraging us to eat less sugar.
+237.68	240.36		Aubrey Sheiham talks about tax on sugar.
+240.36	243.36		France has already adopted a sugar tax.
+243.36	245.28		Where’s the money being spent?
+245.28	246.56		Let’s listen.
+246.56	254.68	<v Aubrey Sheiham, Professor of Dental Public Health at University College London>	You’ve got a lot of public support in France where the consumption of sugar has gone down considerably.
+254.68	256.04		And,
+256.04	268.08		what is good about what the French have done is that tax that has gone on sugar is being spent in the <strong>health service</strong>.
+268.08	276.52		This is a way that you could actually use that money from the sugar tax and spend it on improving health care and dental care.
+276.52	279.84	<v Rob>	He says it’s being spent on the health service.
+279.84	284.08		This is the doctors’ surgeries and hospitals financed with public money –
+284.08	286.8		money paid to a government in the form of taxes.
+286.8	287.2	<v Neil>	Oh,
+287.2	289.92		so chocolate might become more expensive!
+289.92	293		Not so good for me because I <strong>have a sweet tooth</strong>…
+293	293.72	<v Rob>	Ah a sweet tooth,
+293.72	293.84		yeah,
+293.84	294.28		like me –
+294.28	297.08		a strong preference for sweet food.
+297.08	297.32		Well,
+297.32	302.32		people with a sweet tooth should be careful or they might end up with toothache.
+302.32	303.84	<v Neil>	I care a lot about my teeth.
+303.84	304.64	<v Rob>	Good on you.
+304.64	306.92		You’ve got a fine set of gnashers there.
+306.92	307.28		Okay,
+307.28	308.76		let’s go back to our quiz.
+308.76	311.84		I asked you which country has the highest sugar consumption.
+311.84	313.8		The options were: China,
+313.8	315.92		India and the United States.
+315.92	317.92	<v Neil>	And I said the United States.
+317.92	318.76	<v Rob>	And Neil,
+318.76	319.52		you are wrong.
+319.52	321.8		The correct answer is actually India.
+321.8	326.84		According to a report issued by the US Department of Agriculture in 2012,
+326.84	330.04		India was the country with the highest consumption of sugar.
+330.04	332.44		Then we had China and the country in this list
+332.44	335.72		which ate the least amount of sugar is the United States.
+335.72	339.84		These countries are also amongst the largest producers of sugar.
+339.84	340.88		Okay.
+340.88	341.2		Well,
+341.2	342.28		now our time is up.
+342.28	345.32		Let’s remember some of the words we explained today.
+345.32	345.64	<v Neil>	Yes.
+345.64	346.16		They were:
+346.16	347.64		vending machine
+347.64	349.88		calorie intake
+349.88	351.56		calorie
+351.56	353.32		tooth decay
+353.32	355.08		toothache
+355.08	357.24		confectionery
+357.24	359.76		soft drinks
+359.76	361.8		health service
+361.8	364.2		to have a sweet tooth
+364.2	364.88	<v Rob>	Thanks,
+364.88	365.28		Neil.
+365.28	366.04		That is it for today.
+366.04	370.12		Why not go to bbclearningenglish.com to hear more 6 Minute English.
+370.12	370.88		Bye for now!
+370.88	372.56	<v Neil>	Bye!
+372.56	378.4		6 minute English from BBC.

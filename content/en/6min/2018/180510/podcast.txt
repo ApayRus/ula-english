@@ -1,0 +1,158 @@
+0.1	3.24		This is a download from bbc learning English
+3.24	6.76		to find out more visit our website
+6.76	13.32		6 minute English from BBClearningEnglish.com
+13.32	14.08	<v Neil>	Hello.
+14.08	14.84		I’m Neil.
+14.84	15.36	<v Dan>	Hello.
+15.36	16.68		I’m Dan.
+16.68	17.4		Neil,
+17.4	21.36		aren’t you going to say the ‘welcome to 6 Minute English’ bit?
+21.36	22.68	<v Neil>	Hmmm maybe.
+22.68	23.8		How’s your mood today,
+23.8	24.36		Dan?
+24.36	25.24		Feeling happy?
+25.24	25.8	<v Dan>	Oh yes,
+25.8	26.64		very happy.
+26.64	27.84		I’ve just had lunch.
+27.84	29.56		What about you?
+29.56	30.64	<v Neil>	Well to be honest,
+30.64	34.8		I haven’t had the chance to eat yet and it’s making me a bit grumpy.
+34.8	36.12	<v Dan>	Why haven’t you eaten?
+36.12	37.36	<v Neil>	Well,
+37.36	43.08		I was doing some research for today’s topic which is all about feeling angry when you are hungry.
+43.08	44.36		You know what I’m talking about?
+44.36	45.28	<v Dan>	Oh yes,
+45.28	47.96		we’re talking about being ‘hangry’.
+47.96	49.24		It’s quite a new word,
+49.24	49.64		isn’t it?
+49.64	52.28		A combination of hungry and angry.
+52.28	52.8	<v Neil>	Yes,
+52.8	54.64		hangry is our topic.
+54.64	56.4		But before we learn more about it,
+56.4	58.04		here’s today’s quiz.
+58.04	63.32		English has quite a few words which are made by joining two different words together like ‘hangry’,
+63.32	65.6		for example: brunch,
+65.6	66.72		motel,
+66.72	67.84		Brexit.
+67.84	70.24		What do we call these words?
+70.24	70.8		Are they…
+70.8	73.16		a) Suitcase words
+73.16	75.48		b) Portmanteau words,
+75.48	75.76		or
+75.76	78.68		c) Backpack words
+78.68	78.92	<v Dan>	Well,
+78.92	80.28		I think I know this one,
+80.28	82.76		so I’ll keep the answer to myself -
+82.76	85.4		don’t want to give away any spoilers.
+85.4	88.72		What I do want to know is if hanger is a real thing –
+88.72	93.04		or is it just something that’s been made up by grumpy people,
+93.04	95.08		like you?
+95.08	96.88	<v Neil>	Let’s hear from Sophie Medlin,
+96.88	101.24		who is a lecturer in nutrition and dietetics at King’s College London.
+101.24	105.16		Is hanger a real thing and where does the word come from?
+105.16	109.36	<v Sophie Medlin>	We’ve long recognised that hunger leads to irritability -
+109.36	110.16		in science.
+110.16	115.92		But the wonderful world of social media has merged the two words for us and now we know it as hanger.
+115.92	116.28	<v Neil>	So,
+116.28	120.28		is hanger a real thing and where does she say the word comes from?
+120.28	122.8	<v Dan>	According to Medlin it is a real thing.
+122.8	128.12		She says that science has recognised that hunger leads to irritability.
+128.12	132.2		Irritability is a noun which means being easily annoyed,
+132.2	133.76		not in a good mood.
+133.76	139.24	<v Neil>	And she says that it was the wonderful world of social media that joined the two words together.
+139.24	141.04		She used the verb merge.
+141.04	141.72		Merge,
+141.72	143.96		meaning join together.
+143.96	146.84	<v Dan>	I know social media is responsible for many things,
+146.84	151		but the word hangry actually appeared in the 1990s –
+151	154.64		so a little before the arrival of social media.
+154.64	158.44		But it’s certainly true that social media has made it more prominent.
+158.44	159.08	<v Neil>	Me,
+159.08	159.96		right now,
+159.96	161.12		hashtag hangry!
+161.12	163.88		Let’s listen to that clip again.
+163.88	168.04	<v Sophie Medlin>	We’ve long recognised that hunger leads to irritability -
+168.04	169.16		in science.
+169.16	174.04		But the wonderful world of social media has merged the two words for us and now we know it as hanger.
+174.04	177.56	<v Neil>	So now we know that hanger is a real thing,
+177.56	179.68		let’s learn a bit more about it.
+179.68	180.8		Why does it happen?
+180.8	183		Why do we get angry when we are hungry?
+183	185.2		Here’s Sophie Medlin again.
+185.2	186.2	<v Sophie Medlin>	As the blood sugars drop,
+186.2	188.36		we increase our cortisol and adrenalin –
+188.36	190.28		so our kind of fight or flight hormones –
+190.28	194.72		and those have an impact on our brain and the neuropeptides –
+194.72	196.24		the things that control our brain,
+196.24	197.32		the chemicals in our brain,
+197.32	205.96		the ones the trigger for hunger are the same ones that trigger for anger and also for rage and impulsive type behaviours.
+205.96	208.4		So that’s why you get that sort of same response.
+208.4	210.76	<v Neil>	So it’s all to do with blood sugar,
+210.76	211.36		isn’t it?
+211.36	211.76	<v Dan>	Yes,
+211.76	212.84		it seems so.
+212.84	220.44		When we are hungry the level of sugar in our blood is lower and this causes an increase in particular hormones.
+220.44	228.44		Hormones are the chemicals we make in our bodies that control certain biological and psychological functions.
+228.44	233.36	<v Neil>	The hormones released when we are hungry are the same as our fight or flight hormones.
+233.36	240.04		They are the hormones that the body uses to prepare us to either fight or run away from a dangerous situation.
+240.04	242.04	<v Dan>	When these hormones are increased,
+242.04	245.04		it can cause anger and rage.
+245.04	247.88		Rage is another word for being very angry.
+247.88	251.92	<v Neil>	And when we are angry we can behave impulsively.
+251.92	255.16		Impulsive behaviour is when we do things without thinking,
+255.16	257.12		without considering the consequences.
+257.12	258.88	<v Dan>	So when we are hungry,
+258.88	261.28		the same emotions can run through us.
+261.28	265		We can be angry and make poor decisions.
+265	267.08		And that is hanger.
+267.08	269.8	<v Neil>	Which brings us nicely to our quiz question.
+269.8	271.12		What do we call words,
+271.12	272.32		like hanger,
+272.32	274.84		that are made by joining two different words together?
+274.84	277.24		Now you said you knew the answer Dan?
+277.24	277.92	<v Dan>	I did!
+277.92	279.04	<v Neil>	What was it?
+279.04	280.96	<v Dan>	Portmanteau words.
+280.96	282.44	<v Neil>	And you are absolutely correct.
+282.44	284.52		The answer is portmanteau words.
+284.52	286.16		Congratulations if you knew that.
+286.16	286.88	<v Dan>	I did.
+286.88	288.52	<v Neil>	Alright then smarty pants.
+288.52	289.64		No need to boast!
+289.64	292.52	<v Dan>	I can see that you’re still a bit hangry Neil.
+292.52	292.88	<v Neil>	Yes,
+292.88	295.84		I’m hungry and that is making me angry!
+295.84	300.36		But I think I can hold on to get through a review of the rest of today’s vocabulary.
+300.36	301.04	<v Dan>	Well,
+301.04	303.08		we also had the noun irritability,
+303.08	305.32		meaning getting annoyed very easily,
+305.32	306.92		just like…
+306.92	307.88	<v Neil>	Don’t,
+307.88	309.16		just don’t.
+309.16	312.68		Or I might just merge my fist with your face.
+312.68	313.96	<v Dan>	Ouch.
+313.96	314.44		Yes,
+314.44	317.4		merge meaning join different things together.
+317.4	320.56		I can see your fight or flight hormones are kicking in.
+320.56	324.36		Those chemicals in the body that prepare us for aggression or escape.
+324.36	326.84	<v Neil>	I haven’t quite reached rage yet.
+326.84	328.24		This was another of our words,
+328.24	328.88		rage,
+328.88	331.08		and it means a state of being very,
+331.08	333.32		very angry.
+333.32	335.48	<v Dan>	Our last word was impulsive.
+335.48	340.76		This is an adjective to describe when we do things without really thinking about them.
+340.76	344.88		We just do them without any control and without thinking about the consequences.
+344.88	346.28	<v Neil>	Now I’m off,
+346.28	347.12		I’m starving.
+347.12	349.84		I’ve got to eat before I do something impulsive.
+349.84	351.16		That is it for this programme.
+351.16	351.68		For more,
+351.68	352.84		find us on Facebook,
+352.84	353.4		Twitter,
+353.4	355.24		Instagram and our YouTube pages,
+355.24	358.84		and of course our website bbclearningenglish.com,
+358.84	364.64		where you can find all kinds of other programmes and videos and activities to help you improve your English.
+364.64	366.76		Thank you for joining us and goodbye.
+366.76	367.4	<v Dan>	Bye!
+367.4	375.6		6 minute English from BBC.

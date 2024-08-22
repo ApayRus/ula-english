@@ -1,0 +1,170 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.44		6 minute English from BBClearningEnglish.com
+12.44	14.8	<v Alice>	Hello and welcome to 6 Minute English.
+14.8	15.24		I’m Alice…
+15.24	15.36	<v Neil>	…
+15.36	16.2		and I’m Neil.
+16.2	16.8	<v Alice>	So Neil,
+16.8	18.32		did you sleep well last night?
+18.32	18.72	<v Neil>	Um,
+18.72	19.04		yes,
+19.04	19.44		thanks.
+19.44	20.4		Why do you ask?
+20.4	23.52	<v Alice>	Today we’re talking about how much sleep we need.
+23.52	26.4	<v Neil>	I like a good eight hours myself –
+26.4	27.68		ten at the weekend.
+27.68	28.64		How about you?
+28.64	30.28	<v Alice>	Six is enough for me.
+30.28	32.08		But did you know this?
+32.08	36.52		Humans sleep around three hours less than other primates like chimps,
+36.52	38.4		who sleep for about ten hours.
+38.4	39.52		So you’re a chimp,
+39.52	41.28		Neil –
+41.28	42.72		at the weekends,
+42.72	45.04		at least!
+45.04	47.68		Are you ready for the quiz question?
+47.68	49.52	<v Neil>	[makes some chimp noises]
+49.52	50.28	<v Alice>	OK,
+50.28	53.88		I’ll assume that means yes.
+53.88	54.48		Right.
+54.48	57.08		What’s another word for sleepwalking?
+57.08	57.8		Is it…
+57.8	60.4		a) narcolepsy?
+60.4	63.04		b) restless legs syndrome?
+63.04	65.8		or c) somnambulism?
+65.8	68.32	<v Neil>	I will go for b) restless legs syndrome,
+68.32	70.2		since there’s a connection there with the legs.
+70.2	74.08	<v Alice>	Well we’ll find out whether you’re right or wrong later on in the show.
+74.08	76.28		So what keeps you awake at night,
+76.28	76.68		Neil?
+76.68	77.2	<v Neil>	Not much,
+77.2	77.84		to be honest.
+77.84	80.04		I usually <strong>sleep like a log</strong> –
+80.04	81.96		and that means very heavily indeed!
+81.96	84.52		But sometimes my own snoring wakes me up,
+84.52	87.16		and then I can find it hard to get back to sleep.
+87.16	88.64		<strong>Snoring</strong>,
+88.64	89.68		for those of you who don’t know,
+89.68	94.4		means breathing in a noisy way through your mouth or nose while you’re asleep.
+94.4	96.32		[snores] …
+96.32	96.84		like that…
+96.84	97.6		How about you,
+97.6	98.28		Alice?
+98.28	99	<v Alice>	Very good,
+99	99.6		yes.
+99.6	99.84		Well,
+99.84	101.28		that’s quite ridiculous!
+101.28	101.96		Anyway,
+101.96	102.8		for me,
+102.8	105.32		it’s drinking too much coffee during the day.
+105.32	107.88		It’s the <strong>caffeine</strong> in coffee –
+107.88	110.28		a chemical that makes you feel more awake –
+110.28	112.28		which can stop you from sleeping at night.
+112.28	115.44		But there are so many things that can keep us awake these days.
+115.44	116.08	<v Neil>	Oh yes.
+116.08	116.52		Radio,
+116.52	117.04		TV…
+117.04	119.44		techy stuff like 24-hour internet,
+119.44	120.16		computers,
+120.16	121.32		smart phones.
+121.32	123.52		I love my phone and it’s never far from me!
+123.52	123.92	<v Alice>	Well,
+123.92	125.88		let’s hear what Professor Jerome Siegel,
+125.88	127.44		from the University of California,
+127.44	135		found when he studied the sleep habits of three different hunter-gatherer communities who have very little contact with modern society.
+135	136.64		They don’t have artificial light,
+136.64	137.52		electricity,
+137.52	138.4		batteries,
+138.4	142.76		or any of the gadgets that we rely on today.
+142.76	145.08	<v Professor Jerome Siegel, from the University of California, US>	Their sleep was not that different from ours.
+145.08	152.04		The range of sleep period was about 6.9 to 8.5 hours.
+152.04	161.36		If you actually measure sleep in current populations in the United States or in Europe they’re definitely at the low end of what’s been reported.
+161.36	166.64		They certainly don’t sleep a lot less than we do but they clearly don’t sleep more.
+166.64	175.28	<v Alice>	Professor Jerome Siegel found that people in these communities don’t go to bed until several hours after sundown –
+175.28	176.52		just like us!
+176.52	180.6		But one big difference is that very few of them suffer from <strong>insomnia</strong> –
+180.6	184.16		which means having difficulty falling asleep and staying asleep.
+184.16	184.48	<v Neil>	Now,
+184.48	186.16		I don’t have a problem with insomnia.
+186.16	187.76		And <strong>hunter-gatherers</strong> –
+187.76	191.24		people who live by hunting animals and gathering plants to eat –
+191.24	192.28		don’t either –
+192.28	195.64		probably because they take a lot of physical exercise during the day.
+195.64	196.08	<v Alice>	Yes,
+196.08	196.76		that’s right.
+196.76	200.96		Taking exercise is an important factor in sleeping <strong>soundly</strong> –
+200.96	202		or well –
+202	202.76		at night.
+202.76	208		But these days our minds can be so active that it becomes very difficult to fall asleep.
+208	210.08		Let’s listen to Professor Kevin Morgan,
+210.08	212.28		from Loughborough University here in England,
+212.28	219		talking about how cognitive behavioural therapy can be used to help people with insomnia.
+219	225.88	<v Professor Kevin Morgan, Loughborough University, England>	If you have a train of thoughts which would otherwise keep you awake one way of dealing with this is to block those thoughts.
+225.88	231.76		What I’d like you to do is repeat the word ‘the’ in your mind at irregular intervals –
+231.76	235.52		the the the the the the the the the –
+235.52	245.52		what you’ll find (is) that the mind space required to do this blocks out almost everything else.
+245.52	251.48	<v Neil>	So Professor Kevin Morgan suggests saying one word over and over again at irregular intervals –
+251.48	254.84		<strong>irregular</strong> in this context means not spaced out evenly.
+254.84	260.16		Doing it can help to block out the thoughts that are stopping you from getting to sleep.
+260.16	262.12		It sounds like a very simple solution.
+262.12	263.08		I wonder if it works?
+263.08	264.8	<v Alice>	There’s one way to find out,
+264.8	265.04		Neil.
+265.04	266.16		Try it yourself!
+266.16	266.48	<v Neil>	I will.
+266.48	267.36	<v Alice>	OK.
+267.36	274.72		And <strong>cognitive behavioural therapy</strong> by the way is a treatment for mental health problems that tries to change the way you think.
+274.72	275.16	<v Neil>	Well,
+275.16	277.52		I usually count sheep if I can’t get to sleep.
+277.52	278		Do you do that,
+278	278.6		Alice?
+278.6	278.88	<v Alice>	No,
+278.88	279.64		not usually.
+279.64	280.4		No.
+280.4	280.96		OK,
+280.96	284.68		I think it’s time for the answer to our quiz question.
+284.68	287.92		I asked: What’s another word for sleepwalking?
+287.92	288.64		Is it…
+288.64	290.76		a) narcolepsy?
+290.76	293.36		b) restless legs syndrome?
+293.36	295.96		or c) somnambulism?
+295.96	298.52	<v Neil>	And I said b) restless legs syndrome.
+298.52	299.44	<v Alice>	Sorry,
+299.44	299.88		Neil,
+299.88	302.72		it’s actually c) somnambulism –
+302.72	305.4		the roots of this word come from Latin.
+305.4	309.56		<em>Somnus</em> means ‘sleep’ and and <em>ambulare</em> means ‘walk’.
+309.56	314		Narcolepsy is a condition where you can’t stop yourself falling asleep,
+314	315.6		especially during the day.
+315.6	317.12	<v Neil>	Narcolepsy…
+317.12	318.48		(says in a sleepy way)
+318.48	323.56	<v Alice>	And restless legs syndrome is a condition that makes you desperate to move your legs around,
+323.56	327.56		especially when you’re sitting quietly or trying to get to sleep.
+327.56	327.56	<v Neil>	…
+327.56	330.36		get to sleep…
+330.36	332.32		(murmuring)
+332.32	334.52	<v Alice>	Neil!
+334.52	335.2		Wake up!
+335.2	335.84	<v Neil>	Oh,
+335.84	336.32		hello Alice!
+336.32	337.08		Sorry.
+337.08	337.96	<v Alice>	Hello!
+337.96	340.04		Can we hear today’s words again,
+340.04	340.4		please?
+340.4	341.2	<v Neil>	OK,
+341.2	341.44		yeah:
+341.44	343.8		sleep like a log
+343.8	345.44		snoring
+345.44	347.44		caffeine
+347.44	349.76		insomnia
+349.76	351.88		hunter-gatherers
+351.88	354.4		soundly
+354.4	356.88		irregular
+356.88	360		cognitive behavioural therapy
+360	361.92	<v Alice>	Well,
+361.92	365.88		that just about brings us to the end of this edition of 6 Minute English.
+365.88	367.44		We hope you’ve enjoyed this programme.
+367.44	369.44		Please do join us again soon.
+369.44	370.4	<v Both>	Bye.
+370.4	377.28		6 minute English from BBC.

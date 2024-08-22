@@ -1,0 +1,5 @@
+0.17	2.18	Tapescript 12.2
+4.40	6.19	<v A>Is she going to be a ballet dancer?
+9.33	10.47	<v B>Yes, she is.
+13.66	14.88	<v A>What’s she going to do?
+17.85	19.64	<v B>Travel all over the world.

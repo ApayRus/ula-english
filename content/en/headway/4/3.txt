@@ -1,0 +1,25 @@
+0.16	2.03	Tapescript 4.3
+3.37	3.91	1
+5.56	7.40	What time do you go to bed?
+8.36	9.47	At 11 o’clock.
+12.68	13.20	2
+14.51	16.06	Where do you go on holiday?
+16.90	18.36	To Spain or Portugal.
+21.21	21.81	3
+22.95	24.55	What do you do on Sundays?
+25.10	26.60	I always relax.
+30.16	30.75	4
+33.25	34.81	When do you do your homework?
+35.30	36.20	After dinner.
+39.21	40.02	5
+41.27	42.44	Who do you live with?
+42.87	44.33	My mother and sisters.
+47.50	48.21	6
+49.56	51.13	Why do you like your job?
+51.69	53.00	Because it’s interesting.
+56.60	57.24	7
+58.42	60.33	How do you travel to school?
+60.80	61.75	By bus.
+64.83	65.40	8
+67.19	69.04	Do you go out on Friday evenings?
+69.81	71.49	Yes, I do sometimes.

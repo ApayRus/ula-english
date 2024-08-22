@@ -1,0 +1,20 @@
+0.17	2.32	Tapescript 8.2
+3.65	4.17	1
+6.20	9.21	Two Germans didn’t make the first jeans.
+9.60	11.53	Two Americans made them.
+12.90	13.39	2
+14.20	17.20	Davis didn’t sell cloth in Levi’s shop.
+17.70	20.05	He bought cloth from Levi’s shop.
+22.16	22.69	3
+23.74	27.57	Women didn’t see pictures of jeans in She magazine.
+28.12	29.92	They saw them in Vogue.
+32.35	32.92	4
+33.92	37.35	Baird didn’t send pictures from London to Paris.
+37.74	40.51	He sent pictures from London to Glasgow.
+42.52	43.22	5
+44.19	45.42	Felix Hofman
+45.55	48.09	didn’t give the first aspirin to his mother.
+48.39	49.99	He gave it to his father.
+52.33	53.03	6
+54.02	59.13	A Spanish philosopher didn’t call the 19th century, ‘the Age of Aspirin’.
+59.58	63.15	He called the 20th century, ‘the Age of Aspirin’.

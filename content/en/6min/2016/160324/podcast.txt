@@ -1,0 +1,154 @@
+0.1	3		This is a download from bbc learning English
+3	6.72		to find out more visit our website
+6.72	12.04		6 minute English from BBClearningEnglish.com
+12.04	14.48	<v Sophie>	Hello and welcome to 6 Minute English.
+14.48	15.36		I’m Sophie…
+15.36	16.32	<v Neil>	And I’m Neil…
+16.32	17.6		What did you do at the weekend,
+17.6	18.32		Sophie?
+18.32	20	<v Sophie>	I did a spot of gardening.
+20	20.2	<v Neil>	So,
+20.2	21.4		you are you a keen gardener?
+21.4	21.88	<v Sophie>	Yes,
+21.88	22.28		I am,
+22.28	23.2		Neil.
+23.2	26.04		And gardening is the subject of today’s show!
+26.04	29.04		Now why don’t we start with a quiz question?
+29.04	29.72	<v Neil>	Good idea.
+29.72	34.44	<v Sophie>	What percentage of people in the UK said that gardening makes them happier,
+34.44	38.76		according to a survey conducted by the Royal Horticultural Society?
+38.76	39.28		Is it…
+39.28	41.2		a) 22%
+41.2	43.32		b) 52%
+43.32	45.68		Or c) 82%?
+45.68	46.28	<v Neil>	Well,
+46.28	48.8		I’ll guess: b) 52%.
+48.8	49.2	<v Sophie>	Well,
+49.2	52.44		we’ll find out later on if you got it right or not.
+52.44	53.36		So,
+53.36	54.92		does gardening make you happy,
+54.92	55.48		Neil?
+55.48	56.24	<v Neil>	Well,
+56.24	58.8		I tried to grow some tomatoes once.
+58.8	61.36		And to be honest it made me rather anxious.
+61.36	62.76		All the leaves curled up…
+62.76	63.92		and then dropped off.
+63.92	65.68	<v Sophie>	Did you get any tomatoes?
+65.68	66.32	<v Neil>	No.
+66.32	68.72	<v Sophie>	So you don’t have green fingers,
+68.72	70.12		then?
+70.12	71.64		Why are you looking at your fingers,
+71.64	72.16		Neil?
+72.16	75.2		I wasn’t asking whether you literally have green fingers!
+75.2	82.4		Having <strong>green fingers</strong> means a natural ability for growing plants.
+82.4	88.4		It’s funny you should say gardening makes you anxious because other people find it calming and relaxing.
+88.4	89.4	<v Neil>	Do they?
+89.4	90.28		Do you?
+90.28	90.84	<v Sophie>	Yes,
+90.84	91.92		I do.
+91.92	93.36		Being in the fresh air,
+93.36	94.48		in all weathers,
+94.48	95.8		communing with nature…
+95.8	98.64	<v Neil>	Sounds very unpleasant!
+98.64	103.12	<v Sophie>	<strong>In all weathers</strong> means something you do in all types of weather –
+103.12	103.76		rain,
+103.76	104.72		snow,
+104.72	105.56		sunshine.
+105.56	109.8		And <strong>communing with nature</strong> means feeling close to nature,
+109.8	111.44		and being a part of it.
+111.44	111.88	<v Neil>	Well,
+111.88	115.4		when I tried communing with nature my hands got all scratched –
+115.4	118.24		I got stung by nasty creepy-crawlies –
+118.24	121		and I got soil up my nose.
+121	122.32		I didn’t enjoy it at all.
+122.32	125.36	<v Sophie>	Try wearing protective clothing next time –
+125.36	127.32		and maybe a nose plug too!
+127.32	129.44		A <strong>creepy-crawly</strong> is a small insect,
+129.44	130.12		by the way.
+130.12	132.16	<v Neil>	So do you like getting your hands dirty,
+132.16	132.68		Sophie?
+132.68	133.32	<v Sophie>	Yes,
+133.32	134.44		I love it.
+134.44	137.12		And it turns out there might be a good reason for this.
+137.12	145.16		Dr Christopher Lowry from the University of Colorado conducted an experiment to test whether soil gives us a <strong>natural high</strong> –
+145.16	148.6		meaning to make us happy without taking drugs.
+148.6	155.32		He injected a bacterium commonly found in soil into mice to see what effect this would have on them.
+155.32	159.48		Let’s hear what he said in this BBC programme.
+159.48	173.76	<v CL:>	Rodents like mice and rats are very good swimmers and it was found many years ago that if you treat animals with antidepressant drugs and then put the animals in just a beaker of water it would cause the animals to swim for longer periods of time.
+173.76	179.08	<v HM:>	After injecting the mice with the bacterium Dr Lowry placed them in a cup of water.
+179.08	188.64	<v CL:>	These mice that had been injected with bacterium swam during a 6-minute test for a longer period of time than animals that just got a placebo.
+188.64	195.04	<v Sophie>	So the bacterium had a similar effect on the mice as an antidepressant drug might.
+195.04	198.4		When we dig in soil we <strong>ingest</strong> –
+198.4	198.96		or absorb –
+198.96	202.24		the bacterium through our lungs or cuts in our skin.
+202.24	203.16		A <strong>placebo</strong>,
+203.16	204.04		by the way,
+204.04	208.28		is a substance with no physical effects that is used when testing a drug.
+208.28	216.12		So here one group of mice were injected with the bacterium and another group were injected with the placebo.
+216.12	219.84		And since the mice seemed happier when treated with soil bacteria,
+219.84	222.28		there’s a good chance we would too.
+222.28	226.2	<v Neil>	Let’s move on and hear about how gardening can be <strong>therapeutic</strong> –
+226.2	228.2		or used to try and treat addiction.
+228.2	230.2		Here’s Scot Stephenson,
+230.2	231.52		a recovering alcoholic,
+231.52	233.76		who is learning to garden to help cure him.
+233.76	238.88	<v INSERT>	I left school early or should I say I got expelled…
+238.88	239.68		came here,
+239.68	247.2		I got my NVQ level 2 which is my first qualification and enjoyed it ever since.
+247.2	249.96	<v Neil>	So Scot Stephenson was <strong>expelled</strong> from school –
+249.96	251		he was forced to leave –
+251	252.88		with no qualifications.
+252.88	256.6		But with the help of a support group he now has an <strong>NVQ</strong> –
+256.6	259.68		that’s a National Vocational Qualification here in Britain –
+259.68	260.68		in gardening.
+260.68	262.04	<v Sophie>	That’s right.
+262.04	263.92		At a centre in the UK,
+263.92	267.76		recovering alcoholics have been given the opportunity to plant,
+267.76	268.84		grow,
+268.84	270.64		and even sell their produce.
+270.64	275.24		These addicts are literally breaking their addiction by breaking the soil.
+275.24	276.28	<v Neil>	Nicely phrased,
+276.28	276.8		Sophie!
+276.8	278.4	<v Sophie>	Thank you!
+278.4	278.92		Now,
+278.92	279.4		are you ready,
+279.4	279.76		Neil,
+279.76	282.68		for the answer to today’s quiz question?
+282.68	283.56	<v Neil>	I am.
+283.56	289.68	<v Sophie>	I asked: What percentage of people in the UK said that gardening makes them happier,
+289.68	293.72		according to a survey conducted by the Royal Horticultural Society?
+293.72	294.4		Is it…
+294.4	296.24		a) 22%,
+296.24	301.12		b) 52% or c) 82%?
+301.12	302.72	<v Neil>	I guessed b) 52%.
+302.72	303.08		I’m wrong,
+303.08	303.48		aren’t I?
+303.48	304.08	<v Sophie>	Oh,
+304.08	304.96		you are Neil,
+304.96	306.04		I’m sorry.
+306.04	310.36		The percentage of people who really enjoy gardening is much higher.
+310.36	312.6		You should have chosen option c).
+312.6	323.16		A survey from the Royal Horticultural Society has shown that Brits truly are a nation of gardeners with 82% saying it makes them feel happier.
+323.16	328.44		The results also revealed that 70% said that given the choice,
+328.44	337.08		they would prefer to spend their working day in the garden with just 9% opting for an office and 21% undecided.
+337.08	337.52	<v Neil>	Well,
+337.52	339.88		I’m with the 9% I’m afraid.
+339.88	341.88		Now can we hear the words we learned today,
+341.88	342.6		Sophie?
+342.6	343.72	<v Sophie>	They are:
+343.72	345.84		green fingers
+345.84	347.2		in all weathers
+347.2	349.44		communing with nature
+349.44	351.44		creepy-crawly
+351.44	353.4		natural high
+353.4	355.12		ingest
+355.12	356.68		placebo
+356.68	358.6		therapeutic
+358.6	360.44		expelled
+360.44	362.04		NVQ
+362.04	362.64	<v Neil>	Well,
+362.64	364.4		that’s the end of today’s 6 Minute English.
+364.4	367.32		Now go back outside Sophie and get your hands dirty!
+367.32	369		Please do join us again soon!
+369	370.04	<v Both>	Bye.
+370.04	376.96		6 minute English from BBC.
