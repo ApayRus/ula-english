@@ -1,172 +1,172 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	13.64		6 minute English from BBClearningEnglish.com
-13.64	14.2	<v Sam>	Hello.
-14.2	16.68		This is 6 Minute English from BBC Learning English.
-16.68	17.52		I’m Sam…
-17.52	18.56	<v Neil>	And I’m Neil.
-18.56	19.4	<v Sam>	In this programme,
-19.4	25.2		we’re discussing low emission zones and explaining some useful items of vocabulary along the way.
-25.2	25.32	<v Neil>	Well,
-25.32	25.68		that’s good,
-25.68	26.48		Sam.
-26.48	29.08		But what exactly is a low emission zone?
-29.08	29.48	<v Sam>	Well,
-29.48	32.68		the noun <strong>emission</strong> is an amount of,
-32.68	33.28		usually,
-33.28	34		gas,
-34	37.48		that is sent out into the air and harms the environment –
-37.48	38.52		it’s pollution.
-38.52	44.08		And a low <em>emission</em> zone is an area of a city where the amount of pollution is controlled.
-44.08	44.68	<v Neil>	Of course,
-44.68	46.92		and cities like London have them -
-46.92	47.8		most vehicles,
-47.8	49.48		including cars and vans,
-49.48	56		need to meet certain emissions standards or their drivers must pay a daily charge to drive within the zone –
-56	58.08		or they might even be banned altogether.
-58.08	59.12	<v Sam>	Exactly.
-59.12	62.2		It’s all about making the air we breathe cleaner.
-62.2	69.96		And my question today is about one UK city which recently announced it wants to be the country’s first ‘net zero’
-69.96	70.6		city -
-70.6	74.56		placing their greenhouse emissions at a neutral level.
-74.56	76.16		But which one is it?
-76.16	76.88		Is it…
-76.88	78.88		a) Glasgow
-78.88	80.92		b) Manchester
-80.92	82.96		c) Cardiff
-82.96	83.6	<v Neil>	Ah yes,
-83.6	86.72		I’ve heard about this and I’m sure it is a) Glasgow.
-86.72	87.12	<v Sam>	OK,
-87.12	89.88		I’ll let you know if that was correct at the end of the programme.
-89.88	90.44		Now,
-90.44	94.8		Neil mentioned that London already has an ultra-low emission zone.
-94.8	95.6		But this year,
-95.6	96.8		other UK cities,
-96.8	98.04		including Bath,
-98.04	99.76		Leeds and Birmingham,
-99.76	102.52		are also bringing in Clean Air Zones.
-102.52	103.92	<v Neil>	And around the world,
-103.92	104.88		many other cities,
-104.88	105.64		like Beijing,
-105.64	108.4		Paris and Madrid have these zones.
-108.4	110.56		Although there are many types of emissions,
-110.56	112.16		such as from factories,
-112.16	116		these zones predominantly target exhaust fumes from vehicles –
-116	119.6		poisonous gases called nitrogen dioxide.
-119.6	121.8	<v Sam>	Let’s hear from an expert on this -
-121.8	122.72		Alastair Lewis,
-122.72	127.32		who is a Professor of Atmospheric Chemistry at the University of York.
-127.32	135.28		He spoke to BBC Radio 4’s Inside Science programme and explained why we should be trying to reduce these <strong>pollutants</strong> –
-135.28	138.8		a word for the substances that cause pollution…
-138.8	145.6	<v Alastair Lewis, Professor of Atmospheric Chemistry, University of York>	Most of the evidence we have now on air pollution is that we continue to see health benefits by reducing pollution,
-145.6	148.48		even when you’re below the target value.
-148.48	149.04		So,
-149.04	151.44		just because the city meets a particular value,
-151.44	154.88		there is still an <strong>incentive</strong> to continue to improve air quality,
-154.88	157.2		because the health benefits continue to build up as you do that.
-157.2	157.36		So,
-157.36	161.2		targets are very good at <strong>focusing the</strong> <strong>mind</strong>,
-161.2	163.56		but they shouldn’t be the only thing that we’re considering.
-163.56	166.08	<v Neil>	Alastair Lewis mentions ‘targets’.
-166.08	169.64		These are official levels of something that need to be achieved.
-169.64	171.68		They give us something to aim for –
-171.68	173.68		in this case reducing air pollution.
-173.68	177.88	<v Sam>	He uses the phrase ‘<strong>focusing the mind</strong>’ –
-177.88	181.16		that means to concentrate on one idea or thought.
-181.16	181.48	<v Neil>	But,
-181.48	184.16		while setting a target to cut air pollution is good –
-184.16	186.04		it has health benefits –
-186.04	188.6		we shouldn’t just focus on meeting the target.
-188.6	190.2		Even if the target is met,
-190.2	192.24		we shouldn’t stop trying to improve.
-192.24	196.12		The <strong>incentive</strong> should be that we are improving people’s health.
-196.12	200.92	<v Sam>	And an <strong>incentive</strong> is something that encourages someone to do something.
-200.92	201.16		So,
-201.16	209.24		I think it’s accepted that creating low emission zones is an <strong>incentive</strong> because it encourages people to either not drive into cities or to,
-209.24	209.92		at least,
-209.92	212.28		drive low-polluting vehicles.
-212.28	212.52	<v Neil>	And,
-212.52	213		of course,
-213	217.04		changing to electric-powered cars is one way to do this.
-217.04	219.24		There’s more of an incentive to do this now,
-219.24	220.6		at least in the UK,
-220.6	227		because the government has said new diesel and petrol cars and vans will be banned from 2040.
-227	230.04	<v Sam>	But pollution from vehicles is just part of the problem,
-230.04	232.12		as Alastair Lewis points out…
-232.12	241.24	<v Alastair Lewis, Professor of Atmospheric Chemistry, University of York>	One has to accept that air pollution is an enormously <strong>complex</strong> problem with a very very large number of contributing sources,
-241.24	247.08		and there will never be any one single action that will cure the problem for us.
-247.08	247.64		So,
-247.64	250.76		low emission zones are one way to reduce <strong>concentrations</strong>,
-250.76	251.76		but they are not,
-251.76	252.64		in isolation,
-252.64	253.84		going to be the solution.
-253.84	254.48	<v Neil>	So,
-254.48	257.36		Alastair points out that air pollution is a <strong>complex</strong> problem –
-257.36	258.24		it’s complicated,
-258.24	260.6		difficult and involves many parts.
-260.6	260.96	<v Sam>	Yes,
-260.96	262.6		there are many sources –
-262.6	264.76		things that create these emissions.
-264.76	265.24		So,
-265.24	266.84		it’s not possible to solve -
-266.84	267.8		or cure –
-267.8	270.4		the problem by doing one thing.
-270.4	273.8		Low emission zones are only one part of the solution to the problem.
-273.8	277.24	<v Neil>	He said it was one way to reduce <strong>concentrations</strong> –
-277.24	279.12		he means amounts of substances,
-279.12	279.92		pollutants,
-279.92	281.32		found in something,
-281.32	282.56		which here is the air.
-282.56	283.24	<v Sam>	Well,
-283.24	283.64		earlier,
-283.64	284.04		Neil,
-284.04	288.4		you had to concentrate your mind and answer a question about emissions.
-288.4	293.88		I asked which UK city recently announced it wants to be the country’s first ‘net zero’
-293.88	294.4		city -
-294.4	297.32		placing their greenhouse emissions at a neutral level.
-297.32	298		Was it…
-298	299.08		a) Glasgow
-299.08	300.4		b) Manchester,
-300.4	300.56		or
-300.56	301.72		c) Cardiff
-301.72	301.88		And,
-301.88	302.32		Neil,
-302.32	303.08		what did you say?
-303.08	304.76	<v Neil>	I said it’s Glasgow.
-304.76	306.08	<v Sam>	And it is Glasgow!
-306.08	306.72		Well done,
-306.72	307.16		Neil.
-307.16	310.28		It wants to become the UK’s first ‘net zero’
-310.28	310.68		city.
-310.68	315.36		And later this year it is hosting a major United Nations climate change summit.
-315.36	315.88	<v Neil>	OK,
-315.88	316.24		Sam,
-316.24	319.28		I think we need a recap of the vocabulary we’ve discussed,
-319.28	322.12		starting with <strong>emissions</strong>…
-322.12	324.24	<v Sam>	<strong>Emissions</strong> are amounts of,
-324.24	324.4		usually,
-324.4	327.12		gas that is sent out into the air from things like cars.
-327.12	328.48		They harm the environment.
-328.48	332.08		And <strong>pollutants</strong> are the actual substances that cause pollution…
-332.08	336.04	<v Neil>	<strong>To focus the mind</strong> means to concentrate on one idea or thought.
-336.04	338.64	<v Sam>	And we mentioned an <strong>incentive</strong>,
-338.64	340.8		which is something that encourages someone to do something.
-340.8	344.24	<v Neil>	<strong>Complex</strong> describes something that is complicated,
-344.24	346.72		difficult and involves many parts.
-346.72	348.52	<v Sam>	And when talking about pollution,
-348.52	353.12		we sometimes talk about <strong>concentrations.</strong> These are amounts of substances,
-353.12	354		or pollutants,
-354	355.16		within something.
-355.16	356	<v Neil>	So,
-356	357.04		in a polluted city,
-357.04	361.6		we might find high concentrations of nitrogen dioxide because of all the traffic –
-361.6	362.76		it’s not great for our health,
-362.76	363.4		Sam.
-363.4	363.92	<v Sam>	Indeed,
-363.92	364.24		Neil –
-364.24	366.24		that’s why we need low emission zones!
-366.24	369.68		And that brings us to the end of this 6 Minute English programme.
-369.68	370.72		See you soon.
-370.72	371.96		Bye.
-371.96	373.24	<v Neil>	Goodbye.
-373.24	380.16		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Sam> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Sam…
+<v Neil> And I’m Neil.
+<v Sam> In this programme,
+we’re discussing low emission zones and explaining some useful items of vocabulary along the way.
+<v Neil> Well,
+that’s good,
+Sam.
+But what exactly is a low emission zone?
+<v Sam> Well,
+the noun <strong>emission</strong> is an amount of,
+usually,
+gas,
+that is sent out into the air and harms the environment –
+it’s pollution.
+And a low <em>emission</em> zone is an area of a city where the amount of pollution is controlled.
+<v Neil> Of course,
+and cities like London have them -
+most vehicles,
+including cars and vans,
+need to meet certain emissions standards or their drivers must pay a daily charge to drive within the zone –
+or they might even be banned altogether.
+<v Sam> Exactly.
+It’s all about making the air we breathe cleaner.
+And my question today is about one UK city which recently announced it wants to be the country’s first ‘net zero’
+city -
+placing their greenhouse emissions at a neutral level.
+But which one is it?
+Is it…
+a) Glasgow
+b) Manchester
+c) Cardiff
+<v Neil> Ah yes,
+I’ve heard about this and I’m sure it is a) Glasgow.
+<v Sam> OK,
+I’ll let you know if that was correct at the end of the programme.
+Now,
+Neil mentioned that London already has an ultra-low emission zone.
+But this year,
+other UK cities,
+including Bath,
+Leeds and Birmingham,
+are also bringing in Clean Air Zones.
+<v Neil> And around the world,
+many other cities,
+like Beijing,
+Paris and Madrid have these zones.
+Although there are many types of emissions,
+such as from factories,
+these zones predominantly target exhaust fumes from vehicles –
+poisonous gases called nitrogen dioxide.
+<v Sam> Let’s hear from an expert on this -
+Alastair Lewis,
+who is a Professor of Atmospheric Chemistry at the University of York.
+He spoke to BBC Radio 4’s Inside Science programme and explained why we should be trying to reduce these <strong>pollutants</strong> –
+a word for the substances that cause pollution…
+<v Alastair Lewis, Professor of Atmospheric Chemistry, University of York> Most of the evidence we have now on air pollution is that we continue to see health benefits by reducing pollution,
+even when you’re below the target value.
+So,
+just because the city meets a particular value,
+there is still an <strong>incentive</strong> to continue to improve air quality,
+because the health benefits continue to build up as you do that.
+So,
+targets are very good at <strong>focusing the</strong> <strong>mind</strong>,
+but they shouldn’t be the only thing that we’re considering.
+<v Neil> Alastair Lewis mentions ‘targets’.
+These are official levels of something that need to be achieved.
+They give us something to aim for –
+in this case reducing air pollution.
+<v Sam> He uses the phrase ‘<strong>focusing the mind</strong>’ –
+that means to concentrate on one idea or thought.
+<v Neil> But,
+while setting a target to cut air pollution is good –
+it has health benefits –
+we shouldn’t just focus on meeting the target.
+Even if the target is met,
+we shouldn’t stop trying to improve.
+The <strong>incentive</strong> should be that we are improving people’s health.
+<v Sam> And an <strong>incentive</strong> is something that encourages someone to do something.
+So,
+I think it’s accepted that creating low emission zones is an <strong>incentive</strong> because it encourages people to either not drive into cities or to,
+at least,
+drive low-polluting vehicles.
+<v Neil> And,
+of course,
+changing to electric-powered cars is one way to do this.
+There’s more of an incentive to do this now,
+at least in the UK,
+because the government has said new diesel and petrol cars and vans will be banned from 2040.
+<v Sam> But pollution from vehicles is just part of the problem,
+as Alastair Lewis points out…
+<v Alastair Lewis, Professor of Atmospheric Chemistry, University of York> One has to accept that air pollution is an enormously <strong>complex</strong> problem with a very very large number of contributing sources,
+and there will never be any one single action that will cure the problem for us.
+So,
+low emission zones are one way to reduce <strong>concentrations</strong>,
+but they are not,
+in isolation,
+going to be the solution.
+<v Neil> So,
+Alastair points out that air pollution is a <strong>complex</strong> problem –
+it’s complicated,
+difficult and involves many parts.
+<v Sam> Yes,
+there are many sources –
+things that create these emissions.
+So,
+it’s not possible to solve -
+or cure –
+the problem by doing one thing.
+Low emission zones are only one part of the solution to the problem.
+<v Neil> He said it was one way to reduce <strong>concentrations</strong> –
+he means amounts of substances,
+pollutants,
+found in something,
+which here is the air.
+<v Sam> Well,
+earlier,
+Neil,
+you had to concentrate your mind and answer a question about emissions.
+I asked which UK city recently announced it wants to be the country’s first ‘net zero’
+city -
+placing their greenhouse emissions at a neutral level.
+Was it…
+a) Glasgow
+b) Manchester,
+or
+c) Cardiff
+And,
+Neil,
+what did you say?
+<v Neil> I said it’s Glasgow.
+<v Sam> And it is Glasgow!
+Well done,
+Neil.
+It wants to become the UK’s first ‘net zero’
+city.
+And later this year it is hosting a major United Nations climate change summit.
+<v Neil> OK,
+Sam,
+I think we need a recap of the vocabulary we’ve discussed,
+starting with <strong>emissions</strong>…
+<v Sam> <strong>Emissions</strong> are amounts of,
+usually,
+gas that is sent out into the air from things like cars.
+They harm the environment.
+And <strong>pollutants</strong> are the actual substances that cause pollution…
+<v Neil> <strong>To focus the mind</strong> means to concentrate on one idea or thought.
+<v Sam> And we mentioned an <strong>incentive</strong>,
+which is something that encourages someone to do something.
+<v Neil> <strong>Complex</strong> describes something that is complicated,
+difficult and involves many parts.
+<v Sam> And when talking about pollution,
+we sometimes talk about <strong>concentrations.</strong> These are amounts of substances,
+or pollutants,
+within something.
+<v Neil> So,
+in a polluted city,
+we might find high concentrations of nitrogen dioxide because of all the traffic –
+it’s not great for our health,
+Sam.
+<v Sam> Indeed,
+Neil –
+that’s why we need low emission zones!
+And that brings us to the end of this 6 Minute English programme.
+See you soon.
+Bye.
+<v Neil> Goodbye.
+6 minute English from BBC.

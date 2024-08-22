@@ -1,53 +1,53 @@
-0.20	1.39	Unit 13
-2.50	4.88	Tapescript 13.1
-6.57	7.07	1
-8.25	10.91	When did the first man walk on the moon?
-11.15	12.87	In 1969.
-14.82	15.31	2
-16.24	18.29	Where are the Andes mountains?
-18.82	20.11	In South America.
-22.40	22.95	3
-23.84	26.02	Who did Mother Teresa look after?
-26.68	28.46	Poor people in Calcutta.
-29.50	30.07	4
-31.29	33.05	Who won the last World Cup?
-33.77	35.73	France in 1998.
-38.36	39.17	5
-39.96	42.22	How many American states are there?
-42.77	43.32	50.
-45.33	46.01	6
-46.92	49.36	How much does an African elephant weigh?
-49.68	51.37	5–7 tonnes.
-53.34	54.01	7
-54.95	57.68	How far is it from London to New York?
-58.14	60.02	6,000 kilometres.
-62.09	62.67	8
-63.68	66.56	How old was Princess Diana when she died?
-66.61	67.60	36.
-69.09	69.86	9
-70.77	73.28	What languages do Swiss people speak?
-73.64	74.28	German,
-74.64	75.28	French,
-75.51	76.29	Italian,
-76.52	77.76	and Romansch.
-79.87	80.44	10
-81.43	84.87	What did Marconi invent in1901?
-85.16	85.90	The radio.
-87.58	88.26	11
-89.32	92.23	What sort of music did Louis Armstrong play?
-92.58	93.31	Jazz.
-95.04	95.64	12
-96.89	99.84	What happens at the end of Romeo and Juliet?
-100.33	102.71	Romeo and Juliet kill themselves.
-104.46	105.20	13
-106.25	109.29	What happened in Europe in 1939?
-109.59	111.55	The Second World War started.
-113.66	114.38	14
-115.30	117.29	Why do birds migrate?
-117.50	119.04	Because the winter is cold.
-120.74	121.48	15
-122.43	125.21	Which was the first country to have TV?
-125.71	126.25	Britain.
-128.57	129.30	16
-130.49	133.05	Which language has the most words?
-133.41	134.12	English.
+Unit 13
+Tapescript 13.1
+1
+When did the first man walk on the moon?
+In 1969.
+2
+Where are the Andes mountains?
+In South America.
+3
+Who did Mother Teresa look after?
+Poor people in Calcutta.
+4
+Who won the last World Cup?
+France in 1998.
+5
+How many American states are there?
+50.
+6
+How much does an African elephant weigh?
+5–7 tonnes.
+7
+How far is it from London to New York?
+6,000 kilometres.
+8
+How old was Princess Diana when she died?
+36.
+9
+What languages do Swiss people speak?
+German,
+French,
+Italian,
+and Romansch.
+10
+What did Marconi invent in1901?
+The radio.
+11
+What sort of music did Louis Armstrong play?
+Jazz.
+12
+What happens at the end of Romeo and Juliet?
+Romeo and Juliet kill themselves.
+13
+What happened in Europe in 1939?
+The Second World War started.
+14
+Why do birds migrate?
+Because the winter is cold.
+15
+Which was the first country to have TV?
+Britain.
+16
+Which language has the most words?
+English.

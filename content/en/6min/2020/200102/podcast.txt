@@ -1,169 +1,169 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.76		to find out more visit our website
-6.76	12.92		6 minute English from BBClearningEnglish.com
-12.92	13.28	<v Georgina>	Hello.
-13.28	14.84		This is 6 Minute English,
-14.84	15.76		I’m Georgina.
-15.76	17	<v Rob>	And I’m Rob.
-17	19	<v Georgina>	What do you do when you’re tired,
-19	19.52		Rob?
-19.52	20.32	<v Rob>	Mm,
-20.32	21.68		I go to bed.
-21.68	23.24	<v Georgina>	Before that?
-23.24	23.72	<v Rob>	Erm,
-23.72	25.44		I clean my teeth?
-25.44	28.4	<v Georgina>	But what does your body do to tell you you’re tired?
-28.4	28.64	<v Rob>	Right,
-28.64	32.48		well these days I just kind of fall asleep in front of the TV.
-32.48	32.76	<v Georgina>	Yes,
-32.76	33.84		but,
-33.84	34.4		OK –
-34.4	36.68		what am I doing now?
-36.68	37.52	<v Rob>	Oh yes,
-37.52	38.08		hang on –
-38.08	38.36		yes,
-38.36	40.92		you’ve set me off -
-40.92	41.8		yawning,
-41.8	45.04		yes yawning is a sign that we are tired!
-45.04	46.08		Or bored!
-46.08	48.2	<v Georgina>	Are you tired or bored now?
-48.2	48.84	<v Rob>	No,
-48.84	50		not particularly.
-50	50.2	<v Georgina>	So,
-50.2	52.16		why did you just yawn?
-52.16	52.6	<v Rob>	Well,
-52.6	54.12		because you did!
-54.12	55.64		That’s the thing about yawns.
-55.64	57.08		They are contagious –
-57.08	59.48		they can spread from one person to another.
-59.48	62.48	<v Georgina>	And that’s what we’re looking at in this programme.
-62.48	63		But first,
-63	64.36		today’s question.
-64.36	67.32		What biological function does yawning have?
-67.32	68.08		Essentially,
-68.08	69.36		why do we yawn?
-69.36	69.76		Is it:
-69.76	72.04		A: To take in more oxygen
-72.04	75.2		B: To get rid of carbon dioxide from our body
-75.2	77.16		C: No one really knows
-77.16	77.76		What do you think,
-77.76	78.24		Rob?
-78.24	78.56	<v Rob>	Ah –
-78.56	79.32		I know this.
-79.32	81.68		We yawn to take in more oxygen.
-81.68	83.32		I’m pretty sure that’s it.
-83.32	83.88	<v Georgina>	OK.
-83.88	86.84		We’ll see if you’re correct at the end of the programme.
-86.84	90.44		John Drury is a researcher from Sussex University.
-90.44	97.16		On the BBC Radio 4 series All in The Mind he spoke about yawning and why it is contagious.
-97.16	102.24		Which animal does he mention will also catch a yawn from its owner?
-102.24	106.72	<v John Drury>	Yawning is actually a difficult case when it comes to these contagious behaviours.
-106.72	108.76		It is the most contagious behaviour –
-108.76	109.88		it’s meant to be automatic,
-109.88	112.04		it’s something that you can’t stop.
-112.04	114.32		Dogs yawn when their owners yawn,
-114.32	115.64		animals yawn to each other.
-115.64	118.36		It happens whether you want to or not.
-118.36	121.28		These kind of effects have been found for other kinds of behaviour,
-121.28	121.92		so really,
-121.92	129.2		we were trying to push it as far as we could and see if there is a cognitive element to this influence behaviour.
-129.2	133.04	<v Georgina>	Which animal might yawn when its owner does?
-133.04	134.12	<v Rob>	Dogs!
-134.12	136.76		Dogs can catch a yawn from their owners.
-136.76	137.12	<v Georgina>	Yes,
-137.12	139.8		yawning is a very contagious behaviour.
-139.8	143.04		The use of the word behaviour here is interesting.
-143.04	146.56		Normally it is an uncountable noun to describe the way we act –
-146.56	149.32		either in a good or a bad way.
-149.32	150.08		We talk about,
-150.08	151.12		for example,
-151.12	154.4		dogs’ or children’s behaviour being good or bad.
-154.4	159.72	<v Rob>	But it’s also used as an uncountable noun when we are talking about a particular action that,
-159.72	160.56		for example,
-160.56	163.32		an animal makes in particular situations.
-163.32	166.52		These behaviours are often not conscious,
-166.52	169.68		but are an automatic response to a situation.
-169.68	174.68	<v Georgina>	And the researchers were looking to see if there was a cognitive side to the behaviour.
-174.68	177.4		Which means they are looking at the mental process –
-177.4	179.84		what is happening in the mind to make us yawn,
-179.84	182.32		particularly when someone else yawns.
-182.32	184.4		Let’s listen again
-184.4	188.88	<v John Drury>	Yawning is actually a difficult case when it comes to these contagious behaviours.
-188.88	190.92		It is the most contagious behaviour –
-190.92	192		it’s meant to be auto matic,
-192	193.8		it’s something that you can’t stop.
-193.8	196.48		Dogs yawn when their owners yawn,
-196.48	197.88		animals yawn to each other.
-197.88	200.56		It happens whether you want to or not.
-200.56	203.4		These kinds of effects have been found for other kinds of behaviour,
-203.4	203.92		so really,
-203.92	211.44		we were trying to push it as far as we could and see if there is a cognitive element to this influence behaviour.
-211.44	219.16	<v Georgina>	The research discovered that contagious yawning is connected with our social group and how close we feel to the people in it.
-219.16	221.16		Here’s John Drury again.
-221.16	222.48	<v John Drury>	So,
-222.48	225.2		the more that you identify with the in-group target,
-225.2	228.2		the more likely you are to copy their behaviour.
-228.2	230.92		What we do when we see a behaviour is that at some level,
-230.92	235.04		we are making a judgement about whether the person exhibiting that behaviour,
-235.04	236.72		whether it’s an emotion,
-236.72	238.24		or a scratching behaviour,
-238.24	239.48		or anything,
-239.48	240.24		is relevant.
-240.24	244.32		Does their behaviour indicate to us how we should behave?
-244.32	245.44	<v Georgina>	So,
-245.44	246.08		essentially,
-246.08	250.52		yawning is more contagious if we identify with the person who yawns first.
-250.52	251.88		If we feel close to,
-251.88	252.96		and belong in,
-252.96	255.84		the same group as the person who exhibits the behaviour –
-255.84	257.92		the person who does the yawning –
-257.92	259.84		we are likely to yawn too.
-259.84	260.72	<v Rob>	So,
-260.72	267.64		you are less likely to yawn if a stranger yawns than if someone in your close family or circle of friends yawns.
-267.64	268.64	<v Georgina>	Let’s listen again.
-268.64	270.24	<v John Drury>	So,
-270.24	272.2		the more that you identify with the in-group target,
-272.2	275.68		the more likely you are to copy their behaviour.
-275.68	278.44		What we do when we see a behaviour is that at some level,
-278.44	282.56		we are making a judgement about whether the person exhibiting that behaviour,
-282.56	283.84		whether it’s an emotion,
-283.84	285.72		or a scratching behaviour,
-285.72	286.76		or anything,
-286.76	287.76		is relevant.
-287.76	292.84		Does their behaviour indicate to us how we should behave?
-292.84	293.16	<v Georgina>	Right,
-293.16	295.04		before we review the vocabulary,
-295.04	297.12		let’s have the answer to our quiz.
-297.12	298.48		Why do we yawn?
-298.48	299.16		Is it:
-299.16	301.08		A: To take in more oxygen
-301.08	304.32		B: To get rid of carbon dioxide from our body
-304.32	306.76		C: No one really knows
-306.76	307.36		Rob,
-307.36	308.32		what did you say?
-308.32	308.68	<v Rob>	Well,
-308.68	310.4		I was pretty sure it’s A -
-310.4	312		to take in more oxygen.
-312	312.68	<v Georgina>	There is,
-312.68	313.12		in fact,
-313.12	316.56		no clear biological reason for yawning that is agreed upon.
-316.56	318.36		So no one really knows.
-318.36	320.8	<v Rob>	We’ve been talking about yawning.
-320.8	327.08		The action of opening our mouths wide open and stretching our eardrums when tired or bored.
-327.08	329.56	<v Georgina>	Yawning can also be contagious.
-329.56	332.72		This means it can pass from one person to another.
-332.72	336.04	<v Rob>	And a yawn can be described as a behaviour –
-336.04	340.68		a particular kind of automatic action in response to a particular situation.
-340.68	344.68	<v Georgina>	The word cognitive is related to our mental processes -
-344.68	346.28		the way our minds work.
-346.28	349.24	<v Rob>	If you identify with a particular group –
-349.24	352.76		you feel close to that group and feel that you belong in that group.
-352.76	353.72	<v Georgina>	And finally,
-353.72	357.72		to exhibit a behaviour is to actually do that particular behaviour.
-357.72	360.12		And before we all start yawning,
-360.12	361.56		it’s time for us to go.
-361.56	365.2		Do join us again soon and you can always find us online,
-365.2	368.56		on social media and on the BBC Learning English app.
-368.56	369.8		Bye for now.
-369.8	370.52	<v Rob>	Bye!
-370.52	377.52		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Georgina> Hello.
+This is 6 Minute English,
+I’m Georgina.
+<v Rob> And I’m Rob.
+<v Georgina> What do you do when you’re tired,
+Rob?
+<v Rob> Mm,
+I go to bed.
+<v Georgina> Before that?
+<v Rob> Erm,
+I clean my teeth?
+<v Georgina> But what does your body do to tell you you’re tired?
+<v Rob> Right,
+well these days I just kind of fall asleep in front of the TV.
+<v Georgina> Yes,
+but,
+OK –
+what am I doing now?
+<v Rob> Oh yes,
+hang on –
+yes,
+you’ve set me off -
+yawning,
+yes yawning is a sign that we are tired!
+Or bored!
+<v Georgina> Are you tired or bored now?
+<v Rob> No,
+not particularly.
+<v Georgina> So,
+why did you just yawn?
+<v Rob> Well,
+because you did!
+That’s the thing about yawns.
+They are contagious –
+they can spread from one person to another.
+<v Georgina> And that’s what we’re looking at in this programme.
+But first,
+today’s question.
+What biological function does yawning have?
+Essentially,
+why do we yawn?
+Is it:
+A: To take in more oxygen
+B: To get rid of carbon dioxide from our body
+C: No one really knows
+What do you think,
+Rob?
+<v Rob> Ah –
+I know this.
+We yawn to take in more oxygen.
+I’m pretty sure that’s it.
+<v Georgina> OK.
+We’ll see if you’re correct at the end of the programme.
+John Drury is a researcher from Sussex University.
+On the BBC Radio 4 series All in The Mind he spoke about yawning and why it is contagious.
+Which animal does he mention will also catch a yawn from its owner?
+<v John Drury> Yawning is actually a difficult case when it comes to these contagious behaviours.
+It is the most contagious behaviour –
+it’s meant to be automatic,
+it’s something that you can’t stop.
+Dogs yawn when their owners yawn,
+animals yawn to each other.
+It happens whether you want to or not.
+These kind of effects have been found for other kinds of behaviour,
+so really,
+we were trying to push it as far as we could and see if there is a cognitive element to this influence behaviour.
+<v Georgina> Which animal might yawn when its owner does?
+<v Rob> Dogs!
+Dogs can catch a yawn from their owners.
+<v Georgina> Yes,
+yawning is a very contagious behaviour.
+The use of the word behaviour here is interesting.
+Normally it is an uncountable noun to describe the way we act –
+either in a good or a bad way.
+We talk about,
+for example,
+dogs’ or children’s behaviour being good or bad.
+<v Rob> But it’s also used as an uncountable noun when we are talking about a particular action that,
+for example,
+an animal makes in particular situations.
+These behaviours are often not conscious,
+but are an automatic response to a situation.
+<v Georgina> And the researchers were looking to see if there was a cognitive side to the behaviour.
+Which means they are looking at the mental process –
+what is happening in the mind to make us yawn,
+particularly when someone else yawns.
+Let’s listen again
+<v John Drury> Yawning is actually a difficult case when it comes to these contagious behaviours.
+It is the most contagious behaviour –
+it’s meant to be auto matic,
+it’s something that you can’t stop.
+Dogs yawn when their owners yawn,
+animals yawn to each other.
+It happens whether you want to or not.
+These kinds of effects have been found for other kinds of behaviour,
+so really,
+we were trying to push it as far as we could and see if there is a cognitive element to this influence behaviour.
+<v Georgina> The research discovered that contagious yawning is connected with our social group and how close we feel to the people in it.
+Here’s John Drury again.
+<v John Drury> So,
+the more that you identify with the in-group target,
+the more likely you are to copy their behaviour.
+What we do when we see a behaviour is that at some level,
+we are making a judgement about whether the person exhibiting that behaviour,
+whether it’s an emotion,
+or a scratching behaviour,
+or anything,
+is relevant.
+Does their behaviour indicate to us how we should behave?
+<v Georgina> So,
+essentially,
+yawning is more contagious if we identify with the person who yawns first.
+If we feel close to,
+and belong in,
+the same group as the person who exhibits the behaviour –
+the person who does the yawning –
+we are likely to yawn too.
+<v Rob> So,
+you are less likely to yawn if a stranger yawns than if someone in your close family or circle of friends yawns.
+<v Georgina> Let’s listen again.
+<v John Drury> So,
+the more that you identify with the in-group target,
+the more likely you are to copy their behaviour.
+What we do when we see a behaviour is that at some level,
+we are making a judgement about whether the person exhibiting that behaviour,
+whether it’s an emotion,
+or a scratching behaviour,
+or anything,
+is relevant.
+Does their behaviour indicate to us how we should behave?
+<v Georgina> Right,
+before we review the vocabulary,
+let’s have the answer to our quiz.
+Why do we yawn?
+Is it:
+A: To take in more oxygen
+B: To get rid of carbon dioxide from our body
+C: No one really knows
+Rob,
+what did you say?
+<v Rob> Well,
+I was pretty sure it’s A -
+to take in more oxygen.
+<v Georgina> There is,
+in fact,
+no clear biological reason for yawning that is agreed upon.
+So no one really knows.
+<v Rob> We’ve been talking about yawning.
+The action of opening our mouths wide open and stretching our eardrums when tired or bored.
+<v Georgina> Yawning can also be contagious.
+This means it can pass from one person to another.
+<v Rob> And a yawn can be described as a behaviour –
+a particular kind of automatic action in response to a particular situation.
+<v Georgina> The word cognitive is related to our mental processes -
+the way our minds work.
+<v Rob> If you identify with a particular group –
+you feel close to that group and feel that you belong in that group.
+<v Georgina> And finally,
+to exhibit a behaviour is to actually do that particular behaviour.
+And before we all start yawning,
+it’s time for us to go.
+Do join us again soon and you can always find us online,
+on social media and on the BBC Learning English app.
+Bye for now.
+<v Rob> Bye!
+6 minute English from BBC.

@@ -1,22 +1,22 @@
-0.18	2.28	Tapescript 11.3
-3.73	4.23	1
-5.19	6.44	Who’s on the phone?
-9.41	9.89	2
-10.72	12.06	I’m going to the pub.
-12.18	12.95	Who’s coming?
-15.95	16.48	3
-17.06	18.00	Wow!
-18.28	20.23	Look at that sports car.
-20.59	21.46	Whose is it?
-23.87	24.49	4
-25.15	26.86	Whose dictionary is this?
-27.05	28.22	It’s not mine.
-30.25	31.04	5
-31.83	34.27	There are books all over the floor.
-34.46	35.50	Whose are they?
-37.84	38.50	6
-39.25	41.72	Who’s the most intelligent in our class?
-44.52	45.10	7
-45.70	47.28	Who’s got my book?
-50.24	50.80	8
-51.24	52.94	Do you know whose jacket this is?
+Tapescript 11.3
+1
+Who’s on the phone?
+2
+I’m going to the pub.
+Who’s coming?
+3
+Wow!
+Look at that sports car.
+Whose is it?
+4
+Whose dictionary is this?
+It’s not mine.
+5
+There are books all over the floor.
+Whose are they?
+6
+Who’s the most intelligent in our class?
+7
+Who’s got my book?
+8
+Do you know whose jacket this is?

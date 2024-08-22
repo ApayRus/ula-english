@@ -1,17 +1,17 @@
-0.19	2.38	Tapescript 10.5
-3.75	4.29	1
-5.09	6.92	That house is very big.
-9.82	10.34	2
-10.97	13.65	Claridges is a very expensive hotel.
-16.66	17.27	3
-17.97	20.59	Castle Combe is a very pretty village.
-23.31	23.95	4
-24.61	27.32	New York is a very cosmopolitan city.
-30.06	30.83	5
-31.38	34.22	Tom Hanks is a very popular film star.
-38.67	39.37	6
-39.92	42.39	Miss Smith is a very funny teacher.
-45.08	45.66	7
-46.43	48.92	Anna is a very intelligent student.
-50.61	51.15	8
-52.02	54.50	This is a very easy exercise.
+Tapescript 10.5
+1
+That house is very big.
+2
+Claridges is a very expensive hotel.
+3
+Castle Combe is a very pretty village.
+4
+New York is a very cosmopolitan city.
+5
+Tom Hanks is a very popular film star.
+6
+Miss Smith is a very funny teacher.
+7
+Anna is a very intelligent student.
+8
+This is a very easy exercise.

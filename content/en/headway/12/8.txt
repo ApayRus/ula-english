@@ -1,15 +1,15 @@
-0.17	2.42	Tapescript 12.8
-3.72	4.28	1
-5.34	7.35	<v A>It’s a lovely day! What shall we do?
-7.71	9.23	<v B>Let’s play tennis!
-9.27	11.83	<v A>Oh no! It’s too hot to play tennis.
-12.08	14.56	<v B>Well, let’s go to the beach.
-14.56	16.41	<v A>OK. I’ll get my swimming costume.
-18.49	19.01	2
-20.22	21.60	<v A>It’s raining again!
-21.70	22.73	What shall we do?
-23.07	25.38	<v B>Let’s stay at home and watch a video.
-25.43	28.46	<v A>Oh no! We watched a video last night.
-28.53	30.78	<v B>Well, let’s go to the cinema.
-30.83	31.55	<v A>OK.
-31.70	33.12	Which film do you want to see?
+Tapescript 12.8
+1
+<v A>It’s a lovely day! What shall we do?
+<v B>Let’s play tennis!
+<v A>Oh no! It’s too hot to play tennis.
+<v B>Well, let’s go to the beach.
+<v A>OK. I’ll get my swimming costume.
+2
+<v A>It’s raining again!
+What shall we do?
+<v B>Let’s stay at home and watch a video.
+<v A>Oh no! We watched a video last night.
+<v B>Well, let’s go to the cinema.
+<v A>OK.
+Which film do you want to see?

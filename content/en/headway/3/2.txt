@@ -1,25 +1,25 @@
-0.17	2.09	Tapescript 3.2
-3.58	4.14	1 [one]
-5.87	7.35	She’s a scientist.
-8.02	9.16	He’s a doctor.
-10.44	10.91	2 [two]
-11.55	13.22	Alison comes from England.
-14.02	15.77	Bob comes from England, too.
-17.03	17.61	3 [three]
-19.34	21.17	She lives in a big city,
-21.71	23.88	but he lives in a small town.
-24.69	25.29	4 [four]
-26.00	27.94	She works three days a week.
-28.39	31.06	He works 16 hours a day non-stop.
-32.44	33.19	5 [five]
-33.97	36.75	He speaks to sick people on his radio.
-37.35	39.50	She speaks three languages.
-40.70	41.36	6 [six]
-44.14	45.52	She loves her job
-45.88	47.70	and he loves his job, too.
-49.44	50.07	7 [seven]
-50.83	52.15	She has a daughter.
-53.21	54.52	He isn’t married.
-55.97	56.50	8 [eight]
-57.22	60.70	She likes skiing and going for walks in her free time.
-61.18	62.78	He never has free time.
+Tapescript 3.2
+1 [one]
+She’s a scientist.
+He’s a doctor.
+2 [two]
+Alison comes from England.
+Bob comes from England, too.
+3 [three]
+She lives in a big city,
+but he lives in a small town.
+4 [four]
+She works three days a week.
+He works 16 hours a day non-stop.
+5 [five]
+He speaks to sick people on his radio.
+She speaks three languages.
+6 [six]
+She loves her job
+and he loves his job, too.
+7 [seven]
+She has a daughter.
+He isn’t married.
+8 [eight]
+She likes skiing and going for walks in her free time.
+He never has free time.

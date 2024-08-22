@@ -1,175 +1,175 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.6		to find out more visit our website
-6.6	13.68		6 minute English from BBClearningEnglish.com
-13.68	15.92	<v Finn>	Hello and welcome to 6 Minute English.
-15.92	16.68		I’m Finn…
-16.68	16.8	<v Neil>	…
-16.8	17.92		and I’m Neil.
-17.92	18.52		Hello.
-18.52	24.24	<v Finn>	Today we’re talking about one of the latest forms of transport on two wheels.
-24.24	24.56	<v Neil>	Yes.
-24.56	26.68		We’re not talking about bicycles here.
-26.68	27.16	<v Finn>	No,
-27.16	29.2		we’re talking about a…
-29.2	34		self-balancing transport <strong>device</strong>.
-34	34.8		What a complicated name!
-34.8	39.64		Now a device is an object which has been created for a particular purpose.
-39.64	40.36		But yes,
-40.36	46.52		you need to <strong>balance</strong> on this device which means you need to stand on it and not fall over.
-46.52	49.56	<v Neil>	Well this device has other names as well.
-49.56	53.96		It’s called a rideable because you ride on it like you ride on a bicycle –
-53.96	57.8		or you can call it a self-balancing <strong>scooter</strong> -
-57.8	60.16		or others call it a hoverboard.
-60.16	63.16	<v Finn>	That’s perhaps because it looks like a <strong>skateboard</strong> perhaps…
-63.16	63.88		but it’s different,
-63.88	64.48		isn’t it?
-64.48	65.12	<v Neil>	Yes it is,
-65.12	65.92		it is a bit different.
-65.92	69.44		And we’ll be finding out more about hoverboards in a moment,
-69.44	72.32		but first it’s time for our quiz question.
-72.32	75.04		I’m going to make a statement and I want you to tell me,
-75.04	75.36		Finn,
-75.36	76.64		if it is true or false.
-76.64	77.88		OK?
-77.88	78.92	<v Finn>	OK.Here in the UK,
-78.92	82.88		it’s <strong>illegal</strong> to ride a hoverboard on the <strong>pavement</strong>.
-82.88	83.92		Is that true or false,
-83.92	84.2		Finn?
-84.2	85.2		What do you think?
-85.2	85.56	<v Finn>	Well,
-85.56	91.16		I’ve actually seen someone riding a hoverboard on the pavement so I’ll say it’s false.
-91.16	93.4		I think it’s legal to ride one on the pavement.
-93.4	94.28	<v Neil>	OK,
-94.28	94.88		then.
-94.88	97.8		We’ll see if you’re right at the end of the programme.
-97.8	98.44	<v Finn>	OK.
-98.44	99		So,
-99	102.92		Neil have you ever tried riding on a hoverboard?
-102.92	103.2	<v Neil>	No,
-103.2	103.8		I haven’t,
-103.8	106		but I would like to give it a go.
-106	107.08		It looks like a skateboard,
-107.08	108.16		but it is different –
-108.16	109.2		it moves differently –
-109.2	110.72		and it goes in a different direction –
-110.72	111.76		it goes…
-111.76	112.52		sideways.
-112.52	113.04	<v Finn>	Yes.
-113.04	113.48		And,
-113.48	113.88		you know,
-113.88	118.12		the other big difference is that it is motorised.
-118.12	121.92		And when you change your balance the wheels turn.
-121.92	123.8		So when you lean forwards –
-123.8	125.16		you move forwards –
-125.16	127.96		and when you lean back you slow down and stop…
-127.96	129.6		and if you lean even further back,
-129.6	131.8		then you actually move backwards.
-131.8	132.08	<v Neil>	Yes.
-132.08	133.6		So it’s hard to keep your balance.
-133.6	134.64		Like a skateboard,
-134.64	136.84		you need to practise to get good at this.
-136.84	138.84	<v Finn>	And I’m no good at skateboards.
-138.84	139.32		And I think,
-139.32	140.12		you know,
-140.12	143.48		if you don’t practise you’ll fall off the hoverboard lots of times.
-143.48	148.36	<v Neil>	BBC reporter Emma Ailes has tried a hoverboard.
-148.36	150.52		Who else has tried one of these rideables?
-150.52	151.16		Listen to her report.
-151.16	157.84	<v INSERT>	So you may have seen in recent weeks <strong>celebrities</strong> like Justin Bieber and Lily Allen riding one of these.
-157.84	162.2		It’s a self-balancing transportation device or some people call them rideables.
-162.2	170.04		I’ve never had a go but I am going to <strong>integrate</strong> one into my life in the next couple of days and see how I <strong>get on</strong>.
-170.04	171.96	<v Neil>	And that was the BBC reporter Emma Ailes.
-171.96	180.56		She said that she’s going to <strong>integrate</strong> riding a hoverboard into her everyday life and so perhaps she’ll travel to the BBC on a hoverboard.
-180.56	184.56		Now to integrate means to combine things to make them more efficient.
-184.56	187.32	<v Finn>	Or maybe she’ll go shopping on a hoverboard.
-187.32	189.72		Now she talked about celebrities –
-189.72	191		famous people -
-191	192.48		who are using hoverboards.
-192.48	192.76	<v Neil>	Yeah.
-192.76	194.68		She mentioned two celebrities –
-194.68	196.28		singers Lily Allen –
-196.28	197		who’s British.
-197	198.56		And Justin Bieber -
-198.56	199.68		he’s from Canada.
-199.68	202.64		So people are using hoverboards all over the world.
-202.64	203.48	<v Finn>	Neil,
-203.48	206.68		you were telling me about a guy you saw last weekend.
-206.68	207	<v Neil>	Yes,
-207	209.52		I was at a shopping centre and there were all these kids –
-209.52	210.4		teenagers -
-210.4	213.16		watching this guy using a hoverboard.
-213.16	214.76		Of course they all wanted to try it.
-214.76	216.72		You could hear them shouting: &quot;Can I have a go?
-216.72	217.24		Can I have a go?
-217.24	218.84		Can I <strong>have a go</strong>?&quot;
-218.84	219.08		Now,
-219.08	221.16		to have a go means to try something.
-221.16	222.16	<v Finn>	Yes.
-222.16	226.6		Now what was our reporter’s experience of using a hoverboard?
-226.6	227.92		How did she get on?
-227.92	230.08		Did she learn how to use it?
-230.08	231.8		Did she enjoy using it?
-231.8	237.6	<v Emma Ailes>	So overall this is really good fun and I definitely recommend giving it a go.
-237.6	239.76		But there are some <strong>downsides</strong>.
-239.76	241		It’s really heavy,
-241	245.04		it’s illegal to use it on the pavement and it’s quite embarrassing being stared at.
-245.04	247.12		So are two wheels better than two legs?
-247.12	247.72		For me,
-247.72	249.68		probably not.
-249.68	252.76	<v Finn>	So that was the BBC reporter Emma once again.
-252.76	260.36		And she tried to use the two wheels of the hoverboard to move around but she said she prefers moving with her two legs.
-260.36	263.48	<v Neil>	But she did say this about using a hoverboard -
-263.48	267.28		it’s good fun and she definitely recommends that people try it –
-267.28	268.76		they should give it a go!
-268.76	272.6	<v Finn>	But she said there are also some <strong>downsides</strong> –
-272.6	273.8		some bad things.
-273.8	274.36		First,
-274.36	275.56		it’s heavy.
-275.56	275.96	<v Neil>	Yes,
-275.96	278.8		it’s not very easy carrying a heavy hoverboard.
-278.8	283.48	<v Finn>	Also when she uses it everyone looks at her and they don’t stop looking –
-283.48	287.68		they stare at her and she says that’s embarrassing.
-287.68	291.84	<v Neil>	And there is one more downside about using a self-balancing scooter.
-291.84	296.76		And this is also the answer to our quiz question…
-296.76	302.84		I asked if it’s true or false that it’s illegal to ride a hoverboard on the pavement in the UK.
-302.84	304.68	<v Finn>	And I said that it’s false.
-304.68	305.52	<v Neil>	And you are…
-305.52	307.32		wrong.
-307.32	307.96		It’s illegal.
-307.96	310.16		There is a law here about that.
-310.16	310.68	<v Finn>	Yes,
-310.68	315.96		I realised I guessed the wrong answer when I heard that clip from Emma’s report there.
-315.96	316.68	<v Neil>	Yes.
-316.68	325.88		Their use is illegal under Section 72 of the Highway Act 1835 for use on the public pavements and roads in the UK.
-325.88	326.16	<v Finn>	Oh,
-326.16	326.88		very impressive,
-326.88	327.52		Neil.
-327.52	327.88		Now,
-327.88	329.28		you can use a hoverboard,
-329.28	329.64		I’ve heard,
-329.64	337		on <strong>private property</strong> if you have permission from the owner but NOT on public pavements and roads.
-337	337.36	<v Neil>	OK.
-337.36	337.72		Well,
-337.72	340.28		next time you see your friend Justin Bieber,
-340.28	340.72		Finn,
-340.72	341.48		tell him that.
-341.48	342.04	<v Finn>	I will.
-342.04	342.64		Now,
-342.64	344.24		that’s all for today.
-344.24	347.04		Please do join us again soon.Please do.
-347.04	349.64		And let’s hear the words before we go.OK.
-349.64	350.32		We heard:
-350.32	351.68		device
-351.68	353.48		balance
-353.48	355.04		pavement
-355.04	356.88		scooter
-356.88	359.56		skateboard
-359.56	361.52		celebrities
-361.52	363.12		to get on
-363.12	364.76		to have a go
-364.76	366.16		illegal
-366.16	368		private property
-368	369.44		That is it now.
-369.44	370.84		And we’ll see you next time.
-370.84	372.28	<v Neil>	Goodbye!
-372.28	378.16		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Finn> Hello and welcome to 6 Minute English.
+I’m Finn…
+<v Neil> …
+and I’m Neil.
+Hello.
+<v Finn> Today we’re talking about one of the latest forms of transport on two wheels.
+<v Neil> Yes.
+We’re not talking about bicycles here.
+<v Finn> No,
+we’re talking about a…
+self-balancing transport <strong>device</strong>.
+What a complicated name!
+Now a device is an object which has been created for a particular purpose.
+But yes,
+you need to <strong>balance</strong> on this device which means you need to stand on it and not fall over.
+<v Neil> Well this device has other names as well.
+It’s called a rideable because you ride on it like you ride on a bicycle –
+or you can call it a self-balancing <strong>scooter</strong> -
+or others call it a hoverboard.
+<v Finn> That’s perhaps because it looks like a <strong>skateboard</strong> perhaps…
+but it’s different,
+isn’t it?
+<v Neil> Yes it is,
+it is a bit different.
+And we’ll be finding out more about hoverboards in a moment,
+but first it’s time for our quiz question.
+I’m going to make a statement and I want you to tell me,
+Finn,
+if it is true or false.
+OK?
+<v Finn> OK.Here in the UK,
+it’s <strong>illegal</strong> to ride a hoverboard on the <strong>pavement</strong>.
+Is that true or false,
+Finn?
+What do you think?
+<v Finn> Well,
+I’ve actually seen someone riding a hoverboard on the pavement so I’ll say it’s false.
+I think it’s legal to ride one on the pavement.
+<v Neil> OK,
+then.
+We’ll see if you’re right at the end of the programme.
+<v Finn> OK.
+So,
+Neil have you ever tried riding on a hoverboard?
+<v Neil> No,
+I haven’t,
+but I would like to give it a go.
+It looks like a skateboard,
+but it is different –
+it moves differently –
+and it goes in a different direction –
+it goes…
+sideways.
+<v Finn> Yes.
+And,
+you know,
+the other big difference is that it is motorised.
+And when you change your balance the wheels turn.
+So when you lean forwards –
+you move forwards –
+and when you lean back you slow down and stop…
+and if you lean even further back,
+then you actually move backwards.
+<v Neil> Yes.
+So it’s hard to keep your balance.
+Like a skateboard,
+you need to practise to get good at this.
+<v Finn> And I’m no good at skateboards.
+And I think,
+you know,
+if you don’t practise you’ll fall off the hoverboard lots of times.
+<v Neil> BBC reporter Emma Ailes has tried a hoverboard.
+Who else has tried one of these rideables?
+Listen to her report.
+<v INSERT> So you may have seen in recent weeks <strong>celebrities</strong> like Justin Bieber and Lily Allen riding one of these.
+It’s a self-balancing transportation device or some people call them rideables.
+I’ve never had a go but I am going to <strong>integrate</strong> one into my life in the next couple of days and see how I <strong>get on</strong>.
+<v Neil> And that was the BBC reporter Emma Ailes.
+She said that she’s going to <strong>integrate</strong> riding a hoverboard into her everyday life and so perhaps she’ll travel to the BBC on a hoverboard.
+Now to integrate means to combine things to make them more efficient.
+<v Finn> Or maybe she’ll go shopping on a hoverboard.
+Now she talked about celebrities –
+famous people -
+who are using hoverboards.
+<v Neil> Yeah.
+She mentioned two celebrities –
+singers Lily Allen –
+who’s British.
+And Justin Bieber -
+he’s from Canada.
+So people are using hoverboards all over the world.
+<v Finn> Neil,
+you were telling me about a guy you saw last weekend.
+<v Neil> Yes,
+I was at a shopping centre and there were all these kids –
+teenagers -
+watching this guy using a hoverboard.
+Of course they all wanted to try it.
+You could hear them shouting: &quot;Can I have a go?
+Can I have a go?
+Can I <strong>have a go</strong>?&quot;
+Now,
+to have a go means to try something.
+<v Finn> Yes.
+Now what was our reporter’s experience of using a hoverboard?
+How did she get on?
+Did she learn how to use it?
+Did she enjoy using it?
+<v Emma Ailes> So overall this is really good fun and I definitely recommend giving it a go.
+But there are some <strong>downsides</strong>.
+It’s really heavy,
+it’s illegal to use it on the pavement and it’s quite embarrassing being stared at.
+So are two wheels better than two legs?
+For me,
+probably not.
+<v Finn> So that was the BBC reporter Emma once again.
+And she tried to use the two wheels of the hoverboard to move around but she said she prefers moving with her two legs.
+<v Neil> But she did say this about using a hoverboard -
+it’s good fun and she definitely recommends that people try it –
+they should give it a go!
+<v Finn> But she said there are also some <strong>downsides</strong> –
+some bad things.
+First,
+it’s heavy.
+<v Neil> Yes,
+it’s not very easy carrying a heavy hoverboard.
+<v Finn> Also when she uses it everyone looks at her and they don’t stop looking –
+they stare at her and she says that’s embarrassing.
+<v Neil> And there is one more downside about using a self-balancing scooter.
+And this is also the answer to our quiz question…
+I asked if it’s true or false that it’s illegal to ride a hoverboard on the pavement in the UK.
+<v Finn> And I said that it’s false.
+<v Neil> And you are…
+wrong.
+It’s illegal.
+There is a law here about that.
+<v Finn> Yes,
+I realised I guessed the wrong answer when I heard that clip from Emma’s report there.
+<v Neil> Yes.
+Their use is illegal under Section 72 of the Highway Act 1835 for use on the public pavements and roads in the UK.
+<v Finn> Oh,
+very impressive,
+Neil.
+Now,
+you can use a hoverboard,
+I’ve heard,
+on <strong>private property</strong> if you have permission from the owner but NOT on public pavements and roads.
+<v Neil> OK.
+Well,
+next time you see your friend Justin Bieber,
+Finn,
+tell him that.
+<v Finn> I will.
+Now,
+that’s all for today.
+Please do join us again soon.Please do.
+And let’s hear the words before we go.OK.
+We heard:
+device
+balance
+pavement
+scooter
+skateboard
+celebrities
+to get on
+to have a go
+illegal
+private property
+That is it now.
+And we’ll see you next time.
+<v Neil> Goodbye!
+6 minute English from BBC.

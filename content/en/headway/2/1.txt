@@ -1,32 +1,32 @@
-0.18	1.19	Unit 2
-2.42	4.32	T 2.1
-5.80	6.34	1 (One)
-8.32	9.77	What’s her surname?
-11.46	12.39	Anderson.
-14.53	15.02	2 (Two)
-17.19	18.65	What’s her first name?
-20.78	21.54	Keesha.
-22.94	23.47	3 (Three)
-24.87	26.04	Where’s she from?
-27.32	29.00	London, England.
-30.88	31.48	4 (Four)
-32.89	34.01	What’s her job?
-35.50	37.09	She’s a journalist.
-38.50	39.28	5 (Five)
-40.61	41.93	What’s her address?
-43.31	44.45	42 (Forty two),
-44.90	46.64	Muswell Hill Road,
-46.96	48.00	London
-48.54	49.70	N10
-50.11	51.75	3JD.
-53.21	53.94	6 (Six)
-55.07	56.66	What’s her phone number?
-58.66	59.82	020 (oh two oh)
-60.14	61.96	8863 (double eight six three)
-62.17	64.05	5741 (five seven four one).
-66.09	66.75	7 (Seven)
-67.91	69.20	How old is she?
-70.53	71.55	Twenty-eight.
-73.50	74.08	8 (Eight)
-75.26	76.27	Is she married?
-77.22	78.77	No, she isn’t.
+Unit 2
+T 2.1
+1 (One)
+What’s her surname?
+Anderson.
+2 (Two)
+What’s her first name?
+Keesha.
+3 (Three)
+Where’s she from?
+London, England.
+4 (Four)
+What’s her job?
+She’s a journalist.
+5 (Five)
+What’s her address?
+42 (Forty two),
+Muswell Hill Road,
+London
+N10
+3JD.
+6 (Six)
+What’s her phone number?
+020 (oh two oh)
+8863 (double eight six three)
+5741 (five seven four one).
+7 (Seven)
+How old is she?
+Twenty-eight.
+8 (Eight)
+Is she married?
+No, she isn’t.

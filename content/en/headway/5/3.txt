@@ -1,18 +1,18 @@
-0.18	2.29	Tapescript 5.3
-4.49	5.65	<v Helen> And, this is the kitchen.
-5.82	7.96	<v Bob> Mmm, it’s very nice.
-8.06	8.74	<v Helen> Well,
-8.95	10.21	it’s not very big,
-10.51	12.03	but there are a lot of cupboards.
-12.71	14.59	And there’s a new fridge, and a cooker.
-14.98	16.09	That’s new, too.
-16.50	19.14	<v Bob> But what’s in all these cupboards?
-19.82	21.04	<v Helen> Well, not a lot.
-21.48	23.71	There are some cups, but there aren’t any plates.
-23.90	25.66	And I have some knives and forks,
-25.74	27.23	but I don’t have any spoons!
-27.77	29.54	<v Bob> Do you have any glasses?
-29.71	31.51	<v Helen> No. Sorry.
-31.55	32.61	<v Bob> Never mind.
-32.89	35.84	We can drink this champagne from those cups!
-36.10	36.79	Cheers!
+Tapescript 5.3
+<v Helen> And, this is the kitchen.
+<v Bob> Mmm, it’s very nice.
+<v Helen> Well,
+it’s not very big,
+but there are a lot of cupboards.
+And there’s a new fridge, and a cooker.
+That’s new, too.
+<v Bob> But what’s in all these cupboards?
+<v Helen> Well, not a lot.
+There are some cups, but there aren’t any plates.
+And I have some knives and forks,
+but I don’t have any spoons!
+<v Bob> Do you have any glasses?
+<v Helen> No. Sorry.
+<v Bob> Never mind.
+We can drink this champagne from those cups!
+Cheers!

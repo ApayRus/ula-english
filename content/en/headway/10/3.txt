@@ -1,23 +1,23 @@
-0.19	2.30	Tapescript 10.3
-5.11	6.81	<v Tara> Why did you leave London?
-7.09	8.61	You had a good job.
-8.86	12.06	<v Mel> Yes, but I’ve got a better job here.
-12.44	15.00	<v Tara> And you had a big flat in London.
-15.38	17.82	<v Mel> Well, I’ve got a bigger flat here.
-18.09	20.90	<v Tara> Really? How many bedrooms has it got?
-21.14	21.83	<v Mel> Three.
-22.27	23.74	And it’s got a garden.
-24.14	26.38	It’s nicer than my flat in London
-26.52	27.65	and it’s cheaper.
-28.28	30.93	<v Tara> But you haven’t got any friends!
-31.02	33.56	<v Mel> I’ve got a lot of friends here.
-34.02	36.39	People are much friendlier than in London.
-36.87	39.02	<v Tara> But the country’s so boring.
-39.33	40.48	<v Mel> No, it isn’t.
-40.77	43.07	It’s much more exciting than London.
-43.47	45.22	Seacombe has got shops,
-45.38	46.42	a cinema,
-46.68	48.85	a theatre, and a park.
-49.26	52.24	And the air is cleaner and the streets are safer.
-52.28	55.94	<v Tara> OK. Everything is wonderful!
-56.15	57.96	So when can I visit you?
+Tapescript 10.3
+<v Tara> Why did you leave London?
+You had a good job.
+<v Mel> Yes, but I’ve got a better job here.
+<v Tara> And you had a big flat in London.
+<v Mel> Well, I’ve got a bigger flat here.
+<v Tara> Really? How many bedrooms has it got?
+<v Mel> Three.
+And it’s got a garden.
+It’s nicer than my flat in London
+and it’s cheaper.
+<v Tara> But you haven’t got any friends!
+<v Mel> I’ve got a lot of friends here.
+People are much friendlier than in London.
+<v Tara> But the country’s so boring.
+<v Mel> No, it isn’t.
+It’s much more exciting than London.
+Seacombe has got shops,
+a cinema,
+a theatre, and a park.
+And the air is cleaner and the streets are safer.
+<v Tara> OK. Everything is wonderful!
+So when can I visit you?

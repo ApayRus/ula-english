@@ -1,180 +1,180 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.08		6 minute English from BBClearningEnglish.com
-13.08	15.56	<v Neil>	Hello and welcome to 6 Minute English.
-15.56	16.04		I’m Neil…
-16.04	16.12	<v Alice>	…
-16.12	17.68		And I’m Alice.
-17.68	21.68		My chair feels [audibly shifts about in her chair] uncomfortable today.
-21.68	23.04		How does yours feel?
-23.04	23.2	<v Neil>	Um…
-23.2	23.92		mine is fine -
-23.92	24.68		very comfortable,
-24.68	25.36		thank you.
-25.36	26.08	<v Alice>	Well,
-26.08	29.24		it would be nice if you offered to give me your chair,
-29.24	29.8		Neil.
-29.8	30.32	<v Neil>	What?
-30.32	31.44		No chance.
-31.44	31.92		Well,
-31.92	33.52		I would be uncomfortable then,
-33.52	34.76		wouldn’t I?
-34.76	35.88	<v Alice>	You should give me your seat,
-35.88	36.28		Neil.
-36.28	37.44	<v Neil>	Should I?
-37.44	38.16		Well,
-38.16	42.04		now might be a good time to mention that chivalry is the subject of today’s show.
-42.04	54.16	<v Alice>	<strong>Chivalry</strong> these days means polite behaviour usually by men towards women.Though in the past it referred to a code of behaviour followed by knights in the Middle Ages.
-54.16	57.32		It was all about honour and courage in battle –
-57.32	60.92		and only later on about being polite to the ladies.
-60.92	61.6		Well,
-61.6	63.44		we aren’t living in the Middle Ages any more,
-63.44	64.04		are we?
-64.04	65.08	<v Alice>	No comment.
-65.08	67.44		Let’s go for our traditional question.
-67.44	71.56		I have a literary one for you today: Who wrote the novel <em>Don Quixote</em>,
-71.56	78.36		about a 50-year old man travelling Spain in search of knightly adventures in rusty armour and a cardboard helmet?
-78.36	79.2		Was it…
-79.2	81.36		a) Miguel de Cervantes
-81.36	83.56		b) Leo Tolstoy
-83.56	85.56		Or c) William Shakespeare?
-85.56	87.04	<v Neil>	I think -
-87.04	88.2		I’m going to get it right today,
-88.2	88.64		Alice –
-88.64	91.56		I’m going to say a) Miguel de Cervantes.
-91.56	92.64	<v Alice>	Well,
-92.64	96.36		we’ll find out later on in the show if you were right or not.
-96.36	97.36		But first,
-97.36	98.8		do you think chivalry is dead,
-98.8	99.16		Neil?
-99.16	99.56	<v Neil>	No,
-99.56	100.52		not at all –
-100.52	102.8		these traditions are alive and kicking –
-102.8	104.48		in Poland at any rate.
-104.48	107.36		If something is <strong>alive and kicking</strong> it means it’s active.
-107.36	115.12		The BBC reporter Adam Easton saw it with his own eyes and is going to describe it for us.
-115.12	119.96	<v INSERT>	Medieval knights’ tournaments or battle re-enactments are popular across Europe.
-119.96	124.84		But there’s something about dressing up as a knight that particularly appeals to people here in Poland.
-124.84	134.8		In the summer there’s events every weekend and here in Malbork Northern Poland home to Europe’s largest medieval castle there’s one of the biggest of the season.
-134.8	135.64		There’s archery,
-135.64	136.68		crossbow,
-136.68	137.36		jousting,
-137.36	138.52		other horse skills,
-138.52	142.48		and more than a hundred thousand people come to watch these tournaments.
-142.48	144.76	<v Alice>	The BBC reporter Adam Easton.
-144.76	145.32		By the way,
-145.32	147.12		what’s a <strong>re-enactment</strong>,
-147.12	147.28		Neil?
-147.28	150.72	<v Neil>	It’s where you perform the actions of a past event.
-150.72	156.12		And in Malbork in Poland they stage battle re-enactments every weekend apparently –
-156.12	157.76		at least in the summer months!
-157.76	158.56	<v Alice>	Mmm…
-158.56	160.84		it doesn’t sound like <strong>my cup of tea</strong> –
-160.84	164.24		and that means it doesn’t sound like something I would enjoy doing –
-164.24	164.76		how about you,
-164.76	165.28		Neil?
-165.28	165.76	<v Neil>	Well,
-165.76	167.24		I’m not sure about the archery,
-167.24	168.72		crossbow and jousting.
-168.72	171.68		It all sounds like too much hard work.
-171.68	173.84		But I’d definitely enjoy the dressing up.
-173.84	174.64	<v Alice>	Excellent!
-174.64	174.8		Well,
-174.8	179.92		<strong>jousting</strong> is where two people fight on horseback using a <strong>lance</strong> –
-179.92	181.04		or long pole –
-181.04	184		to try to knock the other person off their horse,
-184	186.48		especially as part of a <strong>tournament</strong> –
-186.48	188.04		or sporting event.
-188.04	189.6		So with the dressing up,
-189.6	190.04		Neil –
-190.04	191.36		I’m curious.
-191.36	193.92		I can’t imagine you as a knight in shining armour,
-193.92	194.6		to be honest…
-194.6	194.96	<v Neil>	Come on,
-194.96	195.84		Alice.
-195.84	198.56		I’d look very appealing to any damsel in distress.
-198.56	203.08		A <strong>damsel in distress</strong> is a young unmarried woman in need of help.
-203.08	203.88	<v Alice>	OK.
-203.88	205.96		You might make a very <strong>fetching</strong> –
-205.96	206.64		or attractive –
-206.64	207.04		knight,
-207.04	207.52		Neil.
-207.52	210.84		But you should get used to actually helping the ladies …
-210.84	213.04		maybe offering me your seat.
-213.04	215.6		I’m still sitting uncomfortably here…
-215.6	216.16	<v Neil>	Come on,
-216.16	216.76		Alice,
-216.76	219.32		a knight needs to sit comfortably too.
-219.32	221.6		We’ve always been the ones with battles to fight!
-221.6	223.72	<v Alice>	But at some point in the history of chivalry –
-223.72	225.64		<strong>prowess</strong> –
-225.64	226.64		or skill –
-226.64	230.12		on the battlefield became combined with a set of <strong>conventions</strong> –
-230.12	231.12		or rules –
-231.12	233.28		governing other aspects of behaviour.
-233.28	238.88		This included a knight’s moral and religious duties and how to conduct their love affairs.
-238.88	242.24		Professor Laura Ashe at Oxford University explains.
-242.24	248.4	<v INSERT>	The really strange thing is the idea that love should somehow make you a better knight.
-248.4	248.68		I mean,
-248.68	254.32		this is what is suddenly claimed in the late 12th century and it makes very little sense,
-254.32	254.68		you know,
-254.68	258.04		if you imagine a footballer telling his teammates that being in love makes him a better footballer.
-258.04	260.92	<v Neil>	That was Professor Laura Ashe.
-260.92	261.8		And I agree with her.
-261.8	266.2		What has being a great footballer or a great warrior got to do with love?
-266.2	266.96	<v Alice>	Well,
-266.96	277.88		<strong>courtly love</strong> was a social code governing behaviour between aristocratic men and women that developed at the same time and amongst the same people as chivalry and the two became <strong>intertwined</strong> –
-277.88	279.2		or hard to separate –
-279.2	280.04		from then on.
-280.04	283.52	<v Neil>	And <strong>aristocrats</strong> are people of high social rank.
-283.52	284.28		OK Alice,
-284.28	287.8		I think it’s time you told us the answer to today’s quiz question.
-287.8	288.64	<v Alice>	Good idea.
-288.64	289.2		OK.
-289.2	292.52		I asked: Who wrote the novel <em>Don Quixote</em>,
-292.52	299.44		about a 50-year old man travelling Spain in search of knightly adventures in rusty armour and a cardboard helmet?
-299.44	300		Was it…
-300	302.08		a) Miguel de Cervantes,
-302.08	306.36		b) LeonTolstoy or c) William Shakespeare?
-306.36	309.36	<v Neil>	And I said a) Miguel de Cervantes.
-309.36	311.08	<v Alice>	And you were right!
-311.08	312.24		Well done!
-312.24	317.92		<em>Don Quixote</em> was written by Miguel de Cervantes and published in 1605.
-317.92	322.36		It’s a comic novel which describes what happens to an elderly knight who,
-322.36	325.36		his head muddled by reading too many romances,
-325.36	328.64		sets out on his old horse with his companion Sancho Panza,
-328.64	329.92		to seek adventure.
-329.92	331.56	<v Neil>	Very interesting,
-331.56	332.04		Alice.
-332.04	333.96		Now can we hear the words we learned today?
-333.96	334.44	<v Alice>	Sure,
-334.44	335.24		they are:
-335.24	336.6		chivalry
-336.6	338.44		alive and kicking
-338.44	340		re-enactment
-340	341.68		my cup of tea
-341.68	343.2		jousting
-343.2	344.52		lance
-344.52	345.8		tournament
-345.8	347.28		fetching
-347.28	349.44		damsel in distress
-349.44	350.96		prowess
-350.96	352.72		conventions
-352.72	354.16		courtly love
-354.16	355.88		intertwined
-355.88	357.64		aristocrats
-357.64	358.44	<v Neil>	Well,
-358.44	360.4		that’s the end of today’s 6 Minute English.
-360.4	361.92		Please join us again soon.
-361.92	362.12		And…
-362.12	362.64		by the way,
-362.64	363.24		Alice,
-363.24	364.6		would you like my chair?
-364.6	365.48		It’s very comfortable…
-365.48	366.04	<v Alice>	Oh,
-366.04	366.6		thank you -
-366.6	367.96		now that the programme is over,
-367.96	368.4		Neil!
-368.4	371.12	<v Neil>	Better late than never.
-371.12	372.04		Bye.
-372.04	378		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello and welcome to 6 Minute English.
+I’m Neil…
+<v Alice> …
+And I’m Alice.
+My chair feels [audibly shifts about in her chair] uncomfortable today.
+How does yours feel?
+<v Neil> Um…
+mine is fine -
+very comfortable,
+thank you.
+<v Alice> Well,
+it would be nice if you offered to give me your chair,
+Neil.
+<v Neil> What?
+No chance.
+Well,
+I would be uncomfortable then,
+wouldn’t I?
+<v Alice> You should give me your seat,
+Neil.
+<v Neil> Should I?
+Well,
+now might be a good time to mention that chivalry is the subject of today’s show.
+<v Alice> <strong>Chivalry</strong> these days means polite behaviour usually by men towards women.Though in the past it referred to a code of behaviour followed by knights in the Middle Ages.
+It was all about honour and courage in battle –
+and only later on about being polite to the ladies.
+Well,
+we aren’t living in the Middle Ages any more,
+are we?
+<v Alice> No comment.
+Let’s go for our traditional question.
+I have a literary one for you today: Who wrote the novel <em>Don Quixote</em>,
+about a 50-year old man travelling Spain in search of knightly adventures in rusty armour and a cardboard helmet?
+Was it…
+a) Miguel de Cervantes
+b) Leo Tolstoy
+Or c) William Shakespeare?
+<v Neil> I think -
+I’m going to get it right today,
+Alice –
+I’m going to say a) Miguel de Cervantes.
+<v Alice> Well,
+we’ll find out later on in the show if you were right or not.
+But first,
+do you think chivalry is dead,
+Neil?
+<v Neil> No,
+not at all –
+these traditions are alive and kicking –
+in Poland at any rate.
+If something is <strong>alive and kicking</strong> it means it’s active.
+The BBC reporter Adam Easton saw it with his own eyes and is going to describe it for us.
+<v INSERT> Medieval knights’ tournaments or battle re-enactments are popular across Europe.
+But there’s something about dressing up as a knight that particularly appeals to people here in Poland.
+In the summer there’s events every weekend and here in Malbork Northern Poland home to Europe’s largest medieval castle there’s one of the biggest of the season.
+There’s archery,
+crossbow,
+jousting,
+other horse skills,
+and more than a hundred thousand people come to watch these tournaments.
+<v Alice> The BBC reporter Adam Easton.
+By the way,
+what’s a <strong>re-enactment</strong>,
+Neil?
+<v Neil> It’s where you perform the actions of a past event.
+And in Malbork in Poland they stage battle re-enactments every weekend apparently –
+at least in the summer months!
+<v Alice> Mmm…
+it doesn’t sound like <strong>my cup of tea</strong> –
+and that means it doesn’t sound like something I would enjoy doing –
+how about you,
+Neil?
+<v Neil> Well,
+I’m not sure about the archery,
+crossbow and jousting.
+It all sounds like too much hard work.
+But I’d definitely enjoy the dressing up.
+<v Alice> Excellent!
+Well,
+<strong>jousting</strong> is where two people fight on horseback using a <strong>lance</strong> –
+or long pole –
+to try to knock the other person off their horse,
+especially as part of a <strong>tournament</strong> –
+or sporting event.
+So with the dressing up,
+Neil –
+I’m curious.
+I can’t imagine you as a knight in shining armour,
+to be honest…
+<v Neil> Come on,
+Alice.
+I’d look very appealing to any damsel in distress.
+A <strong>damsel in distress</strong> is a young unmarried woman in need of help.
+<v Alice> OK.
+You might make a very <strong>fetching</strong> –
+or attractive –
+knight,
+Neil.
+But you should get used to actually helping the ladies …
+maybe offering me your seat.
+I’m still sitting uncomfortably here…
+<v Neil> Come on,
+Alice,
+a knight needs to sit comfortably too.
+We’ve always been the ones with battles to fight!
+<v Alice> But at some point in the history of chivalry –
+<strong>prowess</strong> –
+or skill –
+on the battlefield became combined with a set of <strong>conventions</strong> –
+or rules –
+governing other aspects of behaviour.
+This included a knight’s moral and religious duties and how to conduct their love affairs.
+Professor Laura Ashe at Oxford University explains.
+<v INSERT> The really strange thing is the idea that love should somehow make you a better knight.
+I mean,
+this is what is suddenly claimed in the late 12th century and it makes very little sense,
+you know,
+if you imagine a footballer telling his teammates that being in love makes him a better footballer.
+<v Neil> That was Professor Laura Ashe.
+And I agree with her.
+What has being a great footballer or a great warrior got to do with love?
+<v Alice> Well,
+<strong>courtly love</strong> was a social code governing behaviour between aristocratic men and women that developed at the same time and amongst the same people as chivalry and the two became <strong>intertwined</strong> –
+or hard to separate –
+from then on.
+<v Neil> And <strong>aristocrats</strong> are people of high social rank.
+OK Alice,
+I think it’s time you told us the answer to today’s quiz question.
+<v Alice> Good idea.
+OK.
+I asked: Who wrote the novel <em>Don Quixote</em>,
+about a 50-year old man travelling Spain in search of knightly adventures in rusty armour and a cardboard helmet?
+Was it…
+a) Miguel de Cervantes,
+b) LeonTolstoy or c) William Shakespeare?
+<v Neil> And I said a) Miguel de Cervantes.
+<v Alice> And you were right!
+Well done!
+<em>Don Quixote</em> was written by Miguel de Cervantes and published in 1605.
+It’s a comic novel which describes what happens to an elderly knight who,
+his head muddled by reading too many romances,
+sets out on his old horse with his companion Sancho Panza,
+to seek adventure.
+<v Neil> Very interesting,
+Alice.
+Now can we hear the words we learned today?
+<v Alice> Sure,
+they are:
+chivalry
+alive and kicking
+re-enactment
+my cup of tea
+jousting
+lance
+tournament
+fetching
+damsel in distress
+prowess
+conventions
+courtly love
+intertwined
+aristocrats
+<v Neil> Well,
+that’s the end of today’s 6 Minute English.
+Please join us again soon.
+And…
+by the way,
+Alice,
+would you like my chair?
+It’s very comfortable…
+<v Alice> Oh,
+thank you -
+now that the programme is over,
+Neil!
+<v Neil> Better late than never.
+Bye.
+6 minute English from BBC.

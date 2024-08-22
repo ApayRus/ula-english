@@ -1,153 +1,153 @@
-0.1	3.2		This is a download from bbc learning English
-3.2	6.64		to find out more visit our website
-6.64	12.48		6 minute English from BBClearningEnglish.com
-12.48	14.96	<v Alice>	Hello and welcome to 6 Minute English.
-14.96	16.88		I’m Alice…So,
-16.88	20.04		it’s nearly exam time again.
-20.04	25.44		And the subject of today’s show is how to prepare well for an exam.I’ve got some great tips,
-25.44	25.84		actually,
-25.84	26.44		Alice.
-26.44	27.2	<v Alice>	Have you really?
-27.2	30.72		Can you remind me what grades you got at school?Yes,
-30.72	31.24		well …
-31.24	33.44		[mumbles] …So,
-33.44	36.84		you didn’t get very good grades.
-36.84	39.6	<v Rob>	I probably should’ve started revising earlier.
-39.6	42.2		But my learning strategies were very good.Oh,
-42.2	42.48		really?
-42.48	43		Well,
-43	48.2		when you <strong>revise</strong> for an exam you study information you learned before.
-48.2	48.52		OK,
-48.52	49.04		Rob,
-49.04	52.16		I’d love to hear more about your learning strategies,
-52.16	55.48		but first here’s today’s quiz question for you.
-55.48	57.72		What’s the word for a system,
-57.72	68.48		such as use of special poems or rhymes to help you remember something?
-68.48	72.56		Is it …I’ll go for b) mnemonics.Well,
-72.56	76.8		we’ll find out whether you got the answer right or not later on in the show.
-76.8	77.24		Now,
-77.24	79.72		according to current scientific research,
-79.72	84.36		some study methods popular with students aren’t actually very effective.
-84.36	85.16	<v Rob>	Don’t tell me –
-85.16	88.96		putting your textbook under your pillow at night doesn’t work.
-88.96	90	<v Alice>	Did you try doing that,
-90	90.6		Rob?
-90.6	91	<v Rob>	Yes,
-91	91.36		I did,
-91.36	93.24		but without much success.
-93.24	96.12		Maybe I was using the wrong kind of pillow?!Well,
-96.12	100.44		let’s talk about more conventional methods than the book-under-the-pillow one.
-100.44	103.12		These include summarising,
-103.12	107.16		highlighting or underlining text to help you remember it…
-107.16	109.24		I do love a pack of highlighting pens,
-109.24	109.56		though.
-109.56	109.96	<v Rob>	Oh yes,
-109.96	110.88		me too.
-110.88	114.64		And actually highlighting text was one of my top tips.
-114.64	120.44		But I used to get so absorbed with the highlighting I’m not sure I was actually learning anything useful.
-120.44	121.88		My notebooks were works of art,
-121.88	122.76		though!Yes,
-122.76	125.52		and that’s the point made by John Dunlosky,
-125.52	130		Professor of Psychology at Kent State University in the US,
-130	134.2		who says that you need to do more than just highlight information.
-134.2	136.6		You need to test yourself on it.
-136.6	147.84		Let’s hear from him now.Students who can basically test themselves or try to retrieve material from their memory are going to learn that material in the long run a lot better.
-147.84	153		So for instance maybe you start by reading a textbook using your favourite highlighter and favourite colours,
-153	159.16		but then you go back and make flashcards of all the critical concepts and instead of just rereading those,
-159.16	164.52		you basically try to test yourselves on them.Professor John Dunlosky there.
-164.52	169.2		So he says trying to memorise the material isn’t enough.
-169.2	170.96		You need to do something with it,
-170.96	171.76		for example,
-171.76	173.92		making flashcards of <strong>critical</strong> –
-173.92	174.64		or important –
-174.64	179.8		concepts and then testing yourself on them.<strong>Alice</strong>By repeatedly testing yourself on something,
-179.8	182.56		you strengthen the pathways between <strong>neurons</strong> –
-182.56	183.68		or nerve cells –
-183.68	184.68		in the brain.
-184.68	186.72		And the more often you do this,
-186.72	189.64		the easier it becomes to retrieve information.
-189.64	192.2	<v Rob>	And <strong>retrieve</strong> means to get something back.
-192.2	193.4	<v Alice>	That’s right.
-193.4	197.16		When you repeatedly test yourself over a longer period of time –
-197.16	197.96		for example,
-197.96	199.4		over months or weeks -
-199.4	202.4		this is called <strong>distributed practice</strong> –
-202.4	205.84		and psychologists believe this is a very effective way to learn.
-205.84	207.4	<v Rob>	It sounds like hard work,
-207.4	207.6		though,
-207.6	208		doesn’t it?
-208	210.68		I prefer the <strong>cramming</strong> method –
-210.68	215.04		which means to try and learn lots of information in a short period of time.
-215.04	216.28		For example,
-216.28	217.4		the night before the exam.
-217.4	218.6	<v Alice>	I don’t know,
-218.6	219.08		Rob.
-219.08	221.72		We don’t cram to learn other things –
-221.72	223.48		like music or dancing,
-223.48	225.72		or football or language learning.
-225.72	234.88		It’s far more effective to join a conversation class and practise speaking every week than to practise for hours in front of the mirror the night before your oral exam!
-234.88	236.84	<v Rob>	That’s a good point.
-236.84	237.48		In fact,
-237.48	240.36		I used to sing irregular French verbs to myself,
-240.36	244.04		every day in the shower for weeks before my French exam,
-244.04	246.72		and that helped me remember them more easily.
-246.72	247.56	<v Alice>	Excellent!
-247.56	251.12		Making different types of associations with what you’re trying to learn –
-251.12	252		for example,
-252	253.4		musical associations –
-253.4	255.08		is meant to be effective.
-255.08	260.6		Let’s listen now to Professor Dunlovsky talking about visual associations.
-260.6	264.96	<v INSERT>	I would encourage students as they are reading to try and elaborate mentally using images,
-264.96	265.48		as they’re reading,
-265.48	268.76		to kind of develop a more vivid picture of what they’re reading.
-268.76	269		Again,
-269	271.16		that’ll help quite a bit for some kinds of studies –
-271.16	272.48		maybe history and so forth –
-272.48	275.64		and a little bit less so for more conceptual studies.
-275.64	278.08	<v Rob>	And if you <strong>elaborate</strong> on something,
-278.08	280.48		it means you add more information –
-280.48	281.48		in this case,
-281.48	282.56		mental pictures.
-282.56	283.28	<v Alice>	So,
-283.28	287		creating mental pictures is useful for some subjects –
-287	288.68		like history or languages.
-288.68	290.84		But <strong>conceptual</strong> subjects –
-290.84	294		ones based on abstract ideas rather than things –
-294	294.88		like maths,
-294.88	295.52		for example –
-295.52	299.24		it might not be so easy to associate ideas with pictures.
-299.24	301.6	<v Rob>	Now what about Albert Einstein?
-301.6	304.16		People say he was a very visual thinker.
-304.16	304.52	<v Alice>	Well,
-304.52	305.36		you’ve got me there,
-305.36	305.6		Rob.
-305.6	310.68		I don’t know the answer to that but I can give you the answer to today’s quiz question.
-310.68	313.76		I asked: What’s the word for a system,
-313.76	318.08		such as use of special poems or rhymes to help you remember something?
-318.08	319.16		Is it …
-319.16	320.64		a) pneumatics,
-320.64	324.56		b) mnemonics or c) hypnotics?
-324.56	326.2	<v Rob>	I said mnemonics.
-326.2	328.76	<v Alice>	And you were right!
-328.76	329.36	<v Rob>	Great!
-329.36	330.32	<v Alice>	Well done!
-330.32	334.52		Research on mnemonics suggests they are a good strategy for learning certain kinds of things,
-334.52	335.32		like how to spell difficult words.
-335.32	335.88		For example,
-335.88	347.88		the first letters of this sentence: ‘<strong>b</strong>ig <strong>e</strong>lephants <strong>c</strong>ause <strong>a</strong>ccidents <strong>u</strong>nder <strong>s</strong>mall <strong>e</strong>lephants’ spells ‘because’.
-347.88	348.8		Now,
-348.8	351.12		do you think you can remember the words we heard today,
-351.12	351.4		Rob?
-351.4	352.72	<v Rob>	We heard:
-352.72	354		revise
-354	355.32		critical
-355.32	356.8		neurons
-356.8	358.2		retrieve
-358.2	360.32		distributed practice
-360.32	361.6		cramming
-361.6	363.2		elaborate
-363.2	364.44		conceptual
-364.44	365.24	<v Alice>	Well,
-365.24	367.28		that’s the end of today’s 6 Minute English.
-367.28	371.4		Remember to join us again soon!Bye.
-371.4	377.4		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…So,
+it’s nearly exam time again.
+And the subject of today’s show is how to prepare well for an exam.I’ve got some great tips,
+actually,
+Alice.
+<v Alice> Have you really?
+Can you remind me what grades you got at school?Yes,
+well …
+[mumbles] …So,
+you didn’t get very good grades.
+<v Rob> I probably should’ve started revising earlier.
+But my learning strategies were very good.Oh,
+really?
+Well,
+when you <strong>revise</strong> for an exam you study information you learned before.
+OK,
+Rob,
+I’d love to hear more about your learning strategies,
+but first here’s today’s quiz question for you.
+What’s the word for a system,
+such as use of special poems or rhymes to help you remember something?
+Is it …I’ll go for b) mnemonics.Well,
+we’ll find out whether you got the answer right or not later on in the show.
+Now,
+according to current scientific research,
+some study methods popular with students aren’t actually very effective.
+<v Rob> Don’t tell me –
+putting your textbook under your pillow at night doesn’t work.
+<v Alice> Did you try doing that,
+Rob?
+<v Rob> Yes,
+I did,
+but without much success.
+Maybe I was using the wrong kind of pillow?!Well,
+let’s talk about more conventional methods than the book-under-the-pillow one.
+These include summarising,
+highlighting or underlining text to help you remember it…
+I do love a pack of highlighting pens,
+though.
+<v Rob> Oh yes,
+me too.
+And actually highlighting text was one of my top tips.
+But I used to get so absorbed with the highlighting I’m not sure I was actually learning anything useful.
+My notebooks were works of art,
+though!Yes,
+and that’s the point made by John Dunlosky,
+Professor of Psychology at Kent State University in the US,
+who says that you need to do more than just highlight information.
+You need to test yourself on it.
+Let’s hear from him now.Students who can basically test themselves or try to retrieve material from their memory are going to learn that material in the long run a lot better.
+So for instance maybe you start by reading a textbook using your favourite highlighter and favourite colours,
+but then you go back and make flashcards of all the critical concepts and instead of just rereading those,
+you basically try to test yourselves on them.Professor John Dunlosky there.
+So he says trying to memorise the material isn’t enough.
+You need to do something with it,
+for example,
+making flashcards of <strong>critical</strong> –
+or important –
+concepts and then testing yourself on them.<strong>Alice</strong>By repeatedly testing yourself on something,
+you strengthen the pathways between <strong>neurons</strong> –
+or nerve cells –
+in the brain.
+And the more often you do this,
+the easier it becomes to retrieve information.
+<v Rob> And <strong>retrieve</strong> means to get something back.
+<v Alice> That’s right.
+When you repeatedly test yourself over a longer period of time –
+for example,
+over months or weeks -
+this is called <strong>distributed practice</strong> –
+and psychologists believe this is a very effective way to learn.
+<v Rob> It sounds like hard work,
+though,
+doesn’t it?
+I prefer the <strong>cramming</strong> method –
+which means to try and learn lots of information in a short period of time.
+For example,
+the night before the exam.
+<v Alice> I don’t know,
+Rob.
+We don’t cram to learn other things –
+like music or dancing,
+or football or language learning.
+It’s far more effective to join a conversation class and practise speaking every week than to practise for hours in front of the mirror the night before your oral exam!
+<v Rob> That’s a good point.
+In fact,
+I used to sing irregular French verbs to myself,
+every day in the shower for weeks before my French exam,
+and that helped me remember them more easily.
+<v Alice> Excellent!
+Making different types of associations with what you’re trying to learn –
+for example,
+musical associations –
+is meant to be effective.
+Let’s listen now to Professor Dunlovsky talking about visual associations.
+<v INSERT> I would encourage students as they are reading to try and elaborate mentally using images,
+as they’re reading,
+to kind of develop a more vivid picture of what they’re reading.
+Again,
+that’ll help quite a bit for some kinds of studies –
+maybe history and so forth –
+and a little bit less so for more conceptual studies.
+<v Rob> And if you <strong>elaborate</strong> on something,
+it means you add more information –
+in this case,
+mental pictures.
+<v Alice> So,
+creating mental pictures is useful for some subjects –
+like history or languages.
+But <strong>conceptual</strong> subjects –
+ones based on abstract ideas rather than things –
+like maths,
+for example –
+it might not be so easy to associate ideas with pictures.
+<v Rob> Now what about Albert Einstein?
+People say he was a very visual thinker.
+<v Alice> Well,
+you’ve got me there,
+Rob.
+I don’t know the answer to that but I can give you the answer to today’s quiz question.
+I asked: What’s the word for a system,
+such as use of special poems or rhymes to help you remember something?
+Is it …
+a) pneumatics,
+b) mnemonics or c) hypnotics?
+<v Rob> I said mnemonics.
+<v Alice> And you were right!
+<v Rob> Great!
+<v Alice> Well done!
+Research on mnemonics suggests they are a good strategy for learning certain kinds of things,
+like how to spell difficult words.
+For example,
+the first letters of this sentence: ‘<strong>b</strong>ig <strong>e</strong>lephants <strong>c</strong>ause <strong>a</strong>ccidents <strong>u</strong>nder <strong>s</strong>mall <strong>e</strong>lephants’ spells ‘because’.
+Now,
+do you think you can remember the words we heard today,
+Rob?
+<v Rob> We heard:
+revise
+critical
+neurons
+retrieve
+distributed practice
+cramming
+elaborate
+conceptual
+<v Alice> Well,
+that’s the end of today’s 6 Minute English.
+Remember to join us again soon!Bye.
+6 minute English from BBC.

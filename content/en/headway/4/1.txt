@@ -1,29 +1,29 @@
-0.25	1.20	Unit 4
-2.48	4.38	Tapescript 4.1
-5.64	8.55	My weekends are fast and exciting.
-8.98	12.21	My weekdays are fast and domestic!
-12.79	14.45	I have two sons,
-14.58	15.91	Dylan 7,
-16.01	17.58	and Dakota 5.
-18.04	22.14	Every morning I get up one hour before them, at 6.00,
-22.44	23.61	and I go to the gym.
-24.59	25.64	I come home
-25.75	26.99	and I make breakfast
-27.20	28.80	then I take them to school.
-29.79	30.70	On Mondays
-30.78	32.37	I always go shopping.
-33.10	35.60	I buy all the food for the week.
-36.43	38.81	I often cook dinner in the evenings,
-39.06	42.26	but not every day because I don’t like cooking.
-43.12	45.47	Fortunately my husband, Don,
-45.55	46.68	loves cooking.
-47.47	49.50	On Tuesdays and Thursdays
-49.72	51.18	I visit my father.
-51.78	53.51	He lives on the next block.
-54.61	55.90	Every afternoon
-55.97	57.86	I pick up the kids from school.
-58.82	59.77	In the evenings
-59.88	61.83	Don and I usually relax,
-62.07	64.22	but sometimes we visit friends.
-65.03	67.75	We never go out on Friday evenings
-67.95	71.16	because I start work so early on Saturdays.
+Unit 4
+Tapescript 4.1
+My weekends are fast and exciting.
+My weekdays are fast and domestic!
+I have two sons,
+Dylan 7,
+and Dakota 5.
+Every morning I get up one hour before them, at 6.00,
+and I go to the gym.
+I come home
+and I make breakfast
+then I take them to school.
+On Mondays
+I always go shopping.
+I buy all the food for the week.
+I often cook dinner in the evenings,
+but not every day because I don’t like cooking.
+Fortunately my husband, Don,
+loves cooking.
+On Tuesdays and Thursdays
+I visit my father.
+He lives on the next block.
+Every afternoon
+I pick up the kids from school.
+In the evenings
+Don and I usually relax,
+but sometimes we visit friends.
+We never go out on Friday evenings
+because I start work so early on Saturdays.

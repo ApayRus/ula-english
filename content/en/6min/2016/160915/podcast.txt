@@ -1,154 +1,154 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.04		6 minute English from BBClearningEnglish.com
-12.04	14.44	<v Alice>	Hello and welcome to 6 Minute English.
-14.44	15.16		I’m Alice…
-15.16	15.88	<v Neil>	And I’m Neil.
-15.88	17.16		I’m feeling a bit chilly today,
-17.16	17.36		Alice.
-17.36	18.16	<v Alice>	Yes,
-18.16	21.2		it is <strong>unseasonably</strong> cold today –
-21.2	23.96		which means not normal for the time of year.
-23.96	26.6		But the weather is very unpredictable these days.
-26.6	27.84	<v Neil>	I know what you mean.
-27.84	28.4	<v Alice>	Well,
-28.4	31.08		global warming is the subject of today’s show.
-31.08	33.76	<v Neil>	Is global warming really something to worry about?
-33.76	38.4		Some people say that the Earth has warmed up in the past and nothing terrible has happened.
-38.4	40.04	<v Alice>	The Earth has warmed up before,
-40.04	43.48		but this was the result of things like wobbles in the Earth’s orbit,
-43.48	47.72		not because of an increase of greenhouse gases in the atmosphere.
-47.72	50.16	<v Neil>	Can we reverse the changes?
-50.16	50.6	<v Alice>	No,
-50.6	51.8		it’s too late,
-51.8	55.16		and now we have to find ways to adapt to extreme weather,
-55.16	56.32		rising sea levels,
-56.32	58.52		and melting polar ice caps.
-58.52	59.24		However,
-59.24	62.44		we can <strong>mitigate</strong> greenhouse gas emissions –
-62.44	64.52		or make them less harmful.
-64.52	66.76		But before we talk more about this,
-66.76	68.72		I have a question for you.
-68.72	74.32		How much has the average temperature of the Earth’s surface increased in the last hundred years?
-74.32	78.64		Is it…a) 0.85°C?
-78.64	81.92		b) 1.85°C?
-81.92	85.36		Or c) 8.5°C?
-85.36	87.84	<v Neil>	I’m gonna go for the big one a) 8.5°C.
-87.84	88.16	<v Alice>	Well,
-88.16	90.6		we’ll find out if you got the answer right later on,
-90.6	91.12		Neil.
-91.12	92.2		But first,
-92.2	95.48		do you know any ways to mitigate greenhouse gas emissions?
-95.48	95.84	<v Neil>	I do,
-95.84	96.8		actually.
-96.8	100.04		An Argentinian company has started collecting cow…
-100.04	105.56		emissions and converting them into usable energy.
-105.56	106.44	<v Alice>	Well,
-106.44	108.32		as the world eats more meat,
-108.32	112.88		methane emissions from livestock are actually becoming a bigger climate concern.
-112.88	119.4	<v Neil>	And one day’s worth of cow emissions provides energy to run a car for 24 hours.
-119.4	120.24	<v Alice>	OK,
-120.24	121.68		moving on now,
-121.68	127.8		so the world is going to have to adapt to global warming since we can’t turn back the clock on climate change.
-127.8	130.68		And rich countries have the resources to do this,
-130.68	133.08		whilst poorer countries don’t.
-133.08	135		Let’s hear from Saleemul Huq,
-135	139		Director of the International Centre for Climate Change and Development in Bangladesh,
-139	141.8		talking about how this problem is being addressed.
-141.8	148.6	<v Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh>	Saleemul Huq: The rich countries have already pledged and promised a hundred billion dollars a year,
-148.6	149.92		starting from 2020,
-149.92	156.68		to cover all kinds of climate change activities which in climate change are either going to be called mitigation or adaptation.
-156.68	156.96		Owen Bennett Jones: A year?
-156.96	157.96		But that’s an enormous sum of money!
-157.96	162.32		Saleemul Huq: Not that enormous compared to what they gave to the banking system when it collapsed.
-162.32	166.6		Climate change is a much bigger problem than the banking crisis.
-166.6	171.56	<v Neil>	Saleemul Huq interviewed on the BBC World Service programme Newshour Extra.
-171.56	171.84		Well,
-171.84	174.84		he says rich countries have <strong>pledged</strong> –
-174.84	175.52		or promised –
-175.52	181.44		to deliver a hundred billion dollars a year to help poorer countries adapt to climate change.
-181.44	182.04		However,
-182.04	184.96		he suggests that this sum could have been larger –
-184.96	188.64		since more money than this was donated to resolve the banking crisis.
-188.64	190.04	<v Alice>	For example,
-190.04	192.72		after the devastating effects of Hurricane Sandy,
-192.72	198.32		New York City invested ten billion dollars on storm defences to protect Manhattan –
-198.32	199.6		and Wall Street.
-199.6	201.56	<v Neil>	And where lack of water is a problem,
-201.56	202.92		countries like Australia,
-202.92	203.64		China,
-203.64	204.28		and Spain,
-204.28	206.84		have built <strong>desalination</strong> plants,
-206.84	210.2		which remove the salt from seawater to produce drinking water.
-210.2	213.68		But it’s too expensive for developing countries to do this,
-213.68	215		even though they need them.
-215	216.92	<v Alice>	So in relative terms,
-216.92	222.56		one billion dollars a year to help poor countries is a small sum of money when compared to their need.
-222.56	226.08		Countries like Bangladesh have developed <strong>homegrown</strong> technologies –
-226.08	227.96		which means produced locally –
-227.96	230.6		such as harvesting rainwater from their rooftops.
-230.6	230.92	<v Neil>	OK,
-230.92	231.32		Alice,
-231.32	234.96		and thinking about certain radical proposals for adaptation –
-234.96	240.6		did you know there’s a Dutch company that wants to build floating cities for us to live in?
-240.6	241.04	<v Alice>	No,
-241.04	241.6		I didn’t.
-241.6	242.24	<v Neil>	Yeah.
-242.24	247.32		Plans include 15-storey high-rise buildings and floating food production.
-247.32	250.56	<v Alice>	It sounds like it would be incredibly expensive.
-250.56	252.04		Has anyone actually built one?
-252.04	252.4	<v Neil>	No,
-252.4	253.68		not so far.
-253.68	255.32		Let’s hear from Mark Maslin,
-255.32	258.56		Professor of Climatology at University College London,
-258.56	260.48		talking about why this might be.
-260.48	262.4	<v Mark Maslin, Professor of Climatology at University College London>	Remember,
-262.4	267.64		we’re going to have 9.5 billion people by the middle of this century.
-267.64	268.24		Now,
-268.24	269.4		if you think about it,
-269.4	272.24		think about the logistics of building a city,
-272.24	272.96		floating,
-272.96	273.36		for say,
-273.36	274.36		ten million people.
-274.36	279.88		And then multiply that up to 60 per cent of 9.5 billion people.
-279.88	280.28		OK?
-280.28	282.32		So don’t think it’s really cost-efficient.
-282.32	285	<v Neil>	So in practical terms,
-285	288.96		the logistics of building a large floating city probably couldn’t work.
-288.96	290.72		It wouldn’t be <strong>cost-efficient</strong> –
-290.72	293.2		or good value for the money you paid.
-293.2	297.2	<v Alice>	And <strong>logistics</strong> means the organization of a complex activity.
-297.2	297.92	<v Neil>	On the other hand,
-297.92	302.52		the logistics of teaching farmers in Bangladesh to breed ducks instead of chickens,
-302.52	303.2		for example,
-303.2	306.2		would be relatively simple and cost-efficient –
-306.2	308.48		and since ducks float and chickens don’t,
-308.48	311.36		it’s a sensible adaptation to climate change!
-311.36	312.68	<v Alice>	That’s a great example,
-312.68	313.16		Neil!
-313.16	313.48		Now,
-313.48	316.32		I think it’s time for the answer to today’s quiz question.
-316.32	322.76		I asked: How much has the average temperature of the Earth’s surface increased in the last hundred years?
-322.76	323.72		Is it…
-323.72	326.4		a) 0.85°C,
-326.4	333.2		b) 1.85°C or c) 8.5°C?
-333.2	337.04	<v Neil>	And I said c) 8.5°C and I know I’m wrong.
-337.04	337.44	<v Alice>	Yes,
-337.44	339.28		I’m afraid you are Neil.
-339.28	343.6		The right answer is actually 0.85°C.
-343.6	349.56		And did you know that 13 of the 14 warmest years were recorded in the 21st Century?
-349.56	350.64	<v Neil>	I did not know that,
-350.64	350.96		Alice.
-350.96	353.36		But I do know which words we learned today.
-353.36	354.2		They are:
-354.2	355.76		unseasonably
-355.76	357.12		mitigate
-357.12	358.4		pledged
-358.4	360		desalination
-360	361.24		homegrown
-361.24	362.72		cost-efficient
-362.72	364.04		logistics
-364.04	367.32	<v Alice>	And that’s the end of today’s 6 Minute English.
-367.32	368.88		Don’t forget to join us again soon!
-368.88	370.96	<v Both>	Bye!
-370.96	376.92		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+I’m feeling a bit chilly today,
+Alice.
+<v Alice> Yes,
+it is <strong>unseasonably</strong> cold today –
+which means not normal for the time of year.
+But the weather is very unpredictable these days.
+<v Neil> I know what you mean.
+<v Alice> Well,
+global warming is the subject of today’s show.
+<v Neil> Is global warming really something to worry about?
+Some people say that the Earth has warmed up in the past and nothing terrible has happened.
+<v Alice> The Earth has warmed up before,
+but this was the result of things like wobbles in the Earth’s orbit,
+not because of an increase of greenhouse gases in the atmosphere.
+<v Neil> Can we reverse the changes?
+<v Alice> No,
+it’s too late,
+and now we have to find ways to adapt to extreme weather,
+rising sea levels,
+and melting polar ice caps.
+However,
+we can <strong>mitigate</strong> greenhouse gas emissions –
+or make them less harmful.
+But before we talk more about this,
+I have a question for you.
+How much has the average temperature of the Earth’s surface increased in the last hundred years?
+Is it…a) 0.85°C?
+b) 1.85°C?
+Or c) 8.5°C?
+<v Neil> I’m gonna go for the big one a) 8.5°C.
+<v Alice> Well,
+we’ll find out if you got the answer right later on,
+Neil.
+But first,
+do you know any ways to mitigate greenhouse gas emissions?
+<v Neil> I do,
+actually.
+An Argentinian company has started collecting cow…
+emissions and converting them into usable energy.
+<v Alice> Well,
+as the world eats more meat,
+methane emissions from livestock are actually becoming a bigger climate concern.
+<v Neil> And one day’s worth of cow emissions provides energy to run a car for 24 hours.
+<v Alice> OK,
+moving on now,
+so the world is going to have to adapt to global warming since we can’t turn back the clock on climate change.
+And rich countries have the resources to do this,
+whilst poorer countries don’t.
+Let’s hear from Saleemul Huq,
+Director of the International Centre for Climate Change and Development in Bangladesh,
+talking about how this problem is being addressed.
+<v Saleemul Huq, Director, International Centre for Climate Change and Development in Bangladesh> Saleemul Huq: The rich countries have already pledged and promised a hundred billion dollars a year,
+starting from 2020,
+to cover all kinds of climate change activities which in climate change are either going to be called mitigation or adaptation.
+Owen Bennett Jones: A year?
+But that’s an enormous sum of money!
+Saleemul Huq: Not that enormous compared to what they gave to the banking system when it collapsed.
+Climate change is a much bigger problem than the banking crisis.
+<v Neil> Saleemul Huq interviewed on the BBC World Service programme Newshour Extra.
+Well,
+he says rich countries have <strong>pledged</strong> –
+or promised –
+to deliver a hundred billion dollars a year to help poorer countries adapt to climate change.
+However,
+he suggests that this sum could have been larger –
+since more money than this was donated to resolve the banking crisis.
+<v Alice> For example,
+after the devastating effects of Hurricane Sandy,
+New York City invested ten billion dollars on storm defences to protect Manhattan –
+and Wall Street.
+<v Neil> And where lack of water is a problem,
+countries like Australia,
+China,
+and Spain,
+have built <strong>desalination</strong> plants,
+which remove the salt from seawater to produce drinking water.
+But it’s too expensive for developing countries to do this,
+even though they need them.
+<v Alice> So in relative terms,
+one billion dollars a year to help poor countries is a small sum of money when compared to their need.
+Countries like Bangladesh have developed <strong>homegrown</strong> technologies –
+which means produced locally –
+such as harvesting rainwater from their rooftops.
+<v Neil> OK,
+Alice,
+and thinking about certain radical proposals for adaptation –
+did you know there’s a Dutch company that wants to build floating cities for us to live in?
+<v Alice> No,
+I didn’t.
+<v Neil> Yeah.
+Plans include 15-storey high-rise buildings and floating food production.
+<v Alice> It sounds like it would be incredibly expensive.
+Has anyone actually built one?
+<v Neil> No,
+not so far.
+Let’s hear from Mark Maslin,
+Professor of Climatology at University College London,
+talking about why this might be.
+<v Mark Maslin, Professor of Climatology at University College London> Remember,
+we’re going to have 9.5 billion people by the middle of this century.
+Now,
+if you think about it,
+think about the logistics of building a city,
+floating,
+for say,
+ten million people.
+And then multiply that up to 60 per cent of 9.5 billion people.
+OK?
+So don’t think it’s really cost-efficient.
+<v Neil> So in practical terms,
+the logistics of building a large floating city probably couldn’t work.
+It wouldn’t be <strong>cost-efficient</strong> –
+or good value for the money you paid.
+<v Alice> And <strong>logistics</strong> means the organization of a complex activity.
+<v Neil> On the other hand,
+the logistics of teaching farmers in Bangladesh to breed ducks instead of chickens,
+for example,
+would be relatively simple and cost-efficient –
+and since ducks float and chickens don’t,
+it’s a sensible adaptation to climate change!
+<v Alice> That’s a great example,
+Neil!
+Now,
+I think it’s time for the answer to today’s quiz question.
+I asked: How much has the average temperature of the Earth’s surface increased in the last hundred years?
+Is it…
+a) 0.85°C,
+b) 1.85°C or c) 8.5°C?
+<v Neil> And I said c) 8.5°C and I know I’m wrong.
+<v Alice> Yes,
+I’m afraid you are Neil.
+The right answer is actually 0.85°C.
+And did you know that 13 of the 14 warmest years were recorded in the 21st Century?
+<v Neil> I did not know that,
+Alice.
+But I do know which words we learned today.
+They are:
+unseasonably
+mitigate
+pledged
+desalination
+homegrown
+cost-efficient
+logistics
+<v Alice> And that’s the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

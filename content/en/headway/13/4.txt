@@ -1,61 +1,61 @@
-0.18	2.42	Tapescript 13.4
-4.05	4.79	Part 1
-5.73	6.86	A train journey
-14.09	17.62	The people on the train were hot and tired.
-17.51	22.45	A tall young man sat next to three small children
-22.61	23.59	and their aunt.
-24.32	26.29	The aunt and the children talked.
-27.37	28.67	When the aunt spoke
-28.83	31.25	she always began with ‘Don’t …’.
-32.15	33.54	When the children spoke
-33.95	36.18	they always began with ‘Why …?’
-37.22	38.78	The young man said nothing.
-40.15	42.29	The small boy whistled loudly.
-43.43	44.75	‘Don’t do that, Cyril,’
-45.22	46.10	said his aunt.
-47.13	48.37	Cyril stood up
-48.72	51.16	and looked out of the window at the countryside.
-52.28	55.90	‘Why is that man taking those sheep out of that field?’
-56.10	56.71	he asked.
-57.89	61.68	‘Perhaps he’s taking them to another field where there’s more grass,’
-62.01	62.90	said the aunt.
-64.28	67.00	‘But there’s lots of grass in that field.
-67.69	69.92	Why can’t the sheep stay there?’
-70.99	73.66	‘Perhaps the grass in the other field is better.’
-74.59	76.10	‘Why is it better?’
-77.56	78.71	The young man
-78.99	80.04	looked annoyed.
-80.94	81.99	‘Oh dear,’
-82.18	82.98	thought the aunt,
-83.57	85.15	‘he doesn’t like children.’
-85.94	87.85	‘Sit down quietly, Cyril.
-88.47	89.21	Now, listen,
-90.06	92.27	I’m going to tell you a story.’
-93.48	95.12	The children looked bored
-95.50	96.45	but they listened.
-97.57	100.25	The story was very boring indeed.
-101.00	103.81	It was about a very beautiful little girl,
-104.00	105.23	who worked hard
-105.63	107.31	and behaved beautifully.
-108.00	109.48	Everybody loved her.
-110.20	111.07	One day
-111.37	112.81	she fell into a lake
-113.31	116.06	and everyone in the village ran to save her.
-117.62	119.05	‘Why did they save her?’
-119.49	120.78	asked the bigger girl.
-121.76	123.51	‘Because she was so good,’
-123.96	124.83	said the aunt.
-125.82	127.14	‘But that’s stupid,’
-127.45	128.32	said the girl.
-129.22	131.10	‘When people fall into lakes,
-131.30	135.47	it doesn’t matter if they’re good or bad, you run to save them.’
-136.65	137.64	‘You’re right,’
-137.95	139.15	said the young man,
-139.39	141.09	speaking for the first time.
-141.58	143.70	‘That’s a ridiculous story.’
-144.84	148.40	‘Well, perhaps you would like to tell a story,’
-148.86	150.37	said the aunt coldly.
-151.39	152.15	‘OK,’
-152.48	153.34	said the man.
-154.36	156.03	The children looked interested
-156.72	166.83	and he began.
+Tapescript 13.4
+Part 1
+A train journey
+The people on the train were hot and tired.
+A tall young man sat next to three small children
+and their aunt.
+The aunt and the children talked.
+When the aunt spoke
+she always began with ‘Don’t …’.
+When the children spoke
+they always began with ‘Why …?’
+The young man said nothing.
+The small boy whistled loudly.
+‘Don’t do that, Cyril,’
+said his aunt.
+Cyril stood up
+and looked out of the window at the countryside.
+‘Why is that man taking those sheep out of that field?’
+he asked.
+‘Perhaps he’s taking them to another field where there’s more grass,’
+said the aunt.
+‘But there’s lots of grass in that field.
+Why can’t the sheep stay there?’
+‘Perhaps the grass in the other field is better.’
+‘Why is it better?’
+The young man
+looked annoyed.
+‘Oh dear,’
+thought the aunt,
+‘he doesn’t like children.’
+‘Sit down quietly, Cyril.
+Now, listen,
+I’m going to tell you a story.’
+The children looked bored
+but they listened.
+The story was very boring indeed.
+It was about a very beautiful little girl,
+who worked hard
+and behaved beautifully.
+Everybody loved her.
+One day
+she fell into a lake
+and everyone in the village ran to save her.
+‘Why did they save her?’
+asked the bigger girl.
+‘Because she was so good,’
+said the aunt.
+‘But that’s stupid,’
+said the girl.
+‘When people fall into lakes,
+it doesn’t matter if they’re good or bad, you run to save them.’
+‘You’re right,’
+said the young man,
+speaking for the first time.
+‘That’s a ridiculous story.’
+‘Well, perhaps you would like to tell a story,’
+said the aunt coldly.
+‘OK,’
+said the man.
+The children looked interested
+and he began.

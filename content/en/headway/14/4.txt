@@ -1,32 +1,32 @@
-0.20	2.61	Tapescript 14.4
-4.62	6.49	<v M> We’re having a great time!
-6.73	7.77	<v J> Tell me about it!
-8.02	9.52	What have you done so far?
-9.57	12.16	<v M> Well, we’ve been to Buckingham Palace.
-12.54	14.06	That was the first thing we did.
-14.42	18.58	It’s right in the centre of London! We went inside and looked around.
-18.72	20.68	<v J> Have you seen the Houses of Parliament yet?
-20.69	22.19	<v M> Yeah, we have.
-22.30	24.97	We’ve just had a boat ride on the River Thames
-25.03	28.10	and we went right past the Houses of Parliament.
-28.27	29.77	We saw Big Ben!
-30.00	34.27	Then we went on the London Eye. That’s the big wheel
-34.29	35.37	near Big Ben.
-35.92	37.02	That was this morning.
-37.33	38.64	This afternoon
-38.83	41.06	we’re going to take a taxi to Hyde Park
-41.45	43.28	and then go shopping in Harrods.
-43.56	45.01	Tomorrow morning
-45.29	48.46	we’re going to see the Crown Jewels in the Tower of London.
-48.48	50.60	<v J> Wow! You’re busy!
-50.85	52.93	And what about those big red buses?
-53.32	55.42	Have you travelled on a double-decker bus yet?
-55.44	59.12	<v M> Oh, yeah we took one when we went to Buckingham Palace.
-59.36	62.67	We sat upstairs. You get a great view of the city.
-62.93	64.63	<v J> Tomorrow’s your last night.
-64.78	66.66	What are you going to do on your last night?
-66.81	69.32	<v M> Well, we’re going to the theatre, but
-69.77	71.86	we haven’t decided what to see yet.
-71.99	73.47	<v J> Oh, you’re so lucky!
-73.86	75.17	Give my love to Rod!
-75.21	78.33	<v M> Yeah. Bye, Judy. See you soon!
+Tapescript 14.4
+<v M> We’re having a great time!
+<v J> Tell me about it!
+What have you done so far?
+<v M> Well, we’ve been to Buckingham Palace.
+That was the first thing we did.
+It’s right in the centre of London! We went inside and looked around.
+<v J> Have you seen the Houses of Parliament yet?
+<v M> Yeah, we have.
+We’ve just had a boat ride on the River Thames
+and we went right past the Houses of Parliament.
+We saw Big Ben!
+Then we went on the London Eye. That’s the big wheel
+near Big Ben.
+That was this morning.
+This afternoon
+we’re going to take a taxi to Hyde Park
+and then go shopping in Harrods.
+Tomorrow morning
+we’re going to see the Crown Jewels in the Tower of London.
+<v J> Wow! You’re busy!
+And what about those big red buses?
+Have you travelled on a double-decker bus yet?
+<v M> Oh, yeah we took one when we went to Buckingham Palace.
+We sat upstairs. You get a great view of the city.
+<v J> Tomorrow’s your last night.
+What are you going to do on your last night?
+<v M> Well, we’re going to the theatre, but
+we haven’t decided what to see yet.
+<v J> Oh, you’re so lucky!
+Give my love to Rod!
+<v M> Yeah. Bye, Judy. See you soon!

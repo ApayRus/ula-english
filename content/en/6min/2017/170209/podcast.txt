@@ -1,150 +1,150 @@
-0.1	3.28		This is a download from bbc learning English
-3.28	6.76		to find out more visit our website
-6.76	12.64		6 minute English from BBClearningEnglish.com
-12.64	14.96	<v Catherine>	Hello and welcome to 6 Minute English.
-14.96	15.68		I’m Catherine…
-15.68	16.6	<v Neil>	And I’m Neil.
-16.6	16.96	<v Catherine>	So,
-16.96	17.64		Neil,
-17.64	20.64		do you notice anything different about me today?
-20.64	23.4	<v Neil>	Have you done your hair differently?
-23.4	24.32	<v Catherine>	No.
-24.32	25.72	<v Neil>	Is that a new outfit?
-25.72	26.24	<v Catherine>	Honestly,
-26.24	26.96		Neil!
-26.96	28.2	<v Neil>	I give up.
-28.2	30.48		I don’t know what’s different about you.
-30.48	30.84	<v Catherine>	OK.
-30.84	31.12		Well,
-31.12	33.8		maybe by the end of the show you’ll have figured it out.
-33.8	34.24		Anyway,
-34.24	38.92		today we’re discussing memory and whether we can remember things accurately.
-38.92	41.6		So are you ready to answer today’s quiz question,
-41.6	41.92		Neil?
-41.92	42.56	<v Neil>	I am.
-42.56	43	<v Catherine>	OK.
-43	49.32		So in which part of the brain is there an area dedicated to remembering faces?
-49.32	50.16		Is it…
-50.16	52.72		a) the temporal lobe?
-52.72	54.84		b) the hypothalamus?
-54.84	57.2		or c) the cerebellum?
-57.2	57.88	<v Neil>	Well,
-57.88	59.8		I have no idea.
-59.8	66.56		But I’ll say a) the temporal lobe.OK and we’ll find out whether you chose the correct answer later on in the show.
-66.56	70.68		But let’s talk more about how our memories can play tricks on us.
-70.68	80.2		We tend to think of memory as being like a video recorder that we can replay and recall again and again as it originally occurred.
-80.2	83.04		But memory doesn’t work like that.
-83.04	85.28		It’s a reconstructive process.
-85.28	87.48	<v Neil>	A reconstructive process?
-87.48	88	<v Catherine>	Yes.
-88	90.04		We <strong>reconstruct</strong> -
-90.04	90.32		or rebuild -
-90.32	91.24		memories,
-91.24	92.92		and during this process,
-92.92	94.84		they may be <strong>distorted</strong> –
-94.84	95.76		or changed –
-95.76	98		for different reasons.
-98	99.92		Let’s listen to Tim Valentine,
-99.92	104.52		retired professor of psychology at Goldsmith’s College at the University of London,
-104.52	107.44		talking about this.
-107.44	122.24	<v INSERT>	From all those TV dramas you’ve watched you’ll be familiar with the forensic scenes of crimes officers wearing their paper suits and covering their shoes and their hair to make sure they don’t introduce their DNA or physical traces onto the crime scene.
-122.24	132.08		So that in the same way anybody who has any interaction with a witness needs to make sure that they don’t distort their memory.
-132.08	138.56	<v Neil>	So crime officers wear protective clothing at crime scenes so they don’t contaminate it with their DNA.
-138.56	139.2	<v Catherine>	That’s right.
-139.2	143.76		A <strong>crime scene</strong> is a place where a crime was committed.
-143.76	149.6		And <strong>contaminated</strong> means ‘made impure through contact with an outside source’.
-149.6	151.52		So for example,
-151.52	155.04		if an officer touches something without gloves on,
-155.04	157.8		they introduce new information.
-157.8	159.32		And once this has happened,
-159.32	162.6		you can’t get back to the original information.
-162.6	162.96	<v Neil>	Now,
-162.96	167		Tim Valentine says that when police officers talk to the witness of a crime,
-167	170.04		they might also introduce new information.
-170.04	173.6		And this could change the witness’s memory of what happened.
-173.6	178.12	<v Catherine>	And it isn’t only police questioning that can distort memory.
-178.12	183.32		Other factors such as stress can affect your ability to recall events accurately.
-183.32	184.84		For example,
-184.84	192.52		if you’re being held at knifepoint you are likely to be concentrating on the weapon rather than on your attacker’s face.
-192.52	197.04		And <strong>at knifepoint</strong> means ‘under threat of being stabbed’.
-197.04	204.72	<v Neil>	So why do we place so much importance on eyewitness accounts?Eyewitness accounts can sound very convincing in court –
-204.72	206.56		but in fact according to research,
-206.56	208.2		they are often unreliable.
-208.2	210		Karen Newirth,
-210	213.32		senior attorney at the Innocence Project in New York,
-213.32	216.24		explains this further.
-216.24	216.84	<v Karen Newirth, senior attorney at the Innocence Project, New York>	First,
-216.84	223.32		I think it’s sort of natural for people to want to believe that memory can be accurate.
-223.32	230.92		It’s very disconcerting to think that we’re going through life relying on our memories and then to learn how mistaken they can be -
-230.92	232.32		and how frequently.
-232.32	242.16		Second is that the testimony of eyewitnesses has become a very expected piece of criminal trial so jurors sort of anticipate it,
-242.16	243.28		look for it,
-243.28	245.96		and tend to believe it.
-245.96	250.04	<v Neil>	So we like to trust in our ability to remember things accurately.
-250.04	254.44		And it’s disconcerting to learn that memory is frequently inaccurate.
-254.44	256.12		And <strong>disconcerting</strong> means…
-256.12	258.64	<v Catherine>	…it means ‘confusing and a bit upsetting’.
-258.64	263.2	<v Neil>	Karen Newirth also says that people expect eyewitness <strong>testimony</strong> –
-263.2	264.36		or spoken statements –
-264.36	265.2		in court.
-265.2	265.96		Do you think that’s true,
-265.96	266.72		Catherine?
-266.72	267.12	<v Catherine>	Yes –
-267.12	271.96		and it’s the most commonly used evidence brought against criminal defendants in court,
-271.96	275.04		even though they are often inaccurate.
-275.04	277.36	<v Neil>	Are there any ways to improve accuracy?
-277.36	277.52	<v Catherine>	Yes,
-277.52	278		there are.
-278	279.24		For example,
-279.24	285.8		in a police line-up you can prevent eyewitnesses receiving information from the officer giving instructions,
-285.8	287.76		which might influence their response.
-287.76	288.16	<v Neil>	Yes,
-288.16	288.88		I see.
-288.88	289.28		Well,
-289.28	294.16		you didn’t give anything away when you asked what was different about your appearance at the beginning of the show.
-294.16	294.96	<v Catherine>	Yes,
-294.96	295.8		that’s true,
-295.8	296.08		Neil.
-296.08	299.24		But I can now reveal to you that…
-299.24	300.88		I’m wearing glasses,
-300.88	301.48		Neil.
-301.48	302.96		I’ve lost my contact lenses!
-302.96	305.36	<v Neil>	I don’t know how I missed that.
-305.36	307.52		Because actually you do look,
-307.52	307.76		well,
-307.76	309.76		completely different with glasses.
-309.76	310.76	<v Catherine>	Just a bit,
-310.76	311.2		yes.
-311.2	311.68		So,
-311.68	312.88		now we’re running out of time,
-312.88	316.36		so let’s move onto the answer to today’s quiz question.
-316.36	323.44		Remember I asked: in which part of the brain is there an area dedicated to recognizing faces?
-323.44	324.16		Is it…
-324.16	326.04		a) the temporal lobe?
-326.04	328.4		b) the hypothalamus?
-328.4	330.32		or c) the cerebellum?
-330.32	332.36	<v Neil>	I said a) the temporal lobe.
-332.36	333.2		Was I right?
-333.2	333.96	<v Catherine>	You were indeed,
-333.96	334.2		Neil!
-334.2	335		Very well done,
-335	336.32		it was the correct answer!
-336.32	336.56	<v Neil>	Yes!
-336.56	340.68	<v Catherine>	The main part of the brain dedicated to recognising faces –
-340.68	343.44		called the Fusiform Face Area –
-343.44	346.16		is positioned in the temporal lobe,
-346.16	349.8		which can be found roughly in the area just behind your ears.
-349.8	350.8	<v Neil>	Fascinating!
-350.8	351.24		Now,
-351.24	353.12		here are the words we learned today…
-353.12	354.04		reconstruct
-354.04	355.48		distorted
-355.48	357.32		crime scene
-357.32	359.2		contaminated
-359.2	360.96		at knifepoint
-360.96	362.68		disconcerting
-362.68	363.92		testimony
-363.92	367.48	<v Catherine>	And that bring us to the end of today’s 6 Minute English.
-367.48	370.6		Don’t forget to join us again soon!
-370.6	371.56	<v Both>	Bye!
-371.56	377.56		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Catherine> Hello and welcome to 6 Minute English.
+I’m Catherine…
+<v Neil> And I’m Neil.
+<v Catherine> So,
+Neil,
+do you notice anything different about me today?
+<v Neil> Have you done your hair differently?
+<v Catherine> No.
+<v Neil> Is that a new outfit?
+<v Catherine> Honestly,
+Neil!
+<v Neil> I give up.
+I don’t know what’s different about you.
+<v Catherine> OK.
+Well,
+maybe by the end of the show you’ll have figured it out.
+Anyway,
+today we’re discussing memory and whether we can remember things accurately.
+So are you ready to answer today’s quiz question,
+Neil?
+<v Neil> I am.
+<v Catherine> OK.
+So in which part of the brain is there an area dedicated to remembering faces?
+Is it…
+a) the temporal lobe?
+b) the hypothalamus?
+or c) the cerebellum?
+<v Neil> Well,
+I have no idea.
+But I’ll say a) the temporal lobe.OK and we’ll find out whether you chose the correct answer later on in the show.
+But let’s talk more about how our memories can play tricks on us.
+We tend to think of memory as being like a video recorder that we can replay and recall again and again as it originally occurred.
+But memory doesn’t work like that.
+It’s a reconstructive process.
+<v Neil> A reconstructive process?
+<v Catherine> Yes.
+We <strong>reconstruct</strong> -
+or rebuild -
+memories,
+and during this process,
+they may be <strong>distorted</strong> –
+or changed –
+for different reasons.
+Let’s listen to Tim Valentine,
+retired professor of psychology at Goldsmith’s College at the University of London,
+talking about this.
+<v INSERT> From all those TV dramas you’ve watched you’ll be familiar with the forensic scenes of crimes officers wearing their paper suits and covering their shoes and their hair to make sure they don’t introduce their DNA or physical traces onto the crime scene.
+So that in the same way anybody who has any interaction with a witness needs to make sure that they don’t distort their memory.
+<v Neil> So crime officers wear protective clothing at crime scenes so they don’t contaminate it with their DNA.
+<v Catherine> That’s right.
+A <strong>crime scene</strong> is a place where a crime was committed.
+And <strong>contaminated</strong> means ‘made impure through contact with an outside source’.
+So for example,
+if an officer touches something without gloves on,
+they introduce new information.
+And once this has happened,
+you can’t get back to the original information.
+<v Neil> Now,
+Tim Valentine says that when police officers talk to the witness of a crime,
+they might also introduce new information.
+And this could change the witness’s memory of what happened.
+<v Catherine> And it isn’t only police questioning that can distort memory.
+Other factors such as stress can affect your ability to recall events accurately.
+For example,
+if you’re being held at knifepoint you are likely to be concentrating on the weapon rather than on your attacker’s face.
+And <strong>at knifepoint</strong> means ‘under threat of being stabbed’.
+<v Neil> So why do we place so much importance on eyewitness accounts?Eyewitness accounts can sound very convincing in court –
+but in fact according to research,
+they are often unreliable.
+Karen Newirth,
+senior attorney at the Innocence Project in New York,
+explains this further.
+<v Karen Newirth, senior attorney at the Innocence Project, New York> First,
+I think it’s sort of natural for people to want to believe that memory can be accurate.
+It’s very disconcerting to think that we’re going through life relying on our memories and then to learn how mistaken they can be -
+and how frequently.
+Second is that the testimony of eyewitnesses has become a very expected piece of criminal trial so jurors sort of anticipate it,
+look for it,
+and tend to believe it.
+<v Neil> So we like to trust in our ability to remember things accurately.
+And it’s disconcerting to learn that memory is frequently inaccurate.
+And <strong>disconcerting</strong> means…
+<v Catherine> …it means ‘confusing and a bit upsetting’.
+<v Neil> Karen Newirth also says that people expect eyewitness <strong>testimony</strong> –
+or spoken statements –
+in court.
+Do you think that’s true,
+Catherine?
+<v Catherine> Yes –
+and it’s the most commonly used evidence brought against criminal defendants in court,
+even though they are often inaccurate.
+<v Neil> Are there any ways to improve accuracy?
+<v Catherine> Yes,
+there are.
+For example,
+in a police line-up you can prevent eyewitnesses receiving information from the officer giving instructions,
+which might influence their response.
+<v Neil> Yes,
+I see.
+Well,
+you didn’t give anything away when you asked what was different about your appearance at the beginning of the show.
+<v Catherine> Yes,
+that’s true,
+Neil.
+But I can now reveal to you that…
+I’m wearing glasses,
+Neil.
+I’ve lost my contact lenses!
+<v Neil> I don’t know how I missed that.
+Because actually you do look,
+well,
+completely different with glasses.
+<v Catherine> Just a bit,
+yes.
+So,
+now we’re running out of time,
+so let’s move onto the answer to today’s quiz question.
+Remember I asked: in which part of the brain is there an area dedicated to recognizing faces?
+Is it…
+a) the temporal lobe?
+b) the hypothalamus?
+or c) the cerebellum?
+<v Neil> I said a) the temporal lobe.
+Was I right?
+<v Catherine> You were indeed,
+Neil!
+Very well done,
+it was the correct answer!
+<v Neil> Yes!
+<v Catherine> The main part of the brain dedicated to recognising faces –
+called the Fusiform Face Area –
+is positioned in the temporal lobe,
+which can be found roughly in the area just behind your ears.
+<v Neil> Fascinating!
+Now,
+here are the words we learned today…
+reconstruct
+distorted
+crime scene
+contaminated
+at knifepoint
+disconcerting
+testimony
+<v Catherine> And that bring us to the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

@@ -1,17 +1,17 @@
-1.87 2.87 (GRUNTS)
-6.21 8.42 I am Moana of Motunui.
-9.88 10.88 Aboard my boat...
-11.21 13.38 I will sail across the sea...
-13.76 16.72 and restore the heart of Te Fiti.
-52.92 54.92 Te Kā can't follow us into the water.
-55.76 57.26 We make it past the barrier islands...
-58.09 59.26 we make it to Te Fiti.
-59.84 61.10 None of which you understand...
-61.85 63.26 -- because you are a chicken.<br />-- (CLUCKING)
-70.23 71.23 (ROARING)
-120.36 122.16 (GRUNTING)
-125.91 126.91 (YELPS)
-129.87 130.87 No!
-132.17 134.59 Heihei! No, no, no!
-136.17 137.34 Nice work!
-146.72 147.85 Te Fiti.
+(GRUNTS)
+I am Moana of Motunui.
+Aboard my boat...
+I will sail across the sea...
+and restore the heart of Te Fiti.
+Te Kā can't follow us into the water.
+We make it past the barrier islands...
+we make it to Te Fiti.
+None of which you understand...
+-- because you are a chicken.<br />-- (CLUCKING)
+(ROARING)
+(GRUNTING)
+(YELPS)
+No!
+Heihei! No, no, no!
+Nice work!
+Te Fiti.

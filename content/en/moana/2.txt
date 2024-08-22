@@ -1,16 +1,16 @@
-1.88 3.55 (BIRDS SCREECHING)
-24.69 26.74 Shoo,shoo!
-39.83 40.84 (EXCLAIMING)
-45.01 46.55 (ETHEREAL WHISPERING)
-52.47 53.56 (GIGGLING)
-109.95 111.49 (GIGGLING)
-127.42 128.71 TUI: Moana!
-143.98 146.86 There you are, Moana.<br />What are you doing? You scared me.
-147.02 148.65 What? I wanna's go back.
-148.82 151.40 I know, I know. But you don't go out there.
-152.32 153.53 It's dangerous.
-155.28 157.54 Moana, come on.
-157.70 159.70 Let's go back to the village.
-161.50 163.75 You are the next great chief<br />of our people.
-163.92 166.92 And you will do wondrous things,<br />my little minnow.
-167.50 171.47 Oh, yes. But first, you must learn<br />where you're meant to be.
+(BIRDS SCREECHING)
+Shoo,shoo!
+(EXCLAIMING)
+(ETHEREAL WHISPERING)
+(GIGGLING)
+(GIGGLING)
+TUI: Moana!
+There you are, Moana.<br />What are you doing? You scared me.
+What? I wanna's go back.
+I know, I know. But you don't go out there.
+It's dangerous.
+Moana, come on.
+Let's go back to the village.
+You are the next great chief<br />of our people.
+And you will do wondrous things,<br />my little minnow.
+Oh, yes. But first, you must learn<br />where you're meant to be.

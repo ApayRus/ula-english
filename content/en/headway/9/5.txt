@@ -1,22 +1,22 @@
-0.18	2.53	Tapescript 9.5
-3.77	4.32	1
-5.12	6.81	<v A> Good afternoon. Can I help you?
-7.35	8.03	<v B> Yes.
-8.23	10.19	I’d like some fruit, please.
-12.52	13.03	2
-14.06	15.75	<v A> Who’s your favourite writer?
-16.90	18.84	<v B> I like books by John Grisham.
-21.86	22.40	3
-23.20	24.94	<v A> What would you like for your birthday?
-25.87	27.19	<v B> I’d like a new bike.
-30.55	31.22	4
-32.09	33.60	<v A> Do you like animals?
-34.00	35.26	<v B> I like cats,
-35.40	36.88	but I don’t like dogs.
-39.50	40.30	5
-40.68	42.40	<v A> Here’s the wine list, sir.
-43.07	45.78	<v B> We’d like a bottle of French red wine.
-48.12	48.83	6
-49.44	52.31	<v A> Have some ice-cream with your strawberries.
-52.63	53.70	<v B> No, thanks.
-53.87	55.50	I don’t like ice-cream.
+Tapescript 9.5
+1
+<v A> Good afternoon. Can I help you?
+<v B> Yes.
+I’d like some fruit, please.
+2
+<v A> Who’s your favourite writer?
+<v B> I like books by John Grisham.
+3
+<v A> What would you like for your birthday?
+<v B> I’d like a new bike.
+4
+<v A> Do you like animals?
+<v B> I like cats,
+but I don’t like dogs.
+5
+<v A> Here’s the wine list, sir.
+<v B> We’d like a bottle of French red wine.
+6
+<v A> Have some ice-cream with your strawberries.
+<v B> No, thanks.
+I don’t like ice-cream.

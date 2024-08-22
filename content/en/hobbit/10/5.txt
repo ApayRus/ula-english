@@ -1,137 +1,137 @@
-0:00:00.20,0:00:02.93	So he gave up to him his own great chair
-0:00:02.93,0:00:06.15	and set Fili and Kili beside him in places of honour.
-0:00:07.42,0:00:10.48	Even Bilbo was given a seat at the high table,
-0:00:11.26,0:00:14.04	and no explanation of where he came in —
-0:00:14.77,0:00:16.75	no songs had alluded to him
-0:00:17.02,0:00:18.73	even in the obscurest way —
-0:00:19.42,0:00:21.48	was asked for in the general bustle.
-0:00:23.04,0:00:24.28	Soon afterwards
-0:00:24.37,0:00:28.95	the other dwarves were brought into the town amid scenes of astonishing enthusiasm.
-0:00:29.82,0:00:32.84	They were all doctored and fed and housed and pampered
-0:00:32.95,0:00:35.80	in the most delightful and satisfactory fashion.
-0:00:36.62,0:00:39.82	A large house was given up to Thorin and his company;
-0:00:40.37,0:00:42.64	boats and rowers were put at their service;
-0:00:43.06,0:00:45.00	and crowds sat outside
-0:00:45.13,0:00:46.73	and sang songs all day,
-0:00:47.00,0:00:50.22	or cheered if any dwarf showed so much as his nose.
-0:00:51.08,0:00:53.26	Some of the songs were old ones;
-0:00:54.00,0:00:55.91	but some of them were quite new
-0:00:56.15,0:00:57.86	and spoke confidently
-0:00:57.93,0:00:59.88	of the sudden death of the dragon
-0:01:00.08,0:01:02.17	and of cargoes of rich presents
-0:01:02.17,0:01:04.26	coming down the river to Lake-town.
-0:01:05.71,0:01:08.37	These were inspired largely by the Master
-0:01:08.77,0:01:11.42	and they did not particularly please the dwarves,
-0:01:11.97,0:01:14.53	but in the meantime they were well contented
-0:01:14.86,0:01:17.17	and they quickly grew fat and strong again.
-0:01:18.68,0:01:21.33	Indeed within a week they were quite recovered,
-0:01:21.84,0:01:24.40	fitted out in fine cloth of their proper colours,
-0:01:25.00,0:01:26.71	with beards combed and trimmed,
-0:01:26.97,0:01:28.44	and proud steps.
-0:01:29.95,0:01:30.95	Thorin looked
-0:01:31.06,0:01:32.13	and walked
-0:01:32.26,0:01:34.80	as if his kingdom was already regained
-0:01:35.11,0:01:37.80	and Smaug chopped up into little pieces.
-0:01:39.44,0:01:40.15	Then,
-0:01:40.46,0:01:41.51	as he had said,
-0:01:41.97,0:01:46.00	the dwarves’ good feeling towards the little hobbit grew stronger every day.
-0:01:47.15,0:01:49.17	There were no more groans or grumbles.
-0:01:49.84,0:01:50.93	They drank his health,
-0:01:51.33,0:01:53.13	and they patted him on the back,
-0:01:53.48,0:01:55.24	and they made a great fuss of him;
-0:01:55.75,0:01:57.08	which was just as well,
-0:01:57.40,0:01:59.97	for he was not feeling particularly cheerful.
-0:02:01.06,0:02:03.42	He had not forgotten the look of the Mountain,
-0:02:03.91,0:02:05.42	nor the thought of the dragon,
-0:02:06.02,0:02:08.46	and he had besides a shocking cold.
-0:02:09.48,0:02:11.71	For three days he sneezed and coughed,
-0:02:12.31,0:02:13.80	and he could not go out,
-0:02:14.06,0:02:17.48	and even after that his speeches at banquets were limited to
-0:02:18.13,0:02:19.22	“Thag you
-0:02:19.53,0:02:20.71	very buch.”
-0:02:23.53,0:02:28.08	In the meanwhile the Wood-elves had gone back up the Forest River with their cargoes,
-0:02:28.44,0:02:31.02	and there was great excitement in the king’s palace.
-0:02:31.95,0:02:35.57	I have never heard what happened to the chief of the guards and the butler.
-0:02:36.20,0:02:39.26	Nothing of course was ever said about keys or barrels
-0:02:39.53,0:02:41.60	while the dwarves stayed in Lake— town,
-0:02:41.97,0:02:44.64	and Bilbo was careful never to become invisible.
-0:02:45.42,0:02:46.77	Still, I daresay,
-0:02:47.08,0:02:49.06	more was guessed than was known,
-0:02:49.42,0:02:52.46	though doubtless Mr. Baggins remained a bit of a mystery.
-0:02:53.55,0:02:54.46	In any case
-0:02:54.42,0:02:56.62	the king knew now the dwarves’ errand,
-0:02:56.86,0:02:57.91	or thought he did,
-0:02:58.37,0:02:59.91	and he said to himself:
-0:03:00.80,0:03:01.51	“Very well!
-0:03:02.17,0:03:02.95	We’ll see!
-0:03:03.53,0:03:05.93	No treasure will come back through Mirkwood
-0:03:05.97,0:03:08.35	without my having something to say in the matter.
-0:03:09.13,0:03:11.71	But I expect they will all come to a bad end,
-0:03:11.91,0:03:13.44	and serve them right!”
-0:03:14.71,0:03:15.80	He at any rate
-0:03:15.80,0:03:19.51	did not believe in dwarves fighting and killing dragons like Smaug,
-0:03:20.00,0:03:23.88	and he strongly suspected attempted burglary or something like it
-0:03:24.46,0:03:26.22	which shows he was a wise elf
-0:03:26.53,0:03:28.53	and wiser than the men of the town,
-0:03:29.04,0:03:30.53	though not quite right,
-0:03:30.53,0:03:32.17	as we shall see in the end.
-0:03:33.24,0:03:35.93	He sent out his spies about the shores of the lake
-0:03:36.08,0:03:39.37	and as far northward towards the Mountains as they would go,
-0:03:39.97,0:03:40.97	and waited.
-0:03:42.20,0:03:43.82	At the end of a fortnight
-0:03:43.93,0:03:46.02	Thorin began to think of departure.
-0:03:47.42,0:03:50.48	While the enthusiasm still lasted in the town
-0:03:50.60,0:03:51.95	was the time to get help.
-0:03:52.62,0:03:56.15	It would not do to let everything cool down with delay.
-0:03:57.02,0:03:59.95	So he spoke to the Master and his councilors
-0:04:00.28,0:04:01.62	and said that soon
-0:04:01.71,0:04:02.86	he and his company
-0:04:02.95,0:04:04.80	must go on towards the Mountain.
-0:04:06.62,0:04:08.33	Then for the first time
-0:04:08.48,0:04:10.13	the Master was surprised
-0:04:10.15,0:04:11.53	and a little frightened;
-0:04:12.48,0:04:16.88	and he wondered if Thorin was after all really a descendant of the old kings.
-0:04:18.26,0:04:22.91	He had never thought that the dwarves would actually dare to approach Smaug,
-0:04:23.46,0:04:25.17	but believed they were frauds
-0:04:25.24,0:04:27.17	who would sooner or later be discovered
-0:04:27.26,0:04:28.40	and be turned out.
-0:04:29.15,0:04:30.04	He was wrong.
-0:04:30.84,0:04:32.20	Thorin, of course,
-0:04:32.55,0:04:35.75	was really the grandson of the King under the Mountain,
-0:04:36.42,0:04:39.95	and there is no knowing what a dwarf will not dare and do
-0:04:40.17,0:04:41.04	for revenge
-0:04:41.08,0:04:42.62	or the recovery of his own.
-0:04:44.44,0:04:47.44	But the Master was not sorry at all to let them go.
-0:04:48.37,0:04:50.22	They were expensive to keep,
-0:04:50.62,0:04:53.66	and their arrival had turned things into a long holiday
-0:04:53.88,0:04:56.15	in which business was at a standstill.
-0:04:57.44,0:04:59.86	“Let them go and bother Smaug,
-0:05:00.15,0:05:01.97	and see how he welcomes them!”
-0:05:02.31,0:05:02.88	he thought.
-0:05:04.48,0:05:05.35	“Certainly,
-0:05:05.44,0:05:08.24	O Thorin Thrain’s son Thror’s son!”
-0:05:09.17,0:05:10.15	was what he said.
-0:05:11.42,0:05:13.13	“You must claim your own.
-0:05:13.66,0:05:15.15	The hour is at hand,
-0:05:15.24,0:05:16.40	spoken of old.
-0:05:17.15,0:05:19.22	What help we can offer shall be yours,
-0:05:19.53,0:05:22.80	and we trust to your gratitude when your kingdom is regained.”
-0:05:24.37,0:05:25.51	So one day,
-0:05:25.97,0:05:28.37	although autumn was now getting far on,
-0:05:28.77,0:05:30.28	and winds were cold,
-0:05:30.55,0:05:32.51	and leaves were falling fast,
-0:05:33.02,0:05:35.22	three large boats left Lake-town,
-0:05:35.48,0:05:36.75	laden with rowers,
-0:05:36.97,0:05:37.73	dwarves,
-0:05:37.88,0:05:38.88	Mr. Baggins,
-0:05:39.22,0:05:40.51	and many provisions.
-0:05:41.46,0:05:45.08	Horses and ponies had been sent round by circuitous paths
-0:05:45.55,0:05:48.02	to meet them at their appointed landing-place.
-0:05:48.86,0:05:55.46	The Master and his councillors bade them farewell from the great steps of the town-hall that went down to the lake.
-0:05:56.35,0:05:58.04	People sang on the quays
-0:05:58.15,0:05:59.35	and out of windows.
-0:05:59.93,0:06:02.24	The white oars dipped and splashed,
-0:06:02.44,0:06:04.48	and off they went north up the lake
-0:06:04.48,0:06:07.04	on the last stage of their long journey.
-0:06:07.77,0:06:10.22	The only person thoroughly unhappy
-0:06:11.75,0:06:12.22	was Bilbo.
+So he gave up to him his own great chair
+and set Fili and Kili beside him in places of honour.
+Even Bilbo was given a seat at the high table,
+and no explanation of where he came in —
+no songs had alluded to him
+even in the obscurest way —
+was asked for in the general bustle.
+Soon afterwards
+the other dwarves were brought into the town amid scenes of astonishing enthusiasm.
+They were all doctored and fed and housed and pampered
+in the most delightful and satisfactory fashion.
+A large house was given up to Thorin and his company;
+boats and rowers were put at their service;
+and crowds sat outside
+and sang songs all day,
+or cheered if any dwarf showed so much as his nose.
+Some of the songs were old ones;
+but some of them were quite new
+and spoke confidently
+of the sudden death of the dragon
+and of cargoes of rich presents
+coming down the river to Lake-town.
+These were inspired largely by the Master
+and they did not particularly please the dwarves,
+but in the meantime they were well contented
+and they quickly grew fat and strong again.
+Indeed within a week they were quite recovered,
+fitted out in fine cloth of their proper colours,
+with beards combed and trimmed,
+and proud steps.
+Thorin looked
+and walked
+as if his kingdom was already regained
+and Smaug chopped up into little pieces.
+Then,
+as he had said,
+the dwarves’ good feeling towards the little hobbit grew stronger every day.
+There were no more groans or grumbles.
+They drank his health,
+and they patted him on the back,
+and they made a great fuss of him;
+which was just as well,
+for he was not feeling particularly cheerful.
+He had not forgotten the look of the Mountain,
+nor the thought of the dragon,
+and he had besides a shocking cold.
+For three days he sneezed and coughed,
+and he could not go out,
+and even after that his speeches at banquets were limited to
+“Thag you
+very buch.”
+In the meanwhile the Wood-elves had gone back up the Forest River with their cargoes,
+and there was great excitement in the king’s palace.
+I have never heard what happened to the chief of the guards and the butler.
+Nothing of course was ever said about keys or barrels
+while the dwarves stayed in Lake— town,
+and Bilbo was careful never to become invisible.
+Still, I daresay,
+more was guessed than was known,
+though doubtless Mr. Baggins remained a bit of a mystery.
+In any case
+the king knew now the dwarves’ errand,
+or thought he did,
+and he said to himself:
+“Very well!
+We’ll see!
+No treasure will come back through Mirkwood
+without my having something to say in the matter.
+But I expect they will all come to a bad end,
+and serve them right!”
+He at any rate
+did not believe in dwarves fighting and killing dragons like Smaug,
+and he strongly suspected attempted burglary or something like it
+which shows he was a wise elf
+and wiser than the men of the town,
+though not quite right,
+as we shall see in the end.
+He sent out his spies about the shores of the lake
+and as far northward towards the Mountains as they would go,
+and waited.
+At the end of a fortnight
+Thorin began to think of departure.
+While the enthusiasm still lasted in the town
+was the time to get help.
+It would not do to let everything cool down with delay.
+So he spoke to the Master and his councilors
+and said that soon
+he and his company
+must go on towards the Mountain.
+Then for the first time
+the Master was surprised
+and a little frightened;
+and he wondered if Thorin was after all really a descendant of the old kings.
+He had never thought that the dwarves would actually dare to approach Smaug,
+but believed they were frauds
+who would sooner or later be discovered
+and be turned out.
+He was wrong.
+Thorin, of course,
+was really the grandson of the King under the Mountain,
+and there is no knowing what a dwarf will not dare and do
+for revenge
+or the recovery of his own.
+But the Master was not sorry at all to let them go.
+They were expensive to keep,
+and their arrival had turned things into a long holiday
+in which business was at a standstill.
+“Let them go and bother Smaug,
+and see how he welcomes them!”
+he thought.
+“Certainly,
+O Thorin Thrain’s son Thror’s son!”
+was what he said.
+“You must claim your own.
+The hour is at hand,
+spoken of old.
+What help we can offer shall be yours,
+and we trust to your gratitude when your kingdom is regained.”
+So one day,
+although autumn was now getting far on,
+and winds were cold,
+and leaves were falling fast,
+three large boats left Lake-town,
+laden with rowers,
+dwarves,
+Mr. Baggins,
+and many provisions.
+Horses and ponies had been sent round by circuitous paths
+to meet them at their appointed landing-place.
+The Master and his councillors bade them farewell from the great steps of the town-hall that went down to the lake.
+People sang on the quays
+and out of windows.
+The white oars dipped and splashed,
+and off they went north up the lake
+on the last stage of their long journey.
+The only person thoroughly unhappy
+was Bilbo.

@@ -1,117 +1,117 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	10.64		6 minute English from BBClearningEnglish.com
-10.64	13.44	<v Neil>	Hello.
-13.44	16.72		This is 6 Minute English from BBC Learning English.
-16.72	17.48		I’m Neil.
-17.48	18.76	<v Georgina>	And I’m Georgina.
-18.76	21.72	<v Neil>	With no end in sight to the coronavirus pandemic,
-21.72	25.64		many people can’t wait for the year 2020 to end.
-25.64	28.8	<v Georgina>	But with the coronavirus dominating the newspaper headlines,
-28.8	34.6		attention has moved away from an equally serious global issue which has quietly been getting worse –
-34.6	36.76		climate change.
-36.76	42.04	<v Neil>	August 2020 saw the hottest temperature recorded anywhere in modern times –
-42.04	47.16		54.4 degrees Celsius in California’s Death Valley.
-47.16	53.88	<v Georgina>	The same month also saw record amounts of ice melting into the oceans around Greenland and the Arctic -
-53.88	57.72		huge icebergs breaking away from the edge of the <strong>ice sheet</strong> –
-57.72	62.4		a thick layer of ice which has covered a large area for a long time.
-62.4	67.96	<v Neil>	Greenland’s ice sheet is three times the size of Texas and almost 2 kilometres thick.
-67.96	72.72		Locked inside is enough water to raise sea levels by 6 metres.
-72.72	79.12	<v Georgina>	But global heating and melting polar ice has many scientists asking whether it’s now too late to stop.
-79.12	81.76		Have we have reached the point of no return?
-81.76	88.44		In this programme we’ll looking at the effects of climate change on the Arctic and asking if it’s too late to change.
-88.44	91.68	<v Neil>	And learning some of the related vocabulary too.
-91.68	91.88		Now,
-91.88	92.44		Georgina,
-92.44	97.84		you mentioned record levels of ice melt in the North Pole but the scale is hard to take in.
-97.84	100.84		The amounts are so big they’re measured in gigatonnes –
-100.84	104		that’s a billion metric tonnes.
-104	110.16	<v Georgina>	Imagine a giant ice cube 1 kilometre by 1 kilometre by 1 kilometre.
-110.16	116.68	<v Neil>	So my quiz question is this: how many gigatonnes of ice are now melting into the ocean every year?
-116.68	116.96		Is it:
-116.96	119.88		a) 450 gigatonnes?,
-119.88	122.04		b) 500 gigatonnes?,
-122.04	122.28		or
-122.28	124.84		c) 550 gigatonnes?
-124.84	128.96	<v Georgina>	I’ll take a guess at b) 500 gigatonnes.
-128.96	129.4	<v Neil>	OK,
-129.4	129.88		Georgina,
-129.88	131.76		we’ll find out later.
-131.76	132.6		Now,
-132.6	138.44		glaciologist Michalea King has been monitoring the melting of Arctic ice by satellite.
-138.44	142.24		Here she is answering a question from BBC World Service programme,
-142.24	148.72		<em>Science in Action,</em> on whether the destruction of the ice sheet is now unavoidable:
-148.72	150	<v Michalea King>	If we were to say…
-150	156.2		define a <strong>tipping point</strong> as a shift from one stable dynamic state to another,
-156.2	158.72		this certainly meets that criteria,
-158.72	174.16		because we’re seeing now that the <strong>ice sheet</strong> was more or less <strong>in balance</strong> prior to 2000 where the amount of ice being drained from the <strong>glaciers</strong> was approximately equal to what we are gaining on the surface via snow every year.
-174.16	177.24	<v Georgina>	Ice is made from snow falling on Greenland’s <strong>glaciers</strong> -
-177.24	177.72		large,
-177.72	179.92		slow-moving masses of ice.
-179.92	181.12		At the same time though,
-181.12	183.16		ice is also lost through melting.
-183.16	188.84	<v Neil>	These two processes of making and melting ice kept the ice level <strong>in balance</strong> -
-188.84	193		having different parts or elements arranged in the correct proportions.
-193	197.88		Essentially the melting ice was replaced by newly frozen ice.
-197.88	198.4	<v Georgina>	But now,
-198.4	205.64		the glaciers are shrinking faster than new ice is being accumulated and the situation may have reached a <strong>tipping point</strong> -
-205.64	209.48		the time at which a change or an effect cannot be stopped.
-209.48	209.84	<v Neil>	So,
-209.84	214.12		does this mean that global heating and ice melting are now running automatically,
-214.12	218.96		separate from the amount of greenhouse gases humans are pumping into the atmosphere?
-218.96	222.24		And does that mean should just give up on the planet?
-222.24	224.84	<v Georgina>	In fact the situation is far from simple,
-224.84	228.72		as Michalea King explains here to BBC World Service programme,
-228.72	229.8		<em>Science in Action</em>:
-229.8	234.84	<v Michalea King>	We can definitely control the rate of mass loss,
-234.84	240.24		so it’s definitely not a <strong>‘throw your hands up’</strong> and just not do anything about it –
-240.24	242.76		give up on the ice sheet kind of situation –
-242.76	245.52		that’s certainly not the message I want to send –
-245.52	248.6		but it does seem likely that we will continue to lose mass…
-248.6	249.92		but of course,
-249.92	257.84		a slow <strong>rate</strong> of mass loss is highly preferred to large annual losses every year.
-257.84	261.96	<v Neil>	Michalea thinks that changes in human activity can still slow the <strong>rate</strong> –
-261.96	264.24		or speed at which something happens,
-264.24	267.12		in this case the speed of Greenland’s <strong>ice sheet</strong> melting.
-267.12	272.28	<v Georgina>	She’s convinced it’s not too late for collective action to save the planet,
-272.28	275.4		so it’s not yet time to <strong>throw your hands up</strong> –
-275.4	282.16		an idiom meaning to show frustration and despair when a situation becomes so bad that you give up or submit.
-282.16	288.48	<v Neil>	It’s a positive message but one which calls for everyone to do what they can before it really <em>is</em> too late.
-288.48	291.28	<v Georgina>	Because the <strong>rate</strong> of ice melt is still increasing,
-291.28	291.64		right,
-291.64	292.36		Neil?
-292.36	292.6	<v Neil>	Yes,
-292.6	293.2		that’s right –
-293.2	293.64		in fact,
-293.64	294.8		that was my quiz question,
-294.8	295.36		Georgina –
-295.36	296.04		do you remember?
-296.04	296.92	<v Georgina>	Yes,
-296.92	301.96		you asked me how many gigatonnes of Greenland’s <strong>ice sheet</strong> are now melting every year.
-301.96	305.84		I said b) 500 gigatonnes.
-305.84	307.48	<v Neil>	And you were…correct!
-307.48	311.12		In fact some of these giant ice cubes are like small towns,
-311.12	312.56		almost a kilometre tall!
-312.56	315.28	<v Georgina>	So there’s still work to be done.
-315.28	319	<v Neil>	In this programme we’ve been looking at the <strong>rate</strong> –
-319	319.2		or speed –
-319.2	320.84		of ice melt in Greenland’s <strong>ice sheet</strong> -
-320.84	324.44		the thick layer of ice covering a large area of the Arctic.
-324.44	325.56	<v Georgina>	Previously,
-325.56	329.56		the melting ice was replaced by newly formed ice on <strong>glaciers</strong> –
-329.56	331.84		large masses of slow-moving ice.
-331.84	334.28		This kept the Arctic <strong>in balance</strong> –
-334.28	337		having different elements arranged in proportion.
-337	341.76	<v Neil>	But the effects of global heating have brought us close to a point of no return,
-341.76	343.24		called a <strong>tipping point</strong> -
-343.24	346.32		the time at which a change or an effect cannot be stopped.
-346.32	352.32	<v Georgina>	The situation is serious but there’s still time to take action and not simply <strong>throw your hands up</strong> –
-352.32	354.92		show frustration and despair when you want to give up.
-354.92	356.68	<v Neil>	That’s all for this programme,
-356.68	360.52		but if you want to find out more about climate change and Greenland’s ice sheets,
-360.52	362.76		search BBC’s <em>Science in Action</em> website.
-362.76	365.88	<v Georgina>	And for more trending topics and useful vocabulary,
-365.88	368.8		remember to join us again soon at 6 Minute English.
-368.8	369.6		Bye for now!
-369.6	371.8	<v Neil>	Goodbye!
-371.8	377.76		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Georgina> And I’m Georgina.
+<v Neil> With no end in sight to the coronavirus pandemic,
+many people can’t wait for the year 2020 to end.
+<v Georgina> But with the coronavirus dominating the newspaper headlines,
+attention has moved away from an equally serious global issue which has quietly been getting worse –
+climate change.
+<v Neil> August 2020 saw the hottest temperature recorded anywhere in modern times –
+54.4 degrees Celsius in California’s Death Valley.
+<v Georgina> The same month also saw record amounts of ice melting into the oceans around Greenland and the Arctic -
+huge icebergs breaking away from the edge of the <strong>ice sheet</strong> –
+a thick layer of ice which has covered a large area for a long time.
+<v Neil> Greenland’s ice sheet is three times the size of Texas and almost 2 kilometres thick.
+Locked inside is enough water to raise sea levels by 6 metres.
+<v Georgina> But global heating and melting polar ice has many scientists asking whether it’s now too late to stop.
+Have we have reached the point of no return?
+In this programme we’ll looking at the effects of climate change on the Arctic and asking if it’s too late to change.
+<v Neil> And learning some of the related vocabulary too.
+Now,
+Georgina,
+you mentioned record levels of ice melt in the North Pole but the scale is hard to take in.
+The amounts are so big they’re measured in gigatonnes –
+that’s a billion metric tonnes.
+<v Georgina> Imagine a giant ice cube 1 kilometre by 1 kilometre by 1 kilometre.
+<v Neil> So my quiz question is this: how many gigatonnes of ice are now melting into the ocean every year?
+Is it:
+a) 450 gigatonnes?,
+b) 500 gigatonnes?,
+or
+c) 550 gigatonnes?
+<v Georgina> I’ll take a guess at b) 500 gigatonnes.
+<v Neil> OK,
+Georgina,
+we’ll find out later.
+Now,
+glaciologist Michalea King has been monitoring the melting of Arctic ice by satellite.
+Here she is answering a question from BBC World Service programme,
+<em>Science in Action,</em> on whether the destruction of the ice sheet is now unavoidable:
+<v Michalea King> If we were to say…
+define a <strong>tipping point</strong> as a shift from one stable dynamic state to another,
+this certainly meets that criteria,
+because we’re seeing now that the <strong>ice sheet</strong> was more or less <strong>in balance</strong> prior to 2000 where the amount of ice being drained from the <strong>glaciers</strong> was approximately equal to what we are gaining on the surface via snow every year.
+<v Georgina> Ice is made from snow falling on Greenland’s <strong>glaciers</strong> -
+large,
+slow-moving masses of ice.
+At the same time though,
+ice is also lost through melting.
+<v Neil> These two processes of making and melting ice kept the ice level <strong>in balance</strong> -
+having different parts or elements arranged in the correct proportions.
+Essentially the melting ice was replaced by newly frozen ice.
+<v Georgina> But now,
+the glaciers are shrinking faster than new ice is being accumulated and the situation may have reached a <strong>tipping point</strong> -
+the time at which a change or an effect cannot be stopped.
+<v Neil> So,
+does this mean that global heating and ice melting are now running automatically,
+separate from the amount of greenhouse gases humans are pumping into the atmosphere?
+And does that mean should just give up on the planet?
+<v Georgina> In fact the situation is far from simple,
+as Michalea King explains here to BBC World Service programme,
+<em>Science in Action</em>:
+<v Michalea King> We can definitely control the rate of mass loss,
+so it’s definitely not a <strong>‘throw your hands up’</strong> and just not do anything about it –
+give up on the ice sheet kind of situation –
+that’s certainly not the message I want to send –
+but it does seem likely that we will continue to lose mass…
+but of course,
+a slow <strong>rate</strong> of mass loss is highly preferred to large annual losses every year.
+<v Neil> Michalea thinks that changes in human activity can still slow the <strong>rate</strong> –
+or speed at which something happens,
+in this case the speed of Greenland’s <strong>ice sheet</strong> melting.
+<v Georgina> She’s convinced it’s not too late for collective action to save the planet,
+so it’s not yet time to <strong>throw your hands up</strong> –
+an idiom meaning to show frustration and despair when a situation becomes so bad that you give up or submit.
+<v Neil> It’s a positive message but one which calls for everyone to do what they can before it really <em>is</em> too late.
+<v Georgina> Because the <strong>rate</strong> of ice melt is still increasing,
+right,
+Neil?
+<v Neil> Yes,
+that’s right –
+in fact,
+that was my quiz question,
+Georgina –
+do you remember?
+<v Georgina> Yes,
+you asked me how many gigatonnes of Greenland’s <strong>ice sheet</strong> are now melting every year.
+I said b) 500 gigatonnes.
+<v Neil> And you were…correct!
+In fact some of these giant ice cubes are like small towns,
+almost a kilometre tall!
+<v Georgina> So there’s still work to be done.
+<v Neil> In this programme we’ve been looking at the <strong>rate</strong> –
+or speed –
+of ice melt in Greenland’s <strong>ice sheet</strong> -
+the thick layer of ice covering a large area of the Arctic.
+<v Georgina> Previously,
+the melting ice was replaced by newly formed ice on <strong>glaciers</strong> –
+large masses of slow-moving ice.
+This kept the Arctic <strong>in balance</strong> –
+having different elements arranged in proportion.
+<v Neil> But the effects of global heating have brought us close to a point of no return,
+called a <strong>tipping point</strong> -
+the time at which a change or an effect cannot be stopped.
+<v Georgina> The situation is serious but there’s still time to take action and not simply <strong>throw your hands up</strong> –
+show frustration and despair when you want to give up.
+<v Neil> That’s all for this programme,
+but if you want to find out more about climate change and Greenland’s ice sheets,
+search BBC’s <em>Science in Action</em> website.
+<v Georgina> And for more trending topics and useful vocabulary,
+remember to join us again soon at 6 Minute English.
+Bye for now!
+<v Neil> Goodbye!
+6 minute English from BBC.

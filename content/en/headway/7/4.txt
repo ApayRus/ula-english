@@ -1,26 +1,26 @@
-0.18	2.31	Tapescript 7.4
-4.72	5.88	I worked
-6.08	8.02	from 6.00 in the morning
-8.54	10.29	until 10.00 at night.
-11.20	13.99	Sixteen hours in the cotton fields
-14.51	17.51	and I only earned $2 a day.
-18.42	20.83	I sure hated that job
-21.46	24.30	but I loved the poems in my head.
-25.47	29.05	I really wanted to learn to read and write.
-30.77	34.57	When I was sixteen I married Hubert,
-35.49	38.13	and soon there were six children,
-38.93	40.09	five sons,
-40.69	41.71	then a daughter,
-41.98	42.51	Lily.
-44.10	45.39	Hubert died
-45.59	47.45	just before she was born.
-48.54	50.94	That was sixty-five years ago.
-52.28	56.41	So I looked after my family alone.
-57.68	60.26	There was no time for learning,
-61.09	62.41	but my children,
-63.19	65.72	they all learned to read and write –
-66.75	68.52	that was important to me.
-70.45	73.98	And when did I learn to read and write?
-75.44	79.42	I didn’t learn until I was 86,
-80.13	80.95	and now I have  
-81.62	84.40	three books of poems.
+Tapescript 7.4
+I worked
+from 6.00 in the morning
+until 10.00 at night.
+Sixteen hours in the cotton fields
+and I only earned $2 a day.
+I sure hated that job
+but I loved the poems in my head.
+I really wanted to learn to read and write.
+When I was sixteen I married Hubert,
+and soon there were six children,
+five sons,
+then a daughter,
+Lily.
+Hubert died
+just before she was born.
+That was sixty-five years ago.
+So I looked after my family alone.
+There was no time for learning,
+but my children,
+they all learned to read and write –
+that was important to me.
+And when did I learn to read and write?
+I didn’t learn until I was 86,
+and now I have
+three books of poems.

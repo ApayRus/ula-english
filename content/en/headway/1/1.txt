@@ -1,8 +1,8 @@
-0.27	1.05	Unit 1
-2.07	4.25	Tapescript 1.1 (one point one)
-6.05	6.62	Hello.
-6.73	7.85	My name’s Paula.
-8.39	9.19	What’s your name?
-9.51	10.14	Rosa.
-11.27	12.42	Where are you from, Rosa?
-12.72	14.00	I’m from Chicago.
+Unit 1
+Tapescript 1.1 (one point one)
+Hello.
+My name’s Paula.
+What’s your name?
+Rosa.
+Where are you from, Rosa?
+I’m from Chicago.

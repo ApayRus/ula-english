@@ -1,17 +1,17 @@
-0.12	2.31	Tapescript 3.8
-3.76	5.17	It’s five o’clock.
-7.57	8.75	It’s eight o’clock.
-11.03	12.62	It’s half past five.
-15.35	17.02	It’s half past eleven.
-20.24	21.92	It’s quarter past five.
-23.96	25.62	It’s quarter past two.
-27.59	29.08	It’s quarter to six.
-31.23	32.70	It’s quarter to nine.
-34.69	36.38	It’s five past five.
-38.47	40.18	It’s ten past five.
-42.52	44.26	It’s twenty past five.
-46.44	48.46	It’s twenty-five past five.
-51.06	52.85	It’s twenty-five to six.
-54.92	56.53	It’s twenty to six.
-58.64	60.12	It’s ten to six.
-62.11	63.59	It’s five to six.
+Tapescript 3.8
+It’s five o’clock.
+It’s eight o’clock.
+It’s half past five.
+It’s half past eleven.
+It’s quarter past five.
+It’s quarter past two.
+It’s quarter to six.
+It’s quarter to nine.
+It’s five past five.
+It’s ten past five.
+It’s twenty past five.
+It’s twenty-five past five.
+It’s twenty-five to six.
+It’s twenty to six.
+It’s ten to six.
+It’s five to six.

@@ -1,152 +1,152 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	10.6		6 minute English from BBClearningEnglish.com
-10.6	13.48	<v Neil>	Hello.
-13.48	16.4		This is 6 Minute English from BBC Learning English.
-16.4	17.36		I’m Neil.
-17.36	19.32	<v Georgina>	And I’m Georgina.
-19.32	21.96	<v Neil>	Are you good at remembering your computer passwords,
-21.96	22.96		Georgina?
-22.96	23.44	<v Georgina>	Um,
-23.44	24.24		not really,
-24.24	24.64		Neil –
-24.64	26.8		I mostly use something easy to remember,
-26.8	30.68		like my mother’s maiden name or the street where I was born.
-30.68	32.12	<v Neil>	Or the name of your first pet!
-32.12	32.4		Yes,
-32.4	33.24		me too -
-33.24	35.8		but we should be more careful about online security,
-35.8	36.6		Georgina,
-36.6	38		because of a worrying trend,
-38	40.04		and the topic of this programme –
-40.04	41.28		online fraud.
-41.28	46.76	<v Georgina>	Online fraud involves using the internet to trick someone into giving away their money or data.
-46.76	47.96		It takes many forms,
-47.96	52.12		from deceptive emails which trick us into paying money to the wrong bank account,
-52.12	55.48		to the theft of credit card details.
-55.48	59.96	<v Neil>	It’s regarded by some as a highly profitable and relatively low-risk crime,
-59.96	63.68		so in this programme we’ll be finding out why it’s so easy for criminals,
-63.68	64.44		or fraudsters,
-64.44	66.64		to steal our money.
-66.64	67.36	<v Georgina>	And of course,
-67.36	70.8		we’ll be learning some related vocabulary along the way.
-70.8	71.32	<v Neil>	But first,
-71.32	73.44		it’s time for our quiz question.
-73.44	75.08		In July 2020,
-75.08	81		nine British men were arrested for defrauding the Coronavirus Job Retention Scheme –
-81	85		a government fund for workers who’ve lost their job to Covid-19.
-85	87.56		They set up fake companies and applied,
-87.56	88.32		fraudulently,
-88.32	89.24		for money.
-89.24	94.6		But how much money has been claimed in total through the coronavirus job scheme in the UK?
-94.6	95.16		Is it:
-95.16	97.72		a) 17 billion pounds,
-97.72	100		b) 27 billion pounds,
-100	100.6		or
-100.6	103.8		c) 37 billion pounds?
-103.8	104.24	<v Georgina>	Hmm,
-104.24	105.4		it must be a lot,
-105.4	109.92		so I’ll say a) 17 billion pounds.
-109.92	110.2	<v Neil>	OK,
-110.2	110.52		Georgina,
-110.52	112.16		we’ll find out later.
-112.16	112.52		Now,
-112.52	113.56		Rachel Tobac,
-113.56	115.84		CEO of Social Proof Security,
-115.84	117.6		is an expert in cyber crime.
-117.6	121		She describes herself as an ’ethical fraudster’.
-121	127.56		Businesses wanting to combat fraud employ her to hack into their computer systems to find their weak spots.
-127.56	127.96	<v Georgina>	Here,
-127.96	130.56		Rachel explains to BBC World Service programme,
-130.56	131.6		The Inquiry,
-131.6	136.36		how getting people’s information is the key to online fraud:
-136.36	137.36	<v Rachel Tobac>	The reason why we’re able to do that,
-137.36	139.36		from an attacker <strong>mindset</strong>,
-139.36	141.88		is because we use what’s called OSINT –
-141.88	143.6		open source <strong>intelligence</strong>.
-143.6	145.56		We look up everything about you.
-145.56	147.32		We can figure out who your assistant is,
-147.32	149.24		who your accountant is on LinkedIn.
-149.24	153.68		We know what emails you use from screen shots that you’ve put on your Instagram…
-153.68	157.36	<v Neil>	Rachel looks at fraud from a criminal’s <strong>mindset</strong> -
-157.36	161.64		someone’s way of thinking and the general attitudes and opinions they have about something.
-161.64	164.08	<v Georgina>	From a fraudster’s perspective,
-164.08	166.32		the most valuable thing is <strong>intelligence</strong> -
-166.32	169.36		secret information about a government or country,
-169.36	171.12		or in this case a person,
-171.12	175.36		such as the information people unwittingly post on social media.
-175.36	180.56	<v Neil>	Fraudsters use this <strong>intelligence</strong> to build up a picture of someone’s online activity.
-180.56	183.12	<v Georgina>	And as BBC World Service The Inquiry presenter,
-183.12	184.24		Charmaine Cozier,
-184.24	184.84		explains,
-184.84	187.8		there are many ways of doing this:
-187.8	192.44	<v Charmaine Cozier>	Fraudsters have thousands of <strong>cover stories</strong> but the end goal is always the same –
-192.44	196.12		to trick people out of cash or possessions.
-196.12	199.16		Rachel says they have options for how to do that.
-199.16	202.8		Login details stolen during a <strong>data breach</strong> from one company,
-202.8	206.48		often using software or viruses called <strong>malware</strong>,
-206.48	208.88		are used to <strong>infiltrate</strong> customer accounts at another.
-208.88	210.04	<v Neil>	To access people’s data,
-210.04	212.72		fraudsters use <strong>cover stories</strong> –
-212.72	215.28		false stories told in order to hide the truth.
-215.28	216.28		For example,
-216.28	220		they may pretend to be calling from your bank or credit card company.
-220	224.04	<v Georgina>	If people believe these <strong>cover stories</strong> and share personal data,
-224.04	225.96		this can result in a <strong>data breach</strong> -
-225.96	230.56		an occasion when private information can be seen by people who should not be able to see it.
-230.56	232.4	<v Neil>	<strong>Malware</strong> -
-232.4	236.64		computer software and viruses that are designed to damage the way a computer works –
-236.64	240.04		can also be used to gain login details and passwords…
-240.04	243.8	<v Georgina>	…data which is then used to <strong>infiltrate</strong> other online accounts -
-243.8	245.4		secretly enter a place,
-245.4	250		group or organisation in order to spy on it or influence it.
-250	258	<v Neil>	Modern fraudsters are so devious at collecting online information that many victims only realise what’s happened after their bank accounts have been emptied.
-258	262.16	<v Georgina>	Which I guess was the <strong>mindset</strong> behind those British fraudsters you mentioned earlier,
-262.16	262.44		Neil.
-262.44	263.64	<v Neil>	Ah yes,
-263.64	267.96		the nine men who tried to defraud the Coronavirus Jobs Retention Scheme.
-267.96	273.56		Remember for my quiz question I asked you how much the scheme has paid out in total so far in the UK.
-273.56	274.68	<v Georgina>	I said,
-274.68	277.2		a) 17 billion pounds.
-277.2	277.92	<v Neil>	Well,
-277.92	279.16		in fact it’s even more –
-279.16	282.56		the correct answer is b) 27 billion pounds.
-282.56	283.36		Luckily,
-283.36	288.24		the 495 thousand pounds which these fraudsters tried to steal was recovered.
-288.24	289.72	<v Georgina>	Even so,
-289.72	290.04		Neil,
-290.04	292.68		I think I’m going to change my passwords soon!
-292.68	294.28		Better safe than sorry!
-294.28	295.32	<v Neil>	Good idea,
-295.32	296.08		Georgina.
-296.08	297		In this programme,
-297	299.88		we’ve been hearing about the rise in online fraud,
-299.88	302.76		often committed when fraudsters gain <strong>intelligence</strong> -
-302.76	305.96		secret information about a person posted on the internet.
-305.96	307.36	<v Georgina>	These criminals’
-307.36	308.76		<strong>mindset</strong> –
-308.76	309		or mentality,
-309	313		is to surreptitiously find information by creating a <strong>cover story</strong> -
-313	316.12		a false story someone tells in order to hide the truth.
-316.12	318.88	<v Neil>	By posing as a clerk from your bank,
-318.88	319.4		for example,
-319.4	324.24		they might be able to access sensitive private information which they should not be able to see –
-324.24	326.88		an event sometimes called a <strong>data breach</strong>.
-326.88	329.48	<v Georgina>	Another way fraudsters <strong>infiltrate</strong> –
-329.48	330.96		or gain access secretly,
-330.96	331.88		without permission -
-331.88	334.08		is with the use of <strong>malware</strong> –
-334.08	338.52		computer software and viruses designed to damage the way a computer works.
-338.52	342.92	<v Neil>	If you want to find out more about keeping yourself safe from online fraud,
-342.92	345.36		search the BBC website using the term,
-345.36	346.56		‘cyber security’.
-346.56	352.52		And if you like topical discussion and want to learn how to use the vocabulary found in headlines,
-352.52	355.44		why not check out our News Review podcast?
-355.44	360.08		We also have a free app you can download for Android and iOS.
-360.08	363.92	<v Georgina>	And for more trending topics and real-life vocabulary,
-363.92	366.36		look no further than 6 Minute English,
-366.36	368.36		from BBC Learning English.
-368.36	369.36		See you next time.
-369.36	369.88		Bye!
-369.88	372.16	<v Neil>	Goodbye!
-372.16	379.08		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Georgina> And I’m Georgina.
+<v Neil> Are you good at remembering your computer passwords,
+Georgina?
+<v Georgina> Um,
+not really,
+Neil –
+I mostly use something easy to remember,
+like my mother’s maiden name or the street where I was born.
+<v Neil> Or the name of your first pet!
+Yes,
+me too -
+but we should be more careful about online security,
+Georgina,
+because of a worrying trend,
+and the topic of this programme –
+online fraud.
+<v Georgina> Online fraud involves using the internet to trick someone into giving away their money or data.
+It takes many forms,
+from deceptive emails which trick us into paying money to the wrong bank account,
+to the theft of credit card details.
+<v Neil> It’s regarded by some as a highly profitable and relatively low-risk crime,
+so in this programme we’ll be finding out why it’s so easy for criminals,
+or fraudsters,
+to steal our money.
+<v Georgina> And of course,
+we’ll be learning some related vocabulary along the way.
+<v Neil> But first,
+it’s time for our quiz question.
+In July 2020,
+nine British men were arrested for defrauding the Coronavirus Job Retention Scheme –
+a government fund for workers who’ve lost their job to Covid-19.
+They set up fake companies and applied,
+fraudulently,
+for money.
+But how much money has been claimed in total through the coronavirus job scheme in the UK?
+Is it:
+a) 17 billion pounds,
+b) 27 billion pounds,
+or
+c) 37 billion pounds?
+<v Georgina> Hmm,
+it must be a lot,
+so I’ll say a) 17 billion pounds.
+<v Neil> OK,
+Georgina,
+we’ll find out later.
+Now,
+Rachel Tobac,
+CEO of Social Proof Security,
+is an expert in cyber crime.
+She describes herself as an ’ethical fraudster’.
+Businesses wanting to combat fraud employ her to hack into their computer systems to find their weak spots.
+<v Georgina> Here,
+Rachel explains to BBC World Service programme,
+The Inquiry,
+how getting people’s information is the key to online fraud:
+<v Rachel Tobac> The reason why we’re able to do that,
+from an attacker <strong>mindset</strong>,
+is because we use what’s called OSINT –
+open source <strong>intelligence</strong>.
+We look up everything about you.
+We can figure out who your assistant is,
+who your accountant is on LinkedIn.
+We know what emails you use from screen shots that you’ve put on your Instagram…
+<v Neil> Rachel looks at fraud from a criminal’s <strong>mindset</strong> -
+someone’s way of thinking and the general attitudes and opinions they have about something.
+<v Georgina> From a fraudster’s perspective,
+the most valuable thing is <strong>intelligence</strong> -
+secret information about a government or country,
+or in this case a person,
+such as the information people unwittingly post on social media.
+<v Neil> Fraudsters use this <strong>intelligence</strong> to build up a picture of someone’s online activity.
+<v Georgina> And as BBC World Service The Inquiry presenter,
+Charmaine Cozier,
+explains,
+there are many ways of doing this:
+<v Charmaine Cozier> Fraudsters have thousands of <strong>cover stories</strong> but the end goal is always the same –
+to trick people out of cash or possessions.
+Rachel says they have options for how to do that.
+Login details stolen during a <strong>data breach</strong> from one company,
+often using software or viruses called <strong>malware</strong>,
+are used to <strong>infiltrate</strong> customer accounts at another.
+<v Neil> To access people’s data,
+fraudsters use <strong>cover stories</strong> –
+false stories told in order to hide the truth.
+For example,
+they may pretend to be calling from your bank or credit card company.
+<v Georgina> If people believe these <strong>cover stories</strong> and share personal data,
+this can result in a <strong>data breach</strong> -
+an occasion when private information can be seen by people who should not be able to see it.
+<v Neil> <strong>Malware</strong> -
+computer software and viruses that are designed to damage the way a computer works –
+can also be used to gain login details and passwords…
+<v Georgina> …data which is then used to <strong>infiltrate</strong> other online accounts -
+secretly enter a place,
+group or organisation in order to spy on it or influence it.
+<v Neil> Modern fraudsters are so devious at collecting online information that many victims only realise what’s happened after their bank accounts have been emptied.
+<v Georgina> Which I guess was the <strong>mindset</strong> behind those British fraudsters you mentioned earlier,
+Neil.
+<v Neil> Ah yes,
+the nine men who tried to defraud the Coronavirus Jobs Retention Scheme.
+Remember for my quiz question I asked you how much the scheme has paid out in total so far in the UK.
+<v Georgina> I said,
+a) 17 billion pounds.
+<v Neil> Well,
+in fact it’s even more –
+the correct answer is b) 27 billion pounds.
+Luckily,
+the 495 thousand pounds which these fraudsters tried to steal was recovered.
+<v Georgina> Even so,
+Neil,
+I think I’m going to change my passwords soon!
+Better safe than sorry!
+<v Neil> Good idea,
+Georgina.
+In this programme,
+we’ve been hearing about the rise in online fraud,
+often committed when fraudsters gain <strong>intelligence</strong> -
+secret information about a person posted on the internet.
+<v Georgina> These criminals’
+<strong>mindset</strong> –
+or mentality,
+is to surreptitiously find information by creating a <strong>cover story</strong> -
+a false story someone tells in order to hide the truth.
+<v Neil> By posing as a clerk from your bank,
+for example,
+they might be able to access sensitive private information which they should not be able to see –
+an event sometimes called a <strong>data breach</strong>.
+<v Georgina> Another way fraudsters <strong>infiltrate</strong> –
+or gain access secretly,
+without permission -
+is with the use of <strong>malware</strong> –
+computer software and viruses designed to damage the way a computer works.
+<v Neil> If you want to find out more about keeping yourself safe from online fraud,
+search the BBC website using the term,
+‘cyber security’.
+And if you like topical discussion and want to learn how to use the vocabulary found in headlines,
+why not check out our News Review podcast?
+We also have a free app you can download for Android and iOS.
+<v Georgina> And for more trending topics and real-life vocabulary,
+look no further than 6 Minute English,
+from BBC Learning English.
+See you next time.
+Bye!
+<v Neil> Goodbye!
+6 minute English from BBC.

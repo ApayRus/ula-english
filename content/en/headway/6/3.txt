@@ -1,19 +1,19 @@
-0.18	2.42	T 6.3
-3.80	4.30	1
-5.32	6.94	I can speak French,
-7.30	9.07	but I can’t speak German.
-10.43	10.92	2
-12.04	13.37	He can’t dance
-13.68	14.78	but he can sing.
-16.65	17.22	3
-18.21	19.07	‘Can you cook?’
-19.21	20.55	‘Yes, I can.’
-22.35	22.94	4
-24.22	25.40	They can ski,
-25.77	27.14	but they can’t swim.
-28.87	29.65	5
-30.72	32.00	We can dance
-32.28	33.42	and we can sing.
-35.28	36.03	6
-36.46	37.55	‘Can she drive?’
-37.86	39.22	‘No, she can’t.’
+T 6.3
+1
+I can speak French,
+but I can’t speak German.
+2
+He can’t dance
+but he can sing.
+3
+‘Can you cook?’
+‘Yes, I can.’
+4
+They can ski,
+but they can’t swim.
+5
+We can dance
+and we can sing.
+6
+‘Can she drive?’
+‘No, she can’t.’

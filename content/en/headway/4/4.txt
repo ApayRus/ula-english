@@ -1,13 +1,13 @@
-0.20	1.90	Tapescript 4.4
-3.15	3.75	1
-5.98	7.70	What does she do on Sundays?
-9.40	9.91	2
-11.91	14.06	Do you stay home on Thursday evenings?
-15.39	15.99	3
-17.30	18.38	He lives here.
-21.10	21.69	4
-22.96	25.27	What do you do on Saturday evenings?
-27.36	28.11	5
-28.98	30.04	I read a lot.
-31.37	32.06	6
-32.89	34.43	Why don’t you like your job?
+Tapescript 4.4
+1
+What does she do on Sundays?
+2
+Do you stay home on Thursday evenings?
+3
+He lives here.
+4
+What do you do on Saturday evenings?
+5
+I read a lot.
+6
+Why don’t you like your job?

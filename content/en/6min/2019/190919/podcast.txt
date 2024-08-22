@@ -1,136 +1,136 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	13.6		6 minute English from BBClearningEnglish.com
-13.6	13.92	<v Neil>	Hello.
-13.92	15.28		This is 6 Minute English,
-15.28	16.12		I’m Neil.
-16.12	16.96	<v Sam>	And I’m Sam.
-16.96	17.96	<v Neil>	It’s good to see you again,
-17.96	18.72		Sam.
-18.72	19.56	<v Sam>	Really?
-19.56	20.04	<v Neil>	Yes,
-20.04	20.56		of course,
-20.56	23.2		can’t you tell by the way I’m smiling?
-23.2	23.48	<v Sam>	Ah well,
-23.48	28.88		I find it difficult to tell if someone is really smiling or if it’s a fake smile.
-28.88	29.24	<v Neil>	Well,
-29.24	38.4		that’s a coincidence because today’s programme is all about how computers may be able tell real smiles from fake smiles better than humans can.
-38.4	39.92		Before we get in to that though,
-39.92	40.92		a question.
-40.92	44.92		The expressions we can make with our face are controlled by muscles.
-44.92	47.44		How many muscles do we have in our face?
-47.44	47.8		Is it:
-47.8	49.56		A: 26
-49.56	50.88		B: 43
-50.88	52		C: 62
-52	52.88		What do you think,
-52.88	53.64		Sam?
-53.64	54.76	<v Sam>	No idea!
-54.76	55.8		But a lot,
-55.8	56.52		I’d guess,
-56.52	58.64		so I’m going with 62.
-58.64	59.08	<v Neil>	OK.
-59.08	59.44		Well,
-59.44	63.12		we’ll see if you’ll be smiling or crying later in the programme.
-63.12	68.08		Hassan Ugail is a professor of visual computing at the University of Bradford.
-68.08	74.6		He’s been working on getting computers to be able to recognise human emotions from the expressions on our face.
-74.6	79.24		Here he is speaking on the BBC Inside Science radio programme –
-79.24	82.04		how successful does he say they have been?
-82.04	84.72	<v Professor Hassan Ugail>	We’ve been working quite a lot on the human emotions,
-84.72	88.36		so the idea is how the facial muscle movement,
-88.36	90.44		which is reflected on the face,
-90.44	103.32		through obviously a computer through video frames and trying to understand how these muscle movements actually relate to facial expressions and then from facial expressions trying to understand the emotions or to infer the emotions.
-103.32	105.4		And they have been quite successful in doing that.
-105.4	116.56		We have software that can actually look at somebody’s face in real time and then identify the series of emotions that person is expressing in real time as well.
-116.56	117.12	<v Neil>	So,
-117.12	121.44		have they been successful in getting computers to identify emotions?
-121.44	121.92	<v Sam>	Yes,
-121.92	123.84		he says they’ve been quite successful,
-123.84	130		and what’s interesting is that he says that the computers can do it in real time.
-130	132.52		This means that there’s no delay.
-132.52	135.04		They don’t have to stop and analyse the data,
-135.04	136.48		or crunch the numbers,
-136.48	139.24		they can do it as the person is talking.
-139.24	145.4	<v Neil>	The system uses video to analyse a person’s expressions and can then infer the emotions.
-145.4	150.6		To infer something means to get an understanding of something without actually being told directly.
-150.6	151.36		So,
-151.36	156.72		you look at available information and use your understanding and knowledge to work out the meaning.
-156.72	158.44	<v Sam>	It’s a bit like being a detective,
-158.44	159.16		isn’t it?
-159.16	164.28		You look at the clues and infer what happened even if you don’t have all the details.
-164.28	164.64	<v Neil>	Yes,
-164.64	170.12		and in this case the computer looks at how the movement of muscles in the face or facial muscles,
-170.12	171.72		show different emotions.
-171.72	173.72		Here’s Professor Ugail again.
-173.72	180	<v Professor Hassan Ugail>	We’ve been working quite a lot on the human emotions so the idea is how the facial muscle movement,
-180	181.76		which is reflected on the face,
-181.76	195		through obviously a computer through video frames and trying to understand how these muscle movements actually relate to facial expressions and then from facial expressions trying to understand the emotions or to infer the emotions.
-195	197.08		And they have been quite successful in doing that.
-197.08	207.68		We have software that can actually look at somebody’s face in real time and then identify the series of emotions that person is expressing in real time as well.
-207.68	208.4	<v Neil>	So,
-208.4	212.76		how do the computers know what is a real or a fake smile?
-212.76	216		The computers have to learn that first.
-216	219.76		Here’s Professor Ugail again talking about how they do that.
-219.76	223.92	<v Professor Hassan Ugail>	We have a data set of real smiles and we have a data set of fake smiles.
-223.92	226.24		These real smiles are induced smiles in a lab.
-226.24	226.68		So,
-226.68	233.28		you put somebody on a chair and then show some funny movies and we expect the smiles are genuine smiles.
-233.28	237.04		And similarly we ask them to pretend to smile.
-237.04	237.4		So,
-237.4	239.24		these are what you’d call fake smiles.
-239.24	240.04		So,
-240.04	247.96		what we do is we throw these into the machine and then the machine figures out what are the characteristics of a real smile and what are the characteristics of a fake smile.
-247.96	249	<v Neil>	So,
-249	254.52		how do they get the data that the computers use to see if your smile is fake or genuine –
-254.52	256.96		which is another word which means real?
-256.96	261.72	<v Sam>	They induce real smiles in the lab by showing people funny films.
-261.72	265		This means that they make the smiles come naturally.
-265	269.64		They assume that the smiles while watching the funny films are genuine.
-269.64	278.16	<v Neil>	And then they ask the people to pretend to smile and the computer programme now has a database of real and fake smiles and is able to figure out which is which.
-278.16	281.96	<v Sam>	Figure out means to calculate and come to an answer
-281.96	282.52	<v Neil>	Yes,
-282.52	285.68		and apparently the system gets it right 90% of the time,
-285.68	287.96		which is much higher than we humans can.
-287.96	288.92		Right,
-288.92	291.4		well before we remind ourselves of our vocabulary,
-291.4	293.4		let’s get the answer to the question.
-293.4	296.08		How many muscles do we have in our face?
-296.08	296.72		Is it:
-296.72	297.76		A: 26
-297.76	299.16		B: 43
-299.16	300.8		C: 62
-300.8	301.28		Sam,
-301.28	302.28		are you going to be smiling?
-302.28	303.2		What did you say?
-303.2	305.04	<v Sam>	So I thought 62!
-305.04	305.68		Am I smiling,
-305.68	305.92		Neil?
-305.92	307.56	<v Neil>	Sadly you are not,
-307.56	312.92		you are using different muscles for that sort of sad look!
-312.92	314.72		Actually the answer is 43.
-314.72	317.08		Congratulations to anyone who got that right.
-317.08	318.76		Now our vocabulary.
-318.76	319.32	<v Sam>	Yes –
-319.32	322.56		facial is the adjective relating to face.
-322.56	324.04	<v Neil>	Then we had infer.
-324.04	328.96		This verb means to understand something even when you don’t have all the information,
-328.96	332.4		and you come to this understanding based on your experience and knowledge,
-332.4	334.04		or in the case of a computer,
-334.04	335.12		the programming.
-335.12	338.32	<v Sam>	And these computers work in real time,
-338.32	343.36		which means that there’s no delay and they can tell a fake smile from a genuine one,
-343.36	344.88		which means a real one,
-344.88	346.12		as the person is speaking.
-346.12	347.84	<v Neil>	They made people smile,
-347.84	349.12		or as the Professor said,
-349.12	352.36		they induced smiles by showing funny films.
-352.36	358.36	<v Sam>	And the computer is able to figure out or calculate whether the smile is fake or genuine.
-358.36	359.04	<v Neil>	OK,
-359.04	359.52		thank you,
-359.52	359.88		Sam.
-359.88	361.72		That’s all from 6 Minute English today.
-361.72	367.28		We look forward to your company next time and if you can’t wait you can find lots more from bbclearningenglish online,
-367.28	369		on social media and on our app.
-369	369.76		Goodbye!
-369.76	371.72	<v Sam>	Bye!
-371.72	378.6		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English,
+I’m Neil.
+<v Sam> And I’m Sam.
+<v Neil> It’s good to see you again,
+Sam.
+<v Sam> Really?
+<v Neil> Yes,
+of course,
+can’t you tell by the way I’m smiling?
+<v Sam> Ah well,
+I find it difficult to tell if someone is really smiling or if it’s a fake smile.
+<v Neil> Well,
+that’s a coincidence because today’s programme is all about how computers may be able tell real smiles from fake smiles better than humans can.
+Before we get in to that though,
+a question.
+The expressions we can make with our face are controlled by muscles.
+How many muscles do we have in our face?
+Is it:
+A: 26
+B: 43
+C: 62
+What do you think,
+Sam?
+<v Sam> No idea!
+But a lot,
+I’d guess,
+so I’m going with 62.
+<v Neil> OK.
+Well,
+we’ll see if you’ll be smiling or crying later in the programme.
+Hassan Ugail is a professor of visual computing at the University of Bradford.
+He’s been working on getting computers to be able to recognise human emotions from the expressions on our face.
+Here he is speaking on the BBC Inside Science radio programme –
+how successful does he say they have been?
+<v Professor Hassan Ugail> We’ve been working quite a lot on the human emotions,
+so the idea is how the facial muscle movement,
+which is reflected on the face,
+through obviously a computer through video frames and trying to understand how these muscle movements actually relate to facial expressions and then from facial expressions trying to understand the emotions or to infer the emotions.
+And they have been quite successful in doing that.
+We have software that can actually look at somebody’s face in real time and then identify the series of emotions that person is expressing in real time as well.
+<v Neil> So,
+have they been successful in getting computers to identify emotions?
+<v Sam> Yes,
+he says they’ve been quite successful,
+and what’s interesting is that he says that the computers can do it in real time.
+This means that there’s no delay.
+They don’t have to stop and analyse the data,
+or crunch the numbers,
+they can do it as the person is talking.
+<v Neil> The system uses video to analyse a person’s expressions and can then infer the emotions.
+To infer something means to get an understanding of something without actually being told directly.
+So,
+you look at available information and use your understanding and knowledge to work out the meaning.
+<v Sam> It’s a bit like being a detective,
+isn’t it?
+You look at the clues and infer what happened even if you don’t have all the details.
+<v Neil> Yes,
+and in this case the computer looks at how the movement of muscles in the face or facial muscles,
+show different emotions.
+Here’s Professor Ugail again.
+<v Professor Hassan Ugail> We’ve been working quite a lot on the human emotions so the idea is how the facial muscle movement,
+which is reflected on the face,
+through obviously a computer through video frames and trying to understand how these muscle movements actually relate to facial expressions and then from facial expressions trying to understand the emotions or to infer the emotions.
+And they have been quite successful in doing that.
+We have software that can actually look at somebody’s face in real time and then identify the series of emotions that person is expressing in real time as well.
+<v Neil> So,
+how do the computers know what is a real or a fake smile?
+The computers have to learn that first.
+Here’s Professor Ugail again talking about how they do that.
+<v Professor Hassan Ugail> We have a data set of real smiles and we have a data set of fake smiles.
+These real smiles are induced smiles in a lab.
+So,
+you put somebody on a chair and then show some funny movies and we expect the smiles are genuine smiles.
+And similarly we ask them to pretend to smile.
+So,
+these are what you’d call fake smiles.
+So,
+what we do is we throw these into the machine and then the machine figures out what are the characteristics of a real smile and what are the characteristics of a fake smile.
+<v Neil> So,
+how do they get the data that the computers use to see if your smile is fake or genuine –
+which is another word which means real?
+<v Sam> They induce real smiles in the lab by showing people funny films.
+This means that they make the smiles come naturally.
+They assume that the smiles while watching the funny films are genuine.
+<v Neil> And then they ask the people to pretend to smile and the computer programme now has a database of real and fake smiles and is able to figure out which is which.
+<v Sam> Figure out means to calculate and come to an answer
+<v Neil> Yes,
+and apparently the system gets it right 90% of the time,
+which is much higher than we humans can.
+Right,
+well before we remind ourselves of our vocabulary,
+let’s get the answer to the question.
+How many muscles do we have in our face?
+Is it:
+A: 26
+B: 43
+C: 62
+Sam,
+are you going to be smiling?
+What did you say?
+<v Sam> So I thought 62!
+Am I smiling,
+Neil?
+<v Neil> Sadly you are not,
+you are using different muscles for that sort of sad look!
+Actually the answer is 43.
+Congratulations to anyone who got that right.
+Now our vocabulary.
+<v Sam> Yes –
+facial is the adjective relating to face.
+<v Neil> Then we had infer.
+This verb means to understand something even when you don’t have all the information,
+and you come to this understanding based on your experience and knowledge,
+or in the case of a computer,
+the programming.
+<v Sam> And these computers work in real time,
+which means that there’s no delay and they can tell a fake smile from a genuine one,
+which means a real one,
+as the person is speaking.
+<v Neil> They made people smile,
+or as the Professor said,
+they induced smiles by showing funny films.
+<v Sam> And the computer is able to figure out or calculate whether the smile is fake or genuine.
+<v Neil> OK,
+thank you,
+Sam.
+That’s all from 6 Minute English today.
+We look forward to your company next time and if you can’t wait you can find lots more from bbclearningenglish online,
+on social media and on our app.
+Goodbye!
+<v Sam> Bye!
+6 minute English from BBC.

@@ -1,193 +1,193 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	10.92		6 minute English from BBClearningEnglish.com
-10.92	13.04	<v Dan>	Hello and welcome to 6 Minute English –
-13.04	14.96		the show that brings you an interesting topic,
-14.96	19.36		authentic listening practice and vocabulary to help you improve your language skills.
-19.36	20.2		I’m Dan…
-20.2	21.32	<v Catherine>	And I’m Catherine.
-21.32	24.44		In this programme we’ll be discussing life expectancy,
-24.44	27.6		as well as teaching you 6 new items of vocabulary,
-27.6	29.16		of course*…*
-29.16	32.64	<v Dan>	ZZZZzzzzzzz…
-32.64	33.28	<v Catherine>	Dan?
-33.28	33.8		Dan!
-33.8	34.52		We’re doing a show,
-34.52	34.92		Dan.
-34.92	35.32		Wake up!
-35.32	35.88	<v Dan>	Sorry.
-35.88	36.12		Sorry,
-36.12	36.52		Catherine.
-36.52	37		Sorry,
-37	37.36		everybody.
-37.36	39.6		I was at a party last night and I didn’t get much sleep.
-39.6	40.32	<v Catherine>	Another party,
-40.32	41.08		Dan?
-41.08	41.68	<v Dan>	Yeah.
-41.68	42.96	<v Catherine>	That’s the third this week!
-42.96	44.4		You look <strong>dead on your feet</strong>,
-44.4	47.44		which is an expression meaning 'extremely tired.
-47.44	48.12	<v Dan>	Ah well.
-48.12	49.04		Live fast,
-49.04	49.72		die young.
-49.72	50.84		That’s my <strong>motto</strong>.
-50.84	56.44	<v Catherine>	A <strong>motto</strong> is a short phrase which reflects the beliefs of an organisation or person.
-56.44	58.72		And it’s interesting that you mention dying young,
-58.72	59.08		Dan,
-59.08	61.72		because our topic this show is <strong>life expectancy</strong>.
-61.72	66.12	<v Dan>	<strong>Life expectancy</strong> is how many years a person is likely to live.
-66.12	68.2		I suppose you have a question about it too?
-68.2	69.2	<v Catherine>	Funny you should say that,
-69.2	70		Dan.
-70	71.88		By the year 2030,
-71.88	83.4		will the USA’s life expectancy be a) in the top third b) the middle third or c) the bottom third compared to the rest of the world?
-83.4	85.92	<v Dan>	The USA is quite a rich country,
-85.92	88.96		so I’m going to say a) the top one third.
-88.96	92.28	<v Catherine>	And we’ll find out later in the show if you’re right or not.
-92.28	92.6		Now,
-92.6	92.96		Dan,
-92.96	94.24		life expectancy,
-94.24	100.16		so which country do you think has the current highest life expectancy?
-100.16	101.16	<v Dan>	Everybody knows that’s Japan,
-101.16	101.68		come on!
-101.68	102.36	<v Catherine>	Aha,
-102.36	102.88		yes,
-102.88	111.04		but new analysis by the World Health Organization and Imperial College London predicts that it won’t always be so.
-111.04	111.24		Now,
-111.24	119.56		they analysed 35 industrialised countries and found that by the year 2030 South Korea will be the leaders –
-119.56	124.2		with an average <strong>life expectancy</strong> of a whopping 90 years!
-124.2	125.52	<v Dan>	Wow.
-125.52	126.72		How did they do that?
-126.72	127.04	<v Catherine>	Well,
-127.04	130.48		let’s find out by listening to Professor Majid Ezzati,
-130.48	135.44		Chair in Global Environmental Health at Imperial College London.
-135.44	140.04	<v Professor Majid Ezzati, Chair in Global Environmental Health at Imperial College London>	It seems to be actually dealing with diet better than other places,
-140.04	145		being very good at taking up new medical knowledge technology and using it and,
-145	146.56		perhaps most importantly,
-146.56	151.2		doing this in a relatively <strong>equitable</strong> way compared to western countries.
-151.2	151.72	<v Dan>	So,
-151.72	152.24		basically,
-152.24	153.2		good diet,
-153.2	156.04		using new medical technology and knowledge,
-156.04	158.08		and being more <strong>equitable</strong> –
-158.08	159.32		or fair and impartial –
-159.32	160		in society.
-160	161.72		So how did the UK do?
-161.72	162.12	<v Catherine>	Well,
-162.12	163.32		not too well actually.
-163.32	166.6		We were thoroughly beaten by our closest neighbour,
-166.6	167.32		France.
-167.32	167.76	<v Dan>	What!?
-167.76	168.92		How comes!?
-168.92	172.68	<v Catherine>	I’ll let Professor Majid Ezzati explain that too.
-172.68	178.12	<v Professor Majid Ezzati, Chair in Global Environmental Health at Imperial College London>	So France has had some of the lowest <strong>obesity</strong> rates among western countries,
-178.12	178.96		French women especially.
-178.96	181.24		UK has had some of the highest ones.
-181.24	183.88		And alcohol in France,
-183.88	184.88		at least until now,
-184.88	186		has been consumed…
-186	188.04		it’s much more healthy patterns,
-188.04	191.32		and in the UK there has been a lot more <strong>binge</strong> drinking.
-191.32	192.04	<v Catherine>	So,
-192.04	194.8		France has low <strong>obesity</strong>,
-194.8	196.44		which is a state of being very overweight,
-196.44	199.72		compared to the UK’s high <strong>obesity</strong>.
-199.72	203.4	<v Dan>	And France drinks alcohol much more moderately than the UK,
-203.4	206.12		which tends to <strong>binge</strong>.
-206.12	209.6	<v Catherine>	<strong>Binging</strong> is when you consume a large amount of something in a short time -
-209.6	211.72		especially food or alcohol.
-211.72	212.12		So,
-212.12	212.92		confession time,
-212.92	213.32		Dan!
-213.32	215.56		How many drinks did you have last night?
-215.56	216.64	<v Dan>	It was only orange juice,
-216.64	217.16		I swear!
-217.16	217.64		So,
-217.64	217.96		come on.
-217.96	219.36		Did I get the question right?
-219.36	221.36		You asked me by the year 2030,
-221.36	230.04		will the USA’s life expectancy be a) in the top one-third b) the middle one-third or c) the bottom third compared to the rest of the world?
-230.04	232.08		And I said the USA’s quite a rich country,
-232.08	234.56		so it’s probably a) in the top one-third.
-234.56	235.76	<v Catherine>	Sorry Dan.
-235.76	236.64		Nice logic,
-236.64	241.36		but actually the USA is one of the least <strong>equitable</strong> places in the world.
-241.36	243.84		So their life expectancy suffers,
-243.84	247.44		and the answer was actually c) the bottom third.
-247.44	247.72	<v Dan>	Oh,
-247.72	247.96		well.
-247.96	248.44		Next week,
-248.44	249.28		maybe.
-249.28	249.52		Now,
-249.52	251.56		let’s take a look at the vocabulary from this programme.
-251.56	254.96		First we had <strong>dead on your feet</strong>.
-254.96	257.68		This is an informal expression which means ‘extremely tired’.
-257.68	260.56		Another way to say the same thing would be ‘shattered’.
-260.56	262.76		When was a time when you were <strong>dead on your feet</strong>,
-262.76	263.24		Catherine?
-263.24	265.36	<v Catherine>	I built some garden furniture quite recently,
-265.36	266.32		and it took me all day,
-266.32	269.44		and I was <strong>dead on my feet</strong> when I finished.
-269.44	270.04		Now,
-270.04	271.84		we had <strong>motto.</strong> Now,
-271.84	276.64		a <strong>motto</strong> is a short phrase which reflects the beliefs of an organisation or person.
-276.64	277		So,
-277	277.28		Dan,
-277.28	280.04		what’s your personal <strong>motto</strong>?
-280.04	281.32	<v Dan>	‘Take the path of least resistance’.
-281.32	282.2		What about you?
-282.2	283.16	<v Catherine>	‘Less is more’.
-283.16	283.52	<v Dan>	Ah!
-283.52	283.88		Good one.
-283.88	289.84		Then we had <strong>life expectancy.</strong> <strong>Life expectancy</strong> is how many years a person is likely to live.
-289.84	292.64		What do you think’s a good <strong>life expectancy</strong> for a person?
-292.64	295.92	<v Catherine>	I’m hoping to get to about 85 and then I’d like a,
-295.92	296.24		sort of,
-296.24	298.96		quick exit because I think it’s probably not much fun after that.
-298.96	300.68		Then we had <strong>equitable</strong>.
-300.68	306.32		<strong>Equitable</strong> means ‘being fair or impartial’ and it comes from the word ‘equal’.
-306.32	306.8		So,
-306.8	307.12		Dan,
-307.12	308.44		personal question.
-308.44	311.68		Would you say that your marriage is <strong>equitable</strong>?
-311.68	313.2	<v Dan>	I’d like to think so,
-313.2	313.72		yes.
-313.72	314.52		I do the cooking,
-314.52	315.68		my wife does the cleaning,
-315.68	317.2		and we share the other jobs.
-317.2	318.2	<v Catherine>	We’ll have to get Mrs.
-318.2	319.6		Dan in to give her opinion.
-319.6	321.92	<v Dan>	After that we heard <strong>obesity</strong>.
-321.92	326.12		<strong>Obesity</strong> describes a state of being very overweight.
-326.12	329.68		It’s a medical term and is often used in connection with health problems.
-329.68	332.52		The report said that the UK has an <strong>obesity</strong> problem,
-332.52	332.92		Catherine.
-332.92	334.44		How do you think we can solve it?
-334.44	338	<v Catherine>	I think we need a sugar tax and everybody should walk to work.
-338	340.44		Finally we had <strong>binge</strong>.
-340.44	344.24		To <strong>binge</strong> is to consume a large amount of something in a short space of time,
-344.24	346.68		especially something that you don’t usually have.
-346.68	349.24		And these days we hear a lot about **binge drinking,
-349.24	351.88		binge eating** and <strong>binge watching</strong>.
-351.88	352.2		So,
-352.2	352.36		Dan,
-352.36	355.24		when did you last <strong>binge watch</strong> a series on TV?
-355.24	355.6	<v Dan>	Oh,
-355.6	356.56		it’s Game of Thrones,
-356.56	357.08		isn’t it?
-357.08	357.68		Series one,
-357.68	358.28		series two,
-358.28	359.12		series three.
-359.12	359.8		Back to back.
-359.8	361.44	<v Catherine>	Back to back <strong>binging</strong>.
-361.44	361.52		Brilliant.
-361.52	362.16	<v Dan>	That’s it.
-362.16	362.36		Well,
-362.36	363.68		that’s the end of today’s 6 Minute English.
-363.68	364.84		Please join us again soon!
-364.84	366.36	<v Catherine>	And we are on social media too,
-366.36	368.28		so make sure you visit us on Twitter,
-368.28	369		Facebook,
-369	370.28		Instagram and YouTube.
-370.28	371.52	<v Both>	Bye!
-371.52	379.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Dan> Hello and welcome to 6 Minute English –
+the show that brings you an interesting topic,
+authentic listening practice and vocabulary to help you improve your language skills.
+I’m Dan…
+<v Catherine> And I’m Catherine.
+In this programme we’ll be discussing life expectancy,
+as well as teaching you 6 new items of vocabulary,
+of course*…*
+<v Dan> ZZZZzzzzzzz…
+<v Catherine> Dan?
+Dan!
+We’re doing a show,
+Dan.
+Wake up!
+<v Dan> Sorry.
+Sorry,
+Catherine.
+Sorry,
+everybody.
+I was at a party last night and I didn’t get much sleep.
+<v Catherine> Another party,
+Dan?
+<v Dan> Yeah.
+<v Catherine> That’s the third this week!
+You look <strong>dead on your feet</strong>,
+which is an expression meaning 'extremely tired.
+<v Dan> Ah well.
+Live fast,
+die young.
+That’s my <strong>motto</strong>.
+<v Catherine> A <strong>motto</strong> is a short phrase which reflects the beliefs of an organisation or person.
+And it’s interesting that you mention dying young,
+Dan,
+because our topic this show is <strong>life expectancy</strong>.
+<v Dan> <strong>Life expectancy</strong> is how many years a person is likely to live.
+I suppose you have a question about it too?
+<v Catherine> Funny you should say that,
+Dan.
+By the year 2030,
+will the USA’s life expectancy be a) in the top third b) the middle third or c) the bottom third compared to the rest of the world?
+<v Dan> The USA is quite a rich country,
+so I’m going to say a) the top one third.
+<v Catherine> And we’ll find out later in the show if you’re right or not.
+Now,
+Dan,
+life expectancy,
+so which country do you think has the current highest life expectancy?
+<v Dan> Everybody knows that’s Japan,
+come on!
+<v Catherine> Aha,
+yes,
+but new analysis by the World Health Organization and Imperial College London predicts that it won’t always be so.
+Now,
+they analysed 35 industrialised countries and found that by the year 2030 South Korea will be the leaders –
+with an average <strong>life expectancy</strong> of a whopping 90 years!
+<v Dan> Wow.
+How did they do that?
+<v Catherine> Well,
+let’s find out by listening to Professor Majid Ezzati,
+Chair in Global Environmental Health at Imperial College London.
+<v Professor Majid Ezzati, Chair in Global Environmental Health at Imperial College London> It seems to be actually dealing with diet better than other places,
+being very good at taking up new medical knowledge technology and using it and,
+perhaps most importantly,
+doing this in a relatively <strong>equitable</strong> way compared to western countries.
+<v Dan> So,
+basically,
+good diet,
+using new medical technology and knowledge,
+and being more <strong>equitable</strong> –
+or fair and impartial –
+in society.
+So how did the UK do?
+<v Catherine> Well,
+not too well actually.
+We were thoroughly beaten by our closest neighbour,
+France.
+<v Dan> What!?
+How comes!?
+<v Catherine> I’ll let Professor Majid Ezzati explain that too.
+<v Professor Majid Ezzati, Chair in Global Environmental Health at Imperial College London> So France has had some of the lowest <strong>obesity</strong> rates among western countries,
+French women especially.
+UK has had some of the highest ones.
+And alcohol in France,
+at least until now,
+has been consumed…
+it’s much more healthy patterns,
+and in the UK there has been a lot more <strong>binge</strong> drinking.
+<v Catherine> So,
+France has low <strong>obesity</strong>,
+which is a state of being very overweight,
+compared to the UK’s high <strong>obesity</strong>.
+<v Dan> And France drinks alcohol much more moderately than the UK,
+which tends to <strong>binge</strong>.
+<v Catherine> <strong>Binging</strong> is when you consume a large amount of something in a short time -
+especially food or alcohol.
+So,
+confession time,
+Dan!
+How many drinks did you have last night?
+<v Dan> It was only orange juice,
+I swear!
+So,
+come on.
+Did I get the question right?
+You asked me by the year 2030,
+will the USA’s life expectancy be a) in the top one-third b) the middle one-third or c) the bottom third compared to the rest of the world?
+And I said the USA’s quite a rich country,
+so it’s probably a) in the top one-third.
+<v Catherine> Sorry Dan.
+Nice logic,
+but actually the USA is one of the least <strong>equitable</strong> places in the world.
+So their life expectancy suffers,
+and the answer was actually c) the bottom third.
+<v Dan> Oh,
+well.
+Next week,
+maybe.
+Now,
+let’s take a look at the vocabulary from this programme.
+First we had <strong>dead on your feet</strong>.
+This is an informal expression which means ‘extremely tired’.
+Another way to say the same thing would be ‘shattered’.
+When was a time when you were <strong>dead on your feet</strong>,
+Catherine?
+<v Catherine> I built some garden furniture quite recently,
+and it took me all day,
+and I was <strong>dead on my feet</strong> when I finished.
+Now,
+we had <strong>motto.</strong> Now,
+a <strong>motto</strong> is a short phrase which reflects the beliefs of an organisation or person.
+So,
+Dan,
+what’s your personal <strong>motto</strong>?
+<v Dan> ‘Take the path of least resistance’.
+What about you?
+<v Catherine> ‘Less is more’.
+<v Dan> Ah!
+Good one.
+Then we had <strong>life expectancy.</strong> <strong>Life expectancy</strong> is how many years a person is likely to live.
+What do you think’s a good <strong>life expectancy</strong> for a person?
+<v Catherine> I’m hoping to get to about 85 and then I’d like a,
+sort of,
+quick exit because I think it’s probably not much fun after that.
+Then we had <strong>equitable</strong>.
+<strong>Equitable</strong> means ‘being fair or impartial’ and it comes from the word ‘equal’.
+So,
+Dan,
+personal question.
+Would you say that your marriage is <strong>equitable</strong>?
+<v Dan> I’d like to think so,
+yes.
+I do the cooking,
+my wife does the cleaning,
+and we share the other jobs.
+<v Catherine> We’ll have to get Mrs.
+Dan in to give her opinion.
+<v Dan> After that we heard <strong>obesity</strong>.
+<strong>Obesity</strong> describes a state of being very overweight.
+It’s a medical term and is often used in connection with health problems.
+The report said that the UK has an <strong>obesity</strong> problem,
+Catherine.
+How do you think we can solve it?
+<v Catherine> I think we need a sugar tax and everybody should walk to work.
+Finally we had <strong>binge</strong>.
+To <strong>binge</strong> is to consume a large amount of something in a short space of time,
+especially something that you don’t usually have.
+And these days we hear a lot about **binge drinking,
+binge eating** and <strong>binge watching</strong>.
+So,
+Dan,
+when did you last <strong>binge watch</strong> a series on TV?
+<v Dan> Oh,
+it’s Game of Thrones,
+isn’t it?
+Series one,
+series two,
+series three.
+Back to back.
+<v Catherine> Back to back <strong>binging</strong>.
+Brilliant.
+<v Dan> That’s it.
+Well,
+that’s the end of today’s 6 Minute English.
+Please join us again soon!
+<v Catherine> And we are on social media too,
+so make sure you visit us on Twitter,
+Facebook,
+Instagram and YouTube.
+<v Both> Bye!
+6 minute English from BBC.

@@ -1,154 +1,154 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	13.56		6 minute English from BBClearningEnglish.com
-13.56	14.12	<v Sam>	Hello.
-14.12	15.32		This is 6 Minute English,
-15.32	16.28		I’m Sam.
-16.28	17.56	<v Georgina>	And I’m Georgina.
-17.56	18.44	<v Sam>	Georgina,
-18.44	20.24		what languages do you speak?
-20.24	20.68	<v Georgina>	Well,
-20.68	25.8		my mother tongue is English and I also speak Spanish and French badly!
-25.8	26.64	<v Sam>	OK.
-26.64	29.96		It’s interesting that we say ‘mother tongue’,
-29.96	31		isn’t it?
-31	32.48		Like many languages,
-32.48	39.24		English has a number of gender-specific terms that don’t refer to gender-specific ideas and concepts.
-39.24	44.84		And this complicated relationship between language and gender is what we will be talking about today.
-44.84	45.68		But first,
-45.68	47.28		this week’s quiz question,
-47.28	50.6		which is also on the topic of languages.
-50.6	53.04		Which of these languages is the newest?
-53.04	53.76		Is it:
-53.76	56.04		A: Esperanto
-56.04	58.12		B: Afrikaans
-58.12	61.08		C: Light Warlpiri
-61.08	62.44		What do you think,
-62.44	63.12		Georgina?
-63.12	63.6	<v Georgina>	Well,
-63.6	65.92		I’ve only heard of two of these -
-65.92	68.2		Esperanto and Afrikaans –
-68.2	71.12		so I think I’m going to choose the other one,
-71.12	72.44		Light Warlpiri,
-72.44	75.16		purely as I’ve never heard of it,
-75.16	77.4		so I think that must be the one.
-77.4	77.92	<v Sam>	OK,
-77.92	82.04		well we’ll find out if your intuition is correct later in the programme.
-82.04	88.08		Professor Lera Boroditsky is a cognitive scientist who was a guest on the BBC World Service programme,
-88.08	89.28		The Conversation.
-89.28	93.44		She was asked about why we use the term ‘mother tongue’
-93.44	94.96		in English.
-94.96	97.2	<v Professor Lera Boroditsky>	Different languages actually do it differently,
-97.2	104		but definitely there’s a strong association between mothers as <strong>primary caregivers</strong> and people who teach us things,
-104	109.2		and so there’s that <strong>point of origin</strong> <strong>metaphor</strong> that applies in a lot of languages.
-109.2	110.36	<v Sam>	So,
-110.36	112.52		how does she explain the use of mother tongue,
-112.52	113.48		Georgina?
-113.48	113.92	<v Georgina>	Well,
-113.92	115.76		she says it’s a form of <strong>metaphor</strong>.
-115.76	120.8		A <strong>metaphor</strong> is a way of describing something by comparing it to something else.
-120.8	123.24		In a <strong>metaphor</strong>,though,
-123.24	126.24		you don’t say that something is <em>like</em> something else,
-126.24	128.48		you say that it ‘<em>is’</em> something else.
-128.48	130.04		For example,
-130.04	132.52		having good friends is the key to a happy life.
-132.52	133.12	<v Sam>	It is indeed.
-133.12	135.32		In this <strong>metaphor</strong>,
-135.32	138.88		language is seen as coming from your <strong>primary caregiver</strong>,
-138.88	141.48		the person who looked after you most when you were young,
-141.48	143.56		and traditionally this was mothers.
-143.56	144	<v Georgina>	So,
-144	146.2		this is perhaps the <strong>point of origin</strong>,
-146.2	149.28		the starting place,of the <strong>metaphorical</strong> phrase,
-149.28	150.44		<strong>mother tongue</strong>.
-150.44	151.92		Let’s listen again.
-151.92	154.08	<v Professor Lera Boroditsky>	Different languages actually do it differently,
-154.08	161.24		but definitely there’s a strong association between mothers as <strong>primary caregivers</strong> and people who teach us things,
-161.24	166.68		and so there’s that <strong>point of origin</strong> <strong>metaphor</strong> that applies in a lot of languages.
-166.68	169.84	<v Sam>	Language is very powerful in society and culture,
-169.84	172.04		and when it comes to gendered language,
-172.04	173.52		it can cause some issues.
-173.52	175.92		Here’s Lera Boroditsky again:
-175.92	176.84	<v Professor Lera Boroditsky>	…
-176.84	179.88		in English of course we have some words that are gendered,
-179.88	181.12		like ‘actor’
-181.12	182.12		and ‘actress’
-182.12	182.84		or ‘waiter’
-182.84	183.52		and ‘waitress’,
-183.52	196.48		and very commonly when there are those two gender forms people <strong>perceive</strong> the masculine form as being a more <strong>prestigious</strong> job or the more skilled job than the feminine form,
-196.48	202		so an actor is a fancier job than an actress and a waiter is a fancier job than a waitress,
-202	206.16		and so they could then come with pay <strong>disparities</strong> and so on.
-206.16	207.32	<v Sam>	So,
-207.32	210.28		what’s the subconscious difference in attitude towards,
-210.28	211.16		for example,
-211.16	213.64		an actor and actress?
-213.64	214.24	<v Georgina>	Well,
-214.24	217.8		she says that people <strong>perceive</strong> those roles differently.
-217.8	219.88		This means that we are aware of,
-219.88	223.92		or believe there is a difference in the jobs because of the vocabulary.
-223.92	227.72		The male form is <strong>perceived</strong> to be more <strong>prestigious</strong> –
-227.72	228.64		more important,
-228.64	230.04		more respected,
-230.04	232.2		even though it’s exactly the same job.
-232.2	236.48	<v Sam>	And this attitude can lead to problems such as <strong>disparities</strong> in pay.
-236.48	239.04		A <strong>disparity</strong> is a difference,
-239.04	240.48		an inequality,
-240.48	245.32		and in the world of work it can mean men getting paid more than women for the same job.
-245.32	246.96		Here’s Professor Boroditsky again.
-246.96	249.16	<v Professor Lera>	<strong>Boroditsky</strong>
-249.16	251.6		…in English of course we have some words that are gendered,
-251.6	252.84		like ‘actor’
-252.84	253.88		and ‘actress’
-253.88	254.12		or ‘waiter’
-254.12	255.32		and ‘waitress’,
-255.32	268.24		and very commonly when there are those two gender forms people <strong>perceive</strong> the masculine form as being a more <strong>prestigious</strong> job or a more skilled job than the feminine form,
-268.24	273.76		so an actor is a fancier job than an actress and a waiter is a fancier job than a waitress,
-273.76	277.84		and so they could then come with pay <strong>disparities</strong> and so on.
-277.84	278.88	<v Sam>	OK,
-278.88	281.32		before we take another look at today’s vocabulary,
-281.32	284.12		let’s reveal the answer to this week’s quiz.
-284.12	286.52		Which of these languages is the newest,
-286.52	286.88		is it:
-286.88	288.36		A: Esperanto
-288.36	290.08		B: Afrikaans
-290.08	291.16		C: Light Warlpiri
-291.16	291.8		Georgina,
-291.8	293.64		what did you say?
-293.64	295.88	<v Georgina>	I thought it had to be Light Walpiri,
-295.88	298.48		but just because I had never heard of it before.
-298.48	299.12	<v Sam>	Well,
-299.12	300.08		congratulations.
-300.08	301.28		Your instincts were good,
-301.28	302.56		that is correct.
-302.56	306.6		Let’s move on to vocabulary and look at today’s words and phrase again.
-306.6	312.84	<v Georgina>	A <strong>primary caregiver</strong> is a person who has most responsibility for looking after someone.
-312.84	315.96	<v Sam>	A <strong>point of origin</strong> is the place or time when something begins.
-315.96	319.56	<v Georgina>	A <strong>metaphor</strong> is a way of describing something.
-319.56	324.8		We can say that something is something else that has similar qualities.
-324.8	325.96	<v Sam>	You’re a star!
-325.96	326.76	<v Georgina>	Aw,
-326.76	327.44		thank you.
-327.44	328.56	<v Sam>	No,
-328.56	329.16		I meant,
-329.16	329.88		you’re a star,
-329.88	332.52		is an example of a <strong>metaphor</strong>.
-332.52	332.56	<v Georgina>	Oh,
-332.56	332.96		OK.
-332.96	333.36		Of course,
-333.36	333.96		I knew that.
-333.96	334.44	<v Sam>	Mmmm,
-334.44	335.24		if you say so.
-335.24	340.4		To <strong>perceive</strong> is to think of something in a particular way.
-340.4	345.72		We might <strong>perceive</strong> the value of different jobs based on the vocabulary used to describe them.
-345.72	349.6	<v Georgina>	Something <strong>prestigious</strong> is important and respected.
-349.6	350.4	<v Sam>	And finally,
-350.4	352.96		a <strong>disparity</strong> is a difference,
-352.96	359.4		an inequality and is often used when talking about how men and women aren’t always paid the same for the same job.
-359.4	361.48		And that is all from us.
-361.48	363.48		We look forward to your company again soon.
-363.48	364.48		In the meantime,
-364.48	365.76		you can always find us online,
-365.76	368.48		on social media and on the BBC Learning English app.
-368.48	370.28		Bye for now.
-370.28	371.68	<v Georgina>	Bye!
-371.68	378.6		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Sam> Hello.
+This is 6 Minute English,
+I’m Sam.
+<v Georgina> And I’m Georgina.
+<v Sam> Georgina,
+what languages do you speak?
+<v Georgina> Well,
+my mother tongue is English and I also speak Spanish and French badly!
+<v Sam> OK.
+It’s interesting that we say ‘mother tongue’,
+isn’t it?
+Like many languages,
+English has a number of gender-specific terms that don’t refer to gender-specific ideas and concepts.
+And this complicated relationship between language and gender is what we will be talking about today.
+But first,
+this week’s quiz question,
+which is also on the topic of languages.
+Which of these languages is the newest?
+Is it:
+A: Esperanto
+B: Afrikaans
+C: Light Warlpiri
+What do you think,
+Georgina?
+<v Georgina> Well,
+I’ve only heard of two of these -
+Esperanto and Afrikaans –
+so I think I’m going to choose the other one,
+Light Warlpiri,
+purely as I’ve never heard of it,
+so I think that must be the one.
+<v Sam> OK,
+well we’ll find out if your intuition is correct later in the programme.
+Professor Lera Boroditsky is a cognitive scientist who was a guest on the BBC World Service programme,
+The Conversation.
+She was asked about why we use the term ‘mother tongue’
+in English.
+<v Professor Lera Boroditsky> Different languages actually do it differently,
+but definitely there’s a strong association between mothers as <strong>primary caregivers</strong> and people who teach us things,
+and so there’s that <strong>point of origin</strong> <strong>metaphor</strong> that applies in a lot of languages.
+<v Sam> So,
+how does she explain the use of mother tongue,
+Georgina?
+<v Georgina> Well,
+she says it’s a form of <strong>metaphor</strong>.
+A <strong>metaphor</strong> is a way of describing something by comparing it to something else.
+In a <strong>metaphor</strong>,though,
+you don’t say that something is <em>like</em> something else,
+you say that it ‘<em>is’</em> something else.
+For example,
+having good friends is the key to a happy life.
+<v Sam> It is indeed.
+In this <strong>metaphor</strong>,
+language is seen as coming from your <strong>primary caregiver</strong>,
+the person who looked after you most when you were young,
+and traditionally this was mothers.
+<v Georgina> So,
+this is perhaps the <strong>point of origin</strong>,
+the starting place,of the <strong>metaphorical</strong> phrase,
+<strong>mother tongue</strong>.
+Let’s listen again.
+<v Professor Lera Boroditsky> Different languages actually do it differently,
+but definitely there’s a strong association between mothers as <strong>primary caregivers</strong> and people who teach us things,
+and so there’s that <strong>point of origin</strong> <strong>metaphor</strong> that applies in a lot of languages.
+<v Sam> Language is very powerful in society and culture,
+and when it comes to gendered language,
+it can cause some issues.
+Here’s Lera Boroditsky again:
+<v Professor Lera Boroditsky> …
+in English of course we have some words that are gendered,
+like ‘actor’
+and ‘actress’
+or ‘waiter’
+and ‘waitress’,
+and very commonly when there are those two gender forms people <strong>perceive</strong> the masculine form as being a more <strong>prestigious</strong> job or the more skilled job than the feminine form,
+so an actor is a fancier job than an actress and a waiter is a fancier job than a waitress,
+and so they could then come with pay <strong>disparities</strong> and so on.
+<v Sam> So,
+what’s the subconscious difference in attitude towards,
+for example,
+an actor and actress?
+<v Georgina> Well,
+she says that people <strong>perceive</strong> those roles differently.
+This means that we are aware of,
+or believe there is a difference in the jobs because of the vocabulary.
+The male form is <strong>perceived</strong> to be more <strong>prestigious</strong> –
+more important,
+more respected,
+even though it’s exactly the same job.
+<v Sam> And this attitude can lead to problems such as <strong>disparities</strong> in pay.
+A <strong>disparity</strong> is a difference,
+an inequality,
+and in the world of work it can mean men getting paid more than women for the same job.
+Here’s Professor Boroditsky again.
+<v Professor Lera> <strong>Boroditsky</strong>
+…in English of course we have some words that are gendered,
+like ‘actor’
+and ‘actress’
+or ‘waiter’
+and ‘waitress’,
+and very commonly when there are those two gender forms people <strong>perceive</strong> the masculine form as being a more <strong>prestigious</strong> job or a more skilled job than the feminine form,
+so an actor is a fancier job than an actress and a waiter is a fancier job than a waitress,
+and so they could then come with pay <strong>disparities</strong> and so on.
+<v Sam> OK,
+before we take another look at today’s vocabulary,
+let’s reveal the answer to this week’s quiz.
+Which of these languages is the newest,
+is it:
+A: Esperanto
+B: Afrikaans
+C: Light Warlpiri
+Georgina,
+what did you say?
+<v Georgina> I thought it had to be Light Walpiri,
+but just because I had never heard of it before.
+<v Sam> Well,
+congratulations.
+Your instincts were good,
+that is correct.
+Let’s move on to vocabulary and look at today’s words and phrase again.
+<v Georgina> A <strong>primary caregiver</strong> is a person who has most responsibility for looking after someone.
+<v Sam> A <strong>point of origin</strong> is the place or time when something begins.
+<v Georgina> A <strong>metaphor</strong> is a way of describing something.
+We can say that something is something else that has similar qualities.
+<v Sam> You’re a star!
+<v Georgina> Aw,
+thank you.
+<v Sam> No,
+I meant,
+you’re a star,
+is an example of a <strong>metaphor</strong>.
+<v Georgina> Oh,
+OK.
+Of course,
+I knew that.
+<v Sam> Mmmm,
+if you say so.
+To <strong>perceive</strong> is to think of something in a particular way.
+We might <strong>perceive</strong> the value of different jobs based on the vocabulary used to describe them.
+<v Georgina> Something <strong>prestigious</strong> is important and respected.
+<v Sam> And finally,
+a <strong>disparity</strong> is a difference,
+an inequality and is often used when talking about how men and women aren’t always paid the same for the same job.
+And that is all from us.
+We look forward to your company again soon.
+In the meantime,
+you can always find us online,
+on social media and on the BBC Learning English app.
+Bye for now.
+<v Georgina> Bye!
+6 minute English from BBC.

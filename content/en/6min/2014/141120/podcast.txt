@@ -1,146 +1,146 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.88		to find out more visit our website
-6.88	11.6		6 minute English from BBClearningEnglish.com
-11.6	14.88	<v Finn>	Hello I’m Finn and welcome to 6 Minute English.
-14.88	15.6		Rob’s here today.
-15.6	16.36		Hi Rob.
-16.36	17.2	<v Rob>	Hello Finn –
-17.2	18.08		are you well?
-18.08	18.88	<v Finn>	Very well,
-18.88	19.6		thanks.
-19.6	19.72		Rob,
-19.72	20.52		tell me –
-20.52	23.88		do you have a favourite <strong>science-fiction</strong> movie?
-23.88	24.08	<v Rob>	Ahh,
-24.08	25.64		science fiction –
-25.64	28.32		stories about an imagined future …
-28.32	34.2		well my favourite was and always will be <em>ET: Extra Terrestrial</em>,
-34.2	37.04		and you Finn?
-37.04	40.4	<v Finn>	Mine would probably be <em>Blade Runner</em> –
-40.4	43.56		the movie with Harrison Ford set in a dark,
-43.56	48.28		scary Los Angeles where he hunts robots called replicants.
-48.28	49.44		You know the one?
-49.44	50.08	<v Rob>	I do –
-50.08	51.72		and come to think of it,
-51.72	57		lots of movies and stories about the future are quite dark and negative …
-57	60.76	<v Finn>	But perhaps this might change.
-60.76	70		A new project wants to use the power of science fiction to do something very different: to inspire people to create a better future.
-70	71.36		It sounds very grand.
-71.36	76.12		We’ll be discussing the project and learning some language to talk about the future in this programme.
-76.12	78.52	<v Rob>	But before we get <em>too</em> far into the future,
-78.52	80.52		I’m sure you have a question for me,
-80.52	81.04		Finn?
-81.04	82.12	<v Finn>	Yes indeed.
-82.12	84.72		It’s about the film <em>Blade Runner</em>.
-84.72	86.04		It’s set in the future –
-86.04	88.52		but in which year?
-88.52	90.56		a) 2000
-90.56	92.76		b) 2019
-92.76	94.92		c) 2056
-94.92	98.92	<v Rob>	I think I’m gonna go for the far future,
-98.92	101.72		c) 2056.
-101.72	108.84	<v Finn>	Well I’ll tell you if you’re right or wrong later <strong>in the not-too-distant future</strong>.
-108.84	109.24	<v Rob>	Very good.
-109.24	109.6		So,
-109.6	113.32		as we were saying: lots of science fiction is negative.
-113.32	113.88	<v Finn>	Yes,
-113.88	122.44		there’s a word to describe the kind of future world which often appears in science fiction: <strong>dystopian</strong>.
-122.44	128.64		The noun ‘dystopia’ means an imagined place where things are unpleasant or bad.
-128.64	133.32		The opposite is <strong>utopia</strong> and <strong>utopian</strong>.
-133.32	136.2	<v Rob>	But why is so much science fiction dystopian?
-136.2	139.92		Dr Braden Allenby from Arizona State University.
-139.92	146.52	<v Braden Allenby, Professor of Engineering and Ethics, Arizona State University>	The <strong>downside</strong> of both of science fiction and movies is that they tend to be dystopian,
-146.52	148.16		they tend to be very negative,
-148.16	150.12		they tend to be very noir.
-150.12	151.8		Dystopian is easier to do.
-151.8	157.24		It’s easier to write a dystopian story than it is to write an optimistic story.
-157.24	160.48	<v Rob>	He says dystopian stories are easier to write.
-160.48	161.2		I can see that –
-161.2	164.04		there’s more conflict in a world which has problems –
-164.04	168.4		and good stories often have a lot of conflict and problems to resolve.
-168.4	169	<v Finn>	Yes,
-169	174.92		but Braden thinks being negative is the downside of science fiction.
-174.92	177.56		A downside is a disadvantage,
-177.56	178.88		a bad point.
-178.88	182.96		He would prefer to see more <strong>optimistic</strong> science fiction.
-182.96	184.08	<v Rob>	Optimistic,
-184.08	186.28		more positive about the future,
-186.28	190.76		which is why Braden is taking part in something called Project Hieroglyph.
-190.76	192.84		It brings together writers,
-192.84	193.6		scientists,
-193.6	201.24		engineers and artists to create optimistic stories about things which really could happen in the next 50 years.
-201.24	205.72	<v Finn>	So let’s talk about the kinds of things are happening in these stories?
-205.72	206.48	<v Rob>	Well,
-206.48	210		there’s one about a huge tower 20 km tall –
-210	212		going all the way into space.
-212	212.8		Apparently,
-212.8	216.16		building the tower is good for the US steel industry …
-216.16	219.16		and they invent a new kind of energy in the story too.
-219.16	221.4	<v Finn>	Sounds very interesting –
-221.4	223.36		but is it <strong>plausible</strong> –
-223.36	224.64		could it really happen?
-224.64	226.84		Could they really build a tower that big?
-226.84	227.4	<v Rob>	Well,
-227.4	233.96		there’s another about <strong>environmentalists</strong> who fight to stop people building the first hotel in Antarctica.
-233.96	235.68	<v Finn>	Environmentalists –
-235.68	238.16		people who care about the environment.
-238.16	240.8		Well there’s conflict there …
-240.8	242.12		and it’s plausible,
-242.12	243.84		so it could be a good story.
-243.84	245.36		But I can’t help thinking –
-245.36	248.52		will these stories actually change anything?
-248.52	249.56	<v Rob>	Ed Finn,
-249.56	251.32		who edited a book of these stories,
-251.32	251.92		thinks so.
-251.92	256.28		He says: “A good science-fiction story can be very powerful”.
-256.28	258.28		&quot;It can inspire hundreds,
-258.28	259		thousands,
-259	262.68		millions of people to <strong>rally around</strong> something that they want to do.&quot;
-262.68	268.84	<v Finn>	To rally around something means to come together in support of a cause.
-268.84	274.52	<v Rob>	And Braden Allenby says you can already see the influence of science fiction in modern research.
-274.52	277.36		Which item is being worked on right now?
-277.36	279.68	<v Braden Allenby, Professor of Engineering and Ethics, Arizona State University>	&quot;Why are people working on,
-279.68	280.76		for example,
-280.76	282.36		invisibility cloaks?
-282.36	282.88		Well,
-282.88	284		it’s Harry Potter,
-284	284.56		right?
-284.56	285.68		That’s where they saw it.&quot;
-285.68	288.2	<v Finn>	An invisibility cloak –
-288.2	293.32		a long coat which makes you <strong>invisible,</strong> in other words unable to be seen –
-293.32	296.64		which people first saw in one of the <em>Harry Potter</em> movies.
-296.64	297.52	<v Rob>	Interesting …
-297.52	304.4		so will the stories from Project Hieroglyph inspire people to do and invent new things that can help others?
-304.4	307.6		Can they help create <strong>a</strong> <strong>bright future</strong> –
-307.6	307.72		that’s a good,
-307.72	309.12		positive future?
-309.12	310.84		Or will they just be good stories?
-310.84	312.32	<v Finn>	<strong>Time will tell</strong> –
-312.32	315.36		that means we’ll find out as time goes by.
-315.36	321.8		One thing that we’re going to find out right now is the answer to when the movie <em>Blade Runner</em> was set?
-321.8	326.04	<v Rob>	I said the answer was c) 2056.
-326.04	330.92	<v Finn>	And the answer was in fact b) 2019.
-330.92	332.36		A little bit earlier,
-332.36	332.64		Rob.
-332.64	333.32	<v Rob>	Quite soon,
-333.32	333.6		then?
-333.6	334.08	<v Finn>	Yes,
-334.08	335.32		it’s in a couple of years.
-335.32	335.52		So,
-335.52	336.72		watch out LA.
-336.72	337.64		But,
-337.64	338.12		Rob,
-338.12	341.2		can you remind us of some of the words we learned today?
-341.2	342.36	<v Rob>	We had …
-342.36	343.96		science fiction
-343.96	345.8		dystopian
-345.8	348.24		downside
-348.24	350.68		optimistic
-350.68	352.68		plausible
-352.68	355.56		a bright future
-355.56	359.24		time will tell
-359.24	362.28	<v Finn>	And that’s it for today’s programme.
-362.28	365.08		If you want to listen to more programmes like this one,
-365.08	368.32		visit bbclearningenglish.com.
-368.32	368.72	<v Both>	Bye.
-368.72	376.72		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Finn> Hello I’m Finn and welcome to 6 Minute English.
+Rob’s here today.
+Hi Rob.
+<v Rob> Hello Finn –
+are you well?
+<v Finn> Very well,
+thanks.
+Rob,
+tell me –
+do you have a favourite <strong>science-fiction</strong> movie?
+<v Rob> Ahh,
+science fiction –
+stories about an imagined future …
+well my favourite was and always will be <em>ET: Extra Terrestrial</em>,
+and you Finn?
+<v Finn> Mine would probably be <em>Blade Runner</em> –
+the movie with Harrison Ford set in a dark,
+scary Los Angeles where he hunts robots called replicants.
+You know the one?
+<v Rob> I do –
+and come to think of it,
+lots of movies and stories about the future are quite dark and negative …
+<v Finn> But perhaps this might change.
+A new project wants to use the power of science fiction to do something very different: to inspire people to create a better future.
+It sounds very grand.
+We’ll be discussing the project and learning some language to talk about the future in this programme.
+<v Rob> But before we get <em>too</em> far into the future,
+I’m sure you have a question for me,
+Finn?
+<v Finn> Yes indeed.
+It’s about the film <em>Blade Runner</em>.
+It’s set in the future –
+but in which year?
+a) 2000
+b) 2019
+c) 2056
+<v Rob> I think I’m gonna go for the far future,
+c) 2056.
+<v Finn> Well I’ll tell you if you’re right or wrong later <strong>in the not-too-distant future</strong>.
+<v Rob> Very good.
+So,
+as we were saying: lots of science fiction is negative.
+<v Finn> Yes,
+there’s a word to describe the kind of future world which often appears in science fiction: <strong>dystopian</strong>.
+The noun ‘dystopia’ means an imagined place where things are unpleasant or bad.
+The opposite is <strong>utopia</strong> and <strong>utopian</strong>.
+<v Rob> But why is so much science fiction dystopian?
+Dr Braden Allenby from Arizona State University.
+<v Braden Allenby, Professor of Engineering and Ethics, Arizona State University> The <strong>downside</strong> of both of science fiction and movies is that they tend to be dystopian,
+they tend to be very negative,
+they tend to be very noir.
+Dystopian is easier to do.
+It’s easier to write a dystopian story than it is to write an optimistic story.
+<v Rob> He says dystopian stories are easier to write.
+I can see that –
+there’s more conflict in a world which has problems –
+and good stories often have a lot of conflict and problems to resolve.
+<v Finn> Yes,
+but Braden thinks being negative is the downside of science fiction.
+A downside is a disadvantage,
+a bad point.
+He would prefer to see more <strong>optimistic</strong> science fiction.
+<v Rob> Optimistic,
+more positive about the future,
+which is why Braden is taking part in something called Project Hieroglyph.
+It brings together writers,
+scientists,
+engineers and artists to create optimistic stories about things which really could happen in the next 50 years.
+<v Finn> So let’s talk about the kinds of things are happening in these stories?
+<v Rob> Well,
+there’s one about a huge tower 20 km tall –
+going all the way into space.
+Apparently,
+building the tower is good for the US steel industry …
+and they invent a new kind of energy in the story too.
+<v Finn> Sounds very interesting –
+but is it <strong>plausible</strong> –
+could it really happen?
+Could they really build a tower that big?
+<v Rob> Well,
+there’s another about <strong>environmentalists</strong> who fight to stop people building the first hotel in Antarctica.
+<v Finn> Environmentalists –
+people who care about the environment.
+Well there’s conflict there …
+and it’s plausible,
+so it could be a good story.
+But I can’t help thinking –
+will these stories actually change anything?
+<v Rob> Ed Finn,
+who edited a book of these stories,
+thinks so.
+He says: “A good science-fiction story can be very powerful”.
+&quot;It can inspire hundreds,
+thousands,
+millions of people to <strong>rally around</strong> something that they want to do.&quot;
+<v Finn> To rally around something means to come together in support of a cause.
+<v Rob> And Braden Allenby says you can already see the influence of science fiction in modern research.
+Which item is being worked on right now?
+<v Braden Allenby, Professor of Engineering and Ethics, Arizona State University> &quot;Why are people working on,
+for example,
+invisibility cloaks?
+Well,
+it’s Harry Potter,
+right?
+That’s where they saw it.&quot;
+<v Finn> An invisibility cloak –
+a long coat which makes you <strong>invisible,</strong> in other words unable to be seen –
+which people first saw in one of the <em>Harry Potter</em> movies.
+<v Rob> Interesting …
+so will the stories from Project Hieroglyph inspire people to do and invent new things that can help others?
+Can they help create <strong>a</strong> <strong>bright future</strong> –
+that’s a good,
+positive future?
+Or will they just be good stories?
+<v Finn> <strong>Time will tell</strong> –
+that means we’ll find out as time goes by.
+One thing that we’re going to find out right now is the answer to when the movie <em>Blade Runner</em> was set?
+<v Rob> I said the answer was c) 2056.
+<v Finn> And the answer was in fact b) 2019.
+A little bit earlier,
+Rob.
+<v Rob> Quite soon,
+then?
+<v Finn> Yes,
+it’s in a couple of years.
+So,
+watch out LA.
+But,
+Rob,
+can you remind us of some of the words we learned today?
+<v Rob> We had …
+science fiction
+dystopian
+downside
+optimistic
+plausible
+a bright future
+time will tell
+<v Finn> And that’s it for today’s programme.
+If you want to listen to more programmes like this one,
+visit bbclearningenglish.com.
+<v Both> Bye.
+6 minute English from BBC.

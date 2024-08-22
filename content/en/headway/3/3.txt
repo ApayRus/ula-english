@@ -1,9 +1,9 @@
-0.17	2.25	Tapescript 3.3
-4.41	6.30	Where does Alison come from?
-6.61	8.03	Cambridge, in England.
-8.91	10.00	What does she do?
-10.36	11.64	She’s a scientist.
-12.34	13.83	Does she speak French?
-13.89	14.97	Yes, she does.
-15.62	17.16	Does she speak Spanish?
-17.21	18.42	No, she doesn’t.
+Tapescript 3.3
+Where does Alison come from?
+Cambridge, in England.
+What does she do?
+She’s a scientist.
+Does she speak French?
+Yes, she does.
+Does she speak Spanish?
+No, she doesn’t.

@@ -1,7 +1,7 @@
-0.15	2.25	T 2.2
-3.67	4.77	Is she American?
-5.53	7.13	No, she isn’t.
-8.16	9.20	Is she French?
-9.99	11.45	No, she isn’t.
-12.31	13.40	Is she English?
-14.15	15.59	Yes, she is.
+T 2.2
+Is she American?
+No, she isn’t.
+Is she French?
+No, she isn’t.
+Is she English?
+Yes, she is.

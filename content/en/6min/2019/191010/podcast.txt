@@ -1,146 +1,146 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	12.4		6 minute English from BBClearningEnglish.com
-12.4	12.88	<v Rob>	Hello.
-12.88	14.52		This is 6 Minute English.
-14.52	15.12		I’m Rob.
-15.12	16	<v Sam>	And I’m Sam.
-16	16.96	<v Rob>	In this programme,
-16.96	19		we’re talking about biscuits.
-19	20.08	<v Sam>	Really?
-20.08	22.28		That’s not what I was told…
-22.28	23.32		oh hold on,
-23.32	24.04		you’re lying.
-24.04	24.6	<v Rob>	Yes,
-24.6	25.16		you’re right,
-25.16	25.68		Sam.
-25.68	28.92		I am lying simply to demonstrate our topic –
-28.92	31.44		lying and how to detect it.
-31.44	33.44		You detected my lie very easily,
-33.44	34		Sam!
-34	37.88	<v Sam>	I could tell by the smirk on your face that you were telling a <strong>fib</strong> –
-37.88	39.52		that’s the word for a small,
-39.52	40.6		inoffensive lie.
-40.6	41.64	<v Rob>	To be honest,
-41.64	46.08		talking about lie detecting will be much more interesting than biscuits.
-46.08	47.08		But first,
-47.08	49.76		let’s start with a question for you to answer.
-49.76	57.8		A competition is held in Cumbria in the UK every year to find and award the title of “The Biggest Liar in the World”.
-57.8	61.68		But which type of people are not allowed to take part?
-61.68	63.2		a) Farmers
-63.2	64.68		b) Lawyers
-64.68	66.52		c) Estate agents
-66.52	66.96		What do you think,
-66.96	67.8		Sam?
-67.8	70.12	<v Sam>	I’d be lying if I said I knew –
-70.12	74.52		but based on personal experience I’d say estate agents –
-74.52	76.2		they’d find it too easy!
-76.2	76.84	<v Rob>	Ha –
-76.84	81.52		well that’s your opinion but I’ll let you know if you’re right at the end of the programme.
-81.52	81.96		So,
-81.96	85.24		lying is something I’m sure a lot of us do –
-85.24	86.8		sometimes to avoid trouble,
-86.8	88.64		sometimes to cheat people,
-88.64	91.08		or sometimes just to impress someone –
-91.08	93.08		did you know I can speak seven languages,
-93.08	93.64		Sam?
-93.64	95.4	<v Sam>	That’s just a barefaced lie,
-95.4	95.92		Rob!
-95.92	98.56		But I can see how easy lying can be,
-98.56	101.32		and that’s what neuroscientist Sophie Scott thinks.
-101.32	104.56		Here she is on BBC Radio 4’s ‘Seriously’
-104.56	105.48		podcast,
-105.48	110.12		explaining how we sometimes lie just to be nice!
-110.12	123.96	<v Sophie Scott, neuroscientist>	Often what we mean by lying is someone setting out to <strong>deceive</strong> us with their words or their actions but actually normal conversation probably can only happen because we don’t actually say all the time exactly what we really think and what we really mean.
-123.96	127.48		And that kind of cooperation is <strong>at the heart</strong>,
-127.48	128		I think,
-128	137.6		of a lot of social interactions for humans and I think that’s one of the strong pushes to make conversation polite and therefore frequently not actually truthful.
-137.6	140.8	<v Rob>	So Sophie mentions two types of lying.
-140.8	143.56		There’s the one when we try to <strong>deceive</strong> someone –
-143.56	148.16		so that’s trying to hide something by tricking someone to gain an advantage.
-148.16	148.92	<v Sam>	Hmm,
-148.92	156.24		that’s like you getting me to pay £10 for a cinema ticket when actually they were only £5.
-156.24	157.56		That’s just dishonest,
-157.56	161.64		but there are also what I like to call <strong>white lies</strong> –
-161.64	164.88		small lies we tell to avoid upsetting someone.
-164.88	168.76		Those are lies that aren’t intended to give you an advantage.
-168.76	169.44	<v Rob>	Yes,
-169.44	172.28		Sophie Scott says we use them in normal conversation –
-172.28	174.44		when we don’t say what we really mean.
-174.44	175	<v Sam>	So,
-175	179.68		we want to make conversation polite because we want to cooperate with each other –
-179.68	182.8		she says cooperation is <strong>at the heart</strong>.
-182.8	188.52		Something that’s <strong>at the heart</strong> is the most important or essential part.
-188.52	193.64	<v Rob>	Now telling lies is one thing but how do you know if we’re being lied to?
-193.64	195.96		Sometimes there are telltale signs,
-195.96	199.52		such as someone’s face turning red or someone shuffling their feet.
-199.52	202.36	<v Sam>	But if you really want to know if someone is lying,
-202.36	205.2		maybe we should listen to Richard Wiseman,
-205.2	207.92		a psychologist at the University of Hertfordshire.
-207.92	210.28		Here he is speaking on the ‘Seriously’
-210.28	211.08		podcast…
-211.08	214.88	<v Richard Wiseman, psychologist, University of Hertfordshire>	Liars in general say less.
-214.88	219.28		They tend to have a longer what’s called <strong>response</strong> <strong>latency</strong>,
-219.28	222.52		which is the time between the end of the question and the beginning of the answer.
-222.52	227.04		And there also tends to be an emotional distance in the lie –
-227.04	229.08		so the words ‘me’,’my’,
-229.08	229.76		‘I’ –
-229.76	237.6		all those things tend to drop away in lies and it’s much much harder for liars to control what they’re saying and how they’re saying it,
-237.6	239.16		so focus your attention there,
-239.16	240.64		you become a better lie detector.
-240.64	244.84	<v Rob>	Some good advice from Richard Wiseman.
-244.84	250.12		So to detect lies we need to listen out for the <strong>response</strong> <strong>latency</strong> –
-250.12	257.04		a term used in psychology to describe the time taken between a stimulus or question and a response to it.
-257.04	258.36		The bigger the gap,
-258.36	260.84		the more chance there is that someone is lying.
-260.84	262.08		Is that a good summary,
-262.08	263.44		Sam?
-263.44	264.48	<v Sam>	Sort of,
-264.48	265.08		Rob.
-265.08	267.76		Richard also suggests we focus on –
-267.76	269.2		or concentrate on –
-269.2	272.4		what and how people are saying things too.
-272.4	275.76		There’s probably more to it than just that.
-275.76	277.52	<v Rob>	Well now you know how to detect my lies,
-277.52	277.88		Sam,
-277.88	280.2		maybe honestly is the best policy –
-280.2	281		as they say.
-281	285.6		So I’m now going to give you an honest answer to the question I asked earlier.
-285.6	288.28		A competition is held in Cumbria,
-288.28	288.96		in the UK,
-288.96	293.56		every year to award the title of “The Biggest Liar in the World”.
-293.56	297.64		But which type of people are not allowed to take part?
-297.64	298.68		a) Farmers
-298.68	300.04		b) Lawyers
-300.04	301.76		c) Estate agents
-301.76	305.56	<v Sam>	I guessed c) estate agents.
-305.56	306.92	<v Rob>	And you are wrong,
-306.92	307.88		I’m afraid.
-307.88	309.08		Lawyers,
-309.08	310.44		as well as politicians,
-310.44	312.72		are not allowed to enter the competition.
-312.72	317.04		It’s claimed “they are judged to be too skilled at telling <strong>porkies</strong>” –
-317.04	321		<strong>porkies</strong> is an informal word for ‘pork pies’
-321	323.64		and that rhymes with ‘lies’.
-323.64	325.04	<v Sam>	Fascinating stuff,
-325.04	326.72		Rob and that’s no lie!
-326.72	327.88		But now,
-327.88	330.52		shall we recap some of the vocabulary we’ve heard today?
-330.52	331.08	<v Rob>	Why not?
-331.08	334.92		A <strong>fib</strong> is a small inoffensive lie**.**
-334.92	337.84	<v Sam>	A <strong>white lie</strong> is also a small lie,
-337.84	339.88		told to avoid upsetting someone.
-339.88	341.76	<v Rob>	When you <strong>deceive</strong> someone,
-341.76	345.68		you try to hide something by tricking them to gain an advantage.
-345.68	349	<v Sam>	When something is <strong>at the heart</strong> of something,
-349	352.24		it is the most important or essential part of it.
-352.24	355.24		And we heard about <strong>response latency</strong> –
-355.24	363		a term used in psychology to describe the time taken between a stimulus or question and a response to it.
-363	363.64	<v Rob>	OK,
-363.64	363.92		thank you,
-363.92	364.32		Sam.
-364.32	366.56		That’s all from 6 Minute English.
-366.56	368.52		We look forward to your company next time.
-368.52	369.16		Goodbye!
-369.16	371.28	<v Sam>	Bye everyone!
-371.28	377.24		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello.
+This is 6 Minute English.
+I’m Rob.
+<v Sam> And I’m Sam.
+<v Rob> In this programme,
+we’re talking about biscuits.
+<v Sam> Really?
+That’s not what I was told…
+oh hold on,
+you’re lying.
+<v Rob> Yes,
+you’re right,
+Sam.
+I am lying simply to demonstrate our topic –
+lying and how to detect it.
+You detected my lie very easily,
+Sam!
+<v Sam> I could tell by the smirk on your face that you were telling a <strong>fib</strong> –
+that’s the word for a small,
+inoffensive lie.
+<v Rob> To be honest,
+talking about lie detecting will be much more interesting than biscuits.
+But first,
+let’s start with a question for you to answer.
+A competition is held in Cumbria in the UK every year to find and award the title of “The Biggest Liar in the World”.
+But which type of people are not allowed to take part?
+a) Farmers
+b) Lawyers
+c) Estate agents
+What do you think,
+Sam?
+<v Sam> I’d be lying if I said I knew –
+but based on personal experience I’d say estate agents –
+they’d find it too easy!
+<v Rob> Ha –
+well that’s your opinion but I’ll let you know if you’re right at the end of the programme.
+So,
+lying is something I’m sure a lot of us do –
+sometimes to avoid trouble,
+sometimes to cheat people,
+or sometimes just to impress someone –
+did you know I can speak seven languages,
+Sam?
+<v Sam> That’s just a barefaced lie,
+Rob!
+But I can see how easy lying can be,
+and that’s what neuroscientist Sophie Scott thinks.
+Here she is on BBC Radio 4’s ‘Seriously’
+podcast,
+explaining how we sometimes lie just to be nice!
+<v Sophie Scott, neuroscientist> Often what we mean by lying is someone setting out to <strong>deceive</strong> us with their words or their actions but actually normal conversation probably can only happen because we don’t actually say all the time exactly what we really think and what we really mean.
+And that kind of cooperation is <strong>at the heart</strong>,
+I think,
+of a lot of social interactions for humans and I think that’s one of the strong pushes to make conversation polite and therefore frequently not actually truthful.
+<v Rob> So Sophie mentions two types of lying.
+There’s the one when we try to <strong>deceive</strong> someone –
+so that’s trying to hide something by tricking someone to gain an advantage.
+<v Sam> Hmm,
+that’s like you getting me to pay £10 for a cinema ticket when actually they were only £5.
+That’s just dishonest,
+but there are also what I like to call <strong>white lies</strong> –
+small lies we tell to avoid upsetting someone.
+Those are lies that aren’t intended to give you an advantage.
+<v Rob> Yes,
+Sophie Scott says we use them in normal conversation –
+when we don’t say what we really mean.
+<v Sam> So,
+we want to make conversation polite because we want to cooperate with each other –
+she says cooperation is <strong>at the heart</strong>.
+Something that’s <strong>at the heart</strong> is the most important or essential part.
+<v Rob> Now telling lies is one thing but how do you know if we’re being lied to?
+Sometimes there are telltale signs,
+such as someone’s face turning red or someone shuffling their feet.
+<v Sam> But if you really want to know if someone is lying,
+maybe we should listen to Richard Wiseman,
+a psychologist at the University of Hertfordshire.
+Here he is speaking on the ‘Seriously’
+podcast…
+<v Richard Wiseman, psychologist, University of Hertfordshire> Liars in general say less.
+They tend to have a longer what’s called <strong>response</strong> <strong>latency</strong>,
+which is the time between the end of the question and the beginning of the answer.
+And there also tends to be an emotional distance in the lie –
+so the words ‘me’,’my’,
+‘I’ –
+all those things tend to drop away in lies and it’s much much harder for liars to control what they’re saying and how they’re saying it,
+so focus your attention there,
+you become a better lie detector.
+<v Rob> Some good advice from Richard Wiseman.
+So to detect lies we need to listen out for the <strong>response</strong> <strong>latency</strong> –
+a term used in psychology to describe the time taken between a stimulus or question and a response to it.
+The bigger the gap,
+the more chance there is that someone is lying.
+Is that a good summary,
+Sam?
+<v Sam> Sort of,
+Rob.
+Richard also suggests we focus on –
+or concentrate on –
+what and how people are saying things too.
+There’s probably more to it than just that.
+<v Rob> Well now you know how to detect my lies,
+Sam,
+maybe honestly is the best policy –
+as they say.
+So I’m now going to give you an honest answer to the question I asked earlier.
+A competition is held in Cumbria,
+in the UK,
+every year to award the title of “The Biggest Liar in the World”.
+But which type of people are not allowed to take part?
+a) Farmers
+b) Lawyers
+c) Estate agents
+<v Sam> I guessed c) estate agents.
+<v Rob> And you are wrong,
+I’m afraid.
+Lawyers,
+as well as politicians,
+are not allowed to enter the competition.
+It’s claimed “they are judged to be too skilled at telling <strong>porkies</strong>” –
+<strong>porkies</strong> is an informal word for ‘pork pies’
+and that rhymes with ‘lies’.
+<v Sam> Fascinating stuff,
+Rob and that’s no lie!
+But now,
+shall we recap some of the vocabulary we’ve heard today?
+<v Rob> Why not?
+A <strong>fib</strong> is a small inoffensive lie**.**
+<v Sam> A <strong>white lie</strong> is also a small lie,
+told to avoid upsetting someone.
+<v Rob> When you <strong>deceive</strong> someone,
+you try to hide something by tricking them to gain an advantage.
+<v Sam> When something is <strong>at the heart</strong> of something,
+it is the most important or essential part of it.
+And we heard about <strong>response latency</strong> –
+a term used in psychology to describe the time taken between a stimulus or question and a response to it.
+<v Rob> OK,
+thank you,
+Sam.
+That’s all from 6 Minute English.
+We look forward to your company next time.
+Goodbye!
+<v Sam> Bye everyone!
+6 minute English from BBC.

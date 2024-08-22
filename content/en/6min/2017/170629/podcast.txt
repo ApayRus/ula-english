@@ -1,161 +1,161 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.92		to find out more visit our website
-6.92	12.52		6 minute English from BBClearningEnglish.com
-12.52	14.4	<v Neil>	Welcome to 6 Minute English,
-14.4	19.76		the programme where we explore an interesting topic and bring you six bits of useful vocabulary.
-19.76	20.44		I’m Neil.
-20.44	21.16	<v Rob>	And I’m Rob.
-21.16	23.92		Today we’re talking about <strong>first impressions</strong> –
-23.92	25.76		and how they’re often wrong.
-25.76	28.56	<v Neil>	So let’s start with the term <strong>first impression</strong> –
-28.56	34		it’s the idea or opinion you have about someone after meeting them for only a short time.
-34	40.08	<v Rob>	It’s very natural to make a quick judgement about someone based on their appearance or facial expression.
-40.08	46.52	<v Neil>	We’re going to be hearing about the research of Professor Alexander Todorov from Princeton University in the US.
-46.52	46.84		First,
-46.84	52.84		a question: how long does he say it takes to form an impression about someone’s face?
-52.84	53.16		Is it…
-53.16	55.44		a) under one second
-55.44	57.36		b) one second
-57.36	59.04		c) six seconds
-59.04	61.08	<v Rob>	I’ll go for b) one second.
-61.08	61.24	<v Neil>	Well,
-61.24	64.32		we’ll find out if you’re right or not at the end of the programme.
-64.32	64.68	<v Rob>	So –
-64.68	68.64		Alexander Todorov has been researching our impressions.
-68.64	72.2		His tests asked people to decide whether they thought faces were dominant,
-72.2	73.04		competent,
-73.04	76.28		<strong>trustworthy</strong> or <strong>extroverted</strong>.
-76.28	78.16	<v Neil>	Let’s just look at those words for a second.
-78.16	81.36		Dominant means being strongest or most important.
-81.36	84.64		Competent means being able to do things.
-84.64	87.76	<v Rob>	While if you’re <strong>trustworthy</strong> it means people trust you –
-87.76	89.72		you are worth their trust.
-89.72	94.68		And being extroverted means you are energetic and enjoy spending time with others.
-94.68	96.64	<v Neil>	So what did he find out?
-96.64	98.88		Faces that look happy and feminine –
-98.88	99.2		like a woman -
-99.2	102.24		were rated as more <strong>trustworthy</strong>.
-102.24	104.28	<v Rob>	While faces that were more masculine –
-104.28	105.12		like a man –
-105.12	106.76		were seen as more dominant.
-106.76	110.52	<v Neil>	Wider faces with big eyes were seen as more <strong>extroverted</strong>.
-110.52	115.36	<v Rob>	Now the important thing that Todorov says is that these judgements <em>aren’t</em> accurate.
-115.36	118.64		Someone who looks competent isn’t necessarily competent!
-118.64	118.88	<v Neil>	So,
-118.88	120.4		what does this mean in practice?
-120.4	123		Here’s Professor Todorov:
-123	125.24	<v Professor Alexander Todorov, Princeton University>	<strong>Trustworthiness</strong>,
-125.24	129.52		dominance and attractiveness are the three big things that we form impressions of people.
-129.52	135.04		But interestingly we have done some work predicting the electoral success of politicians,
-135.04	141.92		and the judgement that is most predictive of who is going to win the election is <strong>perceived</strong> competence.
-141.92	143.88		And this is not random at all,
-143.88	148.92		because if you ask voters what is the most important <strong>attribute</strong> of a politician,
-148.92	151.88		competence is the one on the top.
-151.88	152.24	<v Neil>	OK,
-152.24	154.6		so this is actually quite significant.
-154.6	158.68		People say that the most important <strong>attribute</strong> –
-158.68	159.08		or quality –
-159.08	160.04		for a politician is competence –
-160.04	161.76		the ability to do things.
-161.76	163.6	<v Rob>	That sounds fair enough.
-163.6	166.8		But because we make judgements based on appearance –
-166.8	169.4		this can actually affect how people vote.
-169.4	170.64	<v Neil>	If voters believe –
-170.64	173.28		or <strong>perceive</strong> someone to be competent –
-173.28	175.76		they’re more likely to vote for him or her.
-175.76	180.92	<v Rob>	He says this applies especially to people who are less educated about politics –
-180.92	183.92		they are more likely to be influenced by appearance.
-183.92	187.56	<v Neil>	He says this applies to around 25% of voters –
-187.56	193.36		so the number of people who <strong>go with their gut</strong> is large enough to influence the outcomes of elections!
-193.36	193.88	<v Rob>	Wow.
-193.88	195.64		<strong>To go with</strong> <strong>your gut</strong>.
-195.64	200.16		That means to make a decision which isn’t based on rational thought –
-200.16	201.68		it’s based on instinct,
-201.68	202.8		on a feeling,
-202.8	203.64		on your gut.
-203.64	204.28	<v Neil>	Yes –
-204.28	207.6		your gut is your stomach and the organs in your belly.
-207.6	207.92		So,
-207.92	210.56		can we tell nothing from a person’s face?
-210.56	215.96	<v Rob>	Todorov says faces carry useful information about things like a person’s mental state,
-215.96	217.6		and whether they’re tired or sick.
-217.6	220.68		But they don’t tell you about a person’s character.
-220.68	221.04	<v Neil>	Indeed.
-221.04	223.52		It’s not only elections where this counts,
-223.52	226.88		we also judge during job interviews and meetings.
-226.88	230.48	<v Rob>	So what can we do to minimise the chances of being affected –
-230.48	233		should we just close our eyes when we meet people?
-233	233.64	<v Neil>	Well,
-233.64	235.6		it’s not such a bad idea!
-235.6	238.32		There’s the example of the Boston Symphony Orchestra –
-238.32	242.84		back in the 1950s it was entirely made up of male musicians.
-242.84	249		They then introduced ‘blind auditions’ in other words they listened to new musicians without looking at them.
-249	250.72	<v Rob>	And what happened –
-250.72	252.64		I guess many more women were selected?
-252.64	253.52	<v Neil>	Exactly –
-253.52	255.08		around 50%.
-255.08	255.56		Of course,
-255.56	259.24		gender and race are also huge factors in how we perceive faces.
-259.24	264.36		Todorov says we tend to react most positively to faces that look like our own.
-264.36	265.04	<v Rob>	Right,
-265.04	265.32		well –
-265.32	269.4		I guess we just need to take a deep breath and try not to judge too much.
-269.4	270.6	<v Neil>	Easier said than done,
-270.6	271.36		I’m afraid.
-271.36	273.4		Especially when we judge so quickly!
-273.4	276.24		But do we do it in under a second,
-276.24	278.2		one second or six seconds?
-278.2	280	<v Rob>	I said one second.
-280	283.48	<v Neil>	According to Todorov it takes under one second.
-283.48	286.52	<v Rob>	I think it’s safe to say it’s very fast.
-286.52	289.52		So shall we <em>quickly</em> go through today’s vocabulary?
-289.52	289.84	<v Neil>	Ok –
-289.84	292.04		first up: <strong>first impression</strong> –
-292.04	293.84		the first judgement you make about something.
-293.84	296.52		What was your <strong>first impression</strong> of me,
-296.52	297		Rob?
-297	300.52	<v Rob>	Well I thought you were very <strong>trustworthy</strong> and <strong>extroverted.</strong>
-300.52	302.92	<v Neil>	Well isn’t that convenient,
-302.92	303.84		(and accurate?!),
-303.84	307.52		because those were exactly the two adjectives I wanted to look at next.
-307.52	310.24		Being <strong>trustworthy</strong> is important in life –
-310.24	311.28		it means people trust you…
-311.28	314.52	<v Rob>	And being <strong>extroverted</strong> is more of a character type –
-314.52	316.88		<strong>extroverts</strong> like to be with people,
-316.88	318.72		and are often seen as confident –
-318.72	320.24		whereas the opposite –
-320.24	321.2		introverts,
-321.2	323.08		usually need to spend time on their own,
-323.08	324.44		and aren’t as loud.
-324.44	327.12	<v Neil>	Both of these are interesting <strong>attributes</strong> –
-327.12	327.96		or qualities.
-327.96	332.6		You could say that mathematical ability is an essential <strong>attribute</strong> for an engineer.
-332.6	336.76	<v Rob>	And competence is the number one attribute for a politician.
-336.76	340.12		Although people don’t always vote depending on actual competence,
-340.12	342.24		they base it on their <strong>perception</strong>.
-342.24	343.32	<v Neil>	What they see,
-343.32	344.4		or <strong>perceive</strong>,
-344.4	344.68		as competence.
-344.68	348.6		‘<strong>Perceived</strong> competence’ might be different from actual competence!
-348.6	349.28	<v Rob>	Yes,
-349.28	352.6		in many situations we tend to <strong>go with our guts</strong>.
-352.6	355.08		We make decisions based on deep feelings.
-355.08	355.88		Do you do that,
-355.88	356.2		Neil?
-356.2	356.76	<v Neil>	Yes,
-356.76	359.04		some things you can think about too much.
-359.04	360.28		When I left my last job,
-360.28	361.88		I really just <strong>went with my gut</strong> –
-361.88	363.44		it felt like the right thing to do.
-363.44	364.24	<v Rob>	Of course –
-364.24	366.64		because it meant coming to work here with me!
-366.64	367.32	<v Neil>	Naturally.
-367.32	368.04		So –
-368.04	370.6		that’s it for our chat about first impressions –
-370.6	372.6		for more do visit our Facebook,
-372.6	373.12		Twitter,
-373.12	374.64		Instagram and YouTube pages,
-374.64	376.08		and of course our website!
-376.08	377	<v Rob>	Bye for now.
-377	377.44	<v Both>	Bye!
-377.44	384.36		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Welcome to 6 Minute English,
+the programme where we explore an interesting topic and bring you six bits of useful vocabulary.
+I’m Neil.
+<v Rob> And I’m Rob.
+Today we’re talking about <strong>first impressions</strong> –
+and how they’re often wrong.
+<v Neil> So let’s start with the term <strong>first impression</strong> –
+it’s the idea or opinion you have about someone after meeting them for only a short time.
+<v Rob> It’s very natural to make a quick judgement about someone based on their appearance or facial expression.
+<v Neil> We’re going to be hearing about the research of Professor Alexander Todorov from Princeton University in the US.
+First,
+a question: how long does he say it takes to form an impression about someone’s face?
+Is it…
+a) under one second
+b) one second
+c) six seconds
+<v Rob> I’ll go for b) one second.
+<v Neil> Well,
+we’ll find out if you’re right or not at the end of the programme.
+<v Rob> So –
+Alexander Todorov has been researching our impressions.
+His tests asked people to decide whether they thought faces were dominant,
+competent,
+<strong>trustworthy</strong> or <strong>extroverted</strong>.
+<v Neil> Let’s just look at those words for a second.
+Dominant means being strongest or most important.
+Competent means being able to do things.
+<v Rob> While if you’re <strong>trustworthy</strong> it means people trust you –
+you are worth their trust.
+And being extroverted means you are energetic and enjoy spending time with others.
+<v Neil> So what did he find out?
+Faces that look happy and feminine –
+like a woman -
+were rated as more <strong>trustworthy</strong>.
+<v Rob> While faces that were more masculine –
+like a man –
+were seen as more dominant.
+<v Neil> Wider faces with big eyes were seen as more <strong>extroverted</strong>.
+<v Rob> Now the important thing that Todorov says is that these judgements <em>aren’t</em> accurate.
+Someone who looks competent isn’t necessarily competent!
+<v Neil> So,
+what does this mean in practice?
+Here’s Professor Todorov:
+<v Professor Alexander Todorov, Princeton University> <strong>Trustworthiness</strong>,
+dominance and attractiveness are the three big things that we form impressions of people.
+But interestingly we have done some work predicting the electoral success of politicians,
+and the judgement that is most predictive of who is going to win the election is <strong>perceived</strong> competence.
+And this is not random at all,
+because if you ask voters what is the most important <strong>attribute</strong> of a politician,
+competence is the one on the top.
+<v Neil> OK,
+so this is actually quite significant.
+People say that the most important <strong>attribute</strong> –
+or quality –
+for a politician is competence –
+the ability to do things.
+<v Rob> That sounds fair enough.
+But because we make judgements based on appearance –
+this can actually affect how people vote.
+<v Neil> If voters believe –
+or <strong>perceive</strong> someone to be competent –
+they’re more likely to vote for him or her.
+<v Rob> He says this applies especially to people who are less educated about politics –
+they are more likely to be influenced by appearance.
+<v Neil> He says this applies to around 25% of voters –
+so the number of people who <strong>go with their gut</strong> is large enough to influence the outcomes of elections!
+<v Rob> Wow.
+<strong>To go with</strong> <strong>your gut</strong>.
+That means to make a decision which isn’t based on rational thought –
+it’s based on instinct,
+on a feeling,
+on your gut.
+<v Neil> Yes –
+your gut is your stomach and the organs in your belly.
+So,
+can we tell nothing from a person’s face?
+<v Rob> Todorov says faces carry useful information about things like a person’s mental state,
+and whether they’re tired or sick.
+But they don’t tell you about a person’s character.
+<v Neil> Indeed.
+It’s not only elections where this counts,
+we also judge during job interviews and meetings.
+<v Rob> So what can we do to minimise the chances of being affected –
+should we just close our eyes when we meet people?
+<v Neil> Well,
+it’s not such a bad idea!
+There’s the example of the Boston Symphony Orchestra –
+back in the 1950s it was entirely made up of male musicians.
+They then introduced ‘blind auditions’ in other words they listened to new musicians without looking at them.
+<v Rob> And what happened –
+I guess many more women were selected?
+<v Neil> Exactly –
+around 50%.
+Of course,
+gender and race are also huge factors in how we perceive faces.
+Todorov says we tend to react most positively to faces that look like our own.
+<v Rob> Right,
+well –
+I guess we just need to take a deep breath and try not to judge too much.
+<v Neil> Easier said than done,
+I’m afraid.
+Especially when we judge so quickly!
+But do we do it in under a second,
+one second or six seconds?
+<v Rob> I said one second.
+<v Neil> According to Todorov it takes under one second.
+<v Rob> I think it’s safe to say it’s very fast.
+So shall we <em>quickly</em> go through today’s vocabulary?
+<v Neil> Ok –
+first up: <strong>first impression</strong> –
+the first judgement you make about something.
+What was your <strong>first impression</strong> of me,
+Rob?
+<v Rob> Well I thought you were very <strong>trustworthy</strong> and <strong>extroverted.</strong>
+<v Neil> Well isn’t that convenient,
+(and accurate?!),
+because those were exactly the two adjectives I wanted to look at next.
+Being <strong>trustworthy</strong> is important in life –
+it means people trust you…
+<v Rob> And being <strong>extroverted</strong> is more of a character type –
+<strong>extroverts</strong> like to be with people,
+and are often seen as confident –
+whereas the opposite –
+introverts,
+usually need to spend time on their own,
+and aren’t as loud.
+<v Neil> Both of these are interesting <strong>attributes</strong> –
+or qualities.
+You could say that mathematical ability is an essential <strong>attribute</strong> for an engineer.
+<v Rob> And competence is the number one attribute for a politician.
+Although people don’t always vote depending on actual competence,
+they base it on their <strong>perception</strong>.
+<v Neil> What they see,
+or <strong>perceive</strong>,
+as competence.
+‘<strong>Perceived</strong> competence’ might be different from actual competence!
+<v Rob> Yes,
+in many situations we tend to <strong>go with our guts</strong>.
+We make decisions based on deep feelings.
+Do you do that,
+Neil?
+<v Neil> Yes,
+some things you can think about too much.
+When I left my last job,
+I really just <strong>went with my gut</strong> –
+it felt like the right thing to do.
+<v Rob> Of course –
+because it meant coming to work here with me!
+<v Neil> Naturally.
+So –
+that’s it for our chat about first impressions –
+for more do visit our Facebook,
+Twitter,
+Instagram and YouTube pages,
+and of course our website!
+<v Rob> Bye for now.
+<v Both> Bye!
+6 minute English from BBC.

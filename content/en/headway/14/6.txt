@@ -1,23 +1,23 @@
-0.17	2.71	Tapescript 14.6
-4.68	9.33	British Airways flight BA 516 to Geneva
-9.45	11.24	boarding at gate 4,
-11.37	12.33	last call.
-12.82	17.13	Flight BA 516 to Geneva, last call.
-19.50	24.91	Scandinavian Airlines flight SK 832 to Frankfurt
-24.94	26.97	is delayed one hour.
-27.09	30.55	Flight SK 832 to Frankfurt,
-30.70	32.12	delayed one hour.
-34.72	38.31	Air France flight 472 to Amsterdam
-38.39	40.87	is now boarding at gate 17.
-41.52	44.80	Flight AF 472 to Amsterdam,
-44.90	46.97	now boarding, gate 17.
-49.40	52.69	Lufthansa flight 309 to Miami
-52.86	55.43	is now boarding at gate 32.
-56.06	59.51	Flight LH 309 to Miami,
-59.58	61.85	now boarding, gate 32.
-64.30	66.77	Virgin Airlines flight to New York,
-66.96	69.94	VS 876 to New York.
-70.16	73.90	Please wait in the departure lounge until a further announcement.
-73.94	74.53	Thank you.
-75.65	78.84	Passengers are reminded to keep their hand luggage with them
-78.85	80.14	at all times.
+Tapescript 14.6
+British Airways flight BA 516 to Geneva
+boarding at gate 4,
+last call.
+Flight BA 516 to Geneva, last call.
+Scandinavian Airlines flight SK 832 to Frankfurt
+is delayed one hour.
+Flight SK 832 to Frankfurt,
+delayed one hour.
+Air France flight 472 to Amsterdam
+is now boarding at gate 17.
+Flight AF 472 to Amsterdam,
+now boarding, gate 17.
+Lufthansa flight 309 to Miami
+is now boarding at gate 32.
+Flight LH 309 to Miami,
+now boarding, gate 32.
+Virgin Airlines flight to New York,
+VS 876 to New York.
+Please wait in the departure lounge until a further announcement.
+Thank you.
+Passengers are reminded to keep their hand luggage with them
+at all times.

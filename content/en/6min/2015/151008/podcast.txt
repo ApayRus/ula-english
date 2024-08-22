@@ -1,181 +1,181 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.6		to find out more visit our website
-6.6	13.56		6 minute English from BBClearningEnglish.com
-13.56	16.12	<v Neil>	Hello and welcome to 6 Minute English.
-16.12	16.48		I’m Neil…
-16.48	16.64	<v Alice>	…
-16.64	18.04		and I’m Alice.
-18.04	18.44		Sorry,
-18.44	19.28		wait a minute Neil.
-19.28	21		I’m just finishing this book.
-21	23.52	<v Neil>	OK.
-23.52	24.48	<v Alice>	Last page…
-24.48	26.08		nearly there…
-26.08	27.04		ohh -
-27.04	28.32		fantastic book!
-28.32	30.52	<v Neil>	Well I’m glad you enjoyed that.
-30.52	32.6		I’m glad you finished your book there Alice!
-32.6	36.52		We’re talking about books in today’s programme.
-36.52	38.04		What was it you were reading there?
-38.04	38.52	<v Alice>	No,
-38.52	39.48		never mind Neil.
-39.48	40.84		It’s not your kind of book.
-40.84	41.6		You wouldn’t like it.
-41.6	42.84	<v Neil>	How do you know?
-42.84	43.32	<v Alice>	Well,
-43.32	46.72		I just think you might read something a little more intellectual.
-46.72	48.24	<v Neil>	Oh I see…
-48.24	53.76		Well we are talking about the kinds of books people read and what they say about them today.
-53.76	54.4	<v Alice>	Yes.
-54.4	57.28		Perhaps you read the works of a famous writer –
-57.28	58		the classics –
-58	59.2		Charles Dickens,
-59.2	59.8		Shakespeare.
-59.8	62.52	<v Neil>	People will think you are an intellectual.
-62.52	64.56		You can show off by reading these books –
-64.56	65.24		the classics.
-65.24	69.24	<v Alice>	Or perhaps you read popular novels or romantic fiction –
-69.24	71		a light easy read.
-71	72.2	<v Neil>	When you go on holiday –
-72.2	73.2		maybe to the beach –
-73.2	74.8		what kind of books do you read?
-74.8	77.08		And what do you read when you’re going to work?
-77.08	83.24	<v Alice>	We’re going to hear part of a BBC interview with David Adshead from the Commuter Book Club.
-83.24	85.32		A commuter travels to work by bus,
-85.32	87.04		train or here in London,
-87.04	88.04		The Tube,
-88.04	89.64		a train that goes all over the city,
-89.64	90.8		mostly underground.
-90.8	92.2	<v Neil>	And Alice as usual,
-92.2	94.4		we have a quiz question.
-94.4	94.68		Are you ready?
-94.68	94.96	<v Alice>	Yes,
-94.96	95.6		absolutely.
-95.6	96.12	<v Neil>	OK.
-96.12	98.32		It’s about classic book sales.
-98.32	100.84		So these days are people buying…
-100.84	103.24		a) more classic books?
-103.24	106.2		b) the same number of classic books?
-106.2	109.08		c) fewer classic books than they used to?
-109.08	110.6	<v Alice>	Oh that’s an interesting one.
-110.6	115.64		Tricky to guess but I’m going to say c) fewer classic books.
-115.64	116.48	<v Neil>	OK,
-116.48	116.92		well,
-116.92	120.16		let’s find out the answer at the end of the programme.
-120.16	120.64		But now,
-120.64	124.12		here is David Adshead from the Commuter Club.
-124.12	128.68		What kind of book does he say people usually take with them to the beach?
-128.68	131.92	<v David Adshead, Commuter Book Club>	People often think that,
-131.92	132.76		you know,
-132.76	136.88		traditionally you take a light easy read for the beach and on the train,
-136.88	137.44		um,
-137.44	138.76		you maybe read something very different.
-138.76	138.8	<v Interviewer>	…
-138.8	140.08		if only to show off.
-140.08	141.28	<v David Adshead>	Exactly,
-141.28	143.56		to appear to others to be more intellectual.
-143.56	144.44		But actually,
-144.44	147.92		what we find in this is that it really comes down to the individual –
-147.92	154.24		what they like to read and actually we’ve seen this summer a lot of the book sales -
-154.24	157.8		summer reads is generally lighter books,
-157.8	158.76		easier to get on with,
-158.76	159.96		to take away on holiday -
-159.96	162.96		but the big retailers have seen a shift actually -
-162.96	165.32		people moving sort of slightly higher brow,
-165.32	167.52		taking away more classic books.
-167.52	169.84		Sales in that way have increased.
-169.84	172.64	<v Neil>	David Adshead from the Commuter Book Club there.
-172.64	174.64		He says that people usually –
-174.64	175.36		traditionally -
-175.36	176.72		take a light,
-176.72	179.48		easy read to the beach or on the train.
-179.48	179.76	<v Alice>	Yes.
-179.76	182.08		He says these books are easier to get on with.
-182.08	185.48		David says that it really comes down to the individual -
-185.48	186.44		each person is different.
-186.44	189.12		But he says that there has been a shift –
-189.12	189.8		a change –
-189.8	191.44		in what people read.
-191.44	191.76	<v Neil>	Yes,
-191.76	194		he says that the shops that sell books –
-194	195		that’s the retailers –
-195	198.36		say the books people are buying are more highbrow –
-198.36	199.04		the classics,
-199.04	199.84		as we were talking about.
-199.84	201.48	<v Alice>	Absolutely.
-201.48	208.04		Highbrow books are read by intellectuals or perhaps the people who read these books are just showing off.
-208.04	208.44	<v Neil>	Yes,
-208.44	209.04		maybe they are.
-209.04	213.8		Well I wonder if these people have read any books by Fiona Harper.
-213.8	215.92		She writes romantic novels –
-215.92	217.2		that’s stories about love.
-217.2	218.64	<v Alice>	Light reading –
-218.64	219.72		not highbrow.
-219.72	222.8		She was also at this interview about the Commuter Book Club.
-222.8	223.48	<v Neil>	Now,
-223.48	227.24		do commuters read her romantic novels on the Tube?
-227.24	232.32	<v Alice>	Well here is novelist Fiona Harper talking about how she writes her romantic novels.
-232.32	236.04		She wants people to not stop reading her stories once they start –
-236.04	239.56		she wants them to be hooked.
-239.56	247.52	<v Author Fiona Harper>	I think what it comes down to most of the time is you just want to write a really good story because if you write a good story then hopefully people are hooked,
-247.52	249.32		they’ll keep turning the pages and…
-249.32	249.96	<v Interviewer>	Possibly,
-249.96	253		although with the advent of e-readers,
-253	256.96		you can read anything you like and no one knows –
-256.96	259.88		or on your phone –
-259.88	267.2		no one knows what you’re reading.
-267.2	270.28		And that’s an important point.
-270.28	274.96	<v Neil>	That’s the author Fiona Harper talking about romantic novels.
-274.96	277.52		So do commuters read her books on the Tube?
-277.52	280.52	<v Alice>	Well perhaps you don’t want others to see you reading that stuff.
-280.52	282.24		It can be a bit embarrassing.
-282.24	283		It shouldn’t be,
-283	285.76		but Fiona says you can also use an e-reader.
-285.76	287.32	<v Neil>	An e-reader –
-287.32	288.76		that’s an electronic book.
-288.76	289.92		Instead of pages,
-289.92	292		you read off a screen.
-292	294.28	<v Alice>	Well if you use an e-reader or tablet,
-294.28	295.56		no one knows what you’re reading.
-295.56	298.32	<v Neil>	So perhaps they are reading a romantic novel –
-298.32	299.6		no one knows.
-299.6	300.48		OK.
-300.48	302.84		Let’s take a moment to look at some of today’s words.
-302.84	304.6	<v Alice>	Here they are:
-304.6	306.44		intellectual
-306.44	307.84		show off
-307.84	309.48		the classics
-309.48	311.28		romantic fiction
-311.28	313		light read
-313	314.84		heavy read
-314.84	317.12		retailers
-317.12	318.84		highbrow
-318.84	320.16		shift
-320.16	321.88		hooked
-321.88	323.8		advent
-323.8	325.4		e-reader
-325.4	327.52	<v Neil>	And before we go,
-327.52	330.12		the answer to today’s quiz question.
-330.12	332.76		I asked about classic books.
-332.76	334.96		Are people these days buying…
-334.96	337.24		a) more classic books?
-337.24	340.36		b) the same number of classic books?
-340.36	343.76		c) fewer classic books than they used to?
-343.76	344.64	<v Alice>	Yes.
-344.64	347.72		And I said c) fewer classic books.
-347.72	351.44	<v Neil>	Well I’m afraid to say Alice that you’re wrong.
-351.44	352.08	<v Alice>	Oh no.
-352.08	352.52	<v Neil>	I know.
-352.52	354.64		They’re reading more classic books!
-354.64	355.08	<v Alice>	Oh excellent!
-355.08	357.88	<v Neil>	Sales of these books are apparently increasing.
-357.88	359.68	<v Alice>	Well that’s good to hear.
-359.68	361.8	<v Neil>	And that’s the end of today’s 6 Minute English.
-361.8	363.56		Please do join us again soon.
-363.56	365.04	<v Alice>	And keep reading books…
-365.04	365.92		in English.
-365.92	367.84		Highbrow classics or a light read –
-367.84	370.16		it doesn’t matter.
-370.16	371.6	<v Neil>	It doesn’t matter at all.
-371.6	372.52	<v Both>	Bye.
-372.52	378.48		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello and welcome to 6 Minute English.
+I’m Neil…
+<v Alice> …
+and I’m Alice.
+Sorry,
+wait a minute Neil.
+I’m just finishing this book.
+<v Neil> OK.
+<v Alice> Last page…
+nearly there…
+ohh -
+fantastic book!
+<v Neil> Well I’m glad you enjoyed that.
+I’m glad you finished your book there Alice!
+We’re talking about books in today’s programme.
+What was it you were reading there?
+<v Alice> No,
+never mind Neil.
+It’s not your kind of book.
+You wouldn’t like it.
+<v Neil> How do you know?
+<v Alice> Well,
+I just think you might read something a little more intellectual.
+<v Neil> Oh I see…
+Well we are talking about the kinds of books people read and what they say about them today.
+<v Alice> Yes.
+Perhaps you read the works of a famous writer –
+the classics –
+Charles Dickens,
+Shakespeare.
+<v Neil> People will think you are an intellectual.
+You can show off by reading these books –
+the classics.
+<v Alice> Or perhaps you read popular novels or romantic fiction –
+a light easy read.
+<v Neil> When you go on holiday –
+maybe to the beach –
+what kind of books do you read?
+And what do you read when you’re going to work?
+<v Alice> We’re going to hear part of a BBC interview with David Adshead from the Commuter Book Club.
+A commuter travels to work by bus,
+train or here in London,
+The Tube,
+a train that goes all over the city,
+mostly underground.
+<v Neil> And Alice as usual,
+we have a quiz question.
+Are you ready?
+<v Alice> Yes,
+absolutely.
+<v Neil> OK.
+It’s about classic book sales.
+So these days are people buying…
+a) more classic books?
+b) the same number of classic books?
+c) fewer classic books than they used to?
+<v Alice> Oh that’s an interesting one.
+Tricky to guess but I’m going to say c) fewer classic books.
+<v Neil> OK,
+well,
+let’s find out the answer at the end of the programme.
+But now,
+here is David Adshead from the Commuter Club.
+What kind of book does he say people usually take with them to the beach?
+<v David Adshead, Commuter Book Club> People often think that,
+you know,
+traditionally you take a light easy read for the beach and on the train,
+um,
+you maybe read something very different.
+<v Interviewer> …
+if only to show off.
+<v David Adshead> Exactly,
+to appear to others to be more intellectual.
+But actually,
+what we find in this is that it really comes down to the individual –
+what they like to read and actually we’ve seen this summer a lot of the book sales -
+summer reads is generally lighter books,
+easier to get on with,
+to take away on holiday -
+but the big retailers have seen a shift actually -
+people moving sort of slightly higher brow,
+taking away more classic books.
+Sales in that way have increased.
+<v Neil> David Adshead from the Commuter Book Club there.
+He says that people usually –
+traditionally -
+take a light,
+easy read to the beach or on the train.
+<v Alice> Yes.
+He says these books are easier to get on with.
+David says that it really comes down to the individual -
+each person is different.
+But he says that there has been a shift –
+a change –
+in what people read.
+<v Neil> Yes,
+he says that the shops that sell books –
+that’s the retailers –
+say the books people are buying are more highbrow –
+the classics,
+as we were talking about.
+<v Alice> Absolutely.
+Highbrow books are read by intellectuals or perhaps the people who read these books are just showing off.
+<v Neil> Yes,
+maybe they are.
+Well I wonder if these people have read any books by Fiona Harper.
+She writes romantic novels –
+that’s stories about love.
+<v Alice> Light reading –
+not highbrow.
+She was also at this interview about the Commuter Book Club.
+<v Neil> Now,
+do commuters read her romantic novels on the Tube?
+<v Alice> Well here is novelist Fiona Harper talking about how she writes her romantic novels.
+She wants people to not stop reading her stories once they start –
+she wants them to be hooked.
+<v Author Fiona Harper> I think what it comes down to most of the time is you just want to write a really good story because if you write a good story then hopefully people are hooked,
+they’ll keep turning the pages and…
+<v Interviewer> Possibly,
+although with the advent of e-readers,
+you can read anything you like and no one knows –
+or on your phone –
+no one knows what you’re reading.
+And that’s an important point.
+<v Neil> That’s the author Fiona Harper talking about romantic novels.
+So do commuters read her books on the Tube?
+<v Alice> Well perhaps you don’t want others to see you reading that stuff.
+It can be a bit embarrassing.
+It shouldn’t be,
+but Fiona says you can also use an e-reader.
+<v Neil> An e-reader –
+that’s an electronic book.
+Instead of pages,
+you read off a screen.
+<v Alice> Well if you use an e-reader or tablet,
+no one knows what you’re reading.
+<v Neil> So perhaps they are reading a romantic novel –
+no one knows.
+OK.
+Let’s take a moment to look at some of today’s words.
+<v Alice> Here they are:
+intellectual
+show off
+the classics
+romantic fiction
+light read
+heavy read
+retailers
+highbrow
+shift
+hooked
+advent
+e-reader
+<v Neil> And before we go,
+the answer to today’s quiz question.
+I asked about classic books.
+Are people these days buying…
+a) more classic books?
+b) the same number of classic books?
+c) fewer classic books than they used to?
+<v Alice> Yes.
+And I said c) fewer classic books.
+<v Neil> Well I’m afraid to say Alice that you’re wrong.
+<v Alice> Oh no.
+<v Neil> I know.
+They’re reading more classic books!
+<v Alice> Oh excellent!
+<v Neil> Sales of these books are apparently increasing.
+<v Alice> Well that’s good to hear.
+<v Neil> And that’s the end of today’s 6 Minute English.
+Please do join us again soon.
+<v Alice> And keep reading books…
+in English.
+Highbrow classics or a light read –
+it doesn’t matter.
+<v Neil> It doesn’t matter at all.
+<v Both> Bye.
+6 minute English from BBC.

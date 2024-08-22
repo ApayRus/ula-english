@@ -1,31 +1,31 @@
-0.15	2.30	Tapescript 8.8
-3.35	3.87	1
-4.72	6.24	The first of April
-8.22	9.61	April the first
-11.30	11.81	2
-12.98	14.60	The second of March
-16.37	17.69	March the second
-19.87	20.44	3
-21.62	23.68	The seventeenth of September
-25.80	27.64	September the seventeenth
-29.68	30.23	4
-31.10	33.07	The nineteenth of November
-35.11	36.81	November the nineteenth
-38.86	39.65	5
-40.58	42.55	The twenty-third of June
-44.57	46.07	June the twenty-third
-48.35	49.06	6
-50.94	53.15	The twenty-ninth of February,
-53.39	55.37	nineteen seventy-six
-57.90	58.44	7
-59.58	61.50	The nineteenth of December,
-61.70	63.31	nineteen eighty-three
-65.34	65.87	8
-66.73	68.38	The third of October,
-68.70	70.61	nineteen ninety-nine
-72.34	73.03	9
-73.78	75.60	The thirty-first of May,
-75.82	76.90	two thousand
-78.55	79.10	10
-80.04	81.88	The fifteenth of July,
-82.17	83.76	two thousand and four
+Tapescript 8.8
+1
+The first of April
+April the first
+2
+The second of March
+March the second
+3
+The seventeenth of September
+September the seventeenth
+4
+The nineteenth of November
+November the nineteenth
+5
+The twenty-third of June
+June the twenty-third
+6
+The twenty-ninth of February,
+nineteen seventy-six
+7
+The nineteenth of December,
+nineteen eighty-three
+8
+The third of October,
+nineteen ninety-nine
+9
+The thirty-first of May,
+two thousand
+10
+The fifteenth of July,
+two thousand and four

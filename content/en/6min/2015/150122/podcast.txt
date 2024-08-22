@@ -1,178 +1,178 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	7.2		to find out more visit our website
-7.2	12.52		6 minute English from BBClearningEnglish.com
-12.52	12.92	<v Rob>	Hello,
-12.92	13.56		I’m Rob.
-13.56	15.48		Welcome to 6 Minute English.
-15.48	18.32		With me in the studio today is Neil.
-18.32	19.32		Hello,
-19.32	19.76		Neil.
-19.76	20.44	<v Neil>	Hi.
-20.44	21.12		Hi Rob!
-21.12	21.88	<v Rob>	Are you alright,
-21.88	22.28		Neil?
-22.28	24.16		Are you playing on your <strong>smartphone</strong> again,
-24.16	25.12		are you?
-25.12	25.96	<v Neil>	Err…
-25.96	27.28		what was that?
-27.28	28.32		Yeah,
-28.32	28.6		sorry,
-28.6	28.96		Rob…
-28.96	31.48		just doing something on my smartphone,
-31.48	31.88		you know,
-31.88	34.24		the kind of phone which allows you to go online.
-34.24	35.24	<v Rob>	Oh I can see that.
-35.24	36.8		But are you waiting for a call?
-36.8	37.12	<v Neil>	No.
-37.12	37.76		No,
-37.76	40.12		I just carry it with me at all times.
-40.12	40.72		Where I go,
-40.72	41.48		the phone goes.
-41.48	42.6		No phone,
-42.6	43.52		no Neil!
-43.52	43.88	<v Rob>	OK,
-43.88	46.76		but why do you need your phone so much?
-46.76	47.8	<v Neil>	Why?!
-47.8	50.64		What if I need to need to go somewhere?
-50.64	52.08		How will I find my way?
-52.08	53.56		What about the weather?
-53.56	54.64		Will it rain today?
-54.64	56.44		I need to know these things.
-56.44	59.36	<v Rob>	Why don’t you just look up in the sky and see if it is cloudy?
-59.36	61.96	<v Neil>	Look up to see if it is going to rain?!
-61.96	63.2		I have an <strong>app</strong> -
-63.2	65.24		which is short for an application,
-65.24	68.36		which is a computer programme for a specific purpose.
-68.36	70.36		My app tells me the weather…
-70.36	72.68		and this one does all the maths I need…
-72.68	75		and here’s one for translations,
-75	76.2		and this one here…
-76.2	77.24		can tell me what I’m going to…
-77.24	77.72	<v Rob>	OK,
-77.72	78.12		OK,
-78.12	78.56		OK,
-78.56	78.96		I get the point.
-78.96	81.2		Today we’re talking about computers -
-81.2	84.96		and we’ll bring you some words <strong>connected</strong> with the digital age.
-84.96	85.92	<v Neil>	Connected -
-85.92	87.2		<strong>to connect</strong> -
-87.2	88.8		we use this verb a lot.
-88.8	89.96		It means 'to link,
-89.96	90.6		or join,
-90.6	92.32		one thing to another thing.
-92.32	92.92		In this case,
-92.92	95.52		connected means ‘linked to the internet’.
-95.52	95.92	<v Rob>	OK,
-95.92	97.84		I can see you are very excited about computers.
-97.84	100.52		So that’s what my question is all about.
-100.52	103.6		The first commercially produced “desktop computer”
-103.6	110.44		was designed and produced by the Italian company Olivetti and presented at an event in New York.
-110.44	111.6		When did it happen?
-111.6	112.28		Was it in:
-112.28	114.16		a) 1955
-114.16	116.6		b) 1965 or
-116.6	118.84		c) 1975
-118.84	119.6	<v Neil>	Well,
-119.6	123.2		I think it’s (a) 1955.
-123.2	124.28	<v Rob>	Very interesting.
-124.28	127.28		You’ll get the right answer at the end of the programme.
-127.28	127.44		Now,
-127.44	129.08		let’s talk about computers.
-129.08	133.48		You can’t live without them but American technology writer Nicholas Carr,
-133.48	136.08		the author of a book called 'The Glass Cage -
-136.08	138.04		where automation is taking us’,
-138.04	140.08		thinks they might cause problems.
-140.08	141.48	<v Neil>	Problems?!
-141.48	143.88		They cause us problems when they <strong>crash</strong> -
-143.88	147.04		that’s what we say when our computer suddenly stops working.
-147.04	147.32	<v Rob>	Well,
-147.32	148.48		not just that.
-148.48	150.08		Let’s listen to Nicholas Carr.
-150.08	154.36		He says if we rely too much on computers we lose something.
-154.36	155.6		But what is it?
-155.6	168.2	<v American technology writer Nicholas Carr>	_The ability of computers to do things we used to do is growing astronomically and we’re rushing to hand over to computers tasks,
-168.2	168.92		activities -
-168.92	171.44		both in our work lives and in our personal lives -
-171.44	175.64		and what you begin to see is what is often called a <strong>de-skilling</strong> effect.
-175.64	181.48		The person becoming reliant on computers; because they are not exercising their own <strong>talents</strong>,
-181.48	182.76		those talents begin to fade.
-182.76	184.04		And we begin to lose,
-184.04	184.76		as a result,
-184.76	189.88		the unique things that human beings can do that computers can’t: feel <strong>empathy</strong>,
-189.88	191.48		take a broad perspective,
-191.48	197.08		interpret all the stuff that can’t be turned into data._
-197.08	198.6	<v Neil>	According to Nicholas Carr,
-198.6	201.88		using computers means that we are losing skills -
-201.88	204.24		he talks about ‘de-skilling’.
-204.24	208.76		A skill is the ability to do something well because we’ve practised it.
-208.76	212.04	<v Rob>	And he also talks about the loss of talent -
-212.04	214.68		talent is a natural ability to do something -
-214.68	216.24		you didn’t have to learn it,
-216.24	218.36		you’re just naturally good at it.
-218.36	220.12		It’s something we’re all born with.
-220.12	226.36		Carr says that relying on computers means our talent is fading because we don’t use it any more.
-226.36	231.32	<v Neil>	And he goes even further and says we’re losing some of the things that make us human,
-231.32	232.48		like empathy,
-232.48	236.52		the ability to imagine and understand what other people might be feeling.
-236.52	237.2	<v Rob>	So,
-237.2	238.48		do you agree with this writer,
-238.48	238.8		Neil?
-238.8	240.76	<v Neil>	I think he’s got a point actually.
-240.76	243.72	<v Rob>	It’s like the friendships we make on social media.
-243.72	247.24		It is nice to get to know new people in different countries,
-247.24	251.76		but we have to remember that it’s important to talk to people face-to-face too.
-251.76	252.76	<v Neil>	So…
-252.76	256.88		maybe we shouldn’t use <strong>GPS</strong> to find our way around all the time.
-256.88	258		GPS,
-258	263.12		the global positioning system which gives us directions with the help of satellites orbiting the Earth…
-263.12	264.08		instead,
-264.08	266.24		have a conversation with someone -
-266.24	267.4		ask for directions.
-267.4	268.08	<v Rob>	Yes,
-268.08	271.72		and perhaps we can give the <strong>spellchecker</strong> a miss occasionally.
-271.72	279.68		A spellchecker is a very useful piece of software which helps us avoid making spelling mistakes when we’re typing on a computer but…
-279.68	284.84		it is good to actually learn how to spell the words properly and not leave everything to the machine.
-284.84	285.96	<v Neil>	Good idea,
-285.96	286.24		Rob.
-286.24	289.8		I’ll try not to rely so much on digital technology.
-289.8	293.6		Computers are here to stay and they’ll become more and more sophisticated,
-293.6	296.32		but we have to remember they are just tools.
-296.32	296.56	<v Rob>	Yes,
-296.56	298.08		computers are here to stay.
-298.08	299		And by the way,
-299	302.16		when was the first commercially produced “desktop computer”
-302.16	302.8		launched?
-302.8	303.68		As I told you,
-303.68	307.52		it was designed and created by Olivetti and launched in New York.
-307.52	309.16		But when was it launched?
-309.16	310.68		Was it: 1955,
-310.68	313.24		1965 or 1975?
-313.24	315.64	<v Neil>	And I said 1955.
-315.64	321.2	<v Rob>	Perhaps you should ask your smartphone because the correct answer is actually (b) 1965.
-321.2	321.72	<v Neil>	I don’t believe it!
-321.72	327.96	<v Rob>	The computer was called Programma 101 and it was presented at the New York World’s Fair.
-327.96	331.16		They sold 44,000 units all over the world.
-331.16	335		The initial price in the US was US$ 3,200.
-335	335.4		Well,
-335.4	340.32		we are almost out of time so let’s remind ourselves of some of the words we said today,
-340.32	340.56		Neil.
-340.56	341.76	<v Neil>	smartphone
-341.76	344.88		app (application)
-344.88	345.52		to connect
-345.52	347.44		crash
-347.44	349.8		skill
-349.8	351.68		talent
-351.68	353.72		empathy
-353.72	356.36		GPS (Global Positioning System)
-356.36	358.28		spellchecker
-358.28	360.04	<v Rob>	Thank you.
-360.04	360.88		Well,
-360.88	361.8		that’s it for today.
-361.8	364.32		Do log on to <a href="http://www.bbclearningenglish.com/">bbclearningenglish.com</a> -
-364.32	365.48		maybe on your smartphone,
-365.48	365.92		Neil -
-365.92	368.28		to find more 6 Minute English programmes.
-368.28	369.48		Until next time.
-369.48	370.52		Goodbye!
-370.52	372.04	<v Neil>	Bye!
-372.04	378.92		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello,
+I’m Rob.
+Welcome to 6 Minute English.
+With me in the studio today is Neil.
+Hello,
+Neil.
+<v Neil> Hi.
+Hi Rob!
+<v Rob> Are you alright,
+Neil?
+Are you playing on your <strong>smartphone</strong> again,
+are you?
+<v Neil> Err…
+what was that?
+Yeah,
+sorry,
+Rob…
+just doing something on my smartphone,
+you know,
+the kind of phone which allows you to go online.
+<v Rob> Oh I can see that.
+But are you waiting for a call?
+<v Neil> No.
+No,
+I just carry it with me at all times.
+Where I go,
+the phone goes.
+No phone,
+no Neil!
+<v Rob> OK,
+but why do you need your phone so much?
+<v Neil> Why?!
+What if I need to need to go somewhere?
+How will I find my way?
+What about the weather?
+Will it rain today?
+I need to know these things.
+<v Rob> Why don’t you just look up in the sky and see if it is cloudy?
+<v Neil> Look up to see if it is going to rain?!
+I have an <strong>app</strong> -
+which is short for an application,
+which is a computer programme for a specific purpose.
+My app tells me the weather…
+and this one does all the maths I need…
+and here’s one for translations,
+and this one here…
+can tell me what I’m going to…
+<v Rob> OK,
+OK,
+OK,
+I get the point.
+Today we’re talking about computers -
+and we’ll bring you some words <strong>connected</strong> with the digital age.
+<v Neil> Connected -
+<strong>to connect</strong> -
+we use this verb a lot.
+It means 'to link,
+or join,
+one thing to another thing.
+In this case,
+connected means ‘linked to the internet’.
+<v Rob> OK,
+I can see you are very excited about computers.
+So that’s what my question is all about.
+The first commercially produced “desktop computer”
+was designed and produced by the Italian company Olivetti and presented at an event in New York.
+When did it happen?
+Was it in:
+a) 1955
+b) 1965 or
+c) 1975
+<v Neil> Well,
+I think it’s (a) 1955.
+<v Rob> Very interesting.
+You’ll get the right answer at the end of the programme.
+Now,
+let’s talk about computers.
+You can’t live without them but American technology writer Nicholas Carr,
+the author of a book called 'The Glass Cage -
+where automation is taking us’,
+thinks they might cause problems.
+<v Neil> Problems?!
+They cause us problems when they <strong>crash</strong> -
+that’s what we say when our computer suddenly stops working.
+<v Rob> Well,
+not just that.
+Let’s listen to Nicholas Carr.
+He says if we rely too much on computers we lose something.
+But what is it?
+<v American technology writer Nicholas Carr> _The ability of computers to do things we used to do is growing astronomically and we’re rushing to hand over to computers tasks,
+activities -
+both in our work lives and in our personal lives -
+and what you begin to see is what is often called a <strong>de-skilling</strong> effect.
+The person becoming reliant on computers; because they are not exercising their own <strong>talents</strong>,
+those talents begin to fade.
+And we begin to lose,
+as a result,
+the unique things that human beings can do that computers can’t: feel <strong>empathy</strong>,
+take a broad perspective,
+interpret all the stuff that can’t be turned into data._
+<v Neil> According to Nicholas Carr,
+using computers means that we are losing skills -
+he talks about ‘de-skilling’.
+A skill is the ability to do something well because we’ve practised it.
+<v Rob> And he also talks about the loss of talent -
+talent is a natural ability to do something -
+you didn’t have to learn it,
+you’re just naturally good at it.
+It’s something we’re all born with.
+Carr says that relying on computers means our talent is fading because we don’t use it any more.
+<v Neil> And he goes even further and says we’re losing some of the things that make us human,
+like empathy,
+the ability to imagine and understand what other people might be feeling.
+<v Rob> So,
+do you agree with this writer,
+Neil?
+<v Neil> I think he’s got a point actually.
+<v Rob> It’s like the friendships we make on social media.
+It is nice to get to know new people in different countries,
+but we have to remember that it’s important to talk to people face-to-face too.
+<v Neil> So…
+maybe we shouldn’t use <strong>GPS</strong> to find our way around all the time.
+GPS,
+the global positioning system which gives us directions with the help of satellites orbiting the Earth…
+instead,
+have a conversation with someone -
+ask for directions.
+<v Rob> Yes,
+and perhaps we can give the <strong>spellchecker</strong> a miss occasionally.
+A spellchecker is a very useful piece of software which helps us avoid making spelling mistakes when we’re typing on a computer but…
+it is good to actually learn how to spell the words properly and not leave everything to the machine.
+<v Neil> Good idea,
+Rob.
+I’ll try not to rely so much on digital technology.
+Computers are here to stay and they’ll become more and more sophisticated,
+but we have to remember they are just tools.
+<v Rob> Yes,
+computers are here to stay.
+And by the way,
+when was the first commercially produced “desktop computer”
+launched?
+As I told you,
+it was designed and created by Olivetti and launched in New York.
+But when was it launched?
+Was it: 1955,
+1965 or 1975?
+<v Neil> And I said 1955.
+<v Rob> Perhaps you should ask your smartphone because the correct answer is actually (b) 1965.
+<v Neil> I don’t believe it!
+<v Rob> The computer was called Programma 101 and it was presented at the New York World’s Fair.
+They sold 44,000 units all over the world.
+The initial price in the US was US$ 3,200.
+Well,
+we are almost out of time so let’s remind ourselves of some of the words we said today,
+Neil.
+<v Neil> smartphone
+app (application)
+to connect
+crash
+skill
+talent
+empathy
+GPS (Global Positioning System)
+spellchecker
+<v Rob> Thank you.
+Well,
+that’s it for today.
+Do log on to <a href="http://www.bbclearningenglish.com/">bbclearningenglish.com</a> -
+maybe on your smartphone,
+Neil -
+to find more 6 Minute English programmes.
+Until next time.
+Goodbye!
+<v Neil> Bye!
+6 minute English from BBC.

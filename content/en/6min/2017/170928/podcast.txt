@@ -1,156 +1,156 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	12.64		6 minute English from BBClearningEnglish.com
-12.64	14	<v Neil>	Welcome to 6 Minute English,
-14	18.24		where we bring you an intelligent topic and six related items of vocabulary.
-18.24	18.88		I’m Neil.
-18.88	19.96	<v Tim>	And I’m Tim.
-19.96	23.12		And today we’re talking about AI –
-23.12	25.24		or Artificial Intelligence.
-25.24	31.04	<v Neil>	<strong>Artificial Intelligence</strong> is the ability of machines to copy human intelligent behaviour –
-31.04	32.04		for example,
-32.04	34.88		an intelligent machine can learn from its own mistakes,
-34.88	38.2		and make decisions based on what’s happened in the past.
-38.2	40.4	<v Tim>	There’s a lot of talk about AI these days,
-40.4	41		Neil,
-41	42.8		but it’s still just science fiction,
-42.8	43.6		isn’t it?
-43.6	44.64	<v Neil>	That’s not true –
-44.64	46.2		AI is everywhere.
-46.2	48.36		Machine thinking is in our homes,
-48.36	49.04		offices,
-49.04	50.52		schools and hospitals.
-50.52	54.4		Computer algorithms are helping us drive our cars.
-54.4	57.36		They’re diagnosing what’s wrong with us in hospitals.
-57.36	59.16		They’re marking student essays…
-59.16	61.64		They’re telling us what to read on our smartphones…
-61.64	61.96	<v Tim>	Well,
-61.96	64.84		that really does sound like science fiction –
-64.84	66.12		but it’s happening already,
-66.12	66.56		you say,
-66.56	66.88		Neil?
-66.88	68.08	<v Neil>	It’s definitely happening,
-68.08	68.36		Tim.
-68.36	69.92		And an <strong>algorithm</strong>,
-69.92	70.44		by the way,
-70.44	74.56		is a set of steps a computer follows in order to solve a problem.
-74.56	84.64		So can you tell me what was the name of the computer which famously beat world chess champion Garry Kasparov using algorithms in 1997?
-84.64	84.88		Was it…
-84.88	86.28		a) Hal,
-86.28	88.28		b) Alpha 60 or
-88.28	89.88		c) Deep Blue?
-89.88	92.76	<v Tim>	I’ll say Deep Blue.
-92.76	94		Although I’m just guessing.
-94	95.32	<v Neil>	Was it an educated guess,
-95.32	95.92		Tim?
-95.92	97.52	<v Tim>	I know a bit about chess…
-97.52	103	<v Neil>	An educated guess is based on knowledge and experience and is therefore likely to be correct.
-103	103.2		Well,
-103.2	106.6		we’ll find out later on how educated your guess was in this case,
-106.6	107.16		Tim!
-107.16	108.04	<v Tim>	Indeed.
-108.04	111.84		But getting back to AI and what machines can do –
-111.84	115.24		are they any good at solving real-life problems?
-115.24	118.12		Computers think in zeros and ones don’t they?
-118.12	122.48		That sounds like a pretty limited language when it comes to life experience!
-122.48	125.84	<v Neil>	You would be surprised to what those zeroes and ones can do,
-125.84	126.28		Tim.
-126.28	130.12		Although you’re right that AI does have its limitations at the moment.
-130.12	135		And if something has <strong>limitations</strong> there’s a limit on what it can do or how good it can be.
-135	135.96	<v Tim>	OK –
-135.96	139.68		well now might be a good time to listen to Zoubin Bharhramani,
-139.68	148.96		Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence.
-148.96	154.52		He’s talking about what limitations AI has at the moment.
-154.52	159.64	<v Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence>	I think it’s very interesting how many of the things that we take for granted –
-159.64	161.2		we humans take for granted –
-161.2	164.6		as being sort of things we don’t even think about like how do we walk,
-164.6	165.44		how do we reach,
-165.44	168.56		how do we recognize our mother.
-168.56	168.88		You know,
-168.88	170.2		all these things.
-170.2	174.04		When you start to think how to implement them on a computer,
-174.04	181.28		you realize that it’s those things that are incredibly difficult to get computers to do,
-181.28	187.68		and that’s where the current cutting edge of research is.
-187.68	191.12	<v Neil>	If we <strong>take something for granted</strong> we don’t realise how important something is.
-191.12	193.4	<v Tim>	You sometimes take me for granted,
-193.4	193.72		I think,
-193.72	194.68		Neil.
-194.68	195.2	<v Neil>	No –
-195.2	196.32		I never take you for granted,
-196.32	196.6		Tim!
-196.6	199		You’re far too important for that!
-199	199.8	<v Tim>	Good to hear!
-199.8	205.68		So things we take for granted are doing every day tasks like walking,
-205.68	206.64		picking something up,
-206.64	209.04		or recognizing somebody.
-209.04	210.24		We <strong>implement</strong> –
-210.24	211.48		or perform –
-211.48	212.92		these things without thinking –
-212.92	218.12		Whereas it’s cutting edge research to try and program a machine to do them.
-218.12	221.04	<v Neil>	<strong>Cutting edge</strong> means very new and advanced.
-221.04	221.88		It’s interesting isn’t it,
-221.88	225.56		that over ten years ago a computer beat a chess grand master –
-225.56	230.2		but the same computer would find it incredibly difficult to pick up a chess piece.
-230.2	230.84	<v Tim>	I know.
-230.84	231.84		It’s very strange.
-231.84	236.24		But now you’ve reminded me that we need the answer to today’s question.
-236.24	243.68	<v Neil>	Which was: What was the name of the computer which famously beat world chess champion Garry Kasparov in 1997?
-243.68	244.12		Now,
-244.12	245		you said Deep Blue,
-245	245.32		Tim,
-245.32	246.12		and …
-246.12	247.8		that was the right answer!
-247.8	248.4	<v Tim>	You see,
-248.4	252.56		my educated guess was based on knowledge and experience!
-252.56	254.68	<v Neil>	Or maybe you were just lucky.
-254.68	255.8		So,
-255.8	262.68		the IBM supercomputer Deep Blue played against US world chess champion Garry Kasparov in two chess matches.
-262.68	267.12		The first match was played in Philadelphia in 1996 and was won by Kasparov.
-267.12	271.48		The second was played in New York City in 1997 and won by Deep Blue.
-271.48	279.52		The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament conditions.
-279.52	282	<v Tim>	Let’s go through the words we learned today.
-282	285.64		First up was ‘artificial intelligence’
-285.64	286.36		or AI –
-286.36	290.44		the ability of machines to copy human intelligent behaviour.
-290.44	293.28	<v Neil>	“There are AI programs that can write poetry.”
-293.28	296.24	<v Tim>	Do you have any examples you can recite?
-296.24	297.2	<v Neil>	Afraid I don’t!
-297.2	298.24		Number two –
-298.24	302.44		an algorithm is a set of steps a computer follows in order to solve a problem.
-302.44	303.32		For example,
-303.32	307.48		“Google changes its search algorithm hundreds of times every year.”
-307.48	310.08	<v Tim>	The adjective is algorithmic –
-310.08	310.88		for example,
-310.88	314.04		“Google has made many algorithmic changes.”
-314.04	315.44	<v Neil>	Number three –
-315.44	317.4		if something has ‘limitations’ –
-317.4	319.92		there’s a limit on what it can do or how good it can be.
-319.92	322.68		“Our show has certain limitations –
-322.68	323.76		for example,
-323.76	325.28		it’s only six minutes long!”
-325.28	326.04	<v Tim>	That’s right –
-326.04	329.32		there’s only time to present six vocabulary items.
-329.32	330.44		Short but sweet!
-330.44	331.76	<v Neil>	And very intelligent,
-331.76	332.2		too.
-332.2	332.76		OK,
-332.76	335.72		the next item is ‘take something for granted’ –
-335.72	338.64		which is when we don’t realise how important something is.
-338.64	341.6	<v Tim>	“We take our smart phones for granted these days –
-341.6	346.44		but before 1995 hardly anyone owned one.”Number five –
-346.44	347.6		‘to implement’ –
-347.6	348.92		means to perform a task,
-348.92	349.76		or take action.
-349.76	352.48	<v Tim>	“Neil implemented some changes to the show.”
-352.48	354.84	<v Neil>	The final item is ‘cutting edge’ –
-354.84	356.28		new and advanced –
-356.28	358.04		“This software is cutting edge.”
-358.04	360.8	<v Tim>	“The software uses cutting edge technology.”
-360.8	361.68	<v Neil>	OK –
-361.68	364.84		that’s all we have time for on today’s cutting edge show.
-364.84	367.12		But please check out our Instagram,
-367.12	367.56		Twitter,
-367.56	369.48		Facebook and YouTube pages.
-369.48	370.6	<v Tim>	Bye-bye!
-370.6	372	<v Neil>	Goodbye!
-372	378		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Welcome to 6 Minute English,
+where we bring you an intelligent topic and six related items of vocabulary.
+I’m Neil.
+<v Tim> And I’m Tim.
+And today we’re talking about AI –
+or Artificial Intelligence.
+<v Neil> <strong>Artificial Intelligence</strong> is the ability of machines to copy human intelligent behaviour –
+for example,
+an intelligent machine can learn from its own mistakes,
+and make decisions based on what’s happened in the past.
+<v Tim> There’s a lot of talk about AI these days,
+Neil,
+but it’s still just science fiction,
+isn’t it?
+<v Neil> That’s not true –
+AI is everywhere.
+Machine thinking is in our homes,
+offices,
+schools and hospitals.
+Computer algorithms are helping us drive our cars.
+They’re diagnosing what’s wrong with us in hospitals.
+They’re marking student essays…
+They’re telling us what to read on our smartphones…
+<v Tim> Well,
+that really does sound like science fiction –
+but it’s happening already,
+you say,
+Neil?
+<v Neil> It’s definitely happening,
+Tim.
+And an <strong>algorithm</strong>,
+by the way,
+is a set of steps a computer follows in order to solve a problem.
+So can you tell me what was the name of the computer which famously beat world chess champion Garry Kasparov using algorithms in 1997?
+Was it…
+a) Hal,
+b) Alpha 60 or
+c) Deep Blue?
+<v Tim> I’ll say Deep Blue.
+Although I’m just guessing.
+<v Neil> Was it an educated guess,
+Tim?
+<v Tim> I know a bit about chess…
+<v Neil> An educated guess is based on knowledge and experience and is therefore likely to be correct.
+Well,
+we’ll find out later on how educated your guess was in this case,
+Tim!
+<v Tim> Indeed.
+But getting back to AI and what machines can do –
+are they any good at solving real-life problems?
+Computers think in zeros and ones don’t they?
+That sounds like a pretty limited language when it comes to life experience!
+<v Neil> You would be surprised to what those zeroes and ones can do,
+Tim.
+Although you’re right that AI does have its limitations at the moment.
+And if something has <strong>limitations</strong> there’s a limit on what it can do or how good it can be.
+<v Tim> OK –
+well now might be a good time to listen to Zoubin Bharhramani,
+Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence.
+He’s talking about what limitations AI has at the moment.
+<v Zoubin Bharhramani, Professor of Information Engineering at the University of Cambridge and deputy director of the Leverhulme Centre for the Future of Intelligence> I think it’s very interesting how many of the things that we take for granted –
+we humans take for granted –
+as being sort of things we don’t even think about like how do we walk,
+how do we reach,
+how do we recognize our mother.
+You know,
+all these things.
+When you start to think how to implement them on a computer,
+you realize that it’s those things that are incredibly difficult to get computers to do,
+and that’s where the current cutting edge of research is.
+<v Neil> If we <strong>take something for granted</strong> we don’t realise how important something is.
+<v Tim> You sometimes take me for granted,
+I think,
+Neil.
+<v Neil> No –
+I never take you for granted,
+Tim!
+You’re far too important for that!
+<v Tim> Good to hear!
+So things we take for granted are doing every day tasks like walking,
+picking something up,
+or recognizing somebody.
+We <strong>implement</strong> –
+or perform –
+these things without thinking –
+Whereas it’s cutting edge research to try and program a machine to do them.
+<v Neil> <strong>Cutting edge</strong> means very new and advanced.
+It’s interesting isn’t it,
+that over ten years ago a computer beat a chess grand master –
+but the same computer would find it incredibly difficult to pick up a chess piece.
+<v Tim> I know.
+It’s very strange.
+But now you’ve reminded me that we need the answer to today’s question.
+<v Neil> Which was: What was the name of the computer which famously beat world chess champion Garry Kasparov in 1997?
+Now,
+you said Deep Blue,
+Tim,
+and …
+that was the right answer!
+<v Tim> You see,
+my educated guess was based on knowledge and experience!
+<v Neil> Or maybe you were just lucky.
+So,
+the IBM supercomputer Deep Blue played against US world chess champion Garry Kasparov in two chess matches.
+The first match was played in Philadelphia in 1996 and was won by Kasparov.
+The second was played in New York City in 1997 and won by Deep Blue.
+The 1997 match was the first defeat of a reigning world chess champion by a computer under tournament conditions.
+<v Tim> Let’s go through the words we learned today.
+First up was ‘artificial intelligence’
+or AI –
+the ability of machines to copy human intelligent behaviour.
+<v Neil> “There are AI programs that can write poetry.”
+<v Tim> Do you have any examples you can recite?
+<v Neil> Afraid I don’t!
+Number two –
+an algorithm is a set of steps a computer follows in order to solve a problem.
+For example,
+“Google changes its search algorithm hundreds of times every year.”
+<v Tim> The adjective is algorithmic –
+for example,
+“Google has made many algorithmic changes.”
+<v Neil> Number three –
+if something has ‘limitations’ –
+there’s a limit on what it can do or how good it can be.
+“Our show has certain limitations –
+for example,
+it’s only six minutes long!”
+<v Tim> That’s right –
+there’s only time to present six vocabulary items.
+Short but sweet!
+<v Neil> And very intelligent,
+too.
+OK,
+the next item is ‘take something for granted’ –
+which is when we don’t realise how important something is.
+<v Tim> “We take our smart phones for granted these days –
+but before 1995 hardly anyone owned one.”Number five –
+‘to implement’ –
+means to perform a task,
+or take action.
+<v Tim> “Neil implemented some changes to the show.”
+<v Neil> The final item is ‘cutting edge’ –
+new and advanced –
+“This software is cutting edge.”
+<v Tim> “The software uses cutting edge technology.”
+<v Neil> OK –
+that’s all we have time for on today’s cutting edge show.
+But please check out our Instagram,
+Twitter,
+Facebook and YouTube pages.
+<v Tim> Bye-bye!
+<v Neil> Goodbye!
+6 minute English from BBC.

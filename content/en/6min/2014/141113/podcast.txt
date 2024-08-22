@@ -1,126 +1,126 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	11.16		6 minute English from BBClearningEnglish.com
-11.16	15.08	<v Rob>	Hello and welcome to 6 Minute English from BBC Learning English.
-15.08	15.52		I’m Rob …
-15.52	15.88	<v Finn>	…
-15.88	16.6		and hello,
-16.6	17.56		I’m Finn.
-17.56	18.04	<v Rob>	Now Finn,
-18.04	22.24		there is nothing I like more than <strong>tucking into</strong> a juicy steak,
-22.24	26.24		munching on a hamburger or chewing on a nice piece of roast beef.
-26.24	27.32	<v Finn>	It does sound good,
-27.32	28.08		doesn’t it?
-28.08	29.64		But meat eaters,
-29.64	30.64		like us,
-30.64	34.76		might need to think again about the amount we eat.
-34.76	43.8	<v Rob>	That’s right because in the programme today we’re discussing how eating meat can add to the problem of <strong>greenhouse gas</strong>.
-43.8	51.24	<v Finn>	Greenhouse gas is a type of gas that stops heat escaping from the atmosphere and causes a greenhouse effect –
-51.24	53.44		it warms up our planet –
-53.44	55.36		and that leads to climate change.
-55.36	55.76	<v Rob>	Yes,
-55.76	57.36		that’s it’s not a good thing.
-57.36	62.56		We have heard in the past about greenhouse gas being caused by pollution from factories…
-62.56	62.6	<v Finn>	…
-62.6	66.92		and from using containers of things like paint or perfume,
-66.92	70.88		which is kept under high pressure so that it can be sprayed –
-70.88	72.76		we call these aerosols.
-72.76	74.52	<v Rob>	But according to a recent report,
-74.52	77.84		the production of meat is also adding to the problem.
-77.84	81.56		We’ll talk more about this soon and looking at some related vocabulary,
-81.56	84.4		but not before we’ve set today’s question.
-84.4	86.6		Are you ready,
-86.6	87.28		Finn?
-87.28	89.44	<v Finn>	Ready and waiting,
-89.44	89.72		Rob.
-89.72	91.6	<v Rob>	According to a study in America,
-91.6	96.44		how many tonnes of beef is produced globally every year?
-96.44	98.8		a) 59 million tonnes
-98.8	101.28		b) 69 million tonnes
-101.28	103.8		c) 79 million tonnes
-103.8	109.48	<v Finn>	Let’s go supersize and say 79 million tonnes.
-109.48	112.4	<v Rob>	I’ll let you know the answer at the end of the programme.
-112.4	116.96		Let’s continue our discussion about the link between meat and greenhouse gases.
-116.96	130.2	<v Finn>	Research from Cambridge and Aberdeen universities estimates greenhouse gases from food production will go up 80% if meat and dairy <strong>consumption</strong> continues to rise at its current rate.
-130.2	134.84		‘Consumption’ here means the process of eating food.
-134.84	138.12	<v Rob>	So more and more of us are eating meat –
-138.12	139.92		there is a surge.
-139.92	143.88		Let’s find out exactly why from BBC Environment Analyst,
-143.88	145		Roger Harrabin.
-145	149		See if you can hear why meat production is causing the problem …
-149	154.44	<v INSERT>	The surge in meat eating will drive more deforestation as farmers seek increasing amounts of land,
-154.44	155.56		the study says.
-155.56	159.8		Cutting forests releases greenhouse gases from the wood and the soil,
-159.8	162.56		and fertilisers create greenhouse gases too.
-162.56	164.68		The report says under current trends,
-164.68	171.48		agriculture alone will cause the world to bust its targets for reducing the risk of dangerous climate change.
-171.48	177	<v Finn>	So eating more meat means farmers need more land to keep their animals on.
-177	178.52		And to get more land,
-178.52	181.04		they need to cut down trees –
-181.04	183.8		which is called <strong>deforestation</strong>.
-183.8	184.88	<v Rob>	It’s deforestation –
-184.88	186.16		cutting down forests –
-186.16	190.6		that causes greenhouse gases from wood and soil to be released.
-190.6	192.16		And there’s another reason too –
-192.16	195.56		the use of <strong>fertilisers</strong>.
-195.56	201.04	<v Finn>	These are natural or chemical substances added to the soil to help plants grow.
-201.04	202.2		Like these plants,
-202.2	203.52		used to feed the animals.
-203.52	208.56	<v Rob>	And another problem is that more of the fields used for growing crops that we eat,
-208.56	209.68		like wheat,
-209.68	213.16		are being used to grow food to feed the animals that we later eat!
-213.16	220.92	<v Finn>	Research has also found beef cattle need 28 times more land than pork,
-220.92	223.28		poultry or dairy farming.
-223.28	225.6	<v Rob>	So it’s a big problem,
-225.6	227.68		but many of us have an <strong>appetite</strong> –
-227.68	228.88		a need or interest –
-228.88	229.48		for meat.
-229.48	239.6		Especially for <strong>carnivores.</strong> Carnivores are really animals that just eat meat but we refer to humans as carnivores too sometimes because they just love meat.
-239.6	241.6		Something else is tempting us too.
-241.6	241.96	<v Finn>	Yes,
-241.96	245.56		something is encouraging us to eat more.
-245.56	251		See if you can hear what it is in the next part of Roger Harribin’s report…
-251	253.28	<v INSERT>	The real challenge is the public’s appetite.
-253.28	256.44		There’s a burger restaurant boom in major cities.
-256.44	261.28		People are voting with their bellies and it’s not normally mushroom burgers they’re after!
-261.28	263.32	<v Rob>	Some interesting language there.
-263.32	266.96		He described the increase in burger restaurants as a <strong>‘boom’</strong> –
-266.96	268.24		so a major increase.
-268.24	271.28		And he said people are voting with their bellies …
-271.28	272.4	<v Finn>	A nice phrase –
-272.4	273		he means,
-273	279.4		people are showing they like burger restaurants by going to them and eating more.
-279.4	283.68	<v Rob>	And they’re not buying burgers made of vegetables or things like mushroom burgers –
-283.68	285.4		they’re buying and eating meat,
-285.4	287.2		like beef burgers.
-287.2	288	<v Finn>	Well,
-288	294.6		with meat consumption predicted to double in the next 40 years as people globally get wealthier,
-294.6	297.6		it’s a problem that’s not going to go away.
-297.6	299.24	<v Rob>	A bit like today’s question –
-299.24	302.36		today’s question was,
-302.36	304.6		according to a scientific study in America,
-304.6	308		how many tonnes of beef is produced globally every year?
-308	312.52	<v Finn>	I said c) 79 million tonnes.
-312.52	315.08	<v Rob>	That’s a lot to eat but you are wrong.
-315.08	318.64		The answer is 59 million tonnes.
-318.64	323.76		This is according to the Proceedings of the National Academy of Sciences.
-323.76	327.56		It also found cattle are the biggest source of greenhouse gases,
-327.56	333.4		accounting for more than three-quarters of all gases made by farming livestock around the world.
-333.4	335.16		Well before we chew over that fact,
-335.16	340		Finn could you please remind us of some of the words we have heard today?
-340	340.6	<v Finn>	Ok:
-340.6	342.6		tucking into
-342.6	345.32		greenhouse gas
-345.32	347.6		consumption
-347.6	351.04		deforestation
-351.04	351.88		fertiliser
-351.88	354.4		appetite
-354.4	356.72		carnivore
-356.72	358.48		boom
-358.48	360.36	<v Rob>	Well,
-360.36	363.12		that brings us to the end of today’s 6 Minute English.
-363.12	365.36		We hope you’ve enjoyed today’s programme.
-365.36	367.32		Please join us again soon.
-367.32	367.8		Bye.
-367.8	369.04	<v Finn>	Bye.
-369.04	374.88		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello and welcome to 6 Minute English from BBC Learning English.
+I’m Rob …
+<v Finn> …
+and hello,
+I’m Finn.
+<v Rob> Now Finn,
+there is nothing I like more than <strong>tucking into</strong> a juicy steak,
+munching on a hamburger or chewing on a nice piece of roast beef.
+<v Finn> It does sound good,
+doesn’t it?
+But meat eaters,
+like us,
+might need to think again about the amount we eat.
+<v Rob> That’s right because in the programme today we’re discussing how eating meat can add to the problem of <strong>greenhouse gas</strong>.
+<v Finn> Greenhouse gas is a type of gas that stops heat escaping from the atmosphere and causes a greenhouse effect –
+it warms up our planet –
+and that leads to climate change.
+<v Rob> Yes,
+that’s it’s not a good thing.
+We have heard in the past about greenhouse gas being caused by pollution from factories…
+<v Finn> …
+and from using containers of things like paint or perfume,
+which is kept under high pressure so that it can be sprayed –
+we call these aerosols.
+<v Rob> But according to a recent report,
+the production of meat is also adding to the problem.
+We’ll talk more about this soon and looking at some related vocabulary,
+but not before we’ve set today’s question.
+Are you ready,
+Finn?
+<v Finn> Ready and waiting,
+Rob.
+<v Rob> According to a study in America,
+how many tonnes of beef is produced globally every year?
+a) 59 million tonnes
+b) 69 million tonnes
+c) 79 million tonnes
+<v Finn> Let’s go supersize and say 79 million tonnes.
+<v Rob> I’ll let you know the answer at the end of the programme.
+Let’s continue our discussion about the link between meat and greenhouse gases.
+<v Finn> Research from Cambridge and Aberdeen universities estimates greenhouse gases from food production will go up 80% if meat and dairy <strong>consumption</strong> continues to rise at its current rate.
+‘Consumption’ here means the process of eating food.
+<v Rob> So more and more of us are eating meat –
+there is a surge.
+Let’s find out exactly why from BBC Environment Analyst,
+Roger Harrabin.
+See if you can hear why meat production is causing the problem …
+<v INSERT> The surge in meat eating will drive more deforestation as farmers seek increasing amounts of land,
+the study says.
+Cutting forests releases greenhouse gases from the wood and the soil,
+and fertilisers create greenhouse gases too.
+The report says under current trends,
+agriculture alone will cause the world to bust its targets for reducing the risk of dangerous climate change.
+<v Finn> So eating more meat means farmers need more land to keep their animals on.
+And to get more land,
+they need to cut down trees –
+which is called <strong>deforestation</strong>.
+<v Rob> It’s deforestation –
+cutting down forests –
+that causes greenhouse gases from wood and soil to be released.
+And there’s another reason too –
+the use of <strong>fertilisers</strong>.
+<v Finn> These are natural or chemical substances added to the soil to help plants grow.
+Like these plants,
+used to feed the animals.
+<v Rob> And another problem is that more of the fields used for growing crops that we eat,
+like wheat,
+are being used to grow food to feed the animals that we later eat!
+<v Finn> Research has also found beef cattle need 28 times more land than pork,
+poultry or dairy farming.
+<v Rob> So it’s a big problem,
+but many of us have an <strong>appetite</strong> –
+a need or interest –
+for meat.
+Especially for <strong>carnivores.</strong> Carnivores are really animals that just eat meat but we refer to humans as carnivores too sometimes because they just love meat.
+Something else is tempting us too.
+<v Finn> Yes,
+something is encouraging us to eat more.
+See if you can hear what it is in the next part of Roger Harribin’s report…
+<v INSERT> The real challenge is the public’s appetite.
+There’s a burger restaurant boom in major cities.
+People are voting with their bellies and it’s not normally mushroom burgers they’re after!
+<v Rob> Some interesting language there.
+He described the increase in burger restaurants as a <strong>‘boom’</strong> –
+so a major increase.
+And he said people are voting with their bellies …
+<v Finn> A nice phrase –
+he means,
+people are showing they like burger restaurants by going to them and eating more.
+<v Rob> And they’re not buying burgers made of vegetables or things like mushroom burgers –
+they’re buying and eating meat,
+like beef burgers.
+<v Finn> Well,
+with meat consumption predicted to double in the next 40 years as people globally get wealthier,
+it’s a problem that’s not going to go away.
+<v Rob> A bit like today’s question –
+today’s question was,
+according to a scientific study in America,
+how many tonnes of beef is produced globally every year?
+<v Finn> I said c) 79 million tonnes.
+<v Rob> That’s a lot to eat but you are wrong.
+The answer is 59 million tonnes.
+This is according to the Proceedings of the National Academy of Sciences.
+It also found cattle are the biggest source of greenhouse gases,
+accounting for more than three-quarters of all gases made by farming livestock around the world.
+Well before we chew over that fact,
+Finn could you please remind us of some of the words we have heard today?
+<v Finn> Ok:
+tucking into
+greenhouse gas
+consumption
+deforestation
+fertiliser
+appetite
+carnivore
+boom
+<v Rob> Well,
+that brings us to the end of today’s 6 Minute English.
+We hope you’ve enjoyed today’s programme.
+Please join us again soon.
+Bye.
+<v Finn> Bye.
+6 minute English from BBC.

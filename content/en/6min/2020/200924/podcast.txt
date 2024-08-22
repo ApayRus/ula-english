@@ -1,131 +1,131 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.24		6 minute English from BBClearningEnglish.com
-13.24	13.64	<v Neil>	Hello.
-13.64	16.52		This is 6 Minute English from BBC Learning English.
-16.52	17.2		I’m Neil.
-17.2	18.44	<v Sam>	And I’m Sam.
-18.44	19.4	<v Neil>	You and I are lucky,
-19.4	19.76		Sam,
-19.76	21.96		because we can do our jobs remotely,
-21.96	23.36		working from home.
-23.36	24.52		There are some downsides,
-24.52	25.16		though -
-25.16	29		like not being able to meet up with friends or share ideas with colleagues.
-29	30.72	<v Sam>	And going out for lunch!
-30.72	41.08	<v Neil>	But the coronavirus pandemic has caused millions of people to lose their job and forced thousand more out of work temporarily with no idea if their job will still be there when they return.
-41.08	48.32	<v Sam>	For those daily workers without savings to pay the rent and feed their families it has been especially stressful.
-48.32	51.68		Each job loss is a potential personal tragedy.
-51.68	61.04	<v Neil>	In this programme we’ll be assessing the post-Covid job landscape and asking whether a radical new approach is needed to prevent global mass unemployment.
-61.04	63.48	<v Sam>	We’ll be asking whether one of the world’s smallest –
-63.48	64.64		and richest –
-64.64	65.56		countries,
-65.56	66.6		Denmark,
-66.6	68.04		might hold the answer.
-68.04	68.68	<v Neil>	And of course,
-68.68	71.04		we’ll be learning some new vocabulary as well.
-71.04	73.48		But first it’s time for our quiz question.
-73.48	76.2		One man who knows a lot about jobs is Brad Smith,
-76.2	77.68		president of Microsoft,
-77.68	81.64		a company employing over 150 thousand workers.
-81.64	85.68		He’s made gloomy predictions about the number of people out of work –
-85.68	92.92		but how many people does he predict will be left unemployed this year as a result of the coronavirus pandemic?
-92.92	93.4		Is it:
-93.4	96.56		a) one quarter of a billion people?,
-96.56	98.64		b) one third of a billion people?,
-98.64	99		or
-99	101.6		c) half a billion people?
-101.6	102.2	<v Sam>	Wow,
-102.2	104.28		those numbers do really look gloomy!
-104.28	110		I’ll say b) one third of a billion people unemployed around the world.
-110	110.36	<v Neil>	OK,
-110.36	110.64		Sam,
-110.64	112.24		we’ll come back to that later.
-112.24	112.6		Now,
-112.6	114.08		mass unemployment –
-114.08	117.76		millions of people losing their jobs due to the Covid pandemic –
-117.76	121.32		has left the world facing an enormous jobs challenge.
-121.32	122.4		Elisabeth Reynolds,
-122.4	125.16		of the Massachusetts Institute of Technology,
-125.16	128.16		is author of the report ‘Work of the Future’.
-128.16	131.12		Here she is talking to BBC World Service programme,
-131.12	132.08		Business Daily,
-132.08	135.2		about the current situation:
-135.2	143.28	<v Elisabeth Reynolds>	Well I think <strong>in the short term</strong> it does feel like we are not yet in a place where we can talk about recovery and rebuilding completely –
-143.28	145.4		we’re still gonna see the ramifications,
-145.4	150		the impact and the <strong>ripple effect</strong> of all this for months to come.
-150	151.48	<v Sam>	We use the expressions,
-151.48	153.24		‘in the long term’
-153.24	160.36		and <strong>in the short term</strong> to talk about what will happen over a long or short period of time.
-160.36	162.2		<strong>In the short term</strong>, -
-162.2	164.08		over a short period of time -
-164.08	168.36		Elisabeth thinks it’s too early to talk about a jobs recovery.
-168.36	174.52	<v Neil>	She also warns that we haven’t yet experienced the full impact or ramifications of the pandemic.
-174.52	176.4		Like throwing a stone into water,
-176.4	179.2		these consequences create a <strong>ripple effect</strong> –
-179.2	185.68		a situation where one event causes a series of effects which spread and produce further effects.
-185.68	186.8	<v Sam>	According to Elisabeth,
-186.8	194.56		the problem is that many of the government measures put in place to support jobs are not sustainable in the long term.
-194.56	197.64		She says more radical change is needed.
-197.64	198.84	<v Neil>	Of course the big question is –
-198.84	199.76		how?
-199.76	202.4		One proposed solution is the Danish model.
-202.4	204		This balances citizens’
-204	205.48		rights and duties.
-205.48	216.4	<v Sam>	Denmark provides one of the world’s most generous unemployment payouts but in return citizens are expected to commit to any job or training the government thinks would be beneficial.
-216.4	217.88	<v Neil>	Jacob Kirkegaard,
-217.88	220.84		senior fellow at the Peterson Institute in Washington,
-220.84	222.28		is himself a Dane.
-222.28	227.52		Here he explains to BBC Business Daily how the model works:
-227.52	231.2	<v Jacob Kirkegaard>	It’s very easy to <strong>hire and fire</strong> people in Denmark –
-231.2	238.04		it doesn’t cost you anything and you don’t have sort of a guaranteed <strong>job for life</strong> once you get a permanent contract,
-238.04	241.52		which is the situation in many other continental European countries…
-241.52	248.24		so it combines labour market flexibility with employment security…
-248.24	250.12		namely the idea that people,
-250.12	251.36		if they lose their job,
-251.36	257.48		they know that they can find another job even if that requires them to pick up new skills –
-257.48	260.04		because that <strong>upskilling</strong> -
-260.04	260.76		or reskilling -
-260.76	262.64		is going to be made available to them,
-262.64	265.8		partly through very <strong>lavish</strong> government subsides.
-265.8	273.28	<v Sam>	Denmark enjoys labour flexibility because it’s easy for bosses to <strong>hire and fire</strong> –
-273.28	276.16		employ someone and release them from employment,
-276.16	279.88		meaning there’s no such thing as a <strong>job for life</strong> –
-279.88	282.96		one that you can stay in all your working life.
-282.96	286.64	<v Neil>	But citizens also have the security of <strong>lavish</strong> –
-286.64	288.08		generous and expensive –
-288.08	289.08		benefits,
-289.08	292.8		and the government will also pay for worker <strong>upskilling</strong> -
-292.8	296.24		training to learn new skills making them better at their jobs…
-296.24	298.56	<v Sam>	…and thereby preventing unemployment –
-298.56	300.96		which reminds me of your quiz question,
-300.96	301.24		Neil.
-301.24	302	<v Neil>	Yes,
-302	306.88		I asked you how many people were predicted to lose their jobs to the Covid pandemic.
-306.88	309.76	<v Sam>	And I said b) one third of a billion.
-309.76	310.48	<v Neil>	Well,
-310.48	312.28		fortunately it’s the slightly lower,
-312.28	313.16		but still worrying,
-313.16	313.88		figure of,
-313.88	316.04		one quarter of a billion people.
-316.04	320.72	<v Sam>	We’ve been discussing predictions of mass unemployment <strong>in the short term</strong> –
-320.72	323.08		or over a short time period,
-323.08	325.32		caused by the coronavirus pandemic.
-325.32	329.44		It also seems we will be experiencing the <strong>ripple effects</strong> –
-329.44	331.28		series of consequences,
-331.28	334.16		of the virus for a long time to come.
-334.16	338.24	<v Neil>	One solution to mass unemployment may be the Danish model,
-338.24	340.92		were the power to <strong>hire or fire</strong> –
-340.92	343.32		employ someone or make them unemployed –
-343.32	346.44		means there are not many <strong>jobs for life</strong> –
-346.44	347.92		jobs you can do all your working life.
-347.92	351.24	<v Sam>	But <strong>lavish</strong> –
-351.24	352.72		expensive and generous -
-352.72	353.8		benefits from the government,
-353.8	357.52		who also pay for <strong>upskilling</strong> or training in new skills,
-357.52	361.48		means that Danish unemployment is rarely out of control.
-361.48	363.24	<v Neil>	That’s all we have time for,
-363.24	369.8		but come back soon for more trending topics and useful vocabulary here at 6 Minute English from BBC Learning English.
-369.8	371.16		Bye for now!
-371.16	372.2	<v Sam>	Bye!
-372.2	378.12		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Sam> And I’m Sam.
+<v Neil> You and I are lucky,
+Sam,
+because we can do our jobs remotely,
+working from home.
+There are some downsides,
+though -
+like not being able to meet up with friends or share ideas with colleagues.
+<v Sam> And going out for lunch!
+<v Neil> But the coronavirus pandemic has caused millions of people to lose their job and forced thousand more out of work temporarily with no idea if their job will still be there when they return.
+<v Sam> For those daily workers without savings to pay the rent and feed their families it has been especially stressful.
+Each job loss is a potential personal tragedy.
+<v Neil> In this programme we’ll be assessing the post-Covid job landscape and asking whether a radical new approach is needed to prevent global mass unemployment.
+<v Sam> We’ll be asking whether one of the world’s smallest –
+and richest –
+countries,
+Denmark,
+might hold the answer.
+<v Neil> And of course,
+we’ll be learning some new vocabulary as well.
+But first it’s time for our quiz question.
+One man who knows a lot about jobs is Brad Smith,
+president of Microsoft,
+a company employing over 150 thousand workers.
+He’s made gloomy predictions about the number of people out of work –
+but how many people does he predict will be left unemployed this year as a result of the coronavirus pandemic?
+Is it:
+a) one quarter of a billion people?,
+b) one third of a billion people?,
+or
+c) half a billion people?
+<v Sam> Wow,
+those numbers do really look gloomy!
+I’ll say b) one third of a billion people unemployed around the world.
+<v Neil> OK,
+Sam,
+we’ll come back to that later.
+Now,
+mass unemployment –
+millions of people losing their jobs due to the Covid pandemic –
+has left the world facing an enormous jobs challenge.
+Elisabeth Reynolds,
+of the Massachusetts Institute of Technology,
+is author of the report ‘Work of the Future’.
+Here she is talking to BBC World Service programme,
+Business Daily,
+about the current situation:
+<v Elisabeth Reynolds> Well I think <strong>in the short term</strong> it does feel like we are not yet in a place where we can talk about recovery and rebuilding completely –
+we’re still gonna see the ramifications,
+the impact and the <strong>ripple effect</strong> of all this for months to come.
+<v Sam> We use the expressions,
+‘in the long term’
+and <strong>in the short term</strong> to talk about what will happen over a long or short period of time.
+<strong>In the short term</strong>, -
+over a short period of time -
+Elisabeth thinks it’s too early to talk about a jobs recovery.
+<v Neil> She also warns that we haven’t yet experienced the full impact or ramifications of the pandemic.
+Like throwing a stone into water,
+these consequences create a <strong>ripple effect</strong> –
+a situation where one event causes a series of effects which spread and produce further effects.
+<v Sam> According to Elisabeth,
+the problem is that many of the government measures put in place to support jobs are not sustainable in the long term.
+She says more radical change is needed.
+<v Neil> Of course the big question is –
+how?
+One proposed solution is the Danish model.
+This balances citizens’
+rights and duties.
+<v Sam> Denmark provides one of the world’s most generous unemployment payouts but in return citizens are expected to commit to any job or training the government thinks would be beneficial.
+<v Neil> Jacob Kirkegaard,
+senior fellow at the Peterson Institute in Washington,
+is himself a Dane.
+Here he explains to BBC Business Daily how the model works:
+<v Jacob Kirkegaard> It’s very easy to <strong>hire and fire</strong> people in Denmark –
+it doesn’t cost you anything and you don’t have sort of a guaranteed <strong>job for life</strong> once you get a permanent contract,
+which is the situation in many other continental European countries…
+so it combines labour market flexibility with employment security…
+namely the idea that people,
+if they lose their job,
+they know that they can find another job even if that requires them to pick up new skills –
+because that <strong>upskilling</strong> -
+or reskilling -
+is going to be made available to them,
+partly through very <strong>lavish</strong> government subsides.
+<v Sam> Denmark enjoys labour flexibility because it’s easy for bosses to <strong>hire and fire</strong> –
+employ someone and release them from employment,
+meaning there’s no such thing as a <strong>job for life</strong> –
+one that you can stay in all your working life.
+<v Neil> But citizens also have the security of <strong>lavish</strong> –
+generous and expensive –
+benefits,
+and the government will also pay for worker <strong>upskilling</strong> -
+training to learn new skills making them better at their jobs…
+<v Sam> …and thereby preventing unemployment –
+which reminds me of your quiz question,
+Neil.
+<v Neil> Yes,
+I asked you how many people were predicted to lose their jobs to the Covid pandemic.
+<v Sam> And I said b) one third of a billion.
+<v Neil> Well,
+fortunately it’s the slightly lower,
+but still worrying,
+figure of,
+one quarter of a billion people.
+<v Sam> We’ve been discussing predictions of mass unemployment <strong>in the short term</strong> –
+or over a short time period,
+caused by the coronavirus pandemic.
+It also seems we will be experiencing the <strong>ripple effects</strong> –
+series of consequences,
+of the virus for a long time to come.
+<v Neil> One solution to mass unemployment may be the Danish model,
+were the power to <strong>hire or fire</strong> –
+employ someone or make them unemployed –
+means there are not many <strong>jobs for life</strong> –
+jobs you can do all your working life.
+<v Sam> But <strong>lavish</strong> –
+expensive and generous -
+benefits from the government,
+who also pay for <strong>upskilling</strong> or training in new skills,
+means that Danish unemployment is rarely out of control.
+<v Neil> That’s all we have time for,
+but come back soon for more trending topics and useful vocabulary here at 6 Minute English from BBC Learning English.
+Bye for now!
+<v Sam> Bye!
+6 minute English from BBC.

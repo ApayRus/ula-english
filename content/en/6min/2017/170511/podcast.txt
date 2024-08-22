@@ -1,187 +1,187 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	11.24		6 minute English from BBClearningEnglish.com
-11.24	12.88	<v Dan>	Hello and welcome to 6 Minute English–
-12.88	14.68		the show that brings you an interesting topic,
-14.68	17.96		authentic listening practice and six new items of vocabulary.
-17.96	18.68		I’m Dan…
-18.68	19.64	<v Neil>	And I’m Neil.
-19.64	23.16		In this episode we’ll be discussing food waste,
-23.16	28.4		just as soon as….
-28.4	28.84	<v Dan>	Neil,
-28.84	31.4		did you just throw the rest of that apple away?
-31.4	32.48	<v Neil>	Yeah.
-32.48	35.08		It was quite a big one and I couldn’t finish it.
-35.08	35.84	<v Dan>	Neil,
-35.84	37.84		you know you shouldn’t <strong>waste</strong> food.
-37.84	42.12	<v Neil>	<strong>Waste</strong> meaning to throw away without consuming or using.
-42.12	42.32		Ah,
-42.32	43.24		it’s only an apple.
-43.24	44.76		It’s not the end of the world,
-44.76	45.24		Dan.
-45.24	45.68	<v Dan>	Well,
-45.68	46.92		that’s where you could be wrong,
-46.92	47.56		my friend.
-47.56	48.48		Let me prove it to you,
-48.48	50.16		with this week’s question.
-50.16	53.92		How much of the world’s food is wasted each year?
-53.92	55.52		a) a half
-55.52	57		b) a third
-57	59.32		c) a quarter
-59.32	60.2	<v Neil>	I’m not sure.
-60.2	63.84		I know it’s a lot so I’m going to say a) a half
-63.84	66.72	<v Dan>	We’ll find out if you’re right or not at the end of this show.
-66.72	67.32		So,
-67.32	71		the actual figure is 1.3 billion tons of food,
-71	74.6		which is enough to feed a billion hungry people.
-74.6	76.72		Where do you think all this food waste comes from?
-76.72	77.48	<v Neil>	Well,
-77.48	78.04		restaurants,
-78.04	78.92		I imagine.
-78.92	79.28		I mean,
-79.28	82.16		they can’t give one customer’s <strong>leftovers</strong> to another!
-82.16	83.72		That would be unhygienic!
-83.72	87.12	<v Dan>	<strong>Leftovers</strong> are the remains of food which has not been eaten.
-87.12	88.6		And while you are right,
-88.6	91.24		restaurants are not the main contributor to food waste.
-91.24	92.48	<v Neil>	Supermarkets!
-92.48	96.84		I bet they throw out loads of food once it goes past its sell-by-date,
-96.84	99.6		or the date which it can be legally sold by.
-99.6	101.76	<v Dan>	Think closer to home.
-101.76	102.24	<v Neil>	It’s us,
-102.24	103.04		isn’t it?
-103.04	104.04	<v Dan>	Yes.
-104.04	109.2		In Europe an incredible 53% of food waste comes from households,
-109.2	113.64		which results in 88 million tonnes of food waste a year.
-113.64	115.72		And I bet you can’t guess what we do with it?
-115.72	117.56	<v Neil>	I want to say recycle,
-117.56	119.32		but I can see from your face,
-119.32	119.56		Dan,
-119.56	120.56		that it’s not.
-120.56	121.28	<v Dan>	No.
-121.28	124.88		Unfortunately it goes into landfills and decays.
-124.88	128.28	<v Neil>	A <strong>landfill</strong> is a place where rubbish is buried.
-128.28	128.72		I see,
-128.72	135.2		so the food rots and this causes greenhouse gasses which lead to global warming and climate change.
-135.2	135.96	<v Dan>	Exactly,
-135.96	137.48		and the end of the world.
-137.48	138.48		But,
-138.48	145.24		remarkably the European country of Denmark has managed to reduce its food waste by a very significant 25%
-145.24	146.36	<v Neil>	That’s impressive,
-146.36	147.16		how did that happen?
-147.16	150.12	<v Dan>	They attribute it to a woman called Selina Juul.
-150.12	152.08	<v Neil>	I’ve heard about her.
-152.08	155.24		She became a <strong>household name</strong> in Denmark overnight!
-155.24	157.64	<v Dan>	<strong>A household name</strong> is one which everybody knows,
-157.64	158.84		and that’s right.
-158.84	159.84	<v Neil>	I thought she was Russian?
-159.84	160.52	<v Dan>	She is.
-160.52	161.12		But,
-161.12	162.64		I’ll let her explain.
-162.64	165.48	<v INSERT>	I come from a country where there were food shortages,
-165.48	166.6		back then in Moscow,
-166.6	167.64		communism collapsed,
-167.64	169.72		we had the collapse of <strong>infrastructure</strong>,
-169.72	172.92		we were not sure we could get food on the table.
-172.92	173.96		And coming to Denmark,
-173.96	176.68		seeing this <strong>abundance</strong>,
-176.68	179.04		seeing these supermarkets filled with food.
-179.04	184.52		But then I was really shocked to see a lot of food getting wasted.
-184.52	190.4	<v Neil>	So Selina grew up in Moscow at a time when there wasn’t enough food because of the collapse of <strong>infrastructure</strong>,
-190.4	194		meaning the basic systems and services of a society –
-194	195.48		such as food transportation.
-195.48	196.92	<v Dan>	Then when she moved to Denmark,
-196.92	199		she found an <strong>abundance</strong>,
-199	200.64		or more than enough,
-200.64	201.44		food,
-201.44	203.4		but she saw it being wasted.
-203.4	206	<v Neil>	So she decided to do something about it?
-206	206.72	<v Dan>	Yes.
-206.72	211.88		She started a Facebook page in 2008 called ‘stop wasting food’
-211.88	216.28		and 9 years later the Danish government credits her for their reduction in food waste.
-216.28	217.88	<v Neil>	How did she do it?
-217.88	218.4	<v Dan>	Well,
-218.4	220.04		lots of ideas really.
-220.04	225.76		She convinced some supermarkets to stop selling their items in bulk so that people buy only what they need.
-225.76	232.68		She’s produced a <strong>leftovers</strong> cookbook and she’s working with three governments to set up an education programme in schools.
-232.68	233.4	<v Neil>	Wow,
-233.4	235.04		she’s a busy woman.
-235.04	239.16		So how about you educate me with the answer to this week’s question.
-239.16	239.72	<v Dan>	Sure!
-239.72	244.16		I asked you how much of the world’s food is wasted each year?
-244.16	245.48		a) a half
-245.48	246.96		b) a third
-246.96	250.24		c) a quarterAnd I said a) a half
-250.24	251.32	<v Dan>	And I’m terribly sorry,
-251.32	251.52		mate,
-251.52	252.2		but you’re wrong.
-252.2	254.4		The answer is b) a third.
-254.4	254.8	<v Neil>	Well,
-254.8	256.4		it’s not as bad as I thought it was,
-256.4	257.2		at least.
-257.2	258.84	<v Dan>	Shall we look at the vocabulary then?
-258.84	259.48	<v Neil>	Yes,
-259.48	259.84		let’s.
-259.84	261.56		First we had <strong>waste</strong>.
-261.56	262.92		If you <strong>waste</strong> something,
-262.92	267.08		you throw it away or lose it without using it or consuming it.
-267.08	269		Common things we <strong>waste</strong> are food,
-269	269.84		time,
-269.84	271.64		money and energy.
-271.64	274.36		We also have some expressions with <strong>waste</strong> too.
-274.36	275.12		Can you think of one,
-275.12	275.44		Dan?
-275.44	281.36	<v Dan>	A <strong>waste of space</strong> is an expression which means a thing is completely without value.
-281.36	282.4		For example,
-282.4	285.12		I’m a complete waste of space in the kitchen.
-285.12	286.72		I can’t cook at all.
-286.72	289.44		Next we had **leftovers.
-289.44	292.4		Leftovers** are the remains of food or a meal,
-292.4	293.56		which have not been eaten.
-293.56	295.6		What do you tend to do with your <strong>leftovers</strong>,
-295.6	295.8		Neil?
-295.8	297.32	<v Neil>	Oh I love <strong>leftovers</strong>!
-297.32	300.56		Sometimes I think they taste even better than the original meal!
-300.56	301.08	<v Dan>	I agree!
-301.08	302.28		Pizza’s a great example!
-302.28	304.4	<v Neil>	Then we had <strong>landfill</strong>.
-304.4	307.8		A <strong>landfill</strong> is a place where rubbish is dropped and buried.
-307.8	309.4		In colloquial English we might say,
-309.4	310.44		a <strong>dump</strong>.
-310.44	313		Do you ever take your rubbish to the <strong>dump</strong>,
-313	313.2		Dan?
-313.2	314.32	<v Dan>	Not if I can help it.
-314.32	316.48		I prefer to recycle as much as possible.
-316.48	319.84		I only go to the <strong>dump</strong> if I have to get rid of a large appliance,
-319.84	320.72		such as a fridge.
-320.72	323.24		Then we had <strong>a household name</strong>.
-323.24	328.6		To be <strong>a household name</strong> is to be well-known by ordinary people of a particular place or culture.
-328.6	331.4		Can you think of a person who is <strong>a household name</strong> at the moment,
-331.4	331.64		Neil?
-331.64	332.2	<v Neil>	Oh,
-332.2	333.24		that’s very easy.
-333.24	334.8		Donald Trump springs to mind!
-334.8	336.56		Everyone must know who he is.
-336.56	338.6		Then we had <strong>infrastructure</strong>.
-338.6	342.96		<strong>Infrastructure</strong> is the basic systems and services of a society –
-342.96	344.64		such as electricity supply,
-344.64	345.28		trains,
-345.28	345.96		and roads.
-345.96	348.4	<v Dan>	And finally we had <strong>abundance</strong>.
-348.4	349.88		If you have an <strong>abundance</strong> of something,
-349.88	351		you have more than you need.
-351	352.56		Do have anything in <strong>abundance</strong>,
-352.56	352.76		Neil?
-352.76	353.6	<v Neil>	Well,
-353.6	358.56		when it comes to my children I have to have an <strong>abundance</strong> of patience….well,
-358.56	360.2		most of the time.
-360.2	360.72		And,
-360.72	362.92		that’s the end of today’s 6 Minute English.
-362.92	364.24		Please join us again soon!
-364.24	365.84	<v Dan>	And we are on social media too -
-365.84	366.4		Facebook,
-366.4	366.76		Twitter,
-366.76	367.88		Instagram and YouTube.
-367.88	368.56		See you there.
-368.56	369.84	<v Both>	Bye!
-369.84	377.64		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Dan> Hello and welcome to 6 Minute English–
+the show that brings you an interesting topic,
+authentic listening practice and six new items of vocabulary.
+I’m Dan…
+<v Neil> And I’m Neil.
+In this episode we’ll be discussing food waste,
+just as soon as….
+<v Dan> Neil,
+did you just throw the rest of that apple away?
+<v Neil> Yeah.
+It was quite a big one and I couldn’t finish it.
+<v Dan> Neil,
+you know you shouldn’t <strong>waste</strong> food.
+<v Neil> <strong>Waste</strong> meaning to throw away without consuming or using.
+Ah,
+it’s only an apple.
+It’s not the end of the world,
+Dan.
+<v Dan> Well,
+that’s where you could be wrong,
+my friend.
+Let me prove it to you,
+with this week’s question.
+How much of the world’s food is wasted each year?
+a) a half
+b) a third
+c) a quarter
+<v Neil> I’m not sure.
+I know it’s a lot so I’m going to say a) a half
+<v Dan> We’ll find out if you’re right or not at the end of this show.
+So,
+the actual figure is 1.3 billion tons of food,
+which is enough to feed a billion hungry people.
+Where do you think all this food waste comes from?
+<v Neil> Well,
+restaurants,
+I imagine.
+I mean,
+they can’t give one customer’s <strong>leftovers</strong> to another!
+That would be unhygienic!
+<v Dan> <strong>Leftovers</strong> are the remains of food which has not been eaten.
+And while you are right,
+restaurants are not the main contributor to food waste.
+<v Neil> Supermarkets!
+I bet they throw out loads of food once it goes past its sell-by-date,
+or the date which it can be legally sold by.
+<v Dan> Think closer to home.
+<v Neil> It’s us,
+isn’t it?
+<v Dan> Yes.
+In Europe an incredible 53% of food waste comes from households,
+which results in 88 million tonnes of food waste a year.
+And I bet you can’t guess what we do with it?
+<v Neil> I want to say recycle,
+but I can see from your face,
+Dan,
+that it’s not.
+<v Dan> No.
+Unfortunately it goes into landfills and decays.
+<v Neil> A <strong>landfill</strong> is a place where rubbish is buried.
+I see,
+so the food rots and this causes greenhouse gasses which lead to global warming and climate change.
+<v Dan> Exactly,
+and the end of the world.
+But,
+remarkably the European country of Denmark has managed to reduce its food waste by a very significant 25%
+<v Neil> That’s impressive,
+how did that happen?
+<v Dan> They attribute it to a woman called Selina Juul.
+<v Neil> I’ve heard about her.
+She became a <strong>household name</strong> in Denmark overnight!
+<v Dan> <strong>A household name</strong> is one which everybody knows,
+and that’s right.
+<v Neil> I thought she was Russian?
+<v Dan> She is.
+But,
+I’ll let her explain.
+<v INSERT> I come from a country where there were food shortages,
+back then in Moscow,
+communism collapsed,
+we had the collapse of <strong>infrastructure</strong>,
+we were not sure we could get food on the table.
+And coming to Denmark,
+seeing this <strong>abundance</strong>,
+seeing these supermarkets filled with food.
+But then I was really shocked to see a lot of food getting wasted.
+<v Neil> So Selina grew up in Moscow at a time when there wasn’t enough food because of the collapse of <strong>infrastructure</strong>,
+meaning the basic systems and services of a society –
+such as food transportation.
+<v Dan> Then when she moved to Denmark,
+she found an <strong>abundance</strong>,
+or more than enough,
+food,
+but she saw it being wasted.
+<v Neil> So she decided to do something about it?
+<v Dan> Yes.
+She started a Facebook page in 2008 called ‘stop wasting food’
+and 9 years later the Danish government credits her for their reduction in food waste.
+<v Neil> How did she do it?
+<v Dan> Well,
+lots of ideas really.
+She convinced some supermarkets to stop selling their items in bulk so that people buy only what they need.
+She’s produced a <strong>leftovers</strong> cookbook and she’s working with three governments to set up an education programme in schools.
+<v Neil> Wow,
+she’s a busy woman.
+So how about you educate me with the answer to this week’s question.
+<v Dan> Sure!
+I asked you how much of the world’s food is wasted each year?
+a) a half
+b) a third
+c) a quarterAnd I said a) a half
+<v Dan> And I’m terribly sorry,
+mate,
+but you’re wrong.
+The answer is b) a third.
+<v Neil> Well,
+it’s not as bad as I thought it was,
+at least.
+<v Dan> Shall we look at the vocabulary then?
+<v Neil> Yes,
+let’s.
+First we had <strong>waste</strong>.
+If you <strong>waste</strong> something,
+you throw it away or lose it without using it or consuming it.
+Common things we <strong>waste</strong> are food,
+time,
+money and energy.
+We also have some expressions with <strong>waste</strong> too.
+Can you think of one,
+Dan?
+<v Dan> A <strong>waste of space</strong> is an expression which means a thing is completely without value.
+For example,
+I’m a complete waste of space in the kitchen.
+I can’t cook at all.
+Next we had **leftovers.
+Leftovers** are the remains of food or a meal,
+which have not been eaten.
+What do you tend to do with your <strong>leftovers</strong>,
+Neil?
+<v Neil> Oh I love <strong>leftovers</strong>!
+Sometimes I think they taste even better than the original meal!
+<v Dan> I agree!
+Pizza’s a great example!
+<v Neil> Then we had <strong>landfill</strong>.
+A <strong>landfill</strong> is a place where rubbish is dropped and buried.
+In colloquial English we might say,
+a <strong>dump</strong>.
+Do you ever take your rubbish to the <strong>dump</strong>,
+Dan?
+<v Dan> Not if I can help it.
+I prefer to recycle as much as possible.
+I only go to the <strong>dump</strong> if I have to get rid of a large appliance,
+such as a fridge.
+Then we had <strong>a household name</strong>.
+To be <strong>a household name</strong> is to be well-known by ordinary people of a particular place or culture.
+Can you think of a person who is <strong>a household name</strong> at the moment,
+Neil?
+<v Neil> Oh,
+that’s very easy.
+Donald Trump springs to mind!
+Everyone must know who he is.
+Then we had <strong>infrastructure</strong>.
+<strong>Infrastructure</strong> is the basic systems and services of a society –
+such as electricity supply,
+trains,
+and roads.
+<v Dan> And finally we had <strong>abundance</strong>.
+If you have an <strong>abundance</strong> of something,
+you have more than you need.
+Do have anything in <strong>abundance</strong>,
+Neil?
+<v Neil> Well,
+when it comes to my children I have to have an <strong>abundance</strong> of patience….well,
+most of the time.
+And,
+that’s the end of today’s 6 Minute English.
+Please join us again soon!
+<v Dan> And we are on social media too -
+Facebook,
+Twitter,
+Instagram and YouTube.
+See you there.
+<v Both> Bye!
+6 minute English from BBC.

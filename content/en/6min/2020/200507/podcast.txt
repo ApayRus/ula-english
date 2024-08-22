@@ -1,126 +1,126 @@
-0.1	2.96		This is a download from bbc learning English
-2.96	6.72		to find out more visit our website
-6.72	13.56		6 minute English from BBClearningEnglish.com
-13.56	14.04	<v Neil>	Hello.
-14.04	17.04		This is 6 Minute English from BBC Learning English.
-17.04	17.68		I’m Neil.
-17.68	19.04	<v Georgina>	And I’m Georgina.
-19.04	20.12		I’ve got a puzzle for you,
-20.12	20.64		Neil.
-20.64	21.48		Ready?
-21.48	22.28	<v Neil>	Sure.
-22.28	22.8	<v Georgina>	OK.
-22.8	24.24		It’s a riddle.
-24.24	28.44		I’m as light as a feather but no one can hold me for very long.
-28.44	29.48		What am I?
-29.48	30.52	<v Neil>	Hmmm…
-30.52	34.68		as light as a feather but no one can hold you…
-34.68	35.4		No idea.
-35.4	37		What are you?
-37	38.36	<v Georgina>	Your breath.
-38.36	38.92	<v Neil>	Ah,
-38.92	39.28		yes,
-39.28	40.36		I see.
-40.36	40.84		OK,
-40.84	42.4		I’ve got one for you -
-42.4	47.04		I’m so big I’m everywhere but so small you can’t see me.
-47.04	48.32		What am I?
-48.32	51.2	<v Georgina>	You’re everywhere but I can’t see you?
-51.2	51.56		Hmmm,
-51.56	53.36		tricky…
-53.36	54.52		I give up.
-54.52	55.6	<v Neil>	The answer is –
-55.6	57.04		germs!
-57.04	58.88		With the outbreak of coronavirus,
-58.88	65.76		people around the world have rediscovered the importance of fighting germs to stop the spread of disease.
-65.76	72.36	<v Georgina>	In this programme we’ll be the discussing the importance of handwashing in the prevention of germs and viruses.
-72.36	81.64		And we’ll start off by meeting the first person to realise that keeping hands clean can really help prevent diseases being passed on.
-81.64	82.2	<v Neil>	Ah…
-82.2	85.08		do you mean the19th century Hungarian doctor,
-85.08	86.96		Ignaz Semmelweiss?
-86.96	89.16		He was known as the ‘saviour of mothers’
-89.16	93.8		for keeping maternity wards germ-free and he had a very interesting life.
-93.8	96.12		But do you know what happened to him in the end?
-96.12	97.76		That’s my quiz question.
-97.76	98.04		Was it:
-98.04	98.64		1.
-98.64	100.08		He won the Nobel prize
-100.08	101.32		2.
-101.32	104.28		He ended up in hospital for mentally ill people
-104.28	105		3.
-105	108.56		He started the first company to produce hand soap
-108.56	112.44	<v Georgina>	Dr Semmelweiss sounds like a scientific hero so I’ll say,
-112.44	115.36		a) he won the Nobel prize.
-115.36	115.8	<v Neil>	OK.
-115.8	118.04		We’ll find out later if you were right.
-118.04	122.72		What’s for sure is that Ignaz Semmelweiss was a hero to Val Curtis,
-122.72	126.32		a director at the London School of Hygiene and Tropical Medicine.
-126.32	130.68		Here she is talking to BBC Radio 4’s <em>Science Stories</em>:
-130.68	138.08	<v Val Curtis, Director, London School of Hygiene and Tropical Medicine>	Semmelweiss is kind of my <strong>patron saint.</strong> Handwashing has been my life for the last thirty years working on trying to improve <strong>hygiene</strong>,
-138.08	147.4		mostly in developing countries and he was really the first to identify the importance of keeping hands clean in the prevention of the transmission of infection.
-147.4	155.76		And since the beginning of my career working in public health I’ve been trying to understand how diseases get spread and what the best way of preventing it is,
-155.76	161.92		and handwashing <strong>jumped out</strong> as being the most important means of preventing infections,
-161.92	163.96		particularly in developing countries.
-163.96	166.6	<v Georgina>	Val’s work is all about improving <strong>hygiene</strong> -
-166.6	170.6		practices for maintaining health and preventing disease,
-170.6	173.08		especially through cleanliness.
-173.08	178.76	<v Neil>	And she was clearly influenced by the work of Dr Semmelweiss because she calls him her <strong>patron saint</strong> -
-178.76	184		a kind of guide and protector believed to give special help or inspiration.
-184	189.24	<v Georgina>	But Dr Semmelweiss is also a good example of science communication.
-189.24	194.48		Getting the message out so people understand the importance of <strong>hygiene</strong> is difficult.
-194.48	195.8		And ‘wash your hands’
-195.8	196.92		<strong>jumped out</strong> -
-196.92	198.52		or made a strong impact -
-198.52	200.64		as a simple message to communicate.
-200.64	202.24		Here’s Val again:
-202.24	216.84	<v Val Curtis, Director, London School of Hygiene and Tropical Medicine>	It wasn’t until we wrote a paper in 2003 that showed the <strong>evidence</strong> that handwashing could save a million lives that actually people started to take it seriously and handwashing became a big important <strong>issue</strong> internationally.
-216.84	227.44		So for me the lesson from Semmelweiss is: don’t <strong>scream and shout</strong> and accuse people of doing things wrongly but patiently get the data out there and tell your story in a positive way.
-227.44	234.44	<v Neil>	The idea that handwashing is an essential part of hygiene is supported by scientific <strong>evidence</strong> -
-234.44	238.84		the facts and information used to show that a belief is true -
-238.84	239.48		in this case,
-239.48	243.36		Val’s belief that handwashing could help save a million lives.
-243.36	243.88	<v Georgina>	So,
-243.88	247.36		handwashing has become an important global <strong>issue</strong> -
-247.36	249.32		or topic of discussion -
-249.32	253.84		especially in places without access to clean sanitation and toilets.
-253.84	257.88	<v Neil>	Val also mentions that if you want people to listen to your message,
-257.88	260.28		it’s better to present the <strong>evidence</strong> in a positive,
-260.28	264.16		scientific way instead of <strong>screaming and shouting</strong> -
-264.16	268.2		speaking in a forceful or even angry way to convince people you’re right.
-268.2	268.64	<v Georgina>	Right,
-268.64	271.64		people don’t listen if you <strong>scream and shout</strong> at them -
-271.64	273.36		they just think you’re strange.
-273.36	275.84	<v Neil>	Which brings me back to today’s quiz question.
-275.84	276.64		Remember,
-276.64	279.4		I asked you what happened to Dr Semmelweiss in the end?
-279.4	282.88	<v Georgina>	…and I said a) he won the Nobel prize.
-282.88	283.44	<v Neil>	Well,
-283.44	284.48		I’m afraid the answer was ,
-284.48	288.16		b) he ended up in hospital for mentally ill people.
-288.16	291.2	<v Georgina>	Today we’ve been talking about handwashing,
-291.2	295.28		one of the single best ways to improve <strong>personal hygiene</strong> -
-295.28	297.68		the prevention of disease by keeping clean.
-297.68	299		Recently,
-299	301.96		handwashing has become a top global issue -
-301.96	305.64		subject or topic people are thinking and talking about.
-305.64	308.24	<v Neil>	Scientific <strong>evidence</strong> -
-308.24	312.04		the facts and information used to prove ideas true or valid -
-312.04	314.52		it shows that handwashing jumped out -
-314.52	316.24		or was easily noticed -
-316.24	319.68		as one of the most important methods to stop the spread of infection.
-319.68	326.44	<v Georgina>	The work of 19th century scientist Ignaz Semmelweiss was so inspiring that even today,
-326.44	330		some doctors consider him the <strong>patron saint</strong> of hygiene -
-330	337.64		an expression referring to a protecting or guiding saint believed to give special help or inspiration.
-337.64	340.52	<v Neil>	But communicating the message of ‘wash your hands’
-340.52	342.24		to people around the world is hard,
-342.24	345.48		especially if you just <strong>scream and shout</strong> -
-345.48	350.6		or try to convince someone by talking to them in a forceful or argumentative way.
-350.6	351.04	<v Georgina>	OK,
-351.04	351.4		Neil,
-351.4	353.68		the scientific evidence has convinced me -
-353.68	357.56		I promise to make sure I regularly wash my hands.
-357.56	366.36	<v Neil>	That’s all from us today but join us again soon for more topical discussion and vocabulary here at BBC Learning English’s 6 Minute English.
-366.36	369.04	<v Georgina>	Stay safe and remember to wash your hands!
-369.04	369.96		Bye for now.
-369.96	370.96	<v Neil>	Bye!
-370.96	379.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Georgina> And I’m Georgina.
+I’ve got a puzzle for you,
+Neil.
+Ready?
+<v Neil> Sure.
+<v Georgina> OK.
+It’s a riddle.
+I’m as light as a feather but no one can hold me for very long.
+What am I?
+<v Neil> Hmmm…
+as light as a feather but no one can hold you…
+No idea.
+What are you?
+<v Georgina> Your breath.
+<v Neil> Ah,
+yes,
+I see.
+OK,
+I’ve got one for you -
+I’m so big I’m everywhere but so small you can’t see me.
+What am I?
+<v Georgina> You’re everywhere but I can’t see you?
+Hmmm,
+tricky…
+I give up.
+<v Neil> The answer is –
+germs!
+With the outbreak of coronavirus,
+people around the world have rediscovered the importance of fighting germs to stop the spread of disease.
+<v Georgina> In this programme we’ll be the discussing the importance of handwashing in the prevention of germs and viruses.
+And we’ll start off by meeting the first person to realise that keeping hands clean can really help prevent diseases being passed on.
+<v Neil> Ah…
+do you mean the19th century Hungarian doctor,
+Ignaz Semmelweiss?
+He was known as the ‘saviour of mothers’
+for keeping maternity wards germ-free and he had a very interesting life.
+But do you know what happened to him in the end?
+That’s my quiz question.
+Was it:
+1.
+He won the Nobel prize
+2.
+He ended up in hospital for mentally ill people
+3.
+He started the first company to produce hand soap
+<v Georgina> Dr Semmelweiss sounds like a scientific hero so I’ll say,
+a) he won the Nobel prize.
+<v Neil> OK.
+We’ll find out later if you were right.
+What’s for sure is that Ignaz Semmelweiss was a hero to Val Curtis,
+a director at the London School of Hygiene and Tropical Medicine.
+Here she is talking to BBC Radio 4’s <em>Science Stories</em>:
+<v Val Curtis, Director, London School of Hygiene and Tropical Medicine> Semmelweiss is kind of my <strong>patron saint.</strong> Handwashing has been my life for the last thirty years working on trying to improve <strong>hygiene</strong>,
+mostly in developing countries and he was really the first to identify the importance of keeping hands clean in the prevention of the transmission of infection.
+And since the beginning of my career working in public health I’ve been trying to understand how diseases get spread and what the best way of preventing it is,
+and handwashing <strong>jumped out</strong> as being the most important means of preventing infections,
+particularly in developing countries.
+<v Georgina> Val’s work is all about improving <strong>hygiene</strong> -
+practices for maintaining health and preventing disease,
+especially through cleanliness.
+<v Neil> And she was clearly influenced by the work of Dr Semmelweiss because she calls him her <strong>patron saint</strong> -
+a kind of guide and protector believed to give special help or inspiration.
+<v Georgina> But Dr Semmelweiss is also a good example of science communication.
+Getting the message out so people understand the importance of <strong>hygiene</strong> is difficult.
+And ‘wash your hands’
+<strong>jumped out</strong> -
+or made a strong impact -
+as a simple message to communicate.
+Here’s Val again:
+<v Val Curtis, Director, London School of Hygiene and Tropical Medicine> It wasn’t until we wrote a paper in 2003 that showed the <strong>evidence</strong> that handwashing could save a million lives that actually people started to take it seriously and handwashing became a big important <strong>issue</strong> internationally.
+So for me the lesson from Semmelweiss is: don’t <strong>scream and shout</strong> and accuse people of doing things wrongly but patiently get the data out there and tell your story in a positive way.
+<v Neil> The idea that handwashing is an essential part of hygiene is supported by scientific <strong>evidence</strong> -
+the facts and information used to show that a belief is true -
+in this case,
+Val’s belief that handwashing could help save a million lives.
+<v Georgina> So,
+handwashing has become an important global <strong>issue</strong> -
+or topic of discussion -
+especially in places without access to clean sanitation and toilets.
+<v Neil> Val also mentions that if you want people to listen to your message,
+it’s better to present the <strong>evidence</strong> in a positive,
+scientific way instead of <strong>screaming and shouting</strong> -
+speaking in a forceful or even angry way to convince people you’re right.
+<v Georgina> Right,
+people don’t listen if you <strong>scream and shout</strong> at them -
+they just think you’re strange.
+<v Neil> Which brings me back to today’s quiz question.
+Remember,
+I asked you what happened to Dr Semmelweiss in the end?
+<v Georgina> …and I said a) he won the Nobel prize.
+<v Neil> Well,
+I’m afraid the answer was ,
+b) he ended up in hospital for mentally ill people.
+<v Georgina> Today we’ve been talking about handwashing,
+one of the single best ways to improve <strong>personal hygiene</strong> -
+the prevention of disease by keeping clean.
+Recently,
+handwashing has become a top global issue -
+subject or topic people are thinking and talking about.
+<v Neil> Scientific <strong>evidence</strong> -
+the facts and information used to prove ideas true or valid -
+it shows that handwashing jumped out -
+or was easily noticed -
+as one of the most important methods to stop the spread of infection.
+<v Georgina> The work of 19th century scientist Ignaz Semmelweiss was so inspiring that even today,
+some doctors consider him the <strong>patron saint</strong> of hygiene -
+an expression referring to a protecting or guiding saint believed to give special help or inspiration.
+<v Neil> But communicating the message of ‘wash your hands’
+to people around the world is hard,
+especially if you just <strong>scream and shout</strong> -
+or try to convince someone by talking to them in a forceful or argumentative way.
+<v Georgina> OK,
+Neil,
+the scientific evidence has convinced me -
+I promise to make sure I regularly wash my hands.
+<v Neil> That’s all from us today but join us again soon for more topical discussion and vocabulary here at BBC Learning English’s 6 Minute English.
+<v Georgina> Stay safe and remember to wash your hands!
+Bye for now.
+<v Neil> Bye!
+6 minute English from BBC.

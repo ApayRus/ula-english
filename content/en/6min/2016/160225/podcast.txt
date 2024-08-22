@@ -1,148 +1,148 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.52		6 minute English from BBClearningEnglish.com
-12.52	15.48	<v Sophie>	Hello and welcome to 6 Minute English.
-15.48	16.4		I’m Sophie…
-16.4	17.88	<v Neil>	And I’m Neil.
-17.88	19.52		I was watching the news the other day,
-19.52	20.16		Sophie.
-20.16	21.76	<v Sophie>	Learn anything interesting?
-21.76	22.16	<v Neil>	Yes,
-22.16	23.24		actually.
-23.24	30.6		UK scientists have been authorised by the government to genetically modify human embryos for research.
-30.6	34.92		What they can’t do though is implant modified embryos into women.
-34.92	37.16		They talked a lot about gene editing…
-37.16	39.52	<v Sophie>	Can you explain to us what gene editing is?
-39.52	40.24	<v Neil>	Mmm…
-40.24	43.92		I think this means there are these letters in a code –
-43.92	45.76		A-B-C something…
-45.76	46.68		I can’t remember exactly…
-46.68	51.04	<v Sophie>	<strong>Gene</strong> <strong>editing</strong> is the ability to <strong>manipulate</strong> –
-51.04	52.04		or control –
-52.04	53.12		DNA.
-53.12	54.64		And in case you didn’t know,
-54.64	59.16		<strong>DNA</strong> is short for deoxyribonucleic acid –
-59.16	64.2		this is a substance in the cells of animals and plants that contains genetic information.
-64.2	74.56		And a <strong>gene</strong> is part of the DNA in the cell that controls the physical development and behaviour of a plant or animal and is passed on from its parents.
-74.56	75.44	<v Neil>	Phew!
-75.44	76.68		Thanks for the science lesson,
-76.68	77.28		Sophie.
-77.28	78.08	<v Sophie>	You’re welcome.
-78.08	79.56		Now here’s a question for you,
-79.56	88.16		Neil: Which science fiction film anticipates gene editing in a dystopian society where humans are genetically engineered?
-88.16	88.92		Is it…
-88.92	90.8		a) Robocop
-90.8	92.28		b) Gattaca
-92.28	94.32		or c) Blade Runner
-94.32	94.92	<v Neil>	Mmm…
-94.92	99.96		I don’t really understand the question but I’m going to say c) Blade Runner.
-99.96	100.96		What’s dystopian?
-100.96	106.72	<v Sophie>	<strong>Dystopian</strong> means an imaginary society where people are unhappy and afraid.
-106.72	107.08		Well,
-107.08	108.4		moving on,
-108.4	114.64		let’s listen to BBC journalist Fergus Walsh talking about how gene editing works.
-114.64	118.28	<v INSERT>	Think of gene editing as a molecular sat nav.
-118.28	121.04		It scans the DNA searching for the error.
-121.04	125.32		Then it uses molecular scissors to snip through both strands,
-125.32	127.56		which switches off the faulty gene.
-127.56	132.8		Or it can repair the code by inserting a healthy copy of the gene.
-132.8	135.64		These techniques raise the prospect of treating –
-135.64	136.96		even curing –
-136.96	138.48		some genetic diseases –
-138.48	140.64		and it’s not science fiction.
-140.64	148.72	<v Sophie>	So DNA is a set of instructions for how our bodies work written using a chemical code of four letters –
-148.72	149.08		A,
-149.08	150.08		T,
-150.08	150.92		C,
-150.92	151.28		G.
-151.28	153.88		But sometimes the code contains mistakes.
-153.88	154.4	<v Neil>	Yes.
-154.4	157.56		You find spelling mistakes by <strong>scanning</strong> –
-157.56	158.16		or searching –
-158.16	158.88		through the DNA.
-158.88	160		Then you <strong>snip</strong> –
-160	161.08		or cut out –
-161.08	165.88		the mistake or faulty gene from the code using molecular scissors.
-165.88	167.04		<strong>Faulty</strong> by the way,
-167.04	169.16		means something that isn’t working properly –
-169.16	171.2		like the faulty brakes on my bike.
-171.2	172.64	<v Sophie>	That sounds really dangerous,
-172.64	173.24		Neil!
-173.24	173.56	<v Neil>	Yeah,
-173.56	176.12		but I’m more worried about my faulty genes.
-176.12	179.52		I might have all sorts of genetic mistakes inside me.
-179.52	181.52	<v Sophie>	That wouldn’t surprise me.
-181.52	184.12		But you’ve actually touched on a serious point.
-184.12	188.56		Latest research suggests all our bodies do contain genetic mistakes,
-188.56	191		some of which could cause disease.
-191	194.12		And as reporter Fergus Walsh said at the end of the clip,
-194.12	200.36		gene editing could be important for treating or even curing inherited genetic diseases.
-200.36	202.16		For patients with blood,
-202.16	203.08		immune,
-203.08	209.08		muscle or skin disorders it offers the possibility that their faulty cells could be removed,
-209.08	210.64		or changed in the lab,
-210.64	211.92		and then put back.
-211.92	213.52	<v Neil>	That sounds amazing.
-213.52	215.32		But is there a <strong>catch</strong>?
-215.32	218.32	<v Sophie>	And that means a problem or drawback.
-218.32	219.08		Yes.
-219.08	224.72		Some people think that if editing the genes of a human embryo is allowed for curing disease,
-224.72	230.08		this will lead to editing the genes of embryos for reasons other than health.
-230.08	232.28		Let’s listen to Marcy Darnovsky,
-232.28	240.16		executive director of the Centre for Genetics and Society in California talking about her concerns.
-240.16	241.24	<v INSERT>	It’s too risky,
-241.24	242.08		we don’t need it,
-242.08	244.32		there are other ways to have healthy children,
-244.32	245.6		and it would open the door –
-245.6	246.4		possibly –
-246.4	249.04		to a world of genetic haves and have nots.
-249.04	250.6		We don’t need more inequality,
-250.6	252.76		we don’t need more discrimination in the world.
-252.76	258.8	<v Neil>	An <strong>embryo</strong> by the way is an animal or human starting to develop inside its mother.
-258.8	265.12		Marcy Darnovsky is against gene editing because it may be used to create <strong>designer babies</strong> –
-265.12	270.12		or babies whose genes have been selected to have certain desirable characteristics.
-270.12	273	<v Sophie>	She says it may <strong>open the door</strong> –
-273	274.52		or make it possible –
-274.52	278.64		a situation where embryos are genetically <strong>enhanced</strong> –
-278.64	279.76		or improved –
-279.76	282.64		to be more intelligent or physically stronger,
-282.64	283.64		for example.
-283.64	286.76	<v Neil>	And this will lead to more <strong>discrimination</strong> in the world –
-286.76	289.48		which means treating some people less fairly than others…
-289.48	293.6	<v Sophie>	…which is something that science fiction has been predicting for many years.
-293.6	296.84		It’s that dystopian society we were discussing earlier,
-296.84	297.32		Neil!
-297.32	305.96		Which science fiction film anticipates gene editing in a dystopian society where humans are genetically engineered?
-305.96	306.36		Is it…
-306.36	311.56		a) Robocop b) Gattaca or c) Blade Runner?
-311.56	313.96	<v Neil>	And I said c) Blade Runner.
-313.96	314.8	<v Sophie>	Sorry,
-314.8	315.68		Neil!
-315.68	317.68		It was b) Gattaca.
-317.68	322.8		This 1997 sci-fi film centres on the character Vincent Freeman,
-322.8	324.68		who wasn’t genetically engineered,
-324.68	333.16		but is able to buy the genetic identity of another man in order to pursue his dream of travelling into space.
-333.16	336.92		The film’s title uses the letters G,
-336.92	337.28		A,
-337.28	338.52		T and C,
-338.52	342.48		which are the four chemical codes making up DNA.
-342.48	344.96		Now here are today’s words:
-344.96	346.56		gene editing
-346.56	348.2		manipulate
-348.2	349.8		DNA
-349.8	351.04		gene
-351.04	352.6		dystopian
-352.6	353.92		scanning
-353.92	354.92		snip
-354.92	356.28		faulty
-356.28	357.64		catch
-357.64	358.88		embryo
-358.88	361.04		designer babies
-361.04	362.12		open the door
-362.12	363.48		enhanced
-363.48	365.08		discrimination
-365.08	365.6	<v Neil>	Well,
-365.6	367.52		that’s the end of today’s 6 Minute English.
-367.52	369.84		Please do join us again soon!
-369.84	371.44	<v Both>	Bye.
-371.44	377.4		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Sophie> Hello and welcome to 6 Minute English.
+I’m Sophie…
+<v Neil> And I’m Neil.
+I was watching the news the other day,
+Sophie.
+<v Sophie> Learn anything interesting?
+<v Neil> Yes,
+actually.
+UK scientists have been authorised by the government to genetically modify human embryos for research.
+What they can’t do though is implant modified embryos into women.
+They talked a lot about gene editing…
+<v Sophie> Can you explain to us what gene editing is?
+<v Neil> Mmm…
+I think this means there are these letters in a code –
+A-B-C something…
+I can’t remember exactly…
+<v Sophie> <strong>Gene</strong> <strong>editing</strong> is the ability to <strong>manipulate</strong> –
+or control –
+DNA.
+And in case you didn’t know,
+<strong>DNA</strong> is short for deoxyribonucleic acid –
+this is a substance in the cells of animals and plants that contains genetic information.
+And a <strong>gene</strong> is part of the DNA in the cell that controls the physical development and behaviour of a plant or animal and is passed on from its parents.
+<v Neil> Phew!
+Thanks for the science lesson,
+Sophie.
+<v Sophie> You’re welcome.
+Now here’s a question for you,
+Neil: Which science fiction film anticipates gene editing in a dystopian society where humans are genetically engineered?
+Is it…
+a) Robocop
+b) Gattaca
+or c) Blade Runner
+<v Neil> Mmm…
+I don’t really understand the question but I’m going to say c) Blade Runner.
+What’s dystopian?
+<v Sophie> <strong>Dystopian</strong> means an imaginary society where people are unhappy and afraid.
+Well,
+moving on,
+let’s listen to BBC journalist Fergus Walsh talking about how gene editing works.
+<v INSERT> Think of gene editing as a molecular sat nav.
+It scans the DNA searching for the error.
+Then it uses molecular scissors to snip through both strands,
+which switches off the faulty gene.
+Or it can repair the code by inserting a healthy copy of the gene.
+These techniques raise the prospect of treating –
+even curing –
+some genetic diseases –
+and it’s not science fiction.
+<v Sophie> So DNA is a set of instructions for how our bodies work written using a chemical code of four letters –
+A,
+T,
+C,
+G.
+But sometimes the code contains mistakes.
+<v Neil> Yes.
+You find spelling mistakes by <strong>scanning</strong> –
+or searching –
+through the DNA.
+Then you <strong>snip</strong> –
+or cut out –
+the mistake or faulty gene from the code using molecular scissors.
+<strong>Faulty</strong> by the way,
+means something that isn’t working properly –
+like the faulty brakes on my bike.
+<v Sophie> That sounds really dangerous,
+Neil!
+<v Neil> Yeah,
+but I’m more worried about my faulty genes.
+I might have all sorts of genetic mistakes inside me.
+<v Sophie> That wouldn’t surprise me.
+But you’ve actually touched on a serious point.
+Latest research suggests all our bodies do contain genetic mistakes,
+some of which could cause disease.
+And as reporter Fergus Walsh said at the end of the clip,
+gene editing could be important for treating or even curing inherited genetic diseases.
+For patients with blood,
+immune,
+muscle or skin disorders it offers the possibility that their faulty cells could be removed,
+or changed in the lab,
+and then put back.
+<v Neil> That sounds amazing.
+But is there a <strong>catch</strong>?
+<v Sophie> And that means a problem or drawback.
+Yes.
+Some people think that if editing the genes of a human embryo is allowed for curing disease,
+this will lead to editing the genes of embryos for reasons other than health.
+Let’s listen to Marcy Darnovsky,
+executive director of the Centre for Genetics and Society in California talking about her concerns.
+<v INSERT> It’s too risky,
+we don’t need it,
+there are other ways to have healthy children,
+and it would open the door –
+possibly –
+to a world of genetic haves and have nots.
+We don’t need more inequality,
+we don’t need more discrimination in the world.
+<v Neil> An <strong>embryo</strong> by the way is an animal or human starting to develop inside its mother.
+Marcy Darnovsky is against gene editing because it may be used to create <strong>designer babies</strong> –
+or babies whose genes have been selected to have certain desirable characteristics.
+<v Sophie> She says it may <strong>open the door</strong> –
+or make it possible –
+a situation where embryos are genetically <strong>enhanced</strong> –
+or improved –
+to be more intelligent or physically stronger,
+for example.
+<v Neil> And this will lead to more <strong>discrimination</strong> in the world –
+which means treating some people less fairly than others…
+<v Sophie> …which is something that science fiction has been predicting for many years.
+It’s that dystopian society we were discussing earlier,
+Neil!
+Which science fiction film anticipates gene editing in a dystopian society where humans are genetically engineered?
+Is it…
+a) Robocop b) Gattaca or c) Blade Runner?
+<v Neil> And I said c) Blade Runner.
+<v Sophie> Sorry,
+Neil!
+It was b) Gattaca.
+This 1997 sci-fi film centres on the character Vincent Freeman,
+who wasn’t genetically engineered,
+but is able to buy the genetic identity of another man in order to pursue his dream of travelling into space.
+The film’s title uses the letters G,
+A,
+T and C,
+which are the four chemical codes making up DNA.
+Now here are today’s words:
+gene editing
+manipulate
+DNA
+gene
+dystopian
+scanning
+snip
+faulty
+catch
+embryo
+designer babies
+open the door
+enhanced
+discrimination
+<v Neil> Well,
+that’s the end of today’s 6 Minute English.
+Please do join us again soon!
+<v Both> Bye.
+6 minute English from BBC.

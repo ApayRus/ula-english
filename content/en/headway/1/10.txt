@@ -1,17 +1,17 @@
-0.17	2.16	Tapescript 1.10 (one point ten)
-3.47	3.95	<v 1>One
-6.74	7.41	Hello.
-8.05	9.97	01913
-10.26	11.57	786
-11.85	13.07	499.
-15.21	15.69	<v 2>Two
-17.24	19.22	My brother has four children.
-21.74	22.28	<v 3>Three
-22.95	25.32	I have 10 (ten) stamps in my bag.
-27.77	28.41	<v 4>Four
-29.65	32.11	Hello, extension 4177 (four one double seven).
-34.58	35.33	<v 5>Five
-36.17	37.95	I live at number 19 (nineteen).
-40.73	41.46	<v 6>Six
-42.50	43.13	Goodbye.
-43.62	44.65	See you at five.
+Tapescript 1.10 (one point ten)
+<v 1>One
+Hello.
+01913
+786
+499.
+<v 2>Two
+My brother has four children.
+<v 3>Three
+I have 10 (ten) stamps in my bag.
+<v 4>Four
+Hello, extension 4177 (four one double seven).
+<v 5>Five
+I live at number 19 (nineteen).
+<v 6>Six
+Goodbye.
+See you at five.

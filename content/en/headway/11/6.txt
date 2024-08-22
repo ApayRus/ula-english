@@ -1,42 +1,42 @@
-0.18	2.44	Tapescript 11.6
-2.88	3.76	Vowels
-5.03	5.54	1
-6.68	7.28	red
-8.28	8.91	said
-11.61	12.08	2
-12.86	13.42	hat
-14.23	14.89	that
-17.19	17.79	3
-18.23	18.91	kissed
-19.77	20.36	list
-22.77	23.42	4
-24.36	25.08	green
-25.99	26.68	mean
-28.98	29.76	5
-30.47	31.05	laugh
-32.13	32.64	half
-34.76	35.43	6
-36.04	36.77	whose
-37.65	38.51	shoes
-40.99	41.63	7
-42.19	42.91	short
-43.92	44.55	bought
-49.14	50.07	Diphthongs
-51.30	51.82	1
-52.81	53.49	white
-54.52	55.16	night
-57.01	57.53	2
-58.45	59.09	near
-60.30	60.84	beer
-62.82	63.41	3
-64.41	65.14	they
-66.25	66.92	pay
-69.01	69.64	4
-70.61	71.36	hair
-72.45	73.19	wear
-75.47	76.28	5
-77.08	78.01	rose
-78.91	79.84	knows
-81.98	82.70	6
-83.47	84.27	ours
-85.28	86.27	flowers
+Tapescript 11.6
+Vowels
+1
+red
+said
+2
+hat
+that
+3
+kissed
+list
+4
+green
+mean
+5
+laugh
+half
+6
+whose
+shoes
+7
+short
+bought
+Diphthongs
+1
+white
+night
+2
+near
+beer
+3
+they
+pay
+4
+hair
+wear
+5
+rose
+knows
+6
+ours
+flowers

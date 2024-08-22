@@ -1,186 +1,186 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	11.6		6 minute English from BBClearningEnglish.com
-11.6	13.84	<v Alice>	Hello and welcome to 6 Minute English.
-13.84	14.52		I’m Alice…
-14.52	15.52	<v Neil>	And I’m Neil.
-15.52	16.24		So Alice,
-16.24	20		can you think of an example of how the English we speak is changing?
-20	20.44	<v Alice>	Yes,
-20.44	21.04		I can –
-21.04	23.68		teenagers saying ‘like’ all the time…
-23.68	23.8	<v Neil>	Oh,
-23.8	24.12		that’s,
-24.12	24.64		like,
-24.64	26.88		really like annoying,
-26.88	27.52		like?
-27.52	27.88	<v Alice>	Well,
-27.88	33.16		the subject of today’s show is how and why the English language is changing.
-33.16	35.76		And teenagers definitely have their own code –
-35.76	39.16		including text speak when they’re on the internet or using their phones.
-39.16	39.6		Fomo,
-39.6	40.04		bae,
-40.04	41		plos –
-41	45.28		do you have any idea what those terms mean,
-45.28	45.84		Neil?
-45.84	48.24	<v Neil>	I’ve got no idea what you’re talking about,
-48.24	48.64		Alice.
-48.64	52.72		They’re pretty <strong>baffling</strong> –
-52.72	54.84		and that means ‘hard to understand’.
-54.84	55.72		But that’s the idea,
-55.72	56.48		isn’t it?
-56.48	58.8		We oldies aren’t supposed to understand!
-58.8	59.36	<v Alice>	Yes,
-59.36	60.28		exactly!
-60.28	61.24		Apparently,
-61.24	65.52		‘plos’ means ‘parents looking over shoulder’ –
-65.52	67.52		which proves your point!
-67.52	71.12		Text speak is a lot to do with inventing cool new terms –
-71.12	73.28		and these change quickly.
-73.28	73.88		In a year,
-73.88	75.36		or even six months time,
-75.36	76.92		words that were once popular,
-76.92	78.64		have disappeared completely.
-78.64	79.36	<v Neil>	OK,
-79.36	81.56		I have a quiz question forming in my mind,
-81.56	81.84		Alice –
-81.84	84.2		so I hope you’re feeling up to the challenge,
-84.2	84.56		Alice.
-84.56	85.4		Can you tell me,
-85.4	89.24		what kinds of words are slow to change?
-89.24	89.68		Is it…
-89.68	90.64		a) nouns?
-90.64	92		b) pronouns?
-92	93.8		Or c) adjectives?
-93.8	96.6	<v Alice>	I think it’s a) nouns.
-96.6	100		The way we name things probably doesn’t change that quickly.
-100	103.84	<v Neil>	We shall find out if you are right or wrong later on in the show.
-103.84	106.36		But let’s think about English grammar for a minute,
-106.36	108.68		and what changes are occurring here.
-108.68	110.64	<v Alice>	I noticed you said ‘shall’ there,
-110.64	111.44		Neil.
-111.44	112.32		And to my ear,
-112.32	113.76		that sounds pretty old fashioned.
-113.76	114.44	<v Neil>	And you’re very right,
-114.44	115.36		Alice.
-115.36	118		The modal verb ‘shall’ is <strong>on the way out</strong> –
-118	119.48		meaning it’s disappearing.
-119.48	120.68		Why do you think that is?
-120.68	121.16	<v Alice>	Well,
-121.16	124.52		perhaps it’s because ‘will’ sounds more natural these days.
-124.52	126.36		Let’s listen to linguist Bas Aarts,
-126.36	128.04		talking to writer and presenter,
-128.04	131.56		Michael Rosen on the BBC Radio 4 programme <em>Word of Mouth</em>,
-131.56	132.32		for his explanation.
-132.32	135.48	<v Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London>	MR: Why would we lose ‘shall’?
-135.48	135.72		I mean,
-135.72	138.36		if especially as we hold it in the interrogative.
-138.36	139.08		We say,
-139.08	139.52		you know,
-139.52	140.32		‘Shall we go swimming’?
-140.32	140.44		BA: Well,
-140.44	142.16		because it’s in competition with ‘will’.
-142.16	146.56		If you have two words that more or less express the same meaning,
-146.56	149.2		one of the two is going to be pushed out of the language.
-149.2	149.76		And in this case,
-149.76	150.6		it’s ‘shall’.
-150.6	152.64	<v Neil>	Bas Aarts there.
-152.64	155.16		And <strong>interrogative</strong> means ‘a question’.
-155.16	158.2		So it’s not just in nature that we get survival of the fittest –
-158.2	158.6		you know,
-158.6	159.64		the struggle for life –
-159.64	161.32		it happens in language too.
-161.32	163.72		Similar words are competing with each other,
-163.72	166		and some lose while others <strong>win out</strong> –
-166	168.08		or succeed after a fight.
-168.08	170.72		Do you know of any other modal verbs that are on their way out,
-170.72	171.4		Alice?
-171.4	172.32	<v Alice>	Yes –
-172.32	174.12		‘must’ is declining rapidly.
-174.12	175.12	<v Neil>	Why’s that?
-175.12	177.68	<v Alice>	‘Must’ sounds authoritarian,
-177.68	180.6		and people are choosing to express <strong>obligation</strong> –
-180.6	182.56		or having a duty to do something –
-182.56	184		in different ways.
-184	184.36	<v Neil>	OK,
-184.36	187.44		<strong>authoritarian</strong> means ‘demanding that people obey you’.
-187.44	189.52		For example: Alice,
-189.52	192.24		you must move on to the next point,
-192.24	192.72		now!
-192.72	193.08	<v Alice>	Oh,
-193.08	194.36		you scared me a bit there,
-194.36	194.84		Neil!
-194.84	195.92	<v Neil>	Exactly.
-195.92	198.04		I can see why people are <strong>shying away from</strong> –
-198.04	198.92		or avoiding –
-198.92	199.8		‘must’.
-199.8	203.4		It sounds nicer to soften obligation by saying things like,
-203.4	205.6		'You <em>might</em> want to move on to the next point now,
-205.6	206.36		Alice.’
-206.36	206.88	<v Alice>	OK,
-206.88	207.4		then,
-207.4	209.04		I shall.
-209.04	210		Let’s talk about tenses.
-210	212.4		<strong>Progressive</strong> tenses –
-212.4	215.6		formed from the verb <em>be</em> and the suffix –<em>ing</em> –
-215.6	218.08		are usually used for ongoing situations,
-218.08	218.96		for example,
-218.96	222.04		‘I’m doing the show with Neil at the moment’.
-222.04	225.16		But its use has been increasing rapidly.
-225.16	228.6		Let’s listen to Michael Rosen and Bas Aarts again talking about this.
-228.6	236	<v Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London>	BA: It started increasing dramatically in the 19th century and has continued to rise in the present day.
-236	237.8		MR: I think that’s a cue for me to say,
-237.8	238.64		‘I’m loving it’,
-238.64	239.72		is that right?
-239.72	239.76		BA: Well,
-239.76	242.16		that is one of the constructions that is coming in,
-242.16	242.48		I mean,
-242.48	246.8		I sometimes call it the Big Mac progressive because of course McDonald’s use that.
-246.8	251.44	<v Neil>	In this segment of the BBC Radio 4 programme <em>Word of Mouth</em>,
-251.44	255.12		Michael Rosen quotes the progressive form ‘I’m loving it’ –
-255.12	259.68		a slogan used by an American fast-food chain in its advertising campaign.
-259.68	262.6	<v Alice>	The verb ‘love’ is a <strong>stative</strong> verb.
-262.6	264.52		It expresses a state of being –
-264.52	265.88		as opposed to doing –
-265.88	268.6		and is traditionally used in the simple form,
-268.6	269.32		for example,
-269.32	270.32		‘I love it’.
-270.32	271.32		But these days,
-271.32	274.92		people are using stative verbs in the progressive more and more.
-274.92	276.44	<v Neil>	I’m hearing what you’re saying,
-276.44	277.12		Alice!
-277.12	277.48		Now,
-277.48	280.76		I think it’s time for the answer to today’s quiz question.
-280.76	283.96		I asked you: What kinds of words are slow to change?
-283.96	284.6		Is it…
-284.6	285.28		a) nouns,
-285.28	287.84		b) pronouns or c) adjectives?
-287.84	290.28	<v Alice>	I said a) nouns.
-290.28	292.6	<v Neil>	And you were wrong,
-292.6	293.4		Alice!
-293.4	295.96		According to Professor Mark Pagel,
-295.96	298.96		evolutionary biologist at Reading University in the UK,
-298.96	302.92		pronouns like ‘I’ and ‘you’ and ‘we’ evolve slowly –
-302.92	307.56		a thousand years ago we would be using similar or sometimes identical sounds.
-307.56	308.4		Similarly,
-308.4	310.44		number words evolve very slowly –
-310.44	316		our ancestors were using related sounds a thousand or perhaps even two thousand years ago.
-316	319.64		Whereas nouns and adjectives get replaced quite rapidly –
-319.64	324.84		and in five hundred years or so we’ll probably be using different words to the ones we use now.
-324.84	325.24	<v Alice>	Well,
-325.24	327.16		I got that completely wrong then!
-327.16	328.44		Who knew that one,
-328.44	328.64		two,
-328.64	330.48		three would have such staying power?
-330.48	334.08	<v Neil>	I suppose numbers are pretty fundamental to our day-to-day lives –
-334.08	336.48		sort of part of who we are.
-336.48	338.6	<v Alice>	OK,
-338.6	340.36		let’s hear the -
-340.36	342.32		hopefully -
-342.32	350.04		more permanent words we learned today.There were:Well,
-350.04	354.12		that’s the end of today’s 6 Minute English.
-354.12	356.04		To recap,
-356.04	362.2		we’re enjoying the progressive tense.And we’re loving ‘will’ and ‘should’,
-362.2	367.08		but avoiding ‘shall’ and ‘must’.
-367.08	370.52		Don’t forget to join us again soon!Bye!
-370.52	376.48		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+So Alice,
+can you think of an example of how the English we speak is changing?
+<v Alice> Yes,
+I can –
+teenagers saying ‘like’ all the time…
+<v Neil> Oh,
+that’s,
+like,
+really like annoying,
+like?
+<v Alice> Well,
+the subject of today’s show is how and why the English language is changing.
+And teenagers definitely have their own code –
+including text speak when they’re on the internet or using their phones.
+Fomo,
+bae,
+plos –
+do you have any idea what those terms mean,
+Neil?
+<v Neil> I’ve got no idea what you’re talking about,
+Alice.
+They’re pretty <strong>baffling</strong> –
+and that means ‘hard to understand’.
+But that’s the idea,
+isn’t it?
+We oldies aren’t supposed to understand!
+<v Alice> Yes,
+exactly!
+Apparently,
+‘plos’ means ‘parents looking over shoulder’ –
+which proves your point!
+Text speak is a lot to do with inventing cool new terms –
+and these change quickly.
+In a year,
+or even six months time,
+words that were once popular,
+have disappeared completely.
+<v Neil> OK,
+I have a quiz question forming in my mind,
+Alice –
+so I hope you’re feeling up to the challenge,
+Alice.
+Can you tell me,
+what kinds of words are slow to change?
+Is it…
+a) nouns?
+b) pronouns?
+Or c) adjectives?
+<v Alice> I think it’s a) nouns.
+The way we name things probably doesn’t change that quickly.
+<v Neil> We shall find out if you are right or wrong later on in the show.
+But let’s think about English grammar for a minute,
+and what changes are occurring here.
+<v Alice> I noticed you said ‘shall’ there,
+Neil.
+And to my ear,
+that sounds pretty old fashioned.
+<v Neil> And you’re very right,
+Alice.
+The modal verb ‘shall’ is <strong>on the way out</strong> –
+meaning it’s disappearing.
+Why do you think that is?
+<v Alice> Well,
+perhaps it’s because ‘will’ sounds more natural these days.
+Let’s listen to linguist Bas Aarts,
+talking to writer and presenter,
+Michael Rosen on the BBC Radio 4 programme <em>Word of Mouth</em>,
+for his explanation.
+<v Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London> MR: Why would we lose ‘shall’?
+I mean,
+if especially as we hold it in the interrogative.
+We say,
+you know,
+‘Shall we go swimming’?
+BA: Well,
+because it’s in competition with ‘will’.
+If you have two words that more or less express the same meaning,
+one of the two is going to be pushed out of the language.
+And in this case,
+it’s ‘shall’.
+<v Neil> Bas Aarts there.
+And <strong>interrogative</strong> means ‘a question’.
+So it’s not just in nature that we get survival of the fittest –
+you know,
+the struggle for life –
+it happens in language too.
+Similar words are competing with each other,
+and some lose while others <strong>win out</strong> –
+or succeed after a fight.
+Do you know of any other modal verbs that are on their way out,
+Alice?
+<v Alice> Yes –
+‘must’ is declining rapidly.
+<v Neil> Why’s that?
+<v Alice> ‘Must’ sounds authoritarian,
+and people are choosing to express <strong>obligation</strong> –
+or having a duty to do something –
+in different ways.
+<v Neil> OK,
+<strong>authoritarian</strong> means ‘demanding that people obey you’.
+For example: Alice,
+you must move on to the next point,
+now!
+<v Alice> Oh,
+you scared me a bit there,
+Neil!
+<v Neil> Exactly.
+I can see why people are <strong>shying away from</strong> –
+or avoiding –
+‘must’.
+It sounds nicer to soften obligation by saying things like,
+'You <em>might</em> want to move on to the next point now,
+Alice.’
+<v Alice> OK,
+then,
+I shall.
+Let’s talk about tenses.
+<strong>Progressive</strong> tenses –
+formed from the verb <em>be</em> and the suffix –<em>ing</em> –
+are usually used for ongoing situations,
+for example,
+‘I’m doing the show with Neil at the moment’.
+But its use has been increasing rapidly.
+Let’s listen to Michael Rosen and Bas Aarts again talking about this.
+<v Presenter Michael Rosen and Bas Aarts, Professor of English linguistics at University College London> BA: It started increasing dramatically in the 19th century and has continued to rise in the present day.
+MR: I think that’s a cue for me to say,
+‘I’m loving it’,
+is that right?
+BA: Well,
+that is one of the constructions that is coming in,
+I mean,
+I sometimes call it the Big Mac progressive because of course McDonald’s use that.
+<v Neil> In this segment of the BBC Radio 4 programme <em>Word of Mouth</em>,
+Michael Rosen quotes the progressive form ‘I’m loving it’ –
+a slogan used by an American fast-food chain in its advertising campaign.
+<v Alice> The verb ‘love’ is a <strong>stative</strong> verb.
+It expresses a state of being –
+as opposed to doing –
+and is traditionally used in the simple form,
+for example,
+‘I love it’.
+But these days,
+people are using stative verbs in the progressive more and more.
+<v Neil> I’m hearing what you’re saying,
+Alice!
+Now,
+I think it’s time for the answer to today’s quiz question.
+I asked you: What kinds of words are slow to change?
+Is it…
+a) nouns,
+b) pronouns or c) adjectives?
+<v Alice> I said a) nouns.
+<v Neil> And you were wrong,
+Alice!
+According to Professor Mark Pagel,
+evolutionary biologist at Reading University in the UK,
+pronouns like ‘I’ and ‘you’ and ‘we’ evolve slowly –
+a thousand years ago we would be using similar or sometimes identical sounds.
+Similarly,
+number words evolve very slowly –
+our ancestors were using related sounds a thousand or perhaps even two thousand years ago.
+Whereas nouns and adjectives get replaced quite rapidly –
+and in five hundred years or so we’ll probably be using different words to the ones we use now.
+<v Alice> Well,
+I got that completely wrong then!
+Who knew that one,
+two,
+three would have such staying power?
+<v Neil> I suppose numbers are pretty fundamental to our day-to-day lives –
+sort of part of who we are.
+<v Alice> OK,
+let’s hear the -
+hopefully -
+more permanent words we learned today.There were:Well,
+that’s the end of today’s 6 Minute English.
+To recap,
+we’re enjoying the progressive tense.And we’re loving ‘will’ and ‘should’,
+but avoiding ‘shall’ and ‘must’.
+Don’t forget to join us again soon!Bye!
+6 minute English from BBC.

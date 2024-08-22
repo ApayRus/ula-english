@@ -1,12 +1,12 @@
-0.18	2.10	T 2.3
-4.35	6.37	This is a photo of Patrick,
-6.46	8.35	his wife, and his children.
-9.34	11.30	His wife’s name is Brenda.
-11.72	12.80	She’s a teacher .
-13.96	15.85	His daughter’s name is Lara.
-16.66	19.16	She’s twenty-one and she’s a nurse.
-20.09	21.93	His son’s name is Benny.
-22.57	23.61	He’s nineteen
-23.96	25.12	and he’s a student.
-26.21	28.38	Lara’s boyfriend is a nurse, too.
-29.03	30.25	His name is Mick.
+T 2.3
+This is a photo of Patrick,
+his wife, and his children.
+His wife’s name is Brenda.
+She’s a teacher .
+His daughter’s name is Lara.
+She’s twenty-one and she’s a nurse.
+His son’s name is Benny.
+He’s nineteen
+and he’s a student.
+Lara’s boyfriend is a nurse, too.
+His name is Mick.

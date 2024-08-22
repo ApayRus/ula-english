@@ -1,121 +1,121 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.32		6 minute English from BBClearningEnglish.com
-13.32	13.76	<v Rob>	Hello.
-13.76	16.92		This is 6 Minute English from BBC Learning English.
-16.92	17.44		I’m Rob.
-17.44	18.24	<v Sam>	And I’m Sam.
-18.24	24.12	<v Rob>	Having your photograph appear on the cover of a magazine makes you famous around the world.
-24.12	29		But imagine if that photo showed you hugging and playing with wild chimpanzees!
-29	38.12	<v Sam>	That’s exactly what happened to Jane Goodall who shot to fame in 1965 when she appeared on the cover of <em>National Geographic</em> magazine.
-38.12	44.6		Jane introduced the world to the social and emotional lives of the wild chimpanzees of Gombe,
-44.6	46.16		in eastern Tanzania.
-46.16	50.28	<v Rob>	Jane spent years living among families of wild chimpanzees.
-50.28	55.08		Her observations changed the way we view our closest animal relatives -
-55.08	58.32		and made us think about what it means to be human.
-58.32	59.24	<v Sam>	In this programme,
-59.24	62.24		we’ll be hearing from the iconic environmentalist Jane Goodall.
-62.24	70.88		She reflects on how attitudes have changed as science has uncovered the deep connections between humans and the <strong>great apes</strong> –
-70.88	73.36		large primates including chimpanzees,
-73.36	75.36		gorillas and orang-utans,
-75.36	77.88		who are closely related to humans.
-77.88	81.88	<v Rob>	And of course we’ll be learning some related vocabulary along the way.
-81.88	83.4	<v Sam>	As well as Dr Goodall,
-83.4	88.96		the <em>National Geographic</em> photographs also made the chimpanzees of Gombe famous.
-88.96	96.52		People around the world became interested in the lives of a family of chimps living in a remote corner of Africa.
-96.52	100.68	<v Rob>	When Gombe’s alpha female died in 1972,
-100.68	105.68		she was so well-loved that she had an obituary in <em>The Times</em> newspaper.
-105.68	107.24		But what was her name?
-107.24	112.64		That’s our quiz question: which chimpanzee’s obituary appeared in <em>The Times</em>?
-112.64	113.2		Was it:
-113.2	114.68		a) Frodo?,
-114.68	115.48		b Flo?,
-115.48	115.6		or
-115.6	117.56		c) Freud?
-117.56	118.08	<v Sam>	Well,
-118.08	121.28		1972 is a bit before my time,
-121.28	121.52		Rob -
-121.52	123.44		I wasn’t even born then,
-123.44	126.56		but I think it’s b) Flo.
-126.56	126.8	<v Rob>	OK,
-126.8	127.12		Sam,
-127.12	129.56		we’ll find out later if you were right.
-129.56	130.08		Now,
-130.08	140.44		when Jane first visited Tanzania in the 1960s most scientists believed the only animals capable of making and using <strong>tools</strong> were humans.
-140.44	144.16		But what Jane witnessed about the behaviour of one chimpanzee,
-144.16	145.64		who she named Greybeard,
-145.64	148.76		turned this idea on its head.
-148.76	152.76		Here she recalls that famous day to Jim Al Khalili,
-152.76	156.36		for the podcast of BBC Radio 4’s <em>Discovery</em> programme,
-156.36	159.88		<em>The Life Scientific</em>:
-159.88	171.64	<v Jane Goodall>	I could see this black hand picking grass stems and pushing them down into the termite mound and pulling them out with termites clinging on with their jaws.
-171.64	174.08		And the following day,
-174.08	176.96		I saw him pick a leafy twig and strip the leaves,
-176.96	185.44		so not only was he using objects as <strong>tools</strong> but <strong>modifying</strong> those objects to make tools.
-185.44	187.12	<v Rob>	Jane observed the chimpanzee,
-187.12	188.2		Greybeard,
-188.2	193.2		finding small wooden branches called twigs and <strong>modifying</strong> them -
-193.2	195.8		changing them slightly in order to improve them.
-195.8	200.96	<v Sam>	By stripping away the leaves from twigs and using them to collect ants and termites to eat,
-200.96	204.68		Greybeard had madea <strong>tool</strong> –
-204.68	207.24		an instruments or simple piece of equipment,
-207.24	209.4		for example a knife or hammer,
-209.4	213.12		that you hold in your hands and use for a particular job.
-213.12	214.92	<v Rob>	Previously,
-214.92	219.44		it was believed that animals were incapable of making tools on their own.
-219.44	223.16		What Jane saw was proof of the intelligence of wild animals.
-223.16	230.16		Jane Goodall’s studies convinced her that chimps experience the same range of emotions as humans,
-230.16	235.12		as she explains here to BBC Radio 4’s <em>The Life Scientific</em>:
-235.12	238.76	<v Jane Goodall>	I wasn’t surprised that chimps had these emotions.
-238.76	243.48		It was fascinating to realise how many of their <strong>gestures</strong> are like ours…
-243.48	247.6		so you can watch them without knowing anything about them and when they greet with a kiss and embrace,
-247.6	252		they <strong>pat</strong> one another in reassurance,
-252	253.4		they hold hands,
-253.4	258.48		they seek physical contact to <strong>alleviate</strong> nervousness or stress –
-258.48	258.72		you know,
-258.72	261.8		it’s so like us.
-261.8	262.72	<v Sam>	Holding hands,
-262.72	268.92		embracing and kissing were some of the chimpanzee’s <strong>gestures</strong> –movements made with hands,
-268.92	270.28		arms or head,
-270.28	272.52		to express ideas and feelings.
-272.52	274.32	<v Rob>	In the same way as humans,
-274.32	276.56		the chimpanzees would <strong>pat</strong> each other -
-276.56	281.68		touch someone gently and repeatedly with their hand held flat.
-281.68	284.44	<v Sam>	Much of their behaviour was human-like.
-284.44	286.8		Just as I would hug a friend to reassure them,
-286.8	291.16		the chimps used physical contact to <strong>alleviate</strong> stress –
-291.16	294.6		make pain or problems less intense or severe.
-294.6	295.96		In fact,
-295.96	301.8		chimps are so alike us that sometimes they even get their name in the newspaper!
-301.8	302.12	<v Rob>	Ah yes,
-302.12	302.56		Sam,
-302.56	309.2		you mean the quiz question I asked you earlier: which chimpanzee had their obituary published in <em>The Times</em>?
-309.2	312.4	<v Sam>	And I guessed it was b) Flo.
-312.4	314.08	<v Rob>	And that’s absolutely right.
-314.08	314.48		Well done,
-314.48	314.88		Sam!
-314.88	317.04		Give yourself a pat on the back!
-317.04	318.96	<v Sam>	OK.
-318.96	319.84		In this programme,
-319.84	322.96		we’ve been hearing about legendary zoologist and activist,
-322.96	323.88		Jane Goodall,
-323.88	327.92		and her experiences living among <strong>great apes</strong> –
-327.92	330.76		primates like chimpanzees who are humans’
-330.76	332.84		closest animal relatives.
-332.84	336.32	<v Rob>	Jane witnessed the chimpanzees of Gombe <strong>modify</strong> –
-336.32	337.88		or slightly alter,
-337.88	340.92		objects like leaves and twigs to make <strong>tools</strong> –
-340.92	344.48		hand-held instruments used for a particular job.
-344.48	346.92	<v Sam>	Many of the chimpanzees’ <strong>gestures</strong> –
-346.92	350.52		body movements made to communicate and express emotions –
-350.52	352.92		like kissing and <strong>patting</strong> –
-352.92	356.64		touching someone gently and repeatedly with a flat hand –
-356.64	358.04		were almost human.
-358.04	359.28	<v Rob>	And just like us,
-359.28	362.4		the chimps sought physical contact to <strong>alleviate</strong> –
-362.4	364.12		or reduce the severity of,
-364.12	366		nervousness and stress.
-366	368.28	<v Sam>	That’s all for this programme.
-368.28	369.2	<v Rob>	Bye for now!
-369.2	371.8	<v Sam>	Bye bye!
-371.8	377.76		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Rob.
+<v Sam> And I’m Sam.
+<v Rob> Having your photograph appear on the cover of a magazine makes you famous around the world.
+But imagine if that photo showed you hugging and playing with wild chimpanzees!
+<v Sam> That’s exactly what happened to Jane Goodall who shot to fame in 1965 when she appeared on the cover of <em>National Geographic</em> magazine.
+Jane introduced the world to the social and emotional lives of the wild chimpanzees of Gombe,
+in eastern Tanzania.
+<v Rob> Jane spent years living among families of wild chimpanzees.
+Her observations changed the way we view our closest animal relatives -
+and made us think about what it means to be human.
+<v Sam> In this programme,
+we’ll be hearing from the iconic environmentalist Jane Goodall.
+She reflects on how attitudes have changed as science has uncovered the deep connections between humans and the <strong>great apes</strong> –
+large primates including chimpanzees,
+gorillas and orang-utans,
+who are closely related to humans.
+<v Rob> And of course we’ll be learning some related vocabulary along the way.
+<v Sam> As well as Dr Goodall,
+the <em>National Geographic</em> photographs also made the chimpanzees of Gombe famous.
+People around the world became interested in the lives of a family of chimps living in a remote corner of Africa.
+<v Rob> When Gombe’s alpha female died in 1972,
+she was so well-loved that she had an obituary in <em>The Times</em> newspaper.
+But what was her name?
+That’s our quiz question: which chimpanzee’s obituary appeared in <em>The Times</em>?
+Was it:
+a) Frodo?,
+b Flo?,
+or
+c) Freud?
+<v Sam> Well,
+1972 is a bit before my time,
+Rob -
+I wasn’t even born then,
+but I think it’s b) Flo.
+<v Rob> OK,
+Sam,
+we’ll find out later if you were right.
+Now,
+when Jane first visited Tanzania in the 1960s most scientists believed the only animals capable of making and using <strong>tools</strong> were humans.
+But what Jane witnessed about the behaviour of one chimpanzee,
+who she named Greybeard,
+turned this idea on its head.
+Here she recalls that famous day to Jim Al Khalili,
+for the podcast of BBC Radio 4’s <em>Discovery</em> programme,
+<em>The Life Scientific</em>:
+<v Jane Goodall> I could see this black hand picking grass stems and pushing them down into the termite mound and pulling them out with termites clinging on with their jaws.
+And the following day,
+I saw him pick a leafy twig and strip the leaves,
+so not only was he using objects as <strong>tools</strong> but <strong>modifying</strong> those objects to make tools.
+<v Rob> Jane observed the chimpanzee,
+Greybeard,
+finding small wooden branches called twigs and <strong>modifying</strong> them -
+changing them slightly in order to improve them.
+<v Sam> By stripping away the leaves from twigs and using them to collect ants and termites to eat,
+Greybeard had madea <strong>tool</strong> –
+an instruments or simple piece of equipment,
+for example a knife or hammer,
+that you hold in your hands and use for a particular job.
+<v Rob> Previously,
+it was believed that animals were incapable of making tools on their own.
+What Jane saw was proof of the intelligence of wild animals.
+Jane Goodall’s studies convinced her that chimps experience the same range of emotions as humans,
+as she explains here to BBC Radio 4’s <em>The Life Scientific</em>:
+<v Jane Goodall> I wasn’t surprised that chimps had these emotions.
+It was fascinating to realise how many of their <strong>gestures</strong> are like ours…
+so you can watch them without knowing anything about them and when they greet with a kiss and embrace,
+they <strong>pat</strong> one another in reassurance,
+they hold hands,
+they seek physical contact to <strong>alleviate</strong> nervousness or stress –
+you know,
+it’s so like us.
+<v Sam> Holding hands,
+embracing and kissing were some of the chimpanzee’s <strong>gestures</strong> –movements made with hands,
+arms or head,
+to express ideas and feelings.
+<v Rob> In the same way as humans,
+the chimpanzees would <strong>pat</strong> each other -
+touch someone gently and repeatedly with their hand held flat.
+<v Sam> Much of their behaviour was human-like.
+Just as I would hug a friend to reassure them,
+the chimps used physical contact to <strong>alleviate</strong> stress –
+make pain or problems less intense or severe.
+In fact,
+chimps are so alike us that sometimes they even get their name in the newspaper!
+<v Rob> Ah yes,
+Sam,
+you mean the quiz question I asked you earlier: which chimpanzee had their obituary published in <em>The Times</em>?
+<v Sam> And I guessed it was b) Flo.
+<v Rob> And that’s absolutely right.
+Well done,
+Sam!
+Give yourself a pat on the back!
+<v Sam> OK.
+In this programme,
+we’ve been hearing about legendary zoologist and activist,
+Jane Goodall,
+and her experiences living among <strong>great apes</strong> –
+primates like chimpanzees who are humans’
+closest animal relatives.
+<v Rob> Jane witnessed the chimpanzees of Gombe <strong>modify</strong> –
+or slightly alter,
+objects like leaves and twigs to make <strong>tools</strong> –
+hand-held instruments used for a particular job.
+<v Sam> Many of the chimpanzees’ <strong>gestures</strong> –
+body movements made to communicate and express emotions –
+like kissing and <strong>patting</strong> –
+touching someone gently and repeatedly with a flat hand –
+were almost human.
+<v Rob> And just like us,
+the chimps sought physical contact to <strong>alleviate</strong> –
+or reduce the severity of,
+nervousness and stress.
+<v Sam> That’s all for this programme.
+<v Rob> Bye for now!
+<v Sam> Bye bye!
+6 minute English from BBC.

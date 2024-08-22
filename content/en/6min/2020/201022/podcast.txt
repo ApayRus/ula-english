@@ -1,129 +1,129 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	10.6		6 minute English from BBClearningEnglish.com
-10.6	13.16	<v Neil>	Hello.
-13.16	16.32		This is 6 Minute English from BBC Learning English.
-16.32	16.92		I’m Neil.
-16.92	17.76	<v Rob>	And I’m Rob.
-17.76	19.88	<v Neil>	From the ancient Roman sea god,
-19.88	20.44		Neptune,
-20.44	22.12		to myths of mermaids,
-22.12	24.68		to modern Hollywood films like <em>Finding Nemo</em>,
-24.68	30.36		people throughout history have been fascinated by the idea of living underwater.
-30.36	31.24		In this programme,
-31.24	37.32		we’ll be hearing about projects to create liveable underwater habitats and the challenges they face.
-37.32	46.44	<v Rob>	We’ll be finding out how realistic it is to believe that in a few years we could be eating breakfast whilst watching fish swim outside the kitchen window,
-46.44	49.68		before heading off to work in an office under the ocean…
-49.68	52.64	<v Neil>	…and we’ll be learning some related vocabulary as well.
-52.64	55.68		But first it’s time for our quiz question.
-55.68	62.96		One of the first adventure stories to fire the public’s imagination about the underwater world was the 1870 novel,
-62.96	68.28		<em>Twenty Thousand Leagues Under the Sea.</em> But who wrote this underwater classic?
-68.28	68.64		Was it:
-68.64	70.68		a) H G Wells?,
-70.68	72.4		b) Arthur Conan Doyle?,
-72.4	72.68		or
-72.68	75.04		c) Jules Verne?
-75.04	76.56	<v Rob>	I think I know this one,
-76.56	77.12		Neil.
-77.12	77.72		Wasn’t it,
-77.72	79.56		a) H G Wells?
-79.56	79.96	<v Neil>	OK,
-79.96	80.24		Rob,
-80.24	82.4		we’ll find out later if you’re right.
-82.4	82.68		Now,
-82.68	87.68		one of the most ambitious designs for an underwater city is <em>Ocean Spiral</em>,
-87.68	91.44		a huge transparent globe attached to the <strong>seabed</strong> –
-91.44	94.76		the solid ground which lies deep below the sea level.
-94.76	101.96	<v Rob>	The top of the globe stands above the surface of the ocean and running through the centre is a tower to add strength,
-101.96	103.64		and to provide space for homes,
-103.64	109.12		offices and even an amusement park for five thousand underwater residents.
-109.12	114.04	<v Neil>	<em>Ocean Spiral</em> has been dreamt up by the Japanese Shimizu Corporation.
-114.04	115.48		Here’s Shimizu engineer,
-115.48	117		Maksaki Takeuchi,
-117	119.36		explaining to BBC World Service programme,
-119.36	120.64		<em>CrowdScience</em>,
-120.64	125.88		the motivation behind the idea:
-125.88	132.36	<v Masaki Takeuchi>	At the moment the world is facing a lot of serious problems regarding food,
-132.36	132.68		energy,
-132.68	133.56		water,
-133.56	136.6		<strong>natural resources</strong>…
-136.6	142.4		however we are trying to solve the issues just by using our land.
-142.4	160.72		Our idea is to connect the sea surface and the deep sea <strong>vertically</strong> and that way we believe that we can utilise the capability of the deep sea and that’s the purpose of this whole project.
-160.72	167.2	<v Rob>	The effects of human activity on the land have led some to look to the oceans for <strong>natural resources</strong> -
-167.2	169.8		naturally existing things such as minerals,
-169.8	170.16		oil,
-170.16	173.64		coal and other energy sources that can be used by people.
-173.64	177	<v Neil>	This search deep underwater is happening <strong>vertically</strong> -
-177	180.56		at a ninety degree angle straight up or down from the ground,
-180.56	182.04		as opposed to horizontally,
-182.04	184.12		or flat across the Earth’s surface.
-184.12	185.24	<v Rob>	But as yet,
-185.24	190.96		Shimizu Corporation’s plans for an underwater city are still in the planning stages -
-190.96	197.2		no part of the project has yet been built and the total cost is thought to exceed 26 billion dollars.
-197.2	197.64	<v Neil>	In fact,
-197.64	202		the longest anyone <em>has</em> spent living under the sea is only 73 days.
-202	204.52		That record was set by Roger Garcia,
-204.52	207.4		ex-military diver and head of <em>The Aquarius</em>,
-207.4	210.92		currently the world’s only underwater research station.
-210.92	212.04	<v Rob>	Here’s Roger Garcia,
-212.04	214.36		explaining to BBC World Service programme,
-214.36	215.72		<em>CrowdScience</em>,
-215.72	219.48		what happens to the human body after living underwater for so long:
-219.48	223	<v Roger Garcia>	…perhaps a change in their voice,
-223	224.72		not much ‘cos we’re not very deep,
-224.72	227		that’s because the air becomes denser.
-227	230.36		<strong>Physiologically</strong> the most important thing though,
-230.36	239.64		is that since you are in this case at two and a half times <strong>atmospheric pressure</strong> you do take on more inner gas,
-239.64	240.72		and in this case -
-240.72	244.64		inside <em>The Aquarius</em> we just breathe normal air -
-244.64	250		you’re gonna take on more nitrogen and depending on how long you stay in <em>The Aquarius</em>,
-250	254.4		that’s going to incur some sort of decompressed obligation.
-254.4	256.44	<v Neil>	In addition to engineering challenges,
-256.44	261.08		living underwater for long periods of time also affects the human body.
-261.08	262.8		One example is <strong>the bends</strong> –
-262.8	264.64		or decompression sickness,
-264.64	271.68		a serious medical disorder created by nitrogen bubbles in the muscles when returning to the surface of the sea too quickly.
-271.68	273.76	<v Rob>	<strong>The bends</strong>,
-273.76	274.72		and changes to the voice,
-274.72	279.24		are examples of how underwater living changes the body <strong>physiologically</strong> –
-279.24	283.52		relating to how the bodies of living humans and animals function.
-283.52	286.64	<v Neil>	As divers descend deep below the ocean’s surface,
-286.64	289.64		there is an increase in <strong>atmospheric pressure</strong> –
-289.64	292.32		the normal air pressure within the Earth’s atmosphere.
-292.32	293.88		The deeper they dive,
-293.88	295.84		the higher the pressure.
-295.84	302.68		<strong>Physiological</strong> reactions like <strong>the bends</strong> are caused by divers incorrectly readjusting to normal <strong>atmospheric pressure</strong>.
-302.68	303.36	<v Rob>	Well,
-303.36	303.76		Neil,
-303.76	305.48		with so many difficulties,
-305.48	312.12		it’s no surprise that H G Wells’s fantasy of living under the sea is still science-fiction.
-312.12	312.64	<v Neil>	Ah,
-312.64	314.72		but are you sure it was H G Wells,
-314.72	315.6		Rob?
-315.6	321.68		In my quiz question I asked you who wrote the classic underwater adventure <em>Twenty Thousand Leagues Under the Sea.</em>
-321.68	322.48	<v Rob>	Yes,
-322.48	324.76		and I said a) H G Wells.
-324.76	325.8	<v Neil>	Which was…
-325.8	327.4		the wrong answer!
-327.4	327.72		It was,
-327.72	328.24		in fact,
-328.24	329.56		c) Jules Verne,
-329.56	333.2		the French author who also wrote <em>Around the World in Eighty Days.</em>
-333.2	334.44	<v Rob>	In this programme,
-334.44	337		we’ve been discussing the challenge of living underwater,
-337	338.76		going down <strong>vertically</strong> –
-338.76	340		at a 90 degree angle –
-340	341.08		to the <strong>seabed</strong> –
-341.08	343.84		the solid ground hundreds of metres under the sea.
-343.84	347.84	<v Neil>	Ocean explorers search underwater for <strong>natural resources</strong> –
-347.84	350.08		useful materials like coal and oil.
-350.08	352.88	<v Rob>	But they face many <strong>physiological</strong> problems –
-352.88	355.64		problems relating to how the human body functions,
-355.64	357.64		such as <strong>the bends</strong> –
-357.64	362.28		a painful medical condition caused by returning too quickly to <strong>atmospheric pressure</strong> –
-362.28	364.32		the Earth’s usual air pressure.
-364.32	365.72	<v Neil>	That’s all for this programme,
-365.72	369.32		but we hope you’ll be diving back into 6 Minute English very soon.
-369.32	370.12		Bye for now!
-370.12	370.88	<v Rob>	Bye!
-370.88	377.96		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> From the ancient Roman sea god,
+Neptune,
+to myths of mermaids,
+to modern Hollywood films like <em>Finding Nemo</em>,
+people throughout history have been fascinated by the idea of living underwater.
+In this programme,
+we’ll be hearing about projects to create liveable underwater habitats and the challenges they face.
+<v Rob> We’ll be finding out how realistic it is to believe that in a few years we could be eating breakfast whilst watching fish swim outside the kitchen window,
+before heading off to work in an office under the ocean…
+<v Neil> …and we’ll be learning some related vocabulary as well.
+But first it’s time for our quiz question.
+One of the first adventure stories to fire the public’s imagination about the underwater world was the 1870 novel,
+<em>Twenty Thousand Leagues Under the Sea.</em> But who wrote this underwater classic?
+Was it:
+a) H G Wells?,
+b) Arthur Conan Doyle?,
+or
+c) Jules Verne?
+<v Rob> I think I know this one,
+Neil.
+Wasn’t it,
+a) H G Wells?
+<v Neil> OK,
+Rob,
+we’ll find out later if you’re right.
+Now,
+one of the most ambitious designs for an underwater city is <em>Ocean Spiral</em>,
+a huge transparent globe attached to the <strong>seabed</strong> –
+the solid ground which lies deep below the sea level.
+<v Rob> The top of the globe stands above the surface of the ocean and running through the centre is a tower to add strength,
+and to provide space for homes,
+offices and even an amusement park for five thousand underwater residents.
+<v Neil> <em>Ocean Spiral</em> has been dreamt up by the Japanese Shimizu Corporation.
+Here’s Shimizu engineer,
+Maksaki Takeuchi,
+explaining to BBC World Service programme,
+<em>CrowdScience</em>,
+the motivation behind the idea:
+<v Masaki Takeuchi> At the moment the world is facing a lot of serious problems regarding food,
+energy,
+water,
+<strong>natural resources</strong>…
+however we are trying to solve the issues just by using our land.
+Our idea is to connect the sea surface and the deep sea <strong>vertically</strong> and that way we believe that we can utilise the capability of the deep sea and that’s the purpose of this whole project.
+<v Rob> The effects of human activity on the land have led some to look to the oceans for <strong>natural resources</strong> -
+naturally existing things such as minerals,
+oil,
+coal and other energy sources that can be used by people.
+<v Neil> This search deep underwater is happening <strong>vertically</strong> -
+at a ninety degree angle straight up or down from the ground,
+as opposed to horizontally,
+or flat across the Earth’s surface.
+<v Rob> But as yet,
+Shimizu Corporation’s plans for an underwater city are still in the planning stages -
+no part of the project has yet been built and the total cost is thought to exceed 26 billion dollars.
+<v Neil> In fact,
+the longest anyone <em>has</em> spent living under the sea is only 73 days.
+That record was set by Roger Garcia,
+ex-military diver and head of <em>The Aquarius</em>,
+currently the world’s only underwater research station.
+<v Rob> Here’s Roger Garcia,
+explaining to BBC World Service programme,
+<em>CrowdScience</em>,
+what happens to the human body after living underwater for so long:
+<v Roger Garcia> …perhaps a change in their voice,
+not much ‘cos we’re not very deep,
+that’s because the air becomes denser.
+<strong>Physiologically</strong> the most important thing though,
+is that since you are in this case at two and a half times <strong>atmospheric pressure</strong> you do take on more inner gas,
+and in this case -
+inside <em>The Aquarius</em> we just breathe normal air -
+you’re gonna take on more nitrogen and depending on how long you stay in <em>The Aquarius</em>,
+that’s going to incur some sort of decompressed obligation.
+<v Neil> In addition to engineering challenges,
+living underwater for long periods of time also affects the human body.
+One example is <strong>the bends</strong> –
+or decompression sickness,
+a serious medical disorder created by nitrogen bubbles in the muscles when returning to the surface of the sea too quickly.
+<v Rob> <strong>The bends</strong>,
+and changes to the voice,
+are examples of how underwater living changes the body <strong>physiologically</strong> –
+relating to how the bodies of living humans and animals function.
+<v Neil> As divers descend deep below the ocean’s surface,
+there is an increase in <strong>atmospheric pressure</strong> –
+the normal air pressure within the Earth’s atmosphere.
+The deeper they dive,
+the higher the pressure.
+<strong>Physiological</strong> reactions like <strong>the bends</strong> are caused by divers incorrectly readjusting to normal <strong>atmospheric pressure</strong>.
+<v Rob> Well,
+Neil,
+with so many difficulties,
+it’s no surprise that H G Wells’s fantasy of living under the sea is still science-fiction.
+<v Neil> Ah,
+but are you sure it was H G Wells,
+Rob?
+In my quiz question I asked you who wrote the classic underwater adventure <em>Twenty Thousand Leagues Under the Sea.</em>
+<v Rob> Yes,
+and I said a) H G Wells.
+<v Neil> Which was…
+the wrong answer!
+It was,
+in fact,
+c) Jules Verne,
+the French author who also wrote <em>Around the World in Eighty Days.</em>
+<v Rob> In this programme,
+we’ve been discussing the challenge of living underwater,
+going down <strong>vertically</strong> –
+at a 90 degree angle –
+to the <strong>seabed</strong> –
+the solid ground hundreds of metres under the sea.
+<v Neil> Ocean explorers search underwater for <strong>natural resources</strong> –
+useful materials like coal and oil.
+<v Rob> But they face many <strong>physiological</strong> problems –
+problems relating to how the human body functions,
+such as <strong>the bends</strong> –
+a painful medical condition caused by returning too quickly to <strong>atmospheric pressure</strong> –
+the Earth’s usual air pressure.
+<v Neil> That’s all for this programme,
+but we hope you’ll be diving back into 6 Minute English very soon.
+Bye for now!
+<v Rob> Bye!
+6 minute English from BBC.

@@ -1,152 +1,152 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.44		6 minute English from BBClearningEnglish.com
-12.44	12.88	<v Neil>	Hello,
-12.88	15		welcome to 6 Minute English.
-15	17.52		I’m Neil and with me in the studio is Harry.
-17.52	17.96		Hello,
-17.96	18.64		Harry.
-18.64	19.48	<v Harry>	Hello.
-19.48	19.84	<v Neil>	Now,
-19.84	20.36		Harry,
-20.36	22.36		do you have many passwords?
-22.36	23.04	<v Harry>	<strong>Passwords</strong> -
-23.04	28.56		you mean the set of words and numbers which I keep secret and allow me to access information?
-28.56	28.84		Yes,
-28.84	29.48		I do actually.
-29.48	33.48		I’ve got a few for my computer and the different websites I use,
-33.48	34.52		and then there are my cards –
-34.52	35.44		credit card,
-35.44	36.52		debit card.
-36.52	40.24		And there’s one for my ID here at the BBC and then there is…
-40.24	40.68	<v Neil>	OK.
-40.68	41.52		I get the idea.
-41.52	42.4		There are too many,
-42.4	42.96		aren’t there?
-42.96	43.2	<v Harry>	Oh,
-43.2	43.56		yes!
-43.56	46.32		Sometimes I struggle to remember them all.
-46.32	48.56		And we are advised to learn them <strong>by heart</strong>,
-48.56	49.16		in other words,
-49.16	52.2		to have them memorised and not written down.
-52.2	54	<v Neil>	It’s for security reasons.
-54	57.2		If you write them down and lose the paper you wrote them on,
-57.2	58.68		then they won’t be secret anymore,
-58.68	59.56		will they?
-59.56	59.84		Now,
-59.84	64.56		how would you like to have access to things with no need for passwords or cards?
-64.56	64.84	<v Harry>	Yeah,
-64.84	66.4		that would be brilliant!
-66.4	67.52	<v Neil>	In this programme,
-67.52	71.44		I’m going to tell you about a futuristic commercial building in Stockholm,
-71.44	72.44		Sweden,
-72.44	75.24		where you don’t have to remember any passwords,
-75.24	78.64		you don’t have to carry ID cards and in some cases,
-78.64	81.76		you don’t even need to carry money to pay for your coffee.
-81.76	82.68	<v Harry>	How does it all work then -
-82.68	83.52		by magic?
-83.52	83.84	<v Neil>	No,
-83.84	88.8		by inserting a <strong>microchip</strong> under the skin of your hand!
-88.8	94.64		A microchip is a very small device with an electronic circuit which can do particular things.
-94.64	95.88		In this case,
-95.88	99.36		the microchip we’re talking about can identify you.
-99.36	100.32	<v Harry>	Wow!
-100.32	103.68		I’m not sure I’d want a microchip inserted under my skin.
-103.68	104.24	<v Neil>	No,
-104.24	105.12		me neither.
-105.12	106.76		It’s interesting though,
-106.76	107.32		isn’t it?
-107.32	109.56		Before I tell you about this experiment,
-109.56	111.12		let’s go for our quiz question.
-111.12	111.32		And,
-111.32	111.92		of course,
-111.92	114.4		it’s about passwords.
-114.4	120.84		Security firm SplashData publishes an annual report about the weakest passwords people use.
-120.84	121.56		Well,
-121.56	125.8		which was the most common password used in 2014.
-125.8	126.44		Was it:
-126.44	129.84		a) abc123
-129.84	134.52		b) the numbers 123456
-134.52	140.12		c) the words ‘trustno’ followed by the number 1
-140.12	141.72	<v Harry>	I’m going to go for C,
-141.72	143.8		‘trustno’ followed by the 1,
-143.8	146.24		because actually it’s the only one I hadn’t heard of,
-146.24	148.8		even though it’s very obvious.
-148.8	149.2	<v Neil>	Well,
-149.2	152.92		all will be revealed at the end of the programme.
-152.92	159.32		Now we are talking about the increasing need for ID in a society which works more and more with computers -
-159.32	161.88		and you’ll learn some related vocabulary.
-161.88	164.36	<v Harry>	Tell us more about this building in Sweden,
-164.36	164.6		Neil.
-164.6	167.12		You have this microchip put under your skin -
-167.12	170.6		and what does it allow you to do inside the building?
-170.6	174.2	<v Neil>	Let’s listen to the BBC technology reporter Rory Cellan-Jones.
-174.2	175.92		He went there for a visit.
-175.92	182.68		He uses an expression to say that the technology is not working perfectly yet because it is brand new.
-182.68	183.92		What is that expression?
-183.92	194.16	<v Rory Cellan-Jones, BBC technology reporter>	The new offices will soon host a shifting population of 700 entrepreneurs and employees and they’ll all be offered the chance to ‘get chipped’ if they wish.
-194.16	201.8		As well as opening doors that will allow them to use the photocopiers and eventually to log on to computers or pay for food in the cafe.
-201.8	204.88		The technology is still <strong>having</strong> <strong>teething problems</strong> –
-204.88	207.16		I found it quite a struggle to activate the photocopier!
-207.16	214.04		And amongst the people working here I found some enthusiasm but also <strong>caution</strong>.
-214.04	216.64	<v Harry>	The expression is ‘having teething problems’.
-216.64	222.08		When a new project or device doesn’t work perfectly we say it ‘has teething problems’.
-222.08	222.36	<v Neil>	Yes,
-222.36	228.44		the microchip allowed Rory to make the photocopier work just by swiping his hand over a console.
-228.44	231.08		But it didn’t work straight away.
-231.08	237.88	<v Harry>	And he tells us that some of the workers are reacting with <strong>caution</strong> to the idea of having a microchip put under their skin.
-237.88	242.88		‘Caution’ means being careful to avoid something dangerous or risky.
-242.88	246.04	<v Neil>	It might be risky but we might all be using it one day -
-246.04	246.8		who knows?
-246.8	250.36		The group running this scheme thinks this might be a good thing.
-250.36	259.52		Hannes Sjobland from a Swedish bio-hacking group seems to believe that linking biology and electronic devices can make our daily lives better -
-259.52	262.36		but he is concerned about people’s freedom.
-262.36	267.6		And what if a government or a big corporation wants to use this technology in the future?
-267.6	271.12		What does Hannes Sjobland want to be able to do if it happens?
-271.12	272		A tip,
-272	273.56		the word is a verb…
-273.56	277.44	<v Hannes Sjoband, Swedish bio-hacking group>	We are early adopters of this technology,
-277.44	278.92		we experiment with it,
-278.92	279.84		we learn it,
-279.84	281.04		how it works,
-281.04	286.84		because I think that there might be a day when the taxman or the big corporates …
-286.84	288.32		they will come and say 'hey,
-288.32	289.2		try this chip,
-289.2	290.28		try this implant’,
-290.28	293.16		and then we will be able <strong>to question</strong> their proposals.
-293.16	300.68	<v Harry>	He wants to question their proposals; it means to express doubts about their proposals and intentions.
-300.68	301.12		You know what,
-301.12	301.44		Neil?
-301.44	303.24		I’d rather have my passwords!
-303.24	303.76	<v Neil>	Well,
-303.76	305.04		talking about passwords,
-305.04	306.72		let’s go back to my quiz question.
-306.72	310.04		I asked you what the weakest passwords people use is,
-310.04	315.56		according to the 2014 report by the online security firm SplashData.
-315.56	318.48		The options were: abc123,
-318.48	325.52		the numbers 123456 and the words ‘trustno’ followed by the number 1.
-325.52	327.2	<v Harry>	And I said the third one,
-327.2	328.28		‘trustno1’.
-328.28	330.6	<v Neil>	And you were…
-330.6	332.36		wrong I’m afraid Harry.
-332.36	333.76		The correct answer is B.
-333.76	340.64		The password ‘123456’ has been named as the worst password of 2014.
-340.64	342.88		The other two were also in the list.
-342.88	343.76		Before we go,
-343.76	345.76		can you remind us of the words we heard today,
-345.76	346.12		Harry.
-346.12	347.68	<v Harry>	The words were:
-347.68	348.72		password
-348.72	350.56		by heart
-350.56	352.6		microchip
-352.6	355.84		having teething problems
-355.84	358.04		caution
-358.04	360.16		to question
-360.16	362.04	<v Neil>	Thank you.
-362.04	362.24		Well,
-362.24	363.52		that’s it for this programme.
-363.52	368.04		Go to <a href="http://www.bbclearningenglish.com/">bbclearningenglish.com</a> to find more 6 Minute English programmes.
-368.04	369		Until next time.
-369	370		Goodbye!
-370	371.12	<v Harry>	Bye!
-371.12	378.04		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello,
+welcome to 6 Minute English.
+I’m Neil and with me in the studio is Harry.
+Hello,
+Harry.
+<v Harry> Hello.
+<v Neil> Now,
+Harry,
+do you have many passwords?
+<v Harry> <strong>Passwords</strong> -
+you mean the set of words and numbers which I keep secret and allow me to access information?
+Yes,
+I do actually.
+I’ve got a few for my computer and the different websites I use,
+and then there are my cards –
+credit card,
+debit card.
+And there’s one for my ID here at the BBC and then there is…
+<v Neil> OK.
+I get the idea.
+There are too many,
+aren’t there?
+<v Harry> Oh,
+yes!
+Sometimes I struggle to remember them all.
+And we are advised to learn them <strong>by heart</strong>,
+in other words,
+to have them memorised and not written down.
+<v Neil> It’s for security reasons.
+If you write them down and lose the paper you wrote them on,
+then they won’t be secret anymore,
+will they?
+Now,
+how would you like to have access to things with no need for passwords or cards?
+<v Harry> Yeah,
+that would be brilliant!
+<v Neil> In this programme,
+I’m going to tell you about a futuristic commercial building in Stockholm,
+Sweden,
+where you don’t have to remember any passwords,
+you don’t have to carry ID cards and in some cases,
+you don’t even need to carry money to pay for your coffee.
+<v Harry> How does it all work then -
+by magic?
+<v Neil> No,
+by inserting a <strong>microchip</strong> under the skin of your hand!
+A microchip is a very small device with an electronic circuit which can do particular things.
+In this case,
+the microchip we’re talking about can identify you.
+<v Harry> Wow!
+I’m not sure I’d want a microchip inserted under my skin.
+<v Neil> No,
+me neither.
+It’s interesting though,
+isn’t it?
+Before I tell you about this experiment,
+let’s go for our quiz question.
+And,
+of course,
+it’s about passwords.
+Security firm SplashData publishes an annual report about the weakest passwords people use.
+Well,
+which was the most common password used in 2014.
+Was it:
+a) abc123
+b) the numbers 123456
+c) the words ‘trustno’ followed by the number 1
+<v Harry> I’m going to go for C,
+‘trustno’ followed by the 1,
+because actually it’s the only one I hadn’t heard of,
+even though it’s very obvious.
+<v Neil> Well,
+all will be revealed at the end of the programme.
+Now we are talking about the increasing need for ID in a society which works more and more with computers -
+and you’ll learn some related vocabulary.
+<v Harry> Tell us more about this building in Sweden,
+Neil.
+You have this microchip put under your skin -
+and what does it allow you to do inside the building?
+<v Neil> Let’s listen to the BBC technology reporter Rory Cellan-Jones.
+He went there for a visit.
+He uses an expression to say that the technology is not working perfectly yet because it is brand new.
+What is that expression?
+<v Rory Cellan-Jones, BBC technology reporter> The new offices will soon host a shifting population of 700 entrepreneurs and employees and they’ll all be offered the chance to ‘get chipped’ if they wish.
+As well as opening doors that will allow them to use the photocopiers and eventually to log on to computers or pay for food in the cafe.
+The technology is still <strong>having</strong> <strong>teething problems</strong> –
+I found it quite a struggle to activate the photocopier!
+And amongst the people working here I found some enthusiasm but also <strong>caution</strong>.
+<v Harry> The expression is ‘having teething problems’.
+When a new project or device doesn’t work perfectly we say it ‘has teething problems’.
+<v Neil> Yes,
+the microchip allowed Rory to make the photocopier work just by swiping his hand over a console.
+But it didn’t work straight away.
+<v Harry> And he tells us that some of the workers are reacting with <strong>caution</strong> to the idea of having a microchip put under their skin.
+‘Caution’ means being careful to avoid something dangerous or risky.
+<v Neil> It might be risky but we might all be using it one day -
+who knows?
+The group running this scheme thinks this might be a good thing.
+Hannes Sjobland from a Swedish bio-hacking group seems to believe that linking biology and electronic devices can make our daily lives better -
+but he is concerned about people’s freedom.
+And what if a government or a big corporation wants to use this technology in the future?
+What does Hannes Sjobland want to be able to do if it happens?
+A tip,
+the word is a verb…
+<v Hannes Sjoband, Swedish bio-hacking group> We are early adopters of this technology,
+we experiment with it,
+we learn it,
+how it works,
+because I think that there might be a day when the taxman or the big corporates …
+they will come and say 'hey,
+try this chip,
+try this implant’,
+and then we will be able <strong>to question</strong> their proposals.
+<v Harry> He wants to question their proposals; it means to express doubts about their proposals and intentions.
+You know what,
+Neil?
+I’d rather have my passwords!
+<v Neil> Well,
+talking about passwords,
+let’s go back to my quiz question.
+I asked you what the weakest passwords people use is,
+according to the 2014 report by the online security firm SplashData.
+The options were: abc123,
+the numbers 123456 and the words ‘trustno’ followed by the number 1.
+<v Harry> And I said the third one,
+‘trustno1’.
+<v Neil> And you were…
+wrong I’m afraid Harry.
+The correct answer is B.
+The password ‘123456’ has been named as the worst password of 2014.
+The other two were also in the list.
+Before we go,
+can you remind us of the words we heard today,
+Harry.
+<v Harry> The words were:
+password
+by heart
+microchip
+having teething problems
+caution
+to question
+<v Neil> Thank you.
+Well,
+that’s it for this programme.
+Go to <a href="http://www.bbclearningenglish.com/">bbclearningenglish.com</a> to find more 6 Minute English programmes.
+Until next time.
+Goodbye!
+<v Harry> Bye!
+6 minute English from BBC.

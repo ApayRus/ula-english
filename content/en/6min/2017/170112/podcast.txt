@@ -1,165 +1,165 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	10.64		6 minute English from BBClearningEnglish.com
-10.64	13.84	<v Neil>	Hello and welcome to 6 Minute English.
-13.84	14.32		I’m Neil…
-14.32	15.48	<v Alice>	And I’m Alice.
-15.48	16		So Neil,
-16	18.88		the subject of today’s show is superheroes!
-18.88	19.84		Who’s your favourite?
-19.84	20.76	<v Neil>	Spiderman.
-20.76	22.32		He’s cool and funny –
-22.32	24.84		and he can spin webs and jump off skyscrapers!
-24.84	25.24	<v Alice>	Well,
-25.24	28.48		my favourite superhero is Ms Marvel.
-28.48	29.6	<v Neil>	I’ve never heard of her –
-29.6	32.4		and I’m a bit on an expert on comic book superheroes.
-32.4	32.96	<v Alice>	Well,
-32.96	40.08		a growing number of people from ethnic backgrounds are getting bored of all these white male superheroes they can’t relate to.
-40.08	43.12		And they’re hungry for characters a little <strong>closer to home</strong> –
-43.12	45.36		or relevant to their own lives.
-45.36	47.44	<v Neil>	So what’s Ms Marvel’s super power?
-47.44	49.2	<v Alice>	She’s a <strong>shape shifter</strong> –
-49.2	52.68		which means she can change shape and become anything she wants.
-52.68	55.08		But she’s also just Kamala Khan,
-55.08	57.12		an average teenager from New Jersey,
-57.12	59.4		who happens to be Asian and a Muslim.
-59.4	60.4	<v Neil>	It sounds good.
-60.4	63.04		But I think it must be time for today’s quiz question,
-63.04	63.52		Alice!
-63.52	64.04	<v Alice>	OK,
-64.04	65.16		here it is.
-65.16	70.8		What is the name of the new character that replaces Tony Stark as Iron Man?
-70.8	71.64		Is it…
-71.64	73.88		a) Miles Morales?
-73.88	75.84		b) Riri Williams?
-75.84	77.84		Or c) Jane Foster?
-77.84	81.4	<v Neil>	I’m going to say a) Miles Morales because he sounds like a man.
-81.4	81.92	<v Alice>	Well,
-81.92	86.6		we’ll find out later on the show whether you got the answer right or not.
-86.6	87.16		Now,
-87.16	88.88		I have another question.
-88.88	92.36		What are the rules for achieving superhero status?
-92.36	94.16		Superman is an alien,
-94.16	96.56		Ms Marvel has alien genes,
-96.56	99.96		and Spiderman and the Hulk are both <strong>contaminated</strong> –
-99.96	100.52		or poisoned –
-100.52	103.72		by radioactive substances that change their DNA.
-103.72	105.8	<v Neil>	What about Batman and Iron Man?
-105.8	110.64		They’re just ordinary guys with a lot of money who use technology to create superpowers for themselves.
-110.64	111.12	<v Alice>	Good point.
-111.12	114.36		There don’t seem to be any <strong>hard-and-fast</strong> –
-114.36	115.28		or clear –
-115.28	116.12		rules.
-116.12	117.68		But these special powers –
-117.68	119.4		whether it’s being able to fly,
-119.4	120.68		or change shape,
-120.68	122.08		or spin webs –
-122.08	125.24		they allow the characters to do good in the world.
-125.24	127.96		And that’s a big theme across all comic books.
-127.96	128.68	<v Neil>	That’s true.
-128.68	129.84		But times have changed,
-129.84	133.44		and comic books these days often <strong>blur</strong> the line between right and wrong –
-133.44	135.04		making things unclear.
-135.04	140.08		Superheroes don’t always do the right thing and struggle with everyday problems like you and me.
-140.08	143.84	<v Alice>	Let’s hear more about imperfect superheroes from Jason Ditmer,
-143.84	148.68		professor of political geography at University College London.
-148.68	153.48	<v INSERT>	They [Marvel Comics] imbued these characters with real human problems.
-153.48	155.4		So Peter Parker had just,
-155.4	155.92		was sort of…
-155.92	158		one problem after another.
-158	164.68		The Fantastic Four was a family and they bickered and fought and Reed and Sue were a couple,
-164.68	166.2		and then they got married,
-166.2	166.68		and that had,
-166.68	166.96		like,
-166.96	168.84		never happened in superhero comics.
-168.84	172.28		So these people had lives that others could relate to.
-172.28	173.16	<v Neil>	So publishers –
-173.16	174		like Marvel Comics –
-174	175.12		<strong>imbued</strong> –
-175.12	175.56		or filled –
-175.56	177.6		their characters with human problems.
-177.6	181.76		I can’t imagine a character like Captain America worrying about small things –
-181.76	183.04		or bickering with his wife!
-183.04	187.2	<v Alice>	And <strong>bickering</strong> means arguing about things that aren’t important.
-187.2	187.64		Well,
-187.64	188.68		like you said earlier,
-188.68	189.68		times change,
-189.68	190.08		Neil.
-190.08	191		These days,
-191	193.84		the publishing houses want to attract a more <strong>diverse</strong> –
-193.84	194.52		or varied –
-194.52	196.16		readership: teenagers,
-196.16	196.6		women,
-196.6	197.64		ethnic minorities –
-197.64	199.88		who want superheroes they can relate to,
-199.88	204		facing issues from racial discrimination to bickering at home.
-204	210.24	<v Neil>	I know that women are indeed interested in superheroes because they’ve been appearing in movies and on TV,
-210.24	213.2		but the world of comic books has always been a bit of a guy thing.
-213.2	213.64	<v Alice>	Well,
-213.64	214.52		it isn’t.
-214.52	217.84		Women read them and in some places women work in them.
-217.84	219.72		In Japan for example,
-219.72	221.16		we have the <strong>manga</strong> –
-221.16	224.44		these are Japanese comic books for adults and children.
-224.44	224.56		And,
-224.56	225.24		guess what –
-225.24	228.64		there is a strong tradition of female illustrators there.
-228.64	229.04	<v Neil>	Really?
-229.04	229.88	<v Alice>	Yes.
-229.88	233.24		Let’s move on now and listen to Dr Casey Brienza,
-233.24	235.52		Sociologist at City University in London,
-235.52	236.72		talking about manga.
-236.72	243.84	<v INSERT>	One of the really interesting things about producing comics in Japan is that it’s one of the few,
-243.84	244.44		kind of,
-244.44	247.96		autonomous careers that women can have.
-247.96	250.92		And so Japan has many,
-250.92	255.52		many female comic-book artists who write both for men,
-255.52	256.56		women,
-256.56	257.04		boys,
-257.04	258.52		and girls.
-258.52	265.56		And in the United States and in Britain female comic-book artists are far and away a minority.
-265.56	268.28	<v Neil>	Dr Casey Brienza there.
-268.28	280.12		So she says female comic-book artists are common in Japan but are a minority in the US and the UK.It’s particularly interesting that being an artist is an <strong>autonomous</strong> career –
-280.12	282.64		meaning you have the freedom to make your own decisions -
-282.64	285.8		and apparently this is not common for women in Japan.
-285.8	287.96	<v Neil>	And do you know who draws Ms Marvel?
-287.96	288.72		Is it a woman?
-288.72	289.96	<v Alice>	No.
-289.96	292		Ms Marvel is drawn by a man –
-292	294.76		the Canadian comic book artist Adrian Alphona.
-294.76	298.72		But we are running out of time so let’s go to today’s quiz question.
-298.72	304.76		I asked you: what’s the name of the new character that replaces Tony Stark as Iron Man?
-304.76	305.48		Is it…
-305.48	307.44		a) Miles Morales?
-307.44	309.48		b) Riri Williams?
-309.48	311.68		Or c) Jane Foster?
-311.68	313.72	<v Neil>	And I said Miles Morales.
-313.72	315.68	<v Alice>	And you were…
-315.68	316.16		wrong,
-316.16	316.68		Neil.
-316.68	317.4		I’m sorry.
-317.4	319.8		The answer is Riri Williams.
-319.8	325.36		Marvel Comics has recently diversified its characters to look more like the world we know today,
-325.36	331.12		including the addition of female African-American college student Riri Williams as Iron Man.
-331.12	334.36		Marvel has also given Thor’s hammer to a woman,
-334.36	335.64		introduced a black,
-335.64	339.96		Hispanic Spider-Man called Miles Morales and created Kamala Khan,
-339.96	343.24		a Muslim superhero otherwise known as Ms Marvel.
-343.24	344.36	<v Neil>	Very interesting.
-344.36	344.88		Now,
-344.88	347.4		let’s remind ourselves of the words we learned today:
-347.4	349.2		closer to home
-349.2	351.04		shape shifter
-351.04	352.6		contaminated
-352.6	354.48		hard and fast
-354.48	355.8		blur
-355.8	357.6		imbued
-357.6	359.08		bicker
-359.08	360.84		diverse
-360.84	362.28		manga
-362.28	364.04		autonomous
-364.04	367.04	<v Alice>	And that’s the end of today’s 6 Minute English.
-367.04	368.68		Don’t forget to join us again soon!
-368.68	369.84	<v Both>	Bye!
-369.84	376.68		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello and welcome to 6 Minute English.
+I’m Neil…
+<v Alice> And I’m Alice.
+So Neil,
+the subject of today’s show is superheroes!
+Who’s your favourite?
+<v Neil> Spiderman.
+He’s cool and funny –
+and he can spin webs and jump off skyscrapers!
+<v Alice> Well,
+my favourite superhero is Ms Marvel.
+<v Neil> I’ve never heard of her –
+and I’m a bit on an expert on comic book superheroes.
+<v Alice> Well,
+a growing number of people from ethnic backgrounds are getting bored of all these white male superheroes they can’t relate to.
+And they’re hungry for characters a little <strong>closer to home</strong> –
+or relevant to their own lives.
+<v Neil> So what’s Ms Marvel’s super power?
+<v Alice> She’s a <strong>shape shifter</strong> –
+which means she can change shape and become anything she wants.
+But she’s also just Kamala Khan,
+an average teenager from New Jersey,
+who happens to be Asian and a Muslim.
+<v Neil> It sounds good.
+But I think it must be time for today’s quiz question,
+Alice!
+<v Alice> OK,
+here it is.
+What is the name of the new character that replaces Tony Stark as Iron Man?
+Is it…
+a) Miles Morales?
+b) Riri Williams?
+Or c) Jane Foster?
+<v Neil> I’m going to say a) Miles Morales because he sounds like a man.
+<v Alice> Well,
+we’ll find out later on the show whether you got the answer right or not.
+Now,
+I have another question.
+What are the rules for achieving superhero status?
+Superman is an alien,
+Ms Marvel has alien genes,
+and Spiderman and the Hulk are both <strong>contaminated</strong> –
+or poisoned –
+by radioactive substances that change their DNA.
+<v Neil> What about Batman and Iron Man?
+They’re just ordinary guys with a lot of money who use technology to create superpowers for themselves.
+<v Alice> Good point.
+There don’t seem to be any <strong>hard-and-fast</strong> –
+or clear –
+rules.
+But these special powers –
+whether it’s being able to fly,
+or change shape,
+or spin webs –
+they allow the characters to do good in the world.
+And that’s a big theme across all comic books.
+<v Neil> That’s true.
+But times have changed,
+and comic books these days often <strong>blur</strong> the line between right and wrong –
+making things unclear.
+Superheroes don’t always do the right thing and struggle with everyday problems like you and me.
+<v Alice> Let’s hear more about imperfect superheroes from Jason Ditmer,
+professor of political geography at University College London.
+<v INSERT> They [Marvel Comics] imbued these characters with real human problems.
+So Peter Parker had just,
+was sort of…
+one problem after another.
+The Fantastic Four was a family and they bickered and fought and Reed and Sue were a couple,
+and then they got married,
+and that had,
+like,
+never happened in superhero comics.
+So these people had lives that others could relate to.
+<v Neil> So publishers –
+like Marvel Comics –
+<strong>imbued</strong> –
+or filled –
+their characters with human problems.
+I can’t imagine a character like Captain America worrying about small things –
+or bickering with his wife!
+<v Alice> And <strong>bickering</strong> means arguing about things that aren’t important.
+Well,
+like you said earlier,
+times change,
+Neil.
+These days,
+the publishing houses want to attract a more <strong>diverse</strong> –
+or varied –
+readership: teenagers,
+women,
+ethnic minorities –
+who want superheroes they can relate to,
+facing issues from racial discrimination to bickering at home.
+<v Neil> I know that women are indeed interested in superheroes because they’ve been appearing in movies and on TV,
+but the world of comic books has always been a bit of a guy thing.
+<v Alice> Well,
+it isn’t.
+Women read them and in some places women work in them.
+In Japan for example,
+we have the <strong>manga</strong> –
+these are Japanese comic books for adults and children.
+And,
+guess what –
+there is a strong tradition of female illustrators there.
+<v Neil> Really?
+<v Alice> Yes.
+Let’s move on now and listen to Dr Casey Brienza,
+Sociologist at City University in London,
+talking about manga.
+<v INSERT> One of the really interesting things about producing comics in Japan is that it’s one of the few,
+kind of,
+autonomous careers that women can have.
+And so Japan has many,
+many female comic-book artists who write both for men,
+women,
+boys,
+and girls.
+And in the United States and in Britain female comic-book artists are far and away a minority.
+<v Neil> Dr Casey Brienza there.
+So she says female comic-book artists are common in Japan but are a minority in the US and the UK.It’s particularly interesting that being an artist is an <strong>autonomous</strong> career –
+meaning you have the freedom to make your own decisions -
+and apparently this is not common for women in Japan.
+<v Neil> And do you know who draws Ms Marvel?
+Is it a woman?
+<v Alice> No.
+Ms Marvel is drawn by a man –
+the Canadian comic book artist Adrian Alphona.
+But we are running out of time so let’s go to today’s quiz question.
+I asked you: what’s the name of the new character that replaces Tony Stark as Iron Man?
+Is it…
+a) Miles Morales?
+b) Riri Williams?
+Or c) Jane Foster?
+<v Neil> And I said Miles Morales.
+<v Alice> And you were…
+wrong,
+Neil.
+I’m sorry.
+The answer is Riri Williams.
+Marvel Comics has recently diversified its characters to look more like the world we know today,
+including the addition of female African-American college student Riri Williams as Iron Man.
+Marvel has also given Thor’s hammer to a woman,
+introduced a black,
+Hispanic Spider-Man called Miles Morales and created Kamala Khan,
+a Muslim superhero otherwise known as Ms Marvel.
+<v Neil> Very interesting.
+Now,
+let’s remind ourselves of the words we learned today:
+closer to home
+shape shifter
+contaminated
+hard and fast
+blur
+imbued
+bicker
+diverse
+manga
+autonomous
+<v Alice> And that’s the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

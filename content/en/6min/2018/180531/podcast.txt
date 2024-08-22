@@ -1,135 +1,135 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	13.64		6 minute English from BBClearningEnglish.com
-13.64	14	<v Neil>	Hello,
-14	15.92		and welcome to 6 Minute English,
-15.92	17.84		I’m Neil and joining me today is Rob.
-17.84	18.88	<v Rob>	Hello.
-18.88	19.56	<v Neil>	So Rob,
-19.56	23.44		what’s the most dangerous thing you’ve ever chosen to do?
-23.44	23.92	<v Rob>	Mmm.
-23.92	25		Tricky question.
-25	26.6		I’ve done many risky things,
-26.6	31.44		but probably the most risky thing is bungee jumping in New Zealand.
-31.44	32.08	<v Neil>	Oh wow,
-32.08	32.92		bungee jumping.
-32.92	34.6		You’d never catch me doing that.
-34.6	35.72		Did you enjoy it?
-35.72	36.16	<v Rob>	Not really,
-36.16	36.64		no.
-36.64	37.64		I won’t do it again!
-37.64	38.08	<v Neil>	OK,
-38.08	45.76		well today our topic is risk and how different people react to different levels of risk in different ways.
-45.76	47.08		For example,
-47.08	50.24		would you be happy to be in a driverless car?
-50.24	51.84	<v Rob>	Absolutely not!
-51.84	52.2		No,
-52.2	53.76		I don’t trust anybody’s driving -
-53.76	54.56		even a computer.
-54.56	55.36		So no,
-55.36	56.76		I wouldn’t go in a driverless car.
-56.76	57.24	<v Neil>	OK,
-57.24	58.76		I won’t offer you a lift!
-58.76	61.84		Driverless cars are the topic of today’s quiz.
-61.84	67.16		The question is: When was the first driverless car demonstrated on a public road?
-67.16	67.56		Was it:
-67.56	69.2		a) 1970s
-69.2	71.16		b) 1950s
-71.16	72.88		c) 1920s
-72.88	75.08	<v Rob>	I think they are quite modern,
-75.08	78.04		so I’m going to say 1970s.
-78.04	78.4	<v Neil>	OK,
-78.4	81.92		well we’ll find out if you’re right at the end of the programme.
-81.92	87.8		Joe Kable is an Associate Professor of Psychology at the University of Pennsylvania.
-87.8	89.84		In a recent BBC science programme,
-89.84	90.76		All in the Mind,
-90.76	100.48		he talked about the psychology of risk and whether there was anything physically in our brains that could predict how much risk we are prepared to accept.
-100.48	101.24		Here he is,
-101.24	105.2		first talking about a number of different ways people see risk.
-105.2	106.4		How many different types does he describe?
-106.4	108.32	<v Joe Kable,>	**Associate Professor of Psychology,
-108.32	115.68		University of Pennsylvania**Some people are quite <strong>risk-averse</strong> and really don’t want to take any decisions where there’s risk involved at all,
-115.68	125		whereas others are fairly <strong>risk-tolerant</strong> and in some cases even <strong>risk-seeking</strong> so they seek out decisions that have an aspect of risk to them.
-125	127.48	<v Neil>	How many different types of people did he mention,
-127.48	129.8		when it comes to attitudes to risk?
-129.8	130.24	<v Rob>	Well,
-130.24	131.36		there were three.
-131.36	133.88		The first group was those who are <strong>risk-averse</strong>.
-133.88	136.76		If you are <strong>averse</strong> <strong><em>to</em></strong> something,
-136.76	138.12		you are against it,
-138.12	139.24		you don’t like it.
-139.24	142.4		So <strong>risk-averse</strong> people don’t like to take risks.
-142.4	147.88	<v Neil>	The second group are those who are <strong>risk-tolerant</strong>.If you are <strong>tolerant</strong> <strong>of</strong> something,
-147.88	148.56		you accept it,
-148.56	149.4		you don’t mind it,
-149.4	151.16		it’s not a problem for you.
-151.16	156.64		So someone who is <strong>risk-tolerant</strong>is not worried by an element of risk in what they choose to do.
-156.64	160.44	<v Rob>	The third group he mentioned are those who are <strong>risk-seeking</strong>.
-160.44	161.92		If you <strong>seek</strong> something,
-161.92	163.68		you actively look for it,
-163.68	164.8		you try to find it.
-164.8	171.16		So <strong>risk seekers</strong> are those who enjoy risk and want to take risks in their life.
-171.16	186.04	<v Neil>	Associate Professor Kable carried out research on risk-taking and discovered that there were differences in brain structure and the way parts of the brain worked together between those who are <strong>risk-averse</strong> and those who are <strong>risk-tolerant</strong> or <strong>risk seekers.</strong>
-186.04	188.6	<v Rob>	So it seems as if this is something that could be measured.
-188.6	192.96		You could put someone in a brain scanner and tell if they like risk or not.
-192.96	195.08		I wonder how useful that would be though –
-195.08	198.08		is there any practical application for this knowledge?
-198.08	201.16	<v Neil>	Good question and one that was put to Kable.
-201.16	203.88		What area does he say this could be applied to?
-203.88	217.6	<v Joe Kable>	Definitely something that I can see coming out of this is using these associations to help develop better assessments of who’s likely to take risks versus not.
-217.6	226.8		This is exactly the thing that <strong>financial advisors</strong> want to assess when you come to them and say 'I want <strong>to put my money away</strong> for <strong>retirement’</strong>.
-226.8	232.64		Exactly the aspect of your personality that they want to know is what’s your tolerance for taking risk?
-232.64	237.08	<v Neil>	In which area does he say knowledge of someone’s attitude to risk might be useful?
-237.08	238.92	<v Rob>	Financial planning.
-238.92	241.24		He says that financial advisors,
-241.24	244.28		who are people that give advice on what to do with our money,
-244.28	246.84		would find this information very useful.
-246.84	249.84		It would help them <strong>to assess</strong> what to do with your money,
-249.84	252.44		which means it would help them to decide,
-252.44	254.08		to make an intelligent decision about your money in certain situations.
-254.08	257.48	<v Neil>	For example if you are planning for your <strong>retirement</strong>.
-257.48	262.8		<strong>Retirement</strong> is the time when are able to or you have to stop working.
-262.8	265.64	<v Rob>	He also used an interesting expression there,
-265.64	267.52		to <strong>put your money away</strong>,
-267.52	269.36		which means ‘save your money’,
-269.36	273.8		‘put it somewhere where you can’t spend it and where it can grow’.
-273.8	280.24		You know I think my financial planner could just ask me about how I feel about risk rather than giving me a brain scan.
-280.24	282.16		I heard brain scans can be risky!
-282.16	282.6	<v Neil>	Mmm,
-282.6	284.36		not sure that’s true but anyway,
-284.36	287.68		what is true is the answer to this week’s quiz question.
-287.68	292.56		I asked you when the first driverless car was demonstrated on a public road.
-292.56	296.08		The options were a) the 1970s,
-296.08	299.28		b) the1950s and c) the 1920s.
-299.28	300.16		What did you say Rob?
-300.16	302.2	<v Rob>	I said the 1970s.
-302.2	303.4	<v Neil>	And you were wrong,
-303.4	305.24		I’m afraid.
-305.24	306.92		Apparently it was the 1920s,
-306.92	308.32		so a long time ago.
-308.32	310.24		Well done if you got that right.
-310.24	312.96		Now before we drive off into the sunset,
-312.96	314.92		let’s recap today’s vocabulary.
-314.92	315.8	<v Rob>	Yes right,
-315.8	320		first we had three words describing different attitudes to risk.
-320	321.96		There was <strong>risk-averse</strong>,
-321.96	323.68		for people who don’t like risk.
-323.68	327	<v Neil>	People who don’t mind risk are <strong>risk-tolerant</strong>.
-327	330.36	<v Rob>	And people who like risk and want risk are <strong>risk seekers</strong>.
-330.36	333.4	<v Neil>	Next we had the verb <strong>to assess</strong>.
-333.4	337.12		This means ‘to make a judgement or a decision based on information’.
-337.12	340.52	<v Rob>	A phrase meaning ‘to save money’ is <strong>to put money away</strong>.
-340.52	342.48	<v Neil>	And finally we had <strong>retirement</strong>.
-342.48	349		That time of life when you are too old to work anymore or you have enough money that you don’t need to work anymore.
-349	351.84		Are you looking forward to your <strong>retirement</strong> Rob?
-351.84	352.04	<v Rob>	Cheeky.
-352.04	355.64		I’m neither old enough nor rich enough to even think about that Neil.
-355.64	356.76	<v Neil>	Same here.
-356.76	358.84		Well that’s all from us today,
-358.84	362.12		and you don’t have to be a risk seeker to find us on Facebook,
-362.12	362.76		Twitter,
-362.76	363.84		Instagram and YouTube,
-363.84	367.56		and of course on our website bbclearningenglish.com!
-367.56	370.12		Thank you for joining us and goodbye.
-370.12	371.52	<v Rob>	Bye!
-371.52	378.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello,
+and welcome to 6 Minute English,
+I’m Neil and joining me today is Rob.
+<v Rob> Hello.
+<v Neil> So Rob,
+what’s the most dangerous thing you’ve ever chosen to do?
+<v Rob> Mmm.
+Tricky question.
+I’ve done many risky things,
+but probably the most risky thing is bungee jumping in New Zealand.
+<v Neil> Oh wow,
+bungee jumping.
+You’d never catch me doing that.
+Did you enjoy it?
+<v Rob> Not really,
+no.
+I won’t do it again!
+<v Neil> OK,
+well today our topic is risk and how different people react to different levels of risk in different ways.
+For example,
+would you be happy to be in a driverless car?
+<v Rob> Absolutely not!
+No,
+I don’t trust anybody’s driving -
+even a computer.
+So no,
+I wouldn’t go in a driverless car.
+<v Neil> OK,
+I won’t offer you a lift!
+Driverless cars are the topic of today’s quiz.
+The question is: When was the first driverless car demonstrated on a public road?
+Was it:
+a) 1970s
+b) 1950s
+c) 1920s
+<v Rob> I think they are quite modern,
+so I’m going to say 1970s.
+<v Neil> OK,
+well we’ll find out if you’re right at the end of the programme.
+Joe Kable is an Associate Professor of Psychology at the University of Pennsylvania.
+In a recent BBC science programme,
+All in the Mind,
+he talked about the psychology of risk and whether there was anything physically in our brains that could predict how much risk we are prepared to accept.
+Here he is,
+first talking about a number of different ways people see risk.
+How many different types does he describe?
+<v Joe Kable,> **Associate Professor of Psychology,
+University of Pennsylvania**Some people are quite <strong>risk-averse</strong> and really don’t want to take any decisions where there’s risk involved at all,
+whereas others are fairly <strong>risk-tolerant</strong> and in some cases even <strong>risk-seeking</strong> so they seek out decisions that have an aspect of risk to them.
+<v Neil> How many different types of people did he mention,
+when it comes to attitudes to risk?
+<v Rob> Well,
+there were three.
+The first group was those who are <strong>risk-averse</strong>.
+If you are <strong>averse</strong> <strong><em>to</em></strong> something,
+you are against it,
+you don’t like it.
+So <strong>risk-averse</strong> people don’t like to take risks.
+<v Neil> The second group are those who are <strong>risk-tolerant</strong>.If you are <strong>tolerant</strong> <strong>of</strong> something,
+you accept it,
+you don’t mind it,
+it’s not a problem for you.
+So someone who is <strong>risk-tolerant</strong>is not worried by an element of risk in what they choose to do.
+<v Rob> The third group he mentioned are those who are <strong>risk-seeking</strong>.
+If you <strong>seek</strong> something,
+you actively look for it,
+you try to find it.
+So <strong>risk seekers</strong> are those who enjoy risk and want to take risks in their life.
+<v Neil> Associate Professor Kable carried out research on risk-taking and discovered that there were differences in brain structure and the way parts of the brain worked together between those who are <strong>risk-averse</strong> and those who are <strong>risk-tolerant</strong> or <strong>risk seekers.</strong>
+<v Rob> So it seems as if this is something that could be measured.
+You could put someone in a brain scanner and tell if they like risk or not.
+I wonder how useful that would be though –
+is there any practical application for this knowledge?
+<v Neil> Good question and one that was put to Kable.
+What area does he say this could be applied to?
+<v Joe Kable> Definitely something that I can see coming out of this is using these associations to help develop better assessments of who’s likely to take risks versus not.
+This is exactly the thing that <strong>financial advisors</strong> want to assess when you come to them and say 'I want <strong>to put my money away</strong> for <strong>retirement’</strong>.
+Exactly the aspect of your personality that they want to know is what’s your tolerance for taking risk?
+<v Neil> In which area does he say knowledge of someone’s attitude to risk might be useful?
+<v Rob> Financial planning.
+He says that financial advisors,
+who are people that give advice on what to do with our money,
+would find this information very useful.
+It would help them <strong>to assess</strong> what to do with your money,
+which means it would help them to decide,
+to make an intelligent decision about your money in certain situations.
+<v Neil> For example if you are planning for your <strong>retirement</strong>.
+<strong>Retirement</strong> is the time when are able to or you have to stop working.
+<v Rob> He also used an interesting expression there,
+to <strong>put your money away</strong>,
+which means ‘save your money’,
+‘put it somewhere where you can’t spend it and where it can grow’.
+You know I think my financial planner could just ask me about how I feel about risk rather than giving me a brain scan.
+I heard brain scans can be risky!
+<v Neil> Mmm,
+not sure that’s true but anyway,
+what is true is the answer to this week’s quiz question.
+I asked you when the first driverless car was demonstrated on a public road.
+The options were a) the 1970s,
+b) the1950s and c) the 1920s.
+What did you say Rob?
+<v Rob> I said the 1970s.
+<v Neil> And you were wrong,
+I’m afraid.
+Apparently it was the 1920s,
+so a long time ago.
+Well done if you got that right.
+Now before we drive off into the sunset,
+let’s recap today’s vocabulary.
+<v Rob> Yes right,
+first we had three words describing different attitudes to risk.
+There was <strong>risk-averse</strong>,
+for people who don’t like risk.
+<v Neil> People who don’t mind risk are <strong>risk-tolerant</strong>.
+<v Rob> And people who like risk and want risk are <strong>risk seekers</strong>.
+<v Neil> Next we had the verb <strong>to assess</strong>.
+This means ‘to make a judgement or a decision based on information’.
+<v Rob> A phrase meaning ‘to save money’ is <strong>to put money away</strong>.
+<v Neil> And finally we had <strong>retirement</strong>.
+That time of life when you are too old to work anymore or you have enough money that you don’t need to work anymore.
+Are you looking forward to your <strong>retirement</strong> Rob?
+<v Rob> Cheeky.
+I’m neither old enough nor rich enough to even think about that Neil.
+<v Neil> Same here.
+Well that’s all from us today,
+and you don’t have to be a risk seeker to find us on Facebook,
+Twitter,
+Instagram and YouTube,
+and of course on our website bbclearningenglish.com!
+Thank you for joining us and goodbye.
+<v Rob> Bye!
+6 minute English from BBC.

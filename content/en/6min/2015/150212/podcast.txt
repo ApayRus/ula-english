@@ -1,152 +1,152 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.96		to find out more visit our website
-6.96	10.88		6 minute English from BBClearningEnglish.com
-10.88	12.2	<v Rob>	Hello,
-12.2	13.16		I’m Rob.
-13.16	15.16		Welcome to 6 Minute English.
-15.16	16.88		With me in the studio is Neil.
-16.88	17.08		Hello,
-17.08	17.44		Neil.
-17.44	17.72	<v Neil>	Hello,
-17.72	18.36		Rob.
-18.36	21.36	<v Rob>	And in this programme we’re talking about tourism,
-21.36	24.68		but in a very special place: Antarctica.
-24.68	27.48		It is considered the last great <strong>wilderness</strong> on Earth.
-27.48	33.8		Wilderness means an area with no people and no agriculture because of the difficult living conditions.
-33.8	34.08	<v Neil>	Yes,
-34.08	39.16		in Antarctica there are only research stations with scientists and a few tourists.
-39.16	40.6	<v Rob>	Not so few –
-40.6	45		about 37,000 tourists are expected there this season.
-45	49.04		Many don’t go ashore but there’s no denying that it disturbs the environment.
-49.04	49.72	<v Neil>	That many?
-49.72	50.56	<v Rob>	Yes.
-50.56	53.68		We’re asking if it is fair for tourists <strong>to set foot</strong> –
-53.68	54.84		it means to go to -
-54.84	57.16		such a sensitive environment.
-57.16	60.52		We’ll also use some vocabulary related to Antarctica.
-60.52	60.88		By the way,
-60.88	61.48		Neil,
-61.48	64		do you know a lot about the South Pole?
-64	65.76	<v Neil>	I’ve been reading that the <strong>ice caps</strong> –
-65.76	71.56		these are the thick layers of ice permanently covering a vast area of land in the Arctic and Antarctic -
-71.56	74.2		are melting due to <strong>global warming</strong>…
-74.2	74.6	<v Rob>	Yes,
-74.6	80.72		and global warming is the increase in world temperatures due to the presence of carbon dioxide in the atmosphere.
-80.72	86.24	<v Neil>	This gas and some others have been stopping heat from the Earth escaping into space.
-86.24	86.68		You know what,
-86.68	87.04		Rob?
-87.04	90.28		I would like to visit Antarctica before it melts too much.
-90.28	91.64		I want to see the penguins.
-91.64	92.96		They are very amusing animals!
-92.96	93.44	<v Rob>	They are,
-93.44	93.76		yes.
-93.76	95.4		But penguins aside,
-95.4	98.48		what large resource can be found in Antarctica?
-98.48	100.68		That’s my question for you today.
-100.68	101.96		Is Antarctica:
-101.96	104.64		a) The world’s largest coal field
-104.64	108.6		b) The world’s largest gold source
-108.6	112.12		c) The world’s largest diamond source
-112.12	114.12	<v Neil>	I’m gonna have a guess -
-114.12	115.32		because I don’t know -
-115.32	117.76		that it’s coal (a).
-117.76	118.68	<v Rob>	Coal.
-118.68	119.08		Right.
-119.08	119.44		Okay.
-119.44	119.76		Well,
-119.76	120.48		as usual,
-120.48	123.64		we’ll give you the right answer at the end of the programme.
-123.64	123.96		Well,
-123.96	130.92		I love travelling but I wonder how that very sensitive environment in Antarctica is going to be preserved.
-130.92	136		That’s why BBC reporter Juliet Rix’s visit to Antarctica caught my attention.
-136	137.72	<v Neil>	I bet she is asking the same question as you,
-137.72	138.28		Rob.
-138.28	139.2	<v Rob>	Yes she is.
-139.2	144.96		Listen to what she has to say about the need to have some level of tourism in the Antarctic.
-144.96	148.52		What word does she use to describe people who defend a cause –
-148.52	149.24		in this case –
-149.24	152.56		the preservation of the region?
-152.56	155.4	<v Juliet Rix, BBC reporter who went to Antarctica>	_I’m all too aware that this is not my habitat.
-155.4	159.92		Like a scuba diver under the sea I’m an alien visitor in the penguins’ world.
-159.92	163.6		Which makes me wonder: should I be here at all?
-163.6	169.88		Am I just by setting foot on this extraordinary continent polluting the last great wilderness on Earth?
-169.88	171.4		All visitors leave a footprint,
-171.4	173.12		admits my tour leader.
-173.12	175.04		And we all go to the same places,
-175.04	176.96		the accessible coastline,
-176.96	180.24		which is also where the penguins and seals go to breed.
-180.24	180.8		Nonetheless,
-180.8	181.4		he argues,
-181.4	185.88		carefully controlled tourism is not just okay but useful.
-185.88	188		Without a native population of its own,
-188	189.96		Antarctica needs <strong>advocates</strong>.
-189.96	196.64		And tourism creates a global constituency of people ready to support and indeed fund its preservation.
-196.64	200.12		Not everyone is convinced that the benefits outweigh the risks,
-200.12	202.6		but most are pragmatic:_
-202.6	205.56	<v Neil>	The reporter uses the word advocates –
-205.56	208.92		that’s what we call people who defend a cause or an idea.
-208.92	214.68	<v Rob>	Juliet Rix’s tour guide told her it’s good that some people go to Antarctica and then,
-214.68	216.36		when they go back to their countries,
-216.36	222.44		they defend conservation and give money to organisations which work for the preservation of the environment.
-222.44	226.84	<v Neil>	Some people might not agree because if there are some companies making profit,
-226.84	230.76		it might be difficult to prevent an increase in tourism to Antarctica.
-230.76	233.68		And what control do they have over the tourists?
-233.68	240.08	<v Rob>	Juliet Rix tells us about the instructions given to her group when they approached Antarctica.
-240.08	246.52		She says that tourists must clean their clothes with a vacuum cleaner before they leave the ship to go on land.
-246.52	249.08		But why?
-249.08	253.2	<v Juliet Rix, BBC reporter who went to Antarctica>	_We’re given a mandatory briefing before gathering for a “vacuum party”.
-253.2	261.48		We bio secure ourselves hovering our clothes and kit and <strong>disinfecting</strong> our boots to ensure we introduce no alien species to Antarctica.
-261.48	264.6		There’s no eating or smoking on land,
-264.6	266.44		and we’re instructed to take nothing away,
-266.44	267.68		except photographs,
-267.68	269.84		and leave nothing behind.
-269.84	271.4		Not even a bit of yellow snow.
-271.4	272.12		So,
-272.12	273.64		don’t drink too much at breakfast._
-273.64	280.48	<v Neil>	The BBC reporter tells us that the group of tourists has to disinfect their boots.
-280.48	283.56		Disinfect means to clean something using chemicals or,
-283.56	284.08		in this case,
-284.08	287.48		vacuum to kill or remove bacteria.
-287.48	291.2		This is to avoid the risk of contaminating the region.
-291.2	293.96	<v Rob>	And to go to the toilet before leaving the ship.
-293.96	296.16		The ice is not your toilet!
-296.16	296.2	<v Neil>	No,
-296.2	296.76		it isn’t.
-296.76	299.52		The penguins have exclusive rights on that!
-299.52	301.64		But what do you think about visiting Antarctica,
-301.64	301.8		Rob?
-301.8	304.12		Are you keen on paying the penguins a visit?
-304.12	304.96	<v Rob>	Absolutely,
-304.96	306		I would love to go there.
-306	306.56		What about you,
-306.56	306.8		Neil?
-306.8	307.4	<v Neil>	Yeah.
-307.4	308.96		I’d like to go because as I said,
-308.96	310.32		it’s all about the penguins.
-310.32	310.76	<v Rob>	Well,
-310.76	318.88		let’s stop dreaming about exotic trips and go back to the question I asked you earlier in the programme: what large resource can be found in Antarctica?
-318.88	325.56		Is it the world’s largest coal field; the world’s largest gold source or the world’s largest diamond source?
-325.56	327.32	<v Neil>	And I said coal.
-327.32	329.28	<v Rob>	And you are indeed correct.
-329.28	329.92		Well done!
-329.92	338.12		And now no one is able to mine the coal because the Antarctic Treaty has banned the exploitation of resources for 50 years.
-338.12	339.12		What happens after that,
-339.12	339.92		who knows?
-339.92	340.76		Anyway,
-340.76	344.4		we’re running out of time so let’s remember some of the words we said today,
-344.4	344.8		Neil.
-344.8	346.68	<v Neil>	The words were:
-346.68	349		wilderness
-349	351.52		to set foot
-351.52	354		ice caps
-354	356.68		global warming
-356.68	359.24		advocates
-359.24	361.88		to disinfect
-361.88	363.76	<v Rob>	Thank you.
-363.76	364.8		Well,
-364.8	365.92		that’s it for today.
-365.92	370.44		Go to <a href="http://www.bbclearningenglish.com/">www.bbclearningenglish.com</a> to find more 6 Minute English programmes.
-370.44	371.84		Until next time.
-371.84	372.88		Goodbye!
-372.88	374.32	<v Neil>	Bye!
-374.32	380.28		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello,
+I’m Rob.
+Welcome to 6 Minute English.
+With me in the studio is Neil.
+Hello,
+Neil.
+<v Neil> Hello,
+Rob.
+<v Rob> And in this programme we’re talking about tourism,
+but in a very special place: Antarctica.
+It is considered the last great <strong>wilderness</strong> on Earth.
+Wilderness means an area with no people and no agriculture because of the difficult living conditions.
+<v Neil> Yes,
+in Antarctica there are only research stations with scientists and a few tourists.
+<v Rob> Not so few –
+about 37,000 tourists are expected there this season.
+Many don’t go ashore but there’s no denying that it disturbs the environment.
+<v Neil> That many?
+<v Rob> Yes.
+We’re asking if it is fair for tourists <strong>to set foot</strong> –
+it means to go to -
+such a sensitive environment.
+We’ll also use some vocabulary related to Antarctica.
+By the way,
+Neil,
+do you know a lot about the South Pole?
+<v Neil> I’ve been reading that the <strong>ice caps</strong> –
+these are the thick layers of ice permanently covering a vast area of land in the Arctic and Antarctic -
+are melting due to <strong>global warming</strong>…
+<v Rob> Yes,
+and global warming is the increase in world temperatures due to the presence of carbon dioxide in the atmosphere.
+<v Neil> This gas and some others have been stopping heat from the Earth escaping into space.
+You know what,
+Rob?
+I would like to visit Antarctica before it melts too much.
+I want to see the penguins.
+They are very amusing animals!
+<v Rob> They are,
+yes.
+But penguins aside,
+what large resource can be found in Antarctica?
+That’s my question for you today.
+Is Antarctica:
+a) The world’s largest coal field
+b) The world’s largest gold source
+c) The world’s largest diamond source
+<v Neil> I’m gonna have a guess -
+because I don’t know -
+that it’s coal (a).
+<v Rob> Coal.
+Right.
+Okay.
+Well,
+as usual,
+we’ll give you the right answer at the end of the programme.
+Well,
+I love travelling but I wonder how that very sensitive environment in Antarctica is going to be preserved.
+That’s why BBC reporter Juliet Rix’s visit to Antarctica caught my attention.
+<v Neil> I bet she is asking the same question as you,
+Rob.
+<v Rob> Yes she is.
+Listen to what she has to say about the need to have some level of tourism in the Antarctic.
+What word does she use to describe people who defend a cause –
+in this case –
+the preservation of the region?
+<v Juliet Rix, BBC reporter who went to Antarctica> _I’m all too aware that this is not my habitat.
+Like a scuba diver under the sea I’m an alien visitor in the penguins’ world.
+Which makes me wonder: should I be here at all?
+Am I just by setting foot on this extraordinary continent polluting the last great wilderness on Earth?
+All visitors leave a footprint,
+admits my tour leader.
+And we all go to the same places,
+the accessible coastline,
+which is also where the penguins and seals go to breed.
+Nonetheless,
+he argues,
+carefully controlled tourism is not just okay but useful.
+Without a native population of its own,
+Antarctica needs <strong>advocates</strong>.
+And tourism creates a global constituency of people ready to support and indeed fund its preservation.
+Not everyone is convinced that the benefits outweigh the risks,
+but most are pragmatic:_
+<v Neil> The reporter uses the word advocates –
+that’s what we call people who defend a cause or an idea.
+<v Rob> Juliet Rix’s tour guide told her it’s good that some people go to Antarctica and then,
+when they go back to their countries,
+they defend conservation and give money to organisations which work for the preservation of the environment.
+<v Neil> Some people might not agree because if there are some companies making profit,
+it might be difficult to prevent an increase in tourism to Antarctica.
+And what control do they have over the tourists?
+<v Rob> Juliet Rix tells us about the instructions given to her group when they approached Antarctica.
+She says that tourists must clean their clothes with a vacuum cleaner before they leave the ship to go on land.
+But why?
+<v Juliet Rix, BBC reporter who went to Antarctica> _We’re given a mandatory briefing before gathering for a “vacuum party”.
+We bio secure ourselves hovering our clothes and kit and <strong>disinfecting</strong> our boots to ensure we introduce no alien species to Antarctica.
+There’s no eating or smoking on land,
+and we’re instructed to take nothing away,
+except photographs,
+and leave nothing behind.
+Not even a bit of yellow snow.
+So,
+don’t drink too much at breakfast._
+<v Neil> The BBC reporter tells us that the group of tourists has to disinfect their boots.
+Disinfect means to clean something using chemicals or,
+in this case,
+vacuum to kill or remove bacteria.
+This is to avoid the risk of contaminating the region.
+<v Rob> And to go to the toilet before leaving the ship.
+The ice is not your toilet!
+<v Neil> No,
+it isn’t.
+The penguins have exclusive rights on that!
+But what do you think about visiting Antarctica,
+Rob?
+Are you keen on paying the penguins a visit?
+<v Rob> Absolutely,
+I would love to go there.
+What about you,
+Neil?
+<v Neil> Yeah.
+I’d like to go because as I said,
+it’s all about the penguins.
+<v Rob> Well,
+let’s stop dreaming about exotic trips and go back to the question I asked you earlier in the programme: what large resource can be found in Antarctica?
+Is it the world’s largest coal field; the world’s largest gold source or the world’s largest diamond source?
+<v Neil> And I said coal.
+<v Rob> And you are indeed correct.
+Well done!
+And now no one is able to mine the coal because the Antarctic Treaty has banned the exploitation of resources for 50 years.
+What happens after that,
+who knows?
+Anyway,
+we’re running out of time so let’s remember some of the words we said today,
+Neil.
+<v Neil> The words were:
+wilderness
+to set foot
+ice caps
+global warming
+advocates
+to disinfect
+<v Rob> Thank you.
+Well,
+that’s it for today.
+Go to <a href="http://www.bbclearningenglish.com/">www.bbclearningenglish.com</a> to find more 6 Minute English programmes.
+Until next time.
+Goodbye!
+<v Neil> Bye!
+6 minute English from BBC.

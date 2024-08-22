@@ -1,158 +1,158 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	10.64		6 minute English from BBClearningEnglish.com
-10.64	14.12	<v Alice>	Hello and welcome to 6 Minute English.
-14.12	14.84		I’m Alice…
-14.84	16.08	<v Neil>	And I’m Neil.
-16.08	17.84		And I feel terrible!
-17.84	19.04	<v Alice>	You look terrible,
-19.04	19.48		Neil –
-19.48	22.36		if you don’t mind me saying so!
-22.36	25.08	<v Neil>	It’s because I had to get up really early this morning.
-25.08	25.56	<v Alice>	Oh dear!
-25.56	27.36		What time did you have to get up?
-27.36	28.2	<v Neil>	Eight o’clock.
-28.2	29	<v Alice>	Oh,
-29	29.48		Neil!
-29.48	31.12		That isn’t early!
-31.12	33.32		I get up at six every day.
-33.32	35.32		It’s so peaceful early in the morning.
-35.32	36.16	<v Neil>	Hmm.
-36.16	36.72		Well,
-36.72	41.4		some people are morning people and others…
-41.4	42.16		aren’t!
-42.16	42.68	<v Alice>	Yes.
-42.68	43.04		Well,
-43.04	47.28		today we’re talking about the biological reason for this –
-47.28	50.24		it’s all about <strong>circadian rhythms</strong>.
-50.24	57.4		They are produced by a so-called body clock in our brains that regulates our body functions: our body temperature,
-57.4	59.64		sleepiness and alertness,
-59.64	60.28		hunger,
-60.28	61.72		and hormone levels.
-61.72	62.64		Plants,
-62.64	63.2		animals,
-63.2	66.28		and many microbes have circadian rhythms.
-66.28	68.36	<v Neil>	You know a lot about circadian rhythms.
-68.36	71.76	<v Alice>	And I’ll ask you a question related to them.
-71.76	74.8		What does the word ‘circadian’ mean?
-74.8	75.28		Is it…
-75.28	77.48		a) around a day?
-77.48	79		b) every day?
-79	80.84		or c) twice a day?
-80.84	81.52	<v Neil>	Hmm.
-81.52	84.64		I’m going to say a) around a day.
-84.64	85.12	<v Alice>	Well,
-85.12	89.36		we’ll find out whether you got the answer right or not later on in the show.
-89.36	93.48		Now let’s talk about circadian rhythms and our internal clock.
-93.48	98.32	<v Neil>	Why do our bodies need an internal clock to tell us where we are in the day?
-98.32	99.6		Isn’t it obvious?
-99.6	100.12	<v Alice>	No,
-100.12	100.84		it isn’t –
-100.84	102		take jet lag,
-102	103.44		for example.
-103.44	109		We rely on the predictable cycle of light or dark in a 24-hour period to <strong>synchronise</strong> –
-109	109.92		or adjust –
-109.92	112.36		our body clocks to the environment –
-112.36	116.24		and if we mess about with the light and dark cycle by flying into a new time zone,
-116.24	118.12		it makes us feel really bad!
-118.12	118.8	<v Neil>	Good point –
-118.8	124.72		<strong>jet lag</strong> is the disruption of our circadian rhythms caused by high-speed travel across different time zones,
-124.72	127.28		which can cause tiredness and sleep problems.
-127.28	128.24		But Alice,
-128.24	131.72		if we rely on day turning to night to adjust our body clocks,
-131.72	133.24		what happens to blind people? –
-133.24	136.12		Because I assume their body clocks can’t do this.
-136.12	143.04	<v Alice>	Blind people who have some light perception are able to synchronise their circadian rhythms to the light-dark cycle.
-143.04	145.8		But those who have no light perception at all…
-145.8	146.8		well,
-146.8	148.96		let’s listen now to Debra Skene,
-148.96	152.88		Professor of Neuroendocrinology at the University of Surrey.
-152.88	154.48		She can explain what happens.
-154.48	158.04	<v Debra Skene, Professor of Neuroendocrinology at the University of Surrey>	Totally blind people –
-158.04	163.24		they’ve lost that connection between the light-dark circle and the clock.
-163.24	174.88		So there isn’t anything wrong with the clock but the clock ticks and oscillates at its own endogenous period just the same as if I were to put you in a dark cave.
-174.88	184.84		Your biological internal clock would oscillate at your endogenous circadian period.
-184.84	185.88	<v Neil>	So if you’re totally blind –
-185.88	189.08		or able to see but living in a dark cave –
-189.08	193.12		you have a ticking clock but with no connection to the outside world.
-193.12	195.88		The clock oscillates at its own <strong>endogenous</strong>,
-195.88	196.68		or internal,
-196.68	197.48		period.
-197.48	200.92	<v Alice>	<strong>Oscillate</strong> means to move back and forth in a regular rhythm –
-200.92	202.44		like the pendulum on a clock.
-202.44	205.76	<v Neil>	Do you think my endogenous clock ticks faster than yours,
-205.76	206.08		Alice?
-206.08	208.16	<v Alice>	It isn’t a competition,
-208.16	208.64		Neil.
-208.64	209.68		And actually,
-209.68	213.76		mine probably ticks faster than yours since I’m a morning person.
-213.76	214.32		Anyway,
-214.32	220.24		the normal range in humans is between 23.8 to 24.8 hours.
-220.24	223.04		And this is also true for totally blind people.
-223.04	224.92	<v Neil>	But their clocks are free-running –
-224.92	228.48		they don’t get cues from the outside environment telling them when to wake up,
-228.48	229.12		when to eat,
-229.12	230.2		when to feel sleepy.
-230.2	233.56		So that means they might feel sleepy at the wrong time of day –
-233.56	234.36		for example,
-234.36	235.56		when they’re at work.
-235.56	238.84		Or alert in the middle of the night when they should be asleep.
-238.84	242.44	<v Alice>	It’s worth talking about people who do <strong>shift work</strong> too –
-242.44	246.6		which means work that takes place outside the traditional 9 to 5 day.
-246.6	252.44	<v Neil>	Shift workers may suffer similar problems to blind people because they are trying to sleep against the clock.
-252.44	254.88		They might sleep in the day and work at night for example –
-254.88	257.44		which goes against the light-dark pattern.
-257.44	261.04	<v Alice>	There are some long-term health problems associated with shift work –
-261.04	262.8		certain cancers,
-262.8	263.6		heart disease,
-263.6	264.6		and obesity.
-264.6	269.92	<v Neil>	So what can people do to help adapt their circadian rhythms to a night shift schedule?
-269.92	270.12	<v Alice>	Well,
-270.12	272.84		let’s hear what Professor Debra Skene has to say about it.
-272.84	277.28	<v Debra Skene, Professor of Neuroendocrinology at the University of Surrey>	We do think that exercise and food,
-277.28	278.36		caffeine,
-278.36	281.08		may be able to modulate in some way,
-281.08	284.68		so has some influence on circadian timing,
-284.68	288.56		but not as strongly as the light-dark cycle.
-288.56	294.2	<v Neil>	So the strongest influence over our circadian rhythm is the light-dark cycle.
-294.2	296.4		We can’t alter night and day,
-296.4	296.96		after all!
-296.96	302.96	<v Alice>	Debra Skene says that other cues such as food and exercise will <strong>modulate</strong> –
-302.96	303.24		or adjust –
-303.24	303.92		the body clock.
-303.92	310.68		So eating three well-balanced meals at regular times each day can help your body clock adapt to an unusual schedule.
-310.68	312.96	<v Neil>	Taking <strong>naps</strong> –
-312.96	313.4		or short sleeps –
-313.4	316.36		just before you start a night shift can help you feel more alert.
-316.36	319.84		And keeping to the same sleep schedule every day will also help.
-319.84	321.6	<v Alice>	And don’t forget caffeine –
-321.6	322.76		my old friend!
-322.76	326.68		A cup of coffee works wonders for me in the morning.
-326.68	330.4		Now remember I asked: What does ‘circadian’ mean?
-330.4	331.36		Is it…
-331.36	332.76		a) around a day,
-332.76	336.44		b) every day or c) twice a day?
-336.44	337.96	<v Neil>	And I said around a day.
-337.96	339.6	<v Alice>	And you were…
-339.6	340.36		right!
-340.36	341.12		Well done,
-341.12	341.76		Neil.
-341.76	344.92		The term ‘circadian’ comes from the Latin <em>circa</em>,
-344.92	347.32		meaning ‘around’ (or ‘approximately’),
-347.32	348.88		and <em>di<strong>ē</strong>m</em>,
-348.88	349.8		meaning ‘day’.
-349.8	350.56		Now,
-350.56	352		let’s hear the words we learned today.
-352	353.2	<v Neil>	They are:
-353.2	354.44		circadian rhythms
-354.44	356.04		synchronise
-356.04	357.28		jet lag
-357.28	358.6		oscillate
-358.6	360.08		endogenous
-360.08	361.44		shift work
-361.44	362.84		modulate
-362.84	364.04		naps
-364.04	366.76	<v Alice>	That’s the end of today’s 6 Minute English.
-366.76	368.48		Don’t forget to join us again soon!
-368.48	369.72	<v Both>	Bye!
-369.72	376.72		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+And I feel terrible!
+<v Alice> You look terrible,
+Neil –
+if you don’t mind me saying so!
+<v Neil> It’s because I had to get up really early this morning.
+<v Alice> Oh dear!
+What time did you have to get up?
+<v Neil> Eight o’clock.
+<v Alice> Oh,
+Neil!
+That isn’t early!
+I get up at six every day.
+It’s so peaceful early in the morning.
+<v Neil> Hmm.
+Well,
+some people are morning people and others…
+aren’t!
+<v Alice> Yes.
+Well,
+today we’re talking about the biological reason for this –
+it’s all about <strong>circadian rhythms</strong>.
+They are produced by a so-called body clock in our brains that regulates our body functions: our body temperature,
+sleepiness and alertness,
+hunger,
+and hormone levels.
+Plants,
+animals,
+and many microbes have circadian rhythms.
+<v Neil> You know a lot about circadian rhythms.
+<v Alice> And I’ll ask you a question related to them.
+What does the word ‘circadian’ mean?
+Is it…
+a) around a day?
+b) every day?
+or c) twice a day?
+<v Neil> Hmm.
+I’m going to say a) around a day.
+<v Alice> Well,
+we’ll find out whether you got the answer right or not later on in the show.
+Now let’s talk about circadian rhythms and our internal clock.
+<v Neil> Why do our bodies need an internal clock to tell us where we are in the day?
+Isn’t it obvious?
+<v Alice> No,
+it isn’t –
+take jet lag,
+for example.
+We rely on the predictable cycle of light or dark in a 24-hour period to <strong>synchronise</strong> –
+or adjust –
+our body clocks to the environment –
+and if we mess about with the light and dark cycle by flying into a new time zone,
+it makes us feel really bad!
+<v Neil> Good point –
+<strong>jet lag</strong> is the disruption of our circadian rhythms caused by high-speed travel across different time zones,
+which can cause tiredness and sleep problems.
+But Alice,
+if we rely on day turning to night to adjust our body clocks,
+what happens to blind people? –
+Because I assume their body clocks can’t do this.
+<v Alice> Blind people who have some light perception are able to synchronise their circadian rhythms to the light-dark cycle.
+But those who have no light perception at all…
+well,
+let’s listen now to Debra Skene,
+Professor of Neuroendocrinology at the University of Surrey.
+She can explain what happens.
+<v Debra Skene, Professor of Neuroendocrinology at the University of Surrey> Totally blind people –
+they’ve lost that connection between the light-dark circle and the clock.
+So there isn’t anything wrong with the clock but the clock ticks and oscillates at its own endogenous period just the same as if I were to put you in a dark cave.
+Your biological internal clock would oscillate at your endogenous circadian period.
+<v Neil> So if you’re totally blind –
+or able to see but living in a dark cave –
+you have a ticking clock but with no connection to the outside world.
+The clock oscillates at its own <strong>endogenous</strong>,
+or internal,
+period.
+<v Alice> <strong>Oscillate</strong> means to move back and forth in a regular rhythm –
+like the pendulum on a clock.
+<v Neil> Do you think my endogenous clock ticks faster than yours,
+Alice?
+<v Alice> It isn’t a competition,
+Neil.
+And actually,
+mine probably ticks faster than yours since I’m a morning person.
+Anyway,
+the normal range in humans is between 23.8 to 24.8 hours.
+And this is also true for totally blind people.
+<v Neil> But their clocks are free-running –
+they don’t get cues from the outside environment telling them when to wake up,
+when to eat,
+when to feel sleepy.
+So that means they might feel sleepy at the wrong time of day –
+for example,
+when they’re at work.
+Or alert in the middle of the night when they should be asleep.
+<v Alice> It’s worth talking about people who do <strong>shift work</strong> too –
+which means work that takes place outside the traditional 9 to 5 day.
+<v Neil> Shift workers may suffer similar problems to blind people because they are trying to sleep against the clock.
+They might sleep in the day and work at night for example –
+which goes against the light-dark pattern.
+<v Alice> There are some long-term health problems associated with shift work –
+certain cancers,
+heart disease,
+and obesity.
+<v Neil> So what can people do to help adapt their circadian rhythms to a night shift schedule?
+<v Alice> Well,
+let’s hear what Professor Debra Skene has to say about it.
+<v Debra Skene, Professor of Neuroendocrinology at the University of Surrey> We do think that exercise and food,
+caffeine,
+may be able to modulate in some way,
+so has some influence on circadian timing,
+but not as strongly as the light-dark cycle.
+<v Neil> So the strongest influence over our circadian rhythm is the light-dark cycle.
+We can’t alter night and day,
+after all!
+<v Alice> Debra Skene says that other cues such as food and exercise will <strong>modulate</strong> –
+or adjust –
+the body clock.
+So eating three well-balanced meals at regular times each day can help your body clock adapt to an unusual schedule.
+<v Neil> Taking <strong>naps</strong> –
+or short sleeps –
+just before you start a night shift can help you feel more alert.
+And keeping to the same sleep schedule every day will also help.
+<v Alice> And don’t forget caffeine –
+my old friend!
+A cup of coffee works wonders for me in the morning.
+Now remember I asked: What does ‘circadian’ mean?
+Is it…
+a) around a day,
+b) every day or c) twice a day?
+<v Neil> And I said around a day.
+<v Alice> And you were…
+right!
+Well done,
+Neil.
+The term ‘circadian’ comes from the Latin <em>circa</em>,
+meaning ‘around’ (or ‘approximately’),
+and <em>di<strong>ē</strong>m</em>,
+meaning ‘day’.
+Now,
+let’s hear the words we learned today.
+<v Neil> They are:
+circadian rhythms
+synchronise
+jet lag
+oscillate
+endogenous
+shift work
+modulate
+naps
+<v Alice> That’s the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

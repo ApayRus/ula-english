@@ -1,20 +1,20 @@
-1.83 3.16 (DRUM BEAT ECHOING)
-10.30 11.30 (GASPS)
-19.51 20.52 (YELPS)
-21.52 23.81 (ETHEREAL VOICES ECHOING)
-46.71 48.38 (SINGING IN FOREIGN LANGUAGE)
-85.75 88.62 We read the wind and the sky
-89.00 90.63 When the sun is high
-90.79 93.59 We sail the length of the seas
-94.13 95.42 On the ocean breeze
-95.92 98.13 At night we name every star
-98.47 100.43 We know where we are
-100.85 104.81 We know who we are<br />Who we are
-107.81 109.77 We set a course to find
-110.19 114.48 A brand new island everywhere we roam
-117.36 119.24 We keep our island in our mind
-119.95 122.41 And when it's time to find home
-122.58 124.45 We know the way
-126.12 129.46 We are explorers reading every sign
-129.83 134.63 We tell the stories of our elders<br />In a never-ending chain
-141.97 144.85 We know the way
+(DRUM BEAT ECHOING)
+(GASPS)
+(YELPS)
+(ETHEREAL VOICES ECHOING)
+(SINGING IN FOREIGN LANGUAGE)
+We read the wind and the sky
+When the sun is high
+We sail the length of the seas
+On the ocean breeze
+At night we name every star
+We know where we are
+We know who we are<br />Who we are
+We set a course to find
+A brand new island everywhere we roam
+We keep our island in our mind
+And when it's time to find home
+We know the way
+We are explorers reading every sign
+We tell the stories of our elders<br />In a never-ending chain
+We know the way

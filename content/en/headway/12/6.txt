@@ -1,7 +1,7 @@
-0.00	2.15	Tapescript 12.6
-3.91	5.60	<v A>What’s the weather like today?
-6.98	9.92	<v B>It’s snowy and it’s very cold.
-11.13	12.74	<v A>What was it like yesterday?
-13.37	16.87	<v B>Oh, it was cold and cloudy.
-17.96	19.90	<v A>What’s it going to be like tomorrow?
-20.68	22.57	<v B>I think it’s going to be warmer.
+Tapescript 12.6
+<v A>What’s the weather like today?
+<v B>It’s snowy and it’s very cold.
+<v A>What was it like yesterday?
+<v B>Oh, it was cold and cloudy.
+<v A>What’s it going to be like tomorrow?
+<v B>I think it’s going to be warmer.

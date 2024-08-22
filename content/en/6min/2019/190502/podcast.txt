@@ -1,145 +1,145 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	12.84		6 minute English from BBClearningEnglish.com
-12.84	13.24	<v Rob>	Hello.
-13.24	15.32		This is 6 Minute English I’m Rob.
-15.32	16.48	<v Neil>	And I’m Neil.
-16.48	18.28	<v Rob>	Do you ever experience <strong>anxiety</strong>,
-18.28	18.84		Neil?
-18.84	20.32	<v Neil>	<strong>Anxiety</strong>?
-20.32	20.68	<v Rob>	Yes,
-20.68	20.96		you know,
-20.96	25.12		a feeling of being really worried or nervous without any real reason.
-25.12	26.36	<v Neil>	Well not really,
-26.36	29.88		but I know for some people it can be quite a serious problem.
-29.88	33.28	<v Rob>	Well anxiety may be a result of <strong>natural selection</strong>.
-33.28	34.68	<v Neil>	<strong>Natural selection</strong>?
-34.68	35.12		You mean,
-35.12	37.04		the principle behind evolution?
-37.04	37.84	<v Rob>	Yes.
-37.84	45.28		The idea that life on this planet has developed as a result of random changes in biology over many many years.
-45.28	47.28	<v Neil>	So why have <strong>anxiety</strong>,
-47.28	51.24		that seems like a negative rather than a positive thing to develop?
-51.24	51.56	<v Rob>	Well,
-51.56	53.72		we’ll find out more in this programme,
-53.72	54.8		but before we do,
-54.8	55.36		a quiz.
-55.36	61		Charles Darwin is famous for describing evolution by <strong>natural selection</strong>.
-61	64.48		What was the name of the ship he travelled on when he made his discoveries?
-64.48	65.88		Was it:
-65.88	68.04		a) HMS Beagle
-68.04	69.96		b) HMS Badger,
-69.96	70.08		or
-70.08	71.6		c) HMS Bear?
-71.6	71.92		What do you think,
-71.92	72.44		Neil?
-72.44	74.48	<v Neil>	Well I’m pretty sure I know this one,
-74.48	78		so I’m not going to give away the answer just yet.
-78	78.36	<v Rob>	Well,
-78.36	80.28		you can let me know at the end of the programme,
-80.28	82.68		before I give the answer.
-82.68	83.2		Right,
-83.2	86.68		Dr Randolph Nesse is a doctor and psychologist.
-86.68	90.96		He has written a lot about how evolution has an impact on our mental condition,
-90.96	93.12		particularly <strong>anxiety</strong>.
-93.12	96.24		Recently he spoke on BBC Radio 4’s ‘Start the Week’
-96.24	98.56		programme about this topic.
-98.56	100.28		Listen out for the answer to this question.
-100.28	106.96		How long did he treat patients at the University of Michigan for?
-106.96	113.44	<v Dr Randolph Nesse>	<strong>Natural selection</strong> has <strong>shaped</strong> all organisms to have special states <strong>to cope with</strong> certain kinds of circumstances.
-113.44	117.68		I treated patients with <strong>anxiety</strong> disorders for 40 years at the University of Michigan.
-117.68	124.48		It was only half way through that I started realising that <strong>anxiety</strong> is there for a good reason.
-124.48	124.96	<v Rob>	So Neil,
-124.96	128.24		how long did he treat patients for at the University of Michigan?
-128.24	130.6	<v Neil>	He says that he did that for 40 years,
-130.6	137.88		but it was only after about 20 years or so that he realised that we suffer from <strong>anxiety</strong> for a good reason.
-137.88	144.8	<v Rob>	We’ll find out that reason shortly but first he said that <strong>natural selection</strong> has <strong>shaped</strong> all organisms.
-144.8	148.68		This means that we are the result of <strong>natural selection</strong>.
-148.68	150.84		It has made us what we are.
-150.84	154.16	<v Neil>	And it has made us able <strong>to cope with</strong> different situations.
-154.16	157.32		<strong>To cope with</strong> means being able to deal with,
-157.32	158.68		being able to manage a difficult situation.
-158.68	160.84	<v Rob>	And <strong>anxiety</strong>,
-160.84	162.28		if it’s not too great,
-162.28	165.6		is a way of dealing with particular situations.
-165.6	169.36		Let’s hear from Dr Nesse again.
-169.36	175.2	<v Dr Randolph Nesse>	Natural selection has shaped all organisms to have special states to cope with certain kinds of circumstances.
-175.2	179.16		I treated patients with anxiety disorders for 40 years at the University of Michigan.
-179.16	185.72		It was only half way through that I started realising that anxiety is there for a good reason.
-185.72	188.72	<v Rob>	So why is <strong>anxiety</strong> a necessary thing,
-188.72	190.16		why is it something that,
-190.16	191.16		within reason,
-191.16	193.12		is not a bad emotion.
-193.12	199.72		Here’s Dr Nesse talking about his patients who suffer from too much <strong>anxiety</strong>.
-199.72	209.8	<v Dr Randolph Nesse>	What you’re having is a normal kind of emergency response which is great in <strong>life-threatening</strong> situations but for you it’s a false alarm like a smoke detector <strong>going off</strong> when you burn the toast.
-209.8	211.76		And after that many of my patients said –
-211.76	212.92		‘Oh,
-212.92	214.24		that makes perfect sense,
-214.24	216		I think I won’t need your help after all,
-216	216.44		doctor’.
-216.44	219.64	<v Rob>	So what is <strong>anxiety</strong>?
-219.64	219.96	<v Neil>	Well,
-219.96	222.48		it’s your body reacting to danger,
-222.48	223.96		like an emergency response,
-223.96	225.12		a warning.
-225.12	226.92		In really dangerous situations,
-226.92	229.44		which could harm you or even kill you,
-229.44	232.76		which Dr Nesse describes as <strong>life-threatening</strong> situations,
-232.76	237.2		it’s a useful response to warn you to take action or to prepare for action.
-237.2	241.92	<v Rob>	But some people experience <strong>anxiety</strong> when there is no real danger.
-241.92	242.96		It’s a false alarm,
-242.96	247.96		like when you burn the toast and the smoke detector alarm starts or as he says,
-247.96	249.4		<strong>goes off</strong>!
-249.4	252.84		And he says that some patients can feel less worried after that,
-252.84	258.04		when they realise <strong>anxiety</strong> is a natural thing Let’s hear from Dr Nesse again.
-258.04	270.2	<v Dr Randolph Nesse>	What you’re having is a normal kind of emergency response which is great in <strong>life-threatening</strong> situations but for you it’s a false alarm like a smoke detector <strong>going off</strong> when you burn the toast.
-270.2	271.96		And after that many of my patients said –
-271.96	272.84		‘Oh,
-272.84	274.64		that makes perfect sense,
-274.64	276.16		I think I won’t need your help after all,
-276.16	276.6		doctor’.
-276.6	280.64	<v Rob>	Time now to review today’s vocabulary,
-280.64	281.48		but first,
-281.48	283.64		let’s have the answer to the quiz question.
-283.64	290.44		What was the name of the ship Charles Darwin travelled on when he made his discoveries about evolution?
-290.44	290.8		Was it:
-290.8	292.44		a) HMS Beagle
-292.44	293.92		b) HMS Badger,
-293.92	294.24		or
-294.24	295.72		c) HMS Bear?
-295.72	296.2		What do you think,
-296.2	296.44		Neil?
-296.44	297.16	<v Neil>	Well,
-297.16	299.44		I’m pretty sure it’s HMS Beagle.
-299.44	300.44	<v Rob>	Well,
-300.44	301.64		you are right.
-301.64	304.28		Charles Darwin travelled on HMS Beagle.
-304.28	307.64		Congratulations if you also knew that.
-307.64	307.96		Now,
-307.96	309.84		on with today’s vocabulary.
-309.84	312.12		We were talking about <strong>anxiety</strong>,
-312.12	313.6		a feeling of being worried or scared,
-313.6	315.88		a feeling that something isn’t quite right.
-315.88	320.8	<v Neil>	Dr Nesse suggests that <strong>anxiety</strong> is a result of <strong>natural selection</strong>.
-320.8	329.28		This is the principle of evolution whereby random changes in the biology of a living thing can make it more likely to survive in a particular environment.
-329.28	331.96	<v Rob>	These changes <strong>shape</strong> the living thing.
-331.96	333.84		They make it what it is.
-333.84	337		They help it <strong>to cope with</strong> different situations.
-337	340.44		Which means that they help it manage or deal with those situations.
-340.44	346.72	<v Neil>	A <strong>life-threatening</strong> situation is a very dangerous situation which could cause serious injury or even death.
-346.72	349.96	<v Rob>	And finally there was the phrasal verb <strong>to go off</strong>.
-349.96	351.04		For example,
-351.04	352.6		if an alarm <strong>goes off</strong>,
-352.6	355.6		it means that is starts making a loud noise as a warning.
-355.6	356.52		Right,
-356.52	358.56		before any alarms start <strong>to go off</strong> here,
-358.56	359.44		we need to wrap up.
-359.44	361.04		That’s all from us today,
-361.04	362.32		do join us again next time.
-362.32	363.4		Until then,
-363.4	364.72		you can find us online,
-364.72	367.16		on social media and on our app.
-367.16	369.2		Look out for bbclearningenglish.
-369.2	369.96		Bye for now.
-369.96	371.64	<v Neil>	Goodbye!
-371.64	377.64		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello.
+This is 6 Minute English I’m Rob.
+<v Neil> And I’m Neil.
+<v Rob> Do you ever experience <strong>anxiety</strong>,
+Neil?
+<v Neil> <strong>Anxiety</strong>?
+<v Rob> Yes,
+you know,
+a feeling of being really worried or nervous without any real reason.
+<v Neil> Well not really,
+but I know for some people it can be quite a serious problem.
+<v Rob> Well anxiety may be a result of <strong>natural selection</strong>.
+<v Neil> <strong>Natural selection</strong>?
+You mean,
+the principle behind evolution?
+<v Rob> Yes.
+The idea that life on this planet has developed as a result of random changes in biology over many many years.
+<v Neil> So why have <strong>anxiety</strong>,
+that seems like a negative rather than a positive thing to develop?
+<v Rob> Well,
+we’ll find out more in this programme,
+but before we do,
+a quiz.
+Charles Darwin is famous for describing evolution by <strong>natural selection</strong>.
+What was the name of the ship he travelled on when he made his discoveries?
+Was it:
+a) HMS Beagle
+b) HMS Badger,
+or
+c) HMS Bear?
+What do you think,
+Neil?
+<v Neil> Well I’m pretty sure I know this one,
+so I’m not going to give away the answer just yet.
+<v Rob> Well,
+you can let me know at the end of the programme,
+before I give the answer.
+Right,
+Dr Randolph Nesse is a doctor and psychologist.
+He has written a lot about how evolution has an impact on our mental condition,
+particularly <strong>anxiety</strong>.
+Recently he spoke on BBC Radio 4’s ‘Start the Week’
+programme about this topic.
+Listen out for the answer to this question.
+How long did he treat patients at the University of Michigan for?
+<v Dr Randolph Nesse> <strong>Natural selection</strong> has <strong>shaped</strong> all organisms to have special states <strong>to cope with</strong> certain kinds of circumstances.
+I treated patients with <strong>anxiety</strong> disorders for 40 years at the University of Michigan.
+It was only half way through that I started realising that <strong>anxiety</strong> is there for a good reason.
+<v Rob> So Neil,
+how long did he treat patients for at the University of Michigan?
+<v Neil> He says that he did that for 40 years,
+but it was only after about 20 years or so that he realised that we suffer from <strong>anxiety</strong> for a good reason.
+<v Rob> We’ll find out that reason shortly but first he said that <strong>natural selection</strong> has <strong>shaped</strong> all organisms.
+This means that we are the result of <strong>natural selection</strong>.
+It has made us what we are.
+<v Neil> And it has made us able <strong>to cope with</strong> different situations.
+<strong>To cope with</strong> means being able to deal with,
+being able to manage a difficult situation.
+<v Rob> And <strong>anxiety</strong>,
+if it’s not too great,
+is a way of dealing with particular situations.
+Let’s hear from Dr Nesse again.
+<v Dr Randolph Nesse> Natural selection has shaped all organisms to have special states to cope with certain kinds of circumstances.
+I treated patients with anxiety disorders for 40 years at the University of Michigan.
+It was only half way through that I started realising that anxiety is there for a good reason.
+<v Rob> So why is <strong>anxiety</strong> a necessary thing,
+why is it something that,
+within reason,
+is not a bad emotion.
+Here’s Dr Nesse talking about his patients who suffer from too much <strong>anxiety</strong>.
+<v Dr Randolph Nesse> What you’re having is a normal kind of emergency response which is great in <strong>life-threatening</strong> situations but for you it’s a false alarm like a smoke detector <strong>going off</strong> when you burn the toast.
+And after that many of my patients said –
+‘Oh,
+that makes perfect sense,
+I think I won’t need your help after all,
+doctor’.
+<v Rob> So what is <strong>anxiety</strong>?
+<v Neil> Well,
+it’s your body reacting to danger,
+like an emergency response,
+a warning.
+In really dangerous situations,
+which could harm you or even kill you,
+which Dr Nesse describes as <strong>life-threatening</strong> situations,
+it’s a useful response to warn you to take action or to prepare for action.
+<v Rob> But some people experience <strong>anxiety</strong> when there is no real danger.
+It’s a false alarm,
+like when you burn the toast and the smoke detector alarm starts or as he says,
+<strong>goes off</strong>!
+And he says that some patients can feel less worried after that,
+when they realise <strong>anxiety</strong> is a natural thing Let’s hear from Dr Nesse again.
+<v Dr Randolph Nesse> What you’re having is a normal kind of emergency response which is great in <strong>life-threatening</strong> situations but for you it’s a false alarm like a smoke detector <strong>going off</strong> when you burn the toast.
+And after that many of my patients said –
+‘Oh,
+that makes perfect sense,
+I think I won’t need your help after all,
+doctor’.
+<v Rob> Time now to review today’s vocabulary,
+but first,
+let’s have the answer to the quiz question.
+What was the name of the ship Charles Darwin travelled on when he made his discoveries about evolution?
+Was it:
+a) HMS Beagle
+b) HMS Badger,
+or
+c) HMS Bear?
+What do you think,
+Neil?
+<v Neil> Well,
+I’m pretty sure it’s HMS Beagle.
+<v Rob> Well,
+you are right.
+Charles Darwin travelled on HMS Beagle.
+Congratulations if you also knew that.
+Now,
+on with today’s vocabulary.
+We were talking about <strong>anxiety</strong>,
+a feeling of being worried or scared,
+a feeling that something isn’t quite right.
+<v Neil> Dr Nesse suggests that <strong>anxiety</strong> is a result of <strong>natural selection</strong>.
+This is the principle of evolution whereby random changes in the biology of a living thing can make it more likely to survive in a particular environment.
+<v Rob> These changes <strong>shape</strong> the living thing.
+They make it what it is.
+They help it <strong>to cope with</strong> different situations.
+Which means that they help it manage or deal with those situations.
+<v Neil> A <strong>life-threatening</strong> situation is a very dangerous situation which could cause serious injury or even death.
+<v Rob> And finally there was the phrasal verb <strong>to go off</strong>.
+For example,
+if an alarm <strong>goes off</strong>,
+it means that is starts making a loud noise as a warning.
+Right,
+before any alarms start <strong>to go off</strong> here,
+we need to wrap up.
+That’s all from us today,
+do join us again next time.
+Until then,
+you can find us online,
+on social media and on our app.
+Look out for bbclearningenglish.
+Bye for now.
+<v Neil> Goodbye!
+6 minute English from BBC.

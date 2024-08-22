@@ -1,153 +1,153 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	13.52		6 minute English from BBClearningEnglish.com
-13.52	13.84	<v Neil>	Hello.
-13.84	17.16		This is 6 Minute English from BBC Learning English.
-17.16	18.12		I’m Neil.
-18.12	19.12	<v Rob>	And I’m Rob.
-19.12	21.12	<v Neil>	Fancy a game of ‘food connections’,
-21.12	22.08		Rob?
-22.08	26.04		I’ll name a place and you say the first food that comes to mind.
-26.04	26.72		Ready?
-26.72	27	<v Rob>	Yeah,
-27	27.36		sure,
-27.36	28.24		let’s go!
-28.24	29.12	<v Neil>	Italy.
-29.12	30.96	<v Rob>	Erm…’pizza’ –
-30.96	32.48		or ‘lasagne’.
-32.48	33.16	<v Rob>	New York?
-33.16	34	<v Neil>	‘Hot dogs’,
-34	34.72		of course.
-34.72	37.4		Or maybe ‘bagels’.
-37.4	38.24		How about…
-38.24	40.64		Cornwall from the UK?
-40.64	41.76	<v Rob>	If it’s Cornwall,
-41.76	44.4		it must be the famous ‘Cornish pasty’,
-44.4	45.12		right?
-45.12	45.84	<v Neil>	That’s right!
-45.84	46.84		Cornwall,
-46.84	50.08		the region which forms the south-western tip of Britain,
-50.08	54.4		is as famous for its pasties as New York is for hot dogs.
-54.4	58.48		In this programme we’ll be finding out all about Cornish pasties.
-58.48	65.68		We’ll hear how it’s gone from humble beginnings to become a symbol of Cornish identity and spread around the world to Jamaica,
-65.68	68.4		Argentina and Brazil.
-68.4	70.28	<v Rob>	But what exactly is a pasty,
-70.28	71.04		Neil?
-71.04	73.72		Somewhere between a pie and a sandwich,
-73.72	74.56		right?
-74.56	79.56		A piece of pastry which is turned over and crimped along the side to make two corners…
-79.56	80	<v Neil>	…
-80	82.08		and filled with different ingredients -
-82.08	84.6		which brings me to my quiz question for today,
-84.6	85.4		Rob.
-85.4	89.8		What is the traditional filling in an authentic Cornish pasty?
-89.8	90.16		Is it:
-90.16	91.52		a) Chicken,
-91.52	92.8		avocado and brie
-92.8	94.8		b) Beef,
-94.8	96.68		potato and turnip
-96.68	98.2		c) Pork,
-98.2	100.52		onion and chorizo
-100.52	101.16	<v Rob>	Well,
-101.16	103.6		chorizo is Spanish isn’t it?
-103.6	107.04		And avocado with brie doesn’t sound traditionally Cornish,
-107.04	108.88		so I’ll say b) beef,
-108.88	110.6		potato and turnip.
-110.6	110.88	<v Neil>	OK,
-110.88	111.08		Rob.
-111.08	113.36		We’ll find out later if you were right.
-113.36	120.88		What’s for sure is that the Cornish pasty has had a long history as BBC Radio 4’s The Food Programme discovered.
-120.88	123.08		They spoke to Dr Polly Russell,
-123.08	125.48		a public life curator at the British Library.
-125.48	132.32		Here she is reading from one of the earliest mentions of pasties from the late 17th century:
-132.32	152.68	<v Polly Russell, Public Life Curator, British Library>	There’s a lovely bit here where he’s describing what a housewife in Hertfordshire does and he’s talking about her way to make pork pies and pork pasties: pies may be made and baked either raised in paste earthen pans or in <strong>pewter dishes</strong> or in the shape of a turnover,
-152.68	154.48		two-cornered pasties.
-154.48	157.92		So that’s a very early reference to a pasty in the shape,
-157.92	158.2		I think,
-158.2	163.84		that we know it but also being made specifically for <strong>labourers</strong> -
-163.84	168.52		to be feeding labourers on a farm at <strong>harvest time.</strong>
-168.52	171.28	<v Rob>	The earliest pasties were made in <strong>pewter dishes</strong> –
-171.28	175.68		a traditional cooking plate made of a silver-coloured metal called ‘pewter’.
-175.68	178.48	<v Neil>	And they were eaten by agricultural <strong>labourers</strong> –
-178.48	181.88		workers doing physical farm work during <strong>harvest</strong> time –
-181.88	186.96		the weeks in autumn when crops like wheat are cut and collected from the fields.
-186.96	191.12	<v Rob>	But it wasn’t only farmers and labourers who ate pasties.
-191.12	192.84		As well as its farms and fishing,
-192.84	195.16		Cornwall was famous for tin mines,
-195.16	199.28		as Ruth Huxley of the Cornish Pasty Association explains:
-199.28	204.12	<v Ruth Huxley, Cornish Pasty Association>	Pasties would have been eaten by lots of people who went to work but it just worked perfectly down mines,
-204.12	208.88		and Cornwall became the world capital of <strong>mining.</strong> And so lots of pasties were made,
-208.88	213.52		lots of pasties were eaten and then that mining community went all over the world and took the pasty with them.
-213.52	218.68	<v Neil>	Pasties were eaten by hungry workers involved in the <strong>mining</strong> industry -
-218.68	222.16		digging up materials such as coal or metals like gold,
-222.16	224		or in Cornwall tin,
-224	224.68		from the ground.
-224.68	228.08	<v Rob>	So far we’ve been talking about Cornwall.
-228.08	231.48		But you said the Cornish pasty has spread around the world,
-231.48	231.84		Neil.
-231.84	233.28		How did that happen?
-233.28	233.6	<v Neil>	Well,
-233.6	236.24		that’s connected to the tin miners we just talked about.
-236.24	238.6		Here’s Polly Russell again:
-238.6	240.48	<v Polly Russell, Public Life Curator, British Library>	This is r<strong>eplicated</strong>,
-240.48	244.8		not just in Mexico but with migrants moving to America,
-244.8	245.68		to Minnesota,
-245.68	246.56		to Canada,
-246.56	247.16		to Australia.
-247.16	257.12		So anyone who travels to many of those places now will see foods which are incredibly <strong>reminiscent</strong> and familiar and just like Cornish pasties.
-257.12	258.12	<v Neil>	In the 19th century,
-258.12	260.64		many Cornish tin miners emigrated,
-260.64	263.16		moving abroad to start a better life.
-263.16	265.44		Their pasty recipes were <strong>replicated</strong> –
-265.44	266.92		or copied exactly,
-266.92	268.72		in the new places where they landed,
-268.72	270.44		from America to Australia.
-270.44	275.08	<v Rob>	And that’s why in many places around the world you can find food which is <strong>reminiscent of</strong> pasties –
-275.08	277.76		meaning it reminds you of something similar,
-277.76	280.36		in this case the original Cornish pasty…
-280.36	282.4		with its traditional filling of…
-282.4	284.16		what’s was your quiz question again,
-284.16	284.48		Neil?
-284.48	285.04	<v Neil>	Ah,
-285.04	285.4		yes.
-285.4	288.24		I asked you what the traditional Cornish pasty filling was?
-288.24	289.2		You said…
-289.2	291.04	<v Rob>	I said b) beef,
-291.04	292		potato and turnip.
-292	294.16	<v Neil>	And you were right!
-294.16	295.52		‘Keslowena’,
-295.52	295.84		Rob –
-295.84	297.76		that’s Cornish for ‘congratulations’!
-297.76	299.52	<v Rob>	‘Heb grev’,
-299.52	299.88		Neil –
-299.88	302		that’s ‘no problem’!
-302	303.32	<v Neil>	In fact those other fillings –
-303.32	304.2		chorizo,
-304.2	305.24		avocado and brie -
-305.24	310.12		really did feature in pasties entered for this year’s Annual World Pasty Championships,
-310.12	311.8		held in Cornwall every spring.
-311.8	319.12		Other pasty-inspired ideas include Argentinian chimichurri <em>empanadas</em> and spicy Jamaican <em>patties.</em>
-319.12	321.88	<v Rob>	So the pasty is still going strong,
-321.88	324.2		both in Cornwall and around the world.
-324.2	326.92	<v Neil>	Today we’ve been discussing Cornish pasties –
-326.92	329.88		a kind of filled pastry from the south-west of England,
-329.88	332.28		originally made in <strong>pewter dishes</strong> –
-332.28	334.28		a silver-coloured metal dish.
-334.28	337.56	<v Rob>	Pasties were eaten by agricultural <strong>labourers</strong> –
-337.56	340.04		farm workers bringing in the autumn <strong>harvest</strong> –
-340.04	343.2		the time when crops are cut and collected from the fields,
-343.2	346.32		and also by workers in the tin <strong>mining</strong> industry –
-346.32	349.08		digging up metals like tin from underground.
-349.08	349.96	<v Neil>	Later,
-349.96	352.16		when these miners emigrated to new lands,
-352.16	354.8		pasties were <strong>replicated</strong> –
-354.8	355.6		cooked again in the same way.
-355.6	360.6	<v Rob>	In fact Cornish miners moved to so many new countries that today,
-360.6	365.12		almost every corner of the world has food <strong>reminiscent of</strong> –
-365.12	365.52		or reminding you of,
-365.52	367.4		the original Cornish pasty.
-367.4	368.84	<v Neil>	That’s all for today.
-368.84	373.4		Join us again soon for more topical discussion and vocabulary on 6 Minute English.
-373.4	374.24		Bye for now!
-374.24	374.8	<v Rob>	Bye.
-374.8	383.08		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> Fancy a game of ‘food connections’,
+Rob?
+I’ll name a place and you say the first food that comes to mind.
+Ready?
+<v Rob> Yeah,
+sure,
+let’s go!
+<v Neil> Italy.
+<v Rob> Erm…’pizza’ –
+or ‘lasagne’.
+<v Rob> New York?
+<v Neil> ‘Hot dogs’,
+of course.
+Or maybe ‘bagels’.
+How about…
+Cornwall from the UK?
+<v Rob> If it’s Cornwall,
+it must be the famous ‘Cornish pasty’,
+right?
+<v Neil> That’s right!
+Cornwall,
+the region which forms the south-western tip of Britain,
+is as famous for its pasties as New York is for hot dogs.
+In this programme we’ll be finding out all about Cornish pasties.
+We’ll hear how it’s gone from humble beginnings to become a symbol of Cornish identity and spread around the world to Jamaica,
+Argentina and Brazil.
+<v Rob> But what exactly is a pasty,
+Neil?
+Somewhere between a pie and a sandwich,
+right?
+A piece of pastry which is turned over and crimped along the side to make two corners…
+<v Neil> …
+and filled with different ingredients -
+which brings me to my quiz question for today,
+Rob.
+What is the traditional filling in an authentic Cornish pasty?
+Is it:
+a) Chicken,
+avocado and brie
+b) Beef,
+potato and turnip
+c) Pork,
+onion and chorizo
+<v Rob> Well,
+chorizo is Spanish isn’t it?
+And avocado with brie doesn’t sound traditionally Cornish,
+so I’ll say b) beef,
+potato and turnip.
+<v Neil> OK,
+Rob.
+We’ll find out later if you were right.
+What’s for sure is that the Cornish pasty has had a long history as BBC Radio 4’s The Food Programme discovered.
+They spoke to Dr Polly Russell,
+a public life curator at the British Library.
+Here she is reading from one of the earliest mentions of pasties from the late 17th century:
+<v Polly Russell, Public Life Curator, British Library> There’s a lovely bit here where he’s describing what a housewife in Hertfordshire does and he’s talking about her way to make pork pies and pork pasties: pies may be made and baked either raised in paste earthen pans or in <strong>pewter dishes</strong> or in the shape of a turnover,
+two-cornered pasties.
+So that’s a very early reference to a pasty in the shape,
+I think,
+that we know it but also being made specifically for <strong>labourers</strong> -
+to be feeding labourers on a farm at <strong>harvest time.</strong>
+<v Rob> The earliest pasties were made in <strong>pewter dishes</strong> –
+a traditional cooking plate made of a silver-coloured metal called ‘pewter’.
+<v Neil> And they were eaten by agricultural <strong>labourers</strong> –
+workers doing physical farm work during <strong>harvest</strong> time –
+the weeks in autumn when crops like wheat are cut and collected from the fields.
+<v Rob> But it wasn’t only farmers and labourers who ate pasties.
+As well as its farms and fishing,
+Cornwall was famous for tin mines,
+as Ruth Huxley of the Cornish Pasty Association explains:
+<v Ruth Huxley, Cornish Pasty Association> Pasties would have been eaten by lots of people who went to work but it just worked perfectly down mines,
+and Cornwall became the world capital of <strong>mining.</strong> And so lots of pasties were made,
+lots of pasties were eaten and then that mining community went all over the world and took the pasty with them.
+<v Neil> Pasties were eaten by hungry workers involved in the <strong>mining</strong> industry -
+digging up materials such as coal or metals like gold,
+or in Cornwall tin,
+from the ground.
+<v Rob> So far we’ve been talking about Cornwall.
+But you said the Cornish pasty has spread around the world,
+Neil.
+How did that happen?
+<v Neil> Well,
+that’s connected to the tin miners we just talked about.
+Here’s Polly Russell again:
+<v Polly Russell, Public Life Curator, British Library> This is r<strong>eplicated</strong>,
+not just in Mexico but with migrants moving to America,
+to Minnesota,
+to Canada,
+to Australia.
+So anyone who travels to many of those places now will see foods which are incredibly <strong>reminiscent</strong> and familiar and just like Cornish pasties.
+<v Neil> In the 19th century,
+many Cornish tin miners emigrated,
+moving abroad to start a better life.
+Their pasty recipes were <strong>replicated</strong> –
+or copied exactly,
+in the new places where they landed,
+from America to Australia.
+<v Rob> And that’s why in many places around the world you can find food which is <strong>reminiscent of</strong> pasties –
+meaning it reminds you of something similar,
+in this case the original Cornish pasty…
+with its traditional filling of…
+what’s was your quiz question again,
+Neil?
+<v Neil> Ah,
+yes.
+I asked you what the traditional Cornish pasty filling was?
+You said…
+<v Rob> I said b) beef,
+potato and turnip.
+<v Neil> And you were right!
+‘Keslowena’,
+Rob –
+that’s Cornish for ‘congratulations’!
+<v Rob> ‘Heb grev’,
+Neil –
+that’s ‘no problem’!
+<v Neil> In fact those other fillings –
+chorizo,
+avocado and brie -
+really did feature in pasties entered for this year’s Annual World Pasty Championships,
+held in Cornwall every spring.
+Other pasty-inspired ideas include Argentinian chimichurri <em>empanadas</em> and spicy Jamaican <em>patties.</em>
+<v Rob> So the pasty is still going strong,
+both in Cornwall and around the world.
+<v Neil> Today we’ve been discussing Cornish pasties –
+a kind of filled pastry from the south-west of England,
+originally made in <strong>pewter dishes</strong> –
+a silver-coloured metal dish.
+<v Rob> Pasties were eaten by agricultural <strong>labourers</strong> –
+farm workers bringing in the autumn <strong>harvest</strong> –
+the time when crops are cut and collected from the fields,
+and also by workers in the tin <strong>mining</strong> industry –
+digging up metals like tin from underground.
+<v Neil> Later,
+when these miners emigrated to new lands,
+pasties were <strong>replicated</strong> –
+cooked again in the same way.
+<v Rob> In fact Cornish miners moved to so many new countries that today,
+almost every corner of the world has food <strong>reminiscent of</strong> –
+or reminding you of,
+the original Cornish pasty.
+<v Neil> That’s all for today.
+Join us again soon for more topical discussion and vocabulary on 6 Minute English.
+Bye for now!
+<v Rob> Bye.
+6 minute English from BBC.

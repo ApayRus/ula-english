@@ -1,10 +1,10 @@
-0.16	2.30	Tapescript 1.6 (one point six)
-3.20	4.98	My name’s Yasmina Kamal
-5.35	6.42	and I’m a student.
-7.38	8.53	I’m 19 (Nineteen).
-9.14	10.09	I’m not married.
-10.86	11.96	I have one sister
-12.35	13.27	and two brothers.
-14.11	16.42	I live in a flat in Cairo, Egypt.
-17.39	18.67	I want to learn English
-19.03	20.88	because it’s an international language.
+Tapescript 1.6 (one point six)
+My name’s Yasmina Kamal
+and I’m a student.
+I’m 19 (Nineteen).
+I’m not married.
+I have one sister
+and two brothers.
+I live in a flat in Cairo, Egypt.
+I want to learn English
+because it’s an international language.

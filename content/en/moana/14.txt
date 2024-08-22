@@ -1,20 +1,20 @@
-1.96 3.17 Mother...
-19.27 20.81 TUI: What can be done?
-21.44 23.69 (VILLAGERS TALKING INDISTINCTLY)
-26.94 28.11 (WEAKLY) Go.
-28.53 29.99 Gramma.
-32.70 33.74 Go.
-34.20 36.70 Not now. I can't.
-37.12 38.20 You must!
-38.62 41.75 The ocean chose you.
-42.16 43.42 Follow the fish hook.
-43.58 44.58 Gramma...
-44.75 46.84 And when you find Maui...
-47.30 50.84 you grab him by the ear. You say...
-51.26 54.26 I am Moana of Motunui.
-54.72 56.85 You will board my boat...
-57.31 59.39 sail across the sea...
-59.56 63.56 and restore the heart of Te Fiti.
-65.44 67.73 (VOICE BREAKING) I can't leave you.
-68.19 73.40 There is nowhere you could go<br />that I won't be with you.
-86.38 87.75 Go!
+Mother...
+TUI: What can be done?
+(VILLAGERS TALKING INDISTINCTLY)
+(WEAKLY) Go.
+Gramma.
+Go.
+Not now. I can't.
+You must!
+The ocean chose you.
+Follow the fish hook.
+Gramma...
+And when you find Maui...
+you grab him by the ear. You say...
+I am Moana of Motunui.
+You will board my boat...
+sail across the sea...
+and restore the heart of Te Fiti.
+(VOICE BREAKING) I can't leave you.
+There is nowhere you could go<br />that I won't be with you.
+Go!

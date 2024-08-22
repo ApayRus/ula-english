@@ -1,11 +1,11 @@
-0.17	2.06	Tapescript 1.4 (one point four)
-3.33	3.84	1 (One)
-4.93	6.12	He’s from Spain.
-7.43	7.91	2 (Two)
-8.81	9.85	What’s her name?
-11.35	11.98	3 (Three)
-12.69	13.87	They’re from Brazil.
-15.44	16.08	4 (Four)
-17.09	18.24	Where’s she from?
-19.93	20.75	5 (Five)
-22.07	23.51	He’s a teacher in Italy.
+Tapescript 1.4 (one point four)
+1 (One)
+He’s from Spain.
+2 (Two)
+What’s her name?
+3 (Three)
+They’re from Brazil.
+4 (Four)
+Where’s she from?
+5 (Five)
+He’s a teacher in Italy.

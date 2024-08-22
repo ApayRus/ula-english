@@ -1,64 +1,64 @@
-0.17	2.46	Tapescript 13.5
-3.79	4.64	Part 2
-5.30	7.64	The tale of horribly good Bertha
-8.37	15.74	‘Once upon a time, a long time ago
-15.99	18.62	there was a little girl called Bertha.
-19.53	21.47	She was always well behaved
-21.69	24.68	and worked hard at school to please her parents
-24.75	25.81	and her teachers.
-26.28	27.64	She was never late,
-28.00	30.10	never dirty or untidy,
-30.49	31.68	never rude,
-32.18	34.56	and she never told lies.’
-35.80	38.59	The children on the train began to look bored.
-39.71	40.98	‘Was she pretty?’
-41.45	42.96	asked the smaller girl.
-43.90	44.63	‘No,’
-44.90	45.90	said the young man.
-46.68	48.24	‘She wasn’t pretty at all.
-48.51	50.71	She was just horribly good.
-51.51	53.49	Bertha was so good
-53.81	56.13	that she won three gold medals.
-57.05	57.91	One said
-58.09	59.15	Never late,
-59.69	60.54	one said
-60.96	62.40	Always polite,
-63.09	64.42	and the third said
-64.80	66.62	Best child in the world.’
-67.64	68.60	‘Yuk!’
-69.06	70.42	said the three children.
-71.52	72.34	‘Anyway,’
-72.60	73.66	said the young man,
-74.49	76.27	‘Bertha was so good
-76.66	79.14	that the king invited her to his palace.
-79.95	83.36	So she put on her best clean white dress
-83.66	86.32	and she pinned her three medals to the front
-86.87	89.91	and she walked through the woods to the king’s palace.
-91.28	92.39	But in the woods
-92.55	95.09	there lived a big hungry wolf.
-96.03	100.32	He saw Bertha’s lovely white dress through the trees
-101.03	104.84	and he heard the medals clinking together as she walked.
-105.84	108.53	‘Aha!’ thought the wolf.
-109.49	110.63	‘Lunch!’
-111.56	113.85	And he started to move quickly
-113.88	116.36	but quietly through the trees
-116.53	118.17	towards Bertha.’
-119.08	120.51	‘Oh no!’
-120.60	121.69	cried the children.
-122.25	124.47	‘Is he going to eat Bertha?’
-125.26	126.86	‘Yes, of course,’
-127.14	128.48	answered the young man.
-129.25	131.27	‘Bertha tried to run away
-131.77	133.61	but she couldn’t run fast
-133.96	136.12	because the medals were so heavy.
-136.94	139.11	The wolf caught her easily
-139.42	141.40	and he ate everything,
-141.72	143.52	every bit of Bertha,
-143.86	145.71	except her three medals.’
-147.16	149.17	‘That’s a terrible story,’
-149.64	150.56	said the aunt.
-151.01	154.09	‘No it isn’t,’ shouted the children.
-154.41	156.42	‘It’s the best story ever!’
-157.27	159.58	‘Ah,’ said the young man,
-160.10	161.64	‘the train’s stopping.
-162.15	163.62	It’s my station.’
+Tapescript 13.5
+Part 2
+The tale of horribly good Bertha
+‘Once upon a time, a long time ago
+there was a little girl called Bertha.
+She was always well behaved
+and worked hard at school to please her parents
+and her teachers.
+She was never late,
+never dirty or untidy,
+never rude,
+and she never told lies.’
+The children on the train began to look bored.
+‘Was she pretty?’
+asked the smaller girl.
+‘No,’
+said the young man.
+‘She wasn’t pretty at all.
+She was just horribly good.
+Bertha was so good
+that she won three gold medals.
+One said
+Never late,
+one said
+Always polite,
+and the third said
+Best child in the world.’
+‘Yuk!’
+said the three children.
+‘Anyway,’
+said the young man,
+‘Bertha was so good
+that the king invited her to his palace.
+So she put on her best clean white dress
+and she pinned her three medals to the front
+and she walked through the woods to the king’s palace.
+But in the woods
+there lived a big hungry wolf.
+He saw Bertha’s lovely white dress through the trees
+and he heard the medals clinking together as she walked.
+‘Aha!’ thought the wolf.
+‘Lunch!’
+And he started to move quickly
+but quietly through the trees
+towards Bertha.’
+‘Oh no!’
+cried the children.
+‘Is he going to eat Bertha?’
+‘Yes, of course,’
+answered the young man.
+‘Bertha tried to run away
+but she couldn’t run fast
+because the medals were so heavy.
+The wolf caught her easily
+and he ate everything,
+every bit of Bertha,
+except her three medals.’
+‘That’s a terrible story,’
+said the aunt.
+‘No it isn’t,’ shouted the children.
+‘It’s the best story ever!’
+‘Ah,’ said the young man,
+‘the train’s stopping.
+It’s my station.’

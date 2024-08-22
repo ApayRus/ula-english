@@ -1,36 +1,36 @@
-1.53 2.53 (BOTH SCREAMING)
-25.89 27.64 Are you okay?
-29.19 30.19 Maui?
-38.03 39.95 I told you to turn back.
-42.24 43.99 I thought we could make it.
-44.33 45.41 We?
-46.87 48.96 I thought I could make it.
-50.83 52.04 We can fix it.
-52.21 54.34 It was made by the gods.
-54.50 56.26 You can't fix it!
-56.55 58.76 Next time we'll be more careful.
-59.05 61.09 Te Kā was stuck on the barrier islands.
-61.26 63.68 It's lava, it can't go in the water.
-63.85 65.85 We can find a way around.
-66.01 67.85 I'm not going back.
-69.02 70.56 We still have to restore the heart.
-70.85 72.23 My hook is cracked.
-72.40 74.06 One more hit, and it's over.
-74.44 76.32 Maui, you have to restore the heart.
-76.65 78.36 Without my hook, I am nothing.
-78.53 79.69 That's not true!
-79.86 82.36 Without my hook, I am nothing!
-82.57 83.57 (SHUDDERING)
-91.91 93.17 We are only here...
-93.54 96.46 because you stole the heart in the first place.
-97.75 100.38 No, we're here because<br />the ocean told you you're special...
-100.55 102.34 and you believed it.
-103.59 106.10 I am Moana of Motunui.
-106.26 108.47 -- You will board my boat...<br />-- Goodbye, Moana.
-108.64 109.81 ...sail across the sea...
-109.98 111.06 I'm not killing myself...
-111.23 112.48 so you can prove you're something you're not!
-112.64 113.90 ...and restore the heart of Te Fiti!
-114.60 116.98 The ocean chose me!
-117.94 119.65 It chose wrong.
-129.37 130.45 Maui!
+(BOTH SCREAMING)
+Are you okay?
+Maui?
+I told you to turn back.
+I thought we could make it.
+We?
+I thought I could make it.
+We can fix it.
+It was made by the gods.
+You can't fix it!
+Next time we'll be more careful.
+Te Kā was stuck on the barrier islands.
+It's lava, it can't go in the water.
+We can find a way around.
+I'm not going back.
+We still have to restore the heart.
+My hook is cracked.
+One more hit, and it's over.
+Maui, you have to restore the heart.
+Without my hook, I am nothing.
+That's not true!
+Without my hook, I am nothing!
+(SHUDDERING)
+We are only here...
+because you stole the heart in the first place.
+No, we're here because<br />the ocean told you you're special...
+and you believed it.
+I am Moana of Motunui.
+-- You will board my boat...<br />-- Goodbye, Moana.
+...sail across the sea...
+I'm not killing myself...
+so you can prove you're something you're not!
+...and restore the heart of Te Fiti!
+The ocean chose me!
+It chose wrong.
+Maui!

@@ -1,13 +1,13 @@
-0.17	2.20	Tapescript 9.4
-3.46	3.98	1
-4.50	6.25	Good afternoon. Can I help you?
-8.71	9.22	2
-11.84	13.44	Who’s your favourite writer?
-16.86	17.43	3
-18.45	20.21	What would you like for your birthday?
-23.67	24.33	4
-26.10	27.56	Do you like animals?
-29.14	29.93	5
-31.47	33.26	Here’s the wine list, sir.
-36.34	37.02	6
-37.77	40.41	Have some ice-cream with your strawberries.
+Tapescript 9.4
+1
+Good afternoon. Can I help you?
+2
+Who’s your favourite writer?
+3
+What would you like for your birthday?
+4
+Do you like animals?
+5
+Here’s the wine list, sir.
+6
+Have some ice-cream with your strawberries.

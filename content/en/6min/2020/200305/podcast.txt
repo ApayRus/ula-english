@@ -1,157 +1,157 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.48		6 minute English from BBClearningEnglish.com
-13.48	13.76	<v Neil>	Hello.
-13.76	15.4		This is 6 Minute English with me,
-15.4	15.96		Neil.
-15.96	16.32	<v Sam>	And me,
-16.32	16.8		Sam.
-16.8	17.68	<v Neil>	Today,
-17.68	18.76		we’re talking rubbish.
-18.76	18.88	<v Sam>	Ooh,
-18.88	19.84		that’s a bit harsh –
-19.84	22.04		I thought it was going to be interesting.
-22.04	25.12	<v Neil>	I mean our topic is <em>about</em> rubbish,
-25.12	27.2		not that <em>we</em> are rubbish.
-27.2	27.56	<v Sam>	I see.
-27.56	28.2		Do go on.
-28.2	29	<v Neil>	Thank you.
-29	34.24		So the amount of waste we produce around the world is huge and it’s a growing problem.
-34.24	34.76	<v Sam>	But,
-34.76	36.36		there are some things that we can do,
-36.36	37.84		like recycling.
-37.84	38.72		Where I live,
-38.72	40.12		I can recycle a lot,
-40.12	42.52		and I’m always very careful to <strong>separate</strong> -
-42.52	44.12		to split my rubbish into paper,
-44.12	44.84		metal,
-44.84	45.24		food,
-45.24	46.52		plastic and so on.
-46.52	47.84	<v Neil>	But is that enough,
-47.84	49.2		even if we all do it?
-49.2	51.76		We’ll look a little more at this topic shortly,
-51.76	52.44		but first,
-52.44	53.16		as always,
-53.16	54.12		a question.
-54.12	58.36		Which country recycles the highest percentage of its waste?
-58.36	58.68		Is it:
-58.68	60.16		A: Sweden
-60.16	61.6		B: Germany
-61.6	62.84		C: New Zealand
-62.84	63.2		What do you think,
-63.2	64.04		Sam?
-64.04	64.92	<v Sam>	I’m not sure,
-64.92	67.96		but I think it could be Germany so I’m going to go with that -
-67.96	68.64		Germany.
-68.64	69.04	<v Neil>	OK.
-69.04	71.56		We’ll see if you’re right a little bit later on.
-71.56	73.76		The BBC radio programme,
-73.76	74.72		Business Daily,
-74.72	76.48		recently tackled this topic.
-76.48	78.68		They spoke to Alexandre Lemille,
-78.68	80.72		an expert in this area.
-80.72	83.48		Does he think recycling is the answer?
-83.48	85.12		Let’s hear what he said.
-85.12	99.72	<v Alexandre Lemille>	Recycling is not the answer to waste from an efficient point of view because we are not able to get all the waste <strong>separated</strong> properly and therefore treated in the background.
-99.72	104.84		The main objective of our model is to hide waste so we don’t see as urban citizens,
-104.84	106.72		or rural citizens,
-106.72	107.96		we don’t see the waste,
-107.96	112.96		it is <strong>out of sight</strong> and therefore <strong>out of mind</strong>.
-112.96	114.96	<v Neil>	What’s his view of recycling?
-114.96	116.24	<v Sam>	I was a bit surprised,
-116.24	119.48		because he said recycling wasn’t the answer.
-119.48	126.12		One reason is that it’s not always possible to <strong>separate</strong> waste you can recycle from waste you can’t recycle,
-126.12	128.36		and that makes <strong>treating</strong> it very difficult.
-128.36	133.2		<strong>Treating</strong> means handling it and using different processes,
-133.2	134.96		so it can be used again.
-134.96	137	<v Neil>	And the result is a lot of waste,
-137	141.24		including waste that could be recycled but which is just hidden.
-141.24	142.56		And as long as we don’t see it,
-142.56	144.2		we don’t think about it.
-144.2	147.2	<v Sam>	And he uses a good phrase to describe this –
-147.2	148.28		**out of sight,
-148.28	149.52		out of mind**.
-149.52	150.68		And that’s true,
-150.68	151.84		at least for me.
-151.84	157.4		My rubbish and recycling is collected and I don’t really think about what happens to it after that.
-157.4	159.88		Is as much of it recycled as I think,
-159.88	161.04		or is it just buried,
-161.04	164.08		burned or even sent to other countries?
-164.08	165.4		It’s not in front of my house,
-165.4	167.28		so I don’t really think about it –
-167.28	168.08		**out of sight,
-168.08	169.48		out of mind.**
-169.48	170.36	<v Neil>	Let’s listen again
-170.36	185.52	<v Alexandre Lemille>	Recycling is not the answer to waste from an efficient point of view because we are not able to get all the waste <strong>separated</strong> properly and therefore treated in the background.
-185.52	192.64		The main objective of our model is to hide waste so we don’t see as urban citizens,
-192.64	193.8		or rural citizens,
-193.8	195.04		we don’t see the waste,
-195.04	198.24		it is <strong>out of sight</strong> and therefore <strong>out of mind</strong>.
-198.24	203.92	<v Neil>	One possible solution to this problem is to develop what is called a circular economy.
-203.92	206.08		Here’s the presenter of Business Daily,
-206.08	207.2		Manuela Saragosa,
-207.2	208.88		explaining what that means.
-208.88	214.6	<v Manuela Saragosa>	The idea then at the core of a circular economic and business model is that a product,
-214.6	217.04		like say a washing machine or even a broom,
-217.04	223.48		can always be returned to the <strong>manufacturer</strong> to be reused or repaired before then sold on again.
-223.48	233.96		The point is the manufacturer retains responsibility for the <strong>lifecycle</strong> of the product it produces rather than the <strong>consumer</strong> assuming that responsibility when he or she buys it.
-233.96	236.44	<v Neil>	So it seems like a simple idea –
-236.44	238.32		though maybe very difficult to do.
-238.32	238.92	<v Sam>	Yes,
-238.92	241.36		the idea is that the company that makes a product,
-241.36	243.28		the <strong>manufacturer</strong>,
-243.28	245.32		is responsible for the product,
-245.32	247.44		not the person who bought it,
-247.44	249.44		the <strong>consumer</strong>.
-249.44	249.52	<v Neil>	So,
-249.52	252.56		if the product breaks or reaches the end of its useful life,
-252.56	253.92		its <strong>lifecycle</strong>,
-253.92	256.8		then the <strong>manufacturer</strong> has to take it back and fix,
-256.8	259.04		refurbish or have it recycled.
-259.04	263.72	<v Sam>	I guess this would make manufacturers try to make their products last longer!
-263.72	264.44	<v Neil>	It certainly would.
-264.44	265.88		Let’s listen again.
-265.88	271.56	<v Manuela Saragosa>	The idea then at the core of a circular economic and business model is that a product,
-271.56	274.12		like say a washing machine or even a broom,
-274.12	280.52		can always be returned to the <strong>manufacturer</strong> to be reused or repaired before then sold on again.
-280.52	291.72		The point is the manufacturer retains responsibility for the <strong>lifecycle</strong> of the product it produces rather than the <strong>consumer</strong> assuming that responsibility when he or she buys it.
-291.72	294.28	<v Neil>	That’s just about all we have time for in this programme.
-294.28	296.44		Before we recycle the vocabulary …
-296.44	297.2	<v Sam>	Oh very good Neil!
-297.2	298.2	<v Neil>	Before we -
-298.2	299.48		thank you Sam -
-299.48	301.48		before we recycle the vocabulary,
-301.48	304.12		we need to get the answer to today’s question.
-304.12	307.4		Which country recycles the highest percentage of its waste?
-307.4	308		Is it:
-308	309.12		A: Sweden
-309.12	310.84		B: Germany
-310.84	311.72		C: New Zealand
-311.72	312.04		Sam,
-312.04	312.76		what did you say?
-312.76	314.36	<v Sam>	I think it’s Germany.
-314.36	320.64	<v Neil>	Well I would like to offer you congratulations because Germany is the correct answer.
-320.64	322.44		Now let’s go over the vocabulary.
-322.44	322.96	<v Sam>	Of course.
-322.96	327.12		To <strong>separate</strong> means to divide or split different things,
-327.12	327.8		for example,
-327.8	331.24		<strong>separate</strong> your plastic from your paper for recycling.
-331.24	333.36	<v Neil>	<strong>Treating</strong> is the word for dealing with,
-333.36	334.04		for example,
-334.04	335.4		recycled waste.
-335.4	337.24	<v Sam>	The phrase **out of sight,
-337.24	338.4		out of mind**,
-338.4	342		means ignoring something or a situation you can’t see.
-342	348.8	<v Neil>	A <strong>manufacturer</strong> is the person or company that makes something and the <strong>consumer</strong> is the person who buys that thing.
-348.8	353.76	<v Sam>	And the length of time you can expect a product to work for is known as its <strong>lifecycle</strong>.
-353.76	356.84	<v Neil>	Well the <strong>lifecycle</strong> of this programme is 6 minutes,
-356.84	357.8		and as we are there,
-357.8	358.76		or thereabouts,
-358.76	360.4		it’s time for us to head off.
-360.4	363.36		Thanks for your company and hope you can join us again soon.
-363.36	363.8		Until then,
-363.8	367		there is plenty more to enjoy from BBC Learning English online,
-367	368.72		on social media and on our app.
-368.72	369.64		Bye for now.
-369.64	370.32	<v Sam>	Bye!
-370.32	378.48		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English with me,
+Neil.
+<v Sam> And me,
+Sam.
+<v Neil> Today,
+we’re talking rubbish.
+<v Sam> Ooh,
+that’s a bit harsh –
+I thought it was going to be interesting.
+<v Neil> I mean our topic is <em>about</em> rubbish,
+not that <em>we</em> are rubbish.
+<v Sam> I see.
+Do go on.
+<v Neil> Thank you.
+So the amount of waste we produce around the world is huge and it’s a growing problem.
+<v Sam> But,
+there are some things that we can do,
+like recycling.
+Where I live,
+I can recycle a lot,
+and I’m always very careful to <strong>separate</strong> -
+to split my rubbish into paper,
+metal,
+food,
+plastic and so on.
+<v Neil> But is that enough,
+even if we all do it?
+We’ll look a little more at this topic shortly,
+but first,
+as always,
+a question.
+Which country recycles the highest percentage of its waste?
+Is it:
+A: Sweden
+B: Germany
+C: New Zealand
+What do you think,
+Sam?
+<v Sam> I’m not sure,
+but I think it could be Germany so I’m going to go with that -
+Germany.
+<v Neil> OK.
+We’ll see if you’re right a little bit later on.
+The BBC radio programme,
+Business Daily,
+recently tackled this topic.
+They spoke to Alexandre Lemille,
+an expert in this area.
+Does he think recycling is the answer?
+Let’s hear what he said.
+<v Alexandre Lemille> Recycling is not the answer to waste from an efficient point of view because we are not able to get all the waste <strong>separated</strong> properly and therefore treated in the background.
+The main objective of our model is to hide waste so we don’t see as urban citizens,
+or rural citizens,
+we don’t see the waste,
+it is <strong>out of sight</strong> and therefore <strong>out of mind</strong>.
+<v Neil> What’s his view of recycling?
+<v Sam> I was a bit surprised,
+because he said recycling wasn’t the answer.
+One reason is that it’s not always possible to <strong>separate</strong> waste you can recycle from waste you can’t recycle,
+and that makes <strong>treating</strong> it very difficult.
+<strong>Treating</strong> means handling it and using different processes,
+so it can be used again.
+<v Neil> And the result is a lot of waste,
+including waste that could be recycled but which is just hidden.
+And as long as we don’t see it,
+we don’t think about it.
+<v Sam> And he uses a good phrase to describe this –
+**out of sight,
+out of mind**.
+And that’s true,
+at least for me.
+My rubbish and recycling is collected and I don’t really think about what happens to it after that.
+Is as much of it recycled as I think,
+or is it just buried,
+burned or even sent to other countries?
+It’s not in front of my house,
+so I don’t really think about it –
+**out of sight,
+out of mind.**
+<v Neil> Let’s listen again
+<v Alexandre Lemille> Recycling is not the answer to waste from an efficient point of view because we are not able to get all the waste <strong>separated</strong> properly and therefore treated in the background.
+The main objective of our model is to hide waste so we don’t see as urban citizens,
+or rural citizens,
+we don’t see the waste,
+it is <strong>out of sight</strong> and therefore <strong>out of mind</strong>.
+<v Neil> One possible solution to this problem is to develop what is called a circular economy.
+Here’s the presenter of Business Daily,
+Manuela Saragosa,
+explaining what that means.
+<v Manuela Saragosa> The idea then at the core of a circular economic and business model is that a product,
+like say a washing machine or even a broom,
+can always be returned to the <strong>manufacturer</strong> to be reused or repaired before then sold on again.
+The point is the manufacturer retains responsibility for the <strong>lifecycle</strong> of the product it produces rather than the <strong>consumer</strong> assuming that responsibility when he or she buys it.
+<v Neil> So it seems like a simple idea –
+though maybe very difficult to do.
+<v Sam> Yes,
+the idea is that the company that makes a product,
+the <strong>manufacturer</strong>,
+is responsible for the product,
+not the person who bought it,
+the <strong>consumer</strong>.
+<v Neil> So,
+if the product breaks or reaches the end of its useful life,
+its <strong>lifecycle</strong>,
+then the <strong>manufacturer</strong> has to take it back and fix,
+refurbish or have it recycled.
+<v Sam> I guess this would make manufacturers try to make their products last longer!
+<v Neil> It certainly would.
+Let’s listen again.
+<v Manuela Saragosa> The idea then at the core of a circular economic and business model is that a product,
+like say a washing machine or even a broom,
+can always be returned to the <strong>manufacturer</strong> to be reused or repaired before then sold on again.
+The point is the manufacturer retains responsibility for the <strong>lifecycle</strong> of the product it produces rather than the <strong>consumer</strong> assuming that responsibility when he or she buys it.
+<v Neil> That’s just about all we have time for in this programme.
+Before we recycle the vocabulary …
+<v Sam> Oh very good Neil!
+<v Neil> Before we -
+thank you Sam -
+before we recycle the vocabulary,
+we need to get the answer to today’s question.
+Which country recycles the highest percentage of its waste?
+Is it:
+A: Sweden
+B: Germany
+C: New Zealand
+Sam,
+what did you say?
+<v Sam> I think it’s Germany.
+<v Neil> Well I would like to offer you congratulations because Germany is the correct answer.
+Now let’s go over the vocabulary.
+<v Sam> Of course.
+To <strong>separate</strong> means to divide or split different things,
+for example,
+<strong>separate</strong> your plastic from your paper for recycling.
+<v Neil> <strong>Treating</strong> is the word for dealing with,
+for example,
+recycled waste.
+<v Sam> The phrase **out of sight,
+out of mind**,
+means ignoring something or a situation you can’t see.
+<v Neil> A <strong>manufacturer</strong> is the person or company that makes something and the <strong>consumer</strong> is the person who buys that thing.
+<v Sam> And the length of time you can expect a product to work for is known as its <strong>lifecycle</strong>.
+<v Neil> Well the <strong>lifecycle</strong> of this programme is 6 minutes,
+and as we are there,
+or thereabouts,
+it’s time for us to head off.
+Thanks for your company and hope you can join us again soon.
+Until then,
+there is plenty more to enjoy from BBC Learning English online,
+on social media and on our app.
+Bye for now.
+<v Sam> Bye!
+6 minute English from BBC.

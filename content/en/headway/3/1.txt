@@ -1,29 +1,29 @@
-0.20	1.14	Unit 3
-2.21	3.98	Tapescript 3.1
-5.41	6.96	Ali is a scientist.
-7.25	9.34	She comes from Cambridge in England
-9.52	11.60	but now she lives in Switzerland.
-12.34	14.89	She works three days a week at the Institute
-14.96	17.40	of Molecular Biology in Geneva.
-18.01	19.70	She speaks three languages;
-19.95	20.61	English,
-20.68	21.32	French
-21.35	22.14	and German.
-22.69	23.52	She’s married
-23.53	24.58	and has a daughter.
-25.20	26.93	She likes skiing in winter
-27.09	28.79	and going for walks in summer.
-30.88	32.10	Bob is a doctor.
-32.77	33.81	He’s English
-33.85	35.88	but now he lives in Australia
-36.14	38.58	in the small town of Alice Springs.
-39.71	41.44	He isn’t an ordinary doctor,
-41.97	43.45	he’s a flying doctor.
-44.46	45.35	Every day,
-45.55	47.76	from 8 a.m. to 10 a.m.
-48.12	50.29	he speaks to people on his radio,
-50.74	52.65	then he flies to help them.
-53.78	57.04	He works 16 hours a day non-stop
-57.45	58.80	but he loves his job.
-59.74	60.88	He isn’t married.
-61.55	63.19	He has no free time.
+Unit 3
+Tapescript 3.1
+Ali is a scientist.
+She comes from Cambridge in England
+but now she lives in Switzerland.
+She works three days a week at the Institute
+of Molecular Biology in Geneva.
+She speaks three languages;
+English,
+French
+and German.
+She’s married
+and has a daughter.
+She likes skiing in winter
+and going for walks in summer.
+Bob is a doctor.
+He’s English
+but now he lives in Australia
+in the small town of Alice Springs.
+He isn’t an ordinary doctor,
+he’s a flying doctor.
+Every day,
+from 8 a.m. to 10 a.m.
+he speaks to people on his radio,
+then he flies to help them.
+He works 16 hours a day non-stop
+but he loves his job.
+He isn’t married.
+He has no free time.

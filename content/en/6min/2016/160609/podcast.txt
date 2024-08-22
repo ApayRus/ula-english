@@ -1,175 +1,175 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	12.08		6 minute English from BBClearningEnglish.com
-12.08	12.48	<v Rob>	…
-12.48	16.4		And I’m Rob.
-16.4	17.36	<v Alice>	So Rob,
-17.36	20.32		did you have a part time job while you were at university?
-20.32	20.76	<v Rob>	Yes,
-20.76	23.16		I worked in the student bar.
-23.16	24.96	<v Alice>	Did you learn anything from the experience?
-24.96	27.68	<v Rob>	I learned how to pull a decent pint.
-27.68	29.08	<v Alice>	Did you learn anything else?
-29.08	29.72	<v Rob>	Yes,
-29.72	31.48		I learned how to add up.
-31.48	33.24	<v Alice>	Didn’t they teach you that at school?
-33.24	35.6	<v Rob>	I wasn’t good at doing sums in my head –
-35.6	35.96		you know –
-35.96	37.68		mental arithmetic.
-37.68	40.12		But I got pretty good at it as a barman.
-40.12	43		They didn’t have computerized cash registers in my day,
-43	43.52		you see.
-43.52	45.88	<v Alice>	I didn’t realize you were <em>that</em> old,
-45.88	46.76		Rob!
-46.76	47.72		Anyway,
-47.72	51.52		the subject of today’s show is young business entrepreneurs.
-51.52	52		So,
-52	59.4		can you answer this question: How young were the founders of Facebook and Microsoft when they first set up their companies?
-59.4	60.36		Were they…
-60.36	63.2		a) junior high-school students
-63.2	65.52		b) high-school students
-65.52	68.36		Or c) university students?
-68.36	70.44	<v Rob>	And Alice in case you think I don’t know,
-70.44	76.24		Facebook is an online social networking service and Microsoft is a computer software company.
-76.24	77		OK?
-77	78.12	<v Alice>	Well done!
-78.12	82.52	<v Rob>	Well I’m going to say they were b) high-school students.
-82.52	86.68	<v Alice>	We’ll find out if you chose the right answer later on in the programme.
-86.68	89.64		But let’s talk now about what <strong>drawbacks</strong> –
-89.64	90.92		or disadvantages –
-90.92	92.84		there are for young entrepreneurs.
-92.84	93.4		What do you think,
-93.4	93.6		Rob?
-93.6	93.88	<v Rob>	Hmm.
-93.88	94.24		Well,
-94.24	101.64		I suppose one of the drawbacks of being young and your own boss is that everyone who works for you is older than you!
-101.64	103.04	<v Alice>	Is that a drawback?
-103.04	103.68	<v Rob>	Well,
-103.68	105.48		let’s consider a real case.
-105.48	111.6		Young British entrepreneur Suleman Sacranie started his first company when he was 17,
-111.6	114.44		followed by another business shortly afterwards.
-114.44	119.64		Then whilst studying chemistry at university he started his third company,
-119.64	121.92		an online version of the pound shop –
-121.92	123.64		or dollar store in the US –
-123.64	127.24		where everything in the shop is priced at one pound.
-127.24	131.44		Let’s listen to Suleman Sacranie talking about his company.
-131.44	133.24	<v INSERT>	I’m actually quite fortunate now,
-133.24	137.32		compared to what I was six months ago because now I’ve got two additional directors who have grey hair.
-137.32	138.64		It actually…
-138.64	140.2		commercial meetings are excellent now,
-140.2	140.8		you know.
-140.8	148.04		But before that I think I came across quite professional but you could still tell they were thinking in the back of their heads,
-148.04	157		'I’ve got a kid sitting in front of me.'So young entrepreneur Suleman Sacranie has got two grey-haired directors working with him now.
-157	158.2	<v Alice>	That’s right –
-158.2	161.24		but how does having grey-haired executives on board help,
-161.24	161.8		Rob?
-161.8	162.12	<v Rob>	Well,
-162.12	167.52		‘<strong>executives</strong>’ are people who run a business and <strong>on board</strong> means being part of a team.
-167.52	167.68		Well,
-167.68	168.68		to answer your question,
-168.68	169.24		Alice,
-169.24	172		they bring experience to the table.
-172	173.48		I have a few grey hairs you know –
-173.48	175.04		you could learn a lot from me.
-175.04	175.84	<v Alice>	I do,
-175.84	176.2		Rob.
-176.2	176.52		Everyday.
-176.52	182.36		And if you <strong>bring something to the table</strong> it means you provide something useful.
-182.36	182.64		Well,
-182.64	184.04		what do you bring to the table,
-184.04	184.44		Rob?
-184.44	185.48	<v Rob>	Well,
-185.48	186.44		bad jokes,
-186.44	186.96		peanuts,
-186.96	187.68		crisps,
-187.68	188.8		cups of coffee,
-188.8	189.56		that sort of thing…
-189.56	192.44	<v Alice>	I was going to say a <strong>keen</strong> mind,
-192.44	192.92		in other words,
-192.92	194.6		a well-developed mind,
-194.6	195.2		and…
-195.2	196.88		great business acumen!
-196.88	197.6	<v Rob>	Come on,
-197.6	198.84		you weren’t going to say that!
-198.84	199.44	<v Alice>	You’re right,
-199.44	199.8		I wasn’t.
-199.8	202.36		<strong>Acumen</strong> means good judgement.
-202.36	203.44		But don’t worry,
-203.44	206.6		you have an abundant enthusiasm that makes up for it.
-206.6	208.12		But moving on now,
-208.12	211.72		do you think that school prepared you well for working life?
-211.72	212.48	<v Rob>	No,
-212.48	213.04		not really.
-213.04	214.36		I studied Latin at school,
-214.36	215.68		and I don’t use that much.
-215.68	216.76		And maths –
-216.76	217.52		well,
-217.52	219.44		I never use trigonometry or calculus.
-219.44	222.88		So I’m not sure how useful maths lessons were…
-222.88	223.28	<v Alice>	Yes,
-223.28	226.4		and you only learned to add up in the university bar after all…
-226.4	226.72	<v Rob>	Yes,
-226.72	228.24		but I am very good at it!
-228.24	231.64		And the point is that I’ve got a fantastic job now.
-231.64	236.16		And if you’re really interested in something you can always <strong>acquire</strong> –
-236.16	236.16		or get –
-236.16	237.96		the skills you don’t have.
-237.96	243.04		Let’s listen to successful young entrepreneur Jessica Rose talking about her experience.
-243.04	246.44		She works with jewellery.
-246.44	250.64	<v INSERT>	I didn’t need all these previous skills and experience to go out there and start on my own.
-250.64	254.32		When I first started I had no business training whatsoever,
-254.32	256.24		no jewellery training whatsoever,
-256.24	260.88		but I kind of woke up one day and thought I’d really love to be a jewellery designer.
-260.88	263.28		Which is kind of a tricky position to be in,
-263.28	264.44		because it’s you know,
-264.44	266.52		a lot of people would say and did say,
-266.52	267.2		well,
-267.2	267.44		you know,
-267.44	268.28		you’re mad.
-268.28	276.6	<v Alice>	So Jessica Rose used her savings to learn jewellery making and then set up her own jewellery-making business.
-276.6	281.6	<v Rob>	And despite setting out with no business experience and no jewellery training –
-281.6	284.28		her enthusiasm for the article <strong>paid off</strong>.
-284.28	286.84	<v Alice>	And that means it was successful.
-286.84	288.28	<v Rob>	A bit like me…
-288.28	288.64	<v Alice>	Yes.
-288.64	289.24		OK,
-289.24	292.52		I think it’s time for the answer to today’s quiz question.
-292.52	298.6		I asked: How young were the founders of Facebook and Microsoft when first set up their companies?
-298.6	299.8		Were they…
-299.8	302.6		a) junior high-school students,
-302.6	308.24		b) high-school students or c) university students?
-308.24	311.88	<v Rob>	I said b) high-school students.
-311.88	313.12	<v Alice>	And you were wrong,
-313.12	313.72		I’m afraid,
-313.72	314		Rob.
-314	314.36		Sorry.
-314.36	315	<v Rob>	Again.
-315	315.52	<v Alice>	Yes.
-315.52	321.04		Mark Zuckerberg and Bill Gates were both university students when they started their companies.
-321.04	326.4		Zuckerberg was studying at Harvard in the US when he launched Facebook in 2004.
-326.4	331.64		And Bill Gates took a break from Harvard to launch Microsoft in 1976,
-331.64	333.96		but never returned to his studies.
-333.96	335.4	<v Rob>	Both at Harvard –
-335.4	336.96		that’s a coincidence.
-336.96	340.6		I wonder if the bar there was any good…
-340.6	342.56		Now can we hear the words we learned today?
-342.56	343.08	<v Alice>	Yes.
-343.08	343.52		OK.
-343.52	344.6		They are:
-344.6	346.36		drawbacks
-346.36	348.08		executives
-348.08	349.64		on board
-349.64	352.04		bring something to the table
-352.04	353.44		keen
-353.44	355.48		(business) acumen
-355.48	357.12		acquire
-357.12	358.48		paid off
-358.48	359.92	<v Rob>	Thanks,
-359.92	360.56		Alice.
-360.56	360.84		Well,
-360.84	363.68		that’s the end of today’s 6 Minute English.
-363.68	367.28		We hope you’ve enjoyed the new vocabulary we brought to the table.
-367.28	368.08	<v Alice>	Very good.
-368.08	369.36	<v Rob>	Please join us again soon!
-369.36	370.48	<v Both>	Bye.
-370.48	377.4		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> …
+And I’m Rob.
+<v Alice> So Rob,
+did you have a part time job while you were at university?
+<v Rob> Yes,
+I worked in the student bar.
+<v Alice> Did you learn anything from the experience?
+<v Rob> I learned how to pull a decent pint.
+<v Alice> Did you learn anything else?
+<v Rob> Yes,
+I learned how to add up.
+<v Alice> Didn’t they teach you that at school?
+<v Rob> I wasn’t good at doing sums in my head –
+you know –
+mental arithmetic.
+But I got pretty good at it as a barman.
+They didn’t have computerized cash registers in my day,
+you see.
+<v Alice> I didn’t realize you were <em>that</em> old,
+Rob!
+Anyway,
+the subject of today’s show is young business entrepreneurs.
+So,
+can you answer this question: How young were the founders of Facebook and Microsoft when they first set up their companies?
+Were they…
+a) junior high-school students
+b) high-school students
+Or c) university students?
+<v Rob> And Alice in case you think I don’t know,
+Facebook is an online social networking service and Microsoft is a computer software company.
+OK?
+<v Alice> Well done!
+<v Rob> Well I’m going to say they were b) high-school students.
+<v Alice> We’ll find out if you chose the right answer later on in the programme.
+But let’s talk now about what <strong>drawbacks</strong> –
+or disadvantages –
+there are for young entrepreneurs.
+What do you think,
+Rob?
+<v Rob> Hmm.
+Well,
+I suppose one of the drawbacks of being young and your own boss is that everyone who works for you is older than you!
+<v Alice> Is that a drawback?
+<v Rob> Well,
+let’s consider a real case.
+Young British entrepreneur Suleman Sacranie started his first company when he was 17,
+followed by another business shortly afterwards.
+Then whilst studying chemistry at university he started his third company,
+an online version of the pound shop –
+or dollar store in the US –
+where everything in the shop is priced at one pound.
+Let’s listen to Suleman Sacranie talking about his company.
+<v INSERT> I’m actually quite fortunate now,
+compared to what I was six months ago because now I’ve got two additional directors who have grey hair.
+It actually…
+commercial meetings are excellent now,
+you know.
+But before that I think I came across quite professional but you could still tell they were thinking in the back of their heads,
+'I’ve got a kid sitting in front of me.'So young entrepreneur Suleman Sacranie has got two grey-haired directors working with him now.
+<v Alice> That’s right –
+but how does having grey-haired executives on board help,
+Rob?
+<v Rob> Well,
+‘<strong>executives</strong>’ are people who run a business and <strong>on board</strong> means being part of a team.
+Well,
+to answer your question,
+Alice,
+they bring experience to the table.
+I have a few grey hairs you know –
+you could learn a lot from me.
+<v Alice> I do,
+Rob.
+Everyday.
+And if you <strong>bring something to the table</strong> it means you provide something useful.
+Well,
+what do you bring to the table,
+Rob?
+<v Rob> Well,
+bad jokes,
+peanuts,
+crisps,
+cups of coffee,
+that sort of thing…
+<v Alice> I was going to say a <strong>keen</strong> mind,
+in other words,
+a well-developed mind,
+and…
+great business acumen!
+<v Rob> Come on,
+you weren’t going to say that!
+<v Alice> You’re right,
+I wasn’t.
+<strong>Acumen</strong> means good judgement.
+But don’t worry,
+you have an abundant enthusiasm that makes up for it.
+But moving on now,
+do you think that school prepared you well for working life?
+<v Rob> No,
+not really.
+I studied Latin at school,
+and I don’t use that much.
+And maths –
+well,
+I never use trigonometry or calculus.
+So I’m not sure how useful maths lessons were…
+<v Alice> Yes,
+and you only learned to add up in the university bar after all…
+<v Rob> Yes,
+but I am very good at it!
+And the point is that I’ve got a fantastic job now.
+And if you’re really interested in something you can always <strong>acquire</strong> –
+or get –
+the skills you don’t have.
+Let’s listen to successful young entrepreneur Jessica Rose talking about her experience.
+She works with jewellery.
+<v INSERT> I didn’t need all these previous skills and experience to go out there and start on my own.
+When I first started I had no business training whatsoever,
+no jewellery training whatsoever,
+but I kind of woke up one day and thought I’d really love to be a jewellery designer.
+Which is kind of a tricky position to be in,
+because it’s you know,
+a lot of people would say and did say,
+well,
+you know,
+you’re mad.
+<v Alice> So Jessica Rose used her savings to learn jewellery making and then set up her own jewellery-making business.
+<v Rob> And despite setting out with no business experience and no jewellery training –
+her enthusiasm for the article <strong>paid off</strong>.
+<v Alice> And that means it was successful.
+<v Rob> A bit like me…
+<v Alice> Yes.
+OK,
+I think it’s time for the answer to today’s quiz question.
+I asked: How young were the founders of Facebook and Microsoft when first set up their companies?
+Were they…
+a) junior high-school students,
+b) high-school students or c) university students?
+<v Rob> I said b) high-school students.
+<v Alice> And you were wrong,
+I’m afraid,
+Rob.
+Sorry.
+<v Rob> Again.
+<v Alice> Yes.
+Mark Zuckerberg and Bill Gates were both university students when they started their companies.
+Zuckerberg was studying at Harvard in the US when he launched Facebook in 2004.
+And Bill Gates took a break from Harvard to launch Microsoft in 1976,
+but never returned to his studies.
+<v Rob> Both at Harvard –
+that’s a coincidence.
+I wonder if the bar there was any good…
+Now can we hear the words we learned today?
+<v Alice> Yes.
+OK.
+They are:
+drawbacks
+executives
+on board
+bring something to the table
+keen
+(business) acumen
+acquire
+paid off
+<v Rob> Thanks,
+Alice.
+Well,
+that’s the end of today’s 6 Minute English.
+We hope you’ve enjoyed the new vocabulary we brought to the table.
+<v Alice> Very good.
+<v Rob> Please join us again soon!
+<v Both> Bye.
+6 minute English from BBC.

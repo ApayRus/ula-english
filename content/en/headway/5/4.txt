@@ -1,20 +1,20 @@
-0.17	2.05	Tapescript 5.4
-4.91	6.38	What’s in my briefcase?
-6.79	8.75	Well, there’s a newspaper –
-9.03	10.35	a French newspaper –
-10.90	12.00	and there’s a dictionary –
-12.11	13.96	my French/English dictionary.
-14.67	15.84	I have some pens,
-15.88	17.49	three I think.
-17.95	20.39	Also I have a notebook for vocabulary,
-20.76	22.85	I write words in that every day.
-23.17	24.61	And of course I have my keys,
-24.94	27.02	my car keys and my house keys.
-27.25	27.84	Oh yes,
-27.97	29.08	very important,
-29.13	30.83	there are some photos of my family,
-31.22	32.91	my wife and my daughter
-33.21	34.58	and there’s my mobile phone.
-35.01	37.13	I ring my home in Paris every night.
-37.61	38.91	That’s all I think.
-39.43	43.03	I don’t have any stamps and my address book is in my hotel.
+Tapescript 5.4
+What’s in my briefcase?
+Well, there’s a newspaper –
+a French newspaper –
+and there’s a dictionary –
+my French/English dictionary.
+I have some pens,
+three I think.
+Also I have a notebook for vocabulary,
+I write words in that every day.
+And of course I have my keys,
+my car keys and my house keys.
+Oh yes,
+very important,
+there are some photos of my family,
+my wife and my daughter
+and there’s my mobile phone.
+I ring my home in Paris every night.
+That’s all I think.
+I don’t have any stamps and my address book is in my hotel.

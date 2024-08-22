@@ -1,155 +1,155 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	10.6		6 minute English from BBClearningEnglish.com
-10.6	13.56	<v Neil>	Hello.
-13.56	16.44		This is 6 Minute English from BBC Learning English.
-16.44	17.04		I’m Neil.
-17.04	18.24	<v Georgina>	And I’m Georgina.
-18.24	21.04	<v Neil>	Of all the weird and wonderful creatures living under the sea,
-21.04	23.68		perhaps the strangest are jellyfish –
-23.68	24.48		those rubbery,
-24.48	27.32		cone-shaped creatures found floating in the water,
-27.32	29.4		their long tentacles trailing behind.
-29.4	34.08	<v Georgina>	Some jellyfish species have a bad reputation for scaring away tourists,
-34.08	35.56		clogging up fishing nets,
-35.56	38.16		and even blocking power station pipes.
-38.16	41.76	<v Neil>	But with more and more plastic rubbish ending up in the sea,
-41.76	46.8		these days you’re as likely to swim into a plastic bag as a jellyfish.
-46.8	52.12		Now scientific research is discovering that these rubbery sea creatures might provide an answer -
-52.12	55.36		a sticky solution to the problem of plastic pollution.
-55.36	56.16	<v Georgina>	In this programme,
-56.16	61.68		we’ll be learning how jellyfish mucus could provide the answer to plastic waste in the seas.
-61.68	65.12		And of course we’ll be learning some related vocabulary along the way.
-65.12	67.4	<v Neil>	But first it’s time for my quiz question.
-67.4	68.08		Georgina,
-68.08	72.36		you mentioned jellyfish scaring away beach goers with their sting,
-72.36	75.24		but what is the best way to treat jellyfish stings?
-75.24	75.6		Is it:
-75.6	77.16		a) with ice?,
-77.16	78.08		b) with salt?,
-78.08	78.24		or,
-78.24	79.72		c) with vinegar?
-79.72	80.04	<v Georgina>	Well,
-80.04	80.4		Neil,
-80.4	84.76		I have been stung by a jellyfish before and I think the best way to treat them is,
-84.76	86.24		c) with vinegar.
-86.24	86.6	<v Neil>	OK,
-86.6	87		Georgina,
-87	88.84		we’ll find out later if that’s right.
-88.84	89.2		Now,
-89.2	90.04		as I mentioned,
-90.04	97.92		in recent years tiny pieces of plastic called microplastic have been a significant problem for the world’s seas and oceans.
-97.92	99.64		They’ve been found all over the world –
-99.64	100.8		in Arctic ice,
-100.8	103.64		at the bottom of the sea and even inside animals,
-103.64	104.88		including humans.
-104.88	106.04	<v Georgina>	Slovenian scientist,
-106.04	107.12		Dr Ana Rotter,
-107.12	108.52		heads Go Jelly,
-108.52	112.96		a European research team of jellyfish ecologists looking into the problem.
-112.96	116.32		Here she is speaking to BBC World Service programme,
-116.32	118.28		People Fixing the World:
-118.28	119.24	<v Dr Ana Rotter>	Microplastics,
-119.24	120.88		plastics in general,
-120.88	123.16		are being an increasing problem –
-123.16	124.32		they’re everywhere.
-124.32	128.28		When I was a little girl we were more <strong>environmentally friendly</strong>,
-128.28	128.88		not knowing…
-128.88	131.6		so we never used plastic bags to go shopping,
-131.6	134.8		we always went with a cloth bags,
-134.8	136.88		we never used plastic to put our vegetable in it,
-136.88	139.6		<strong>single-use</strong> spoons,
-139.6	140.36		or forks,
-140.36	140.8		knives…
-140.8	145.6		this is for me something <strong>unheard of</strong> when I was a little girl.
-145.6	147.64	<v Neil>	Dr Rotter says when she was a child,
-147.64	150.24		people were more <strong>environmentally friendly</strong> -
-150.24	154.48		not harmful to the environment or having the least possible impact on it.
-154.48	155.52	<v Georgina>	At that time,
-155.52	157.76		there were very few <strong>single-use</strong> plastics –
-157.76	159		plastic items,
-159	160.68		like spoons and forks,
-160.68	162.6		designed to be used just once,
-162.6	163.96		then thrown away.
-163.96	165.44	<v Neil>	Single-use plastic bags,
-165.44	166.08		for example,
-166.08	167.2		were <strong>unheard of</strong> -
-167.2	171.6		surprising or shocking because they were not previously known about or commonly used.
-171.6	174.68	<v Georgina>	The situation since then has changed dramatically.
-174.68	175.76		In fact,
-175.76	184.72		there’s been such an increase in microplastics that today the UN lists plastic pollution as one of the world’s top environmental threats.
-184.72	187.08		But how do jellyfish fit into the story?
-187.08	187.36	<v Neil>	Well,
-187.36	188.08		it’s the ‘jelly’
-188.08	189.24		part of jellyfish,
-189.24	191.08		and specifically their sticky,
-191.08	193.32		jelly-like mucus that is key.
-193.32	194.52		Here’s Dr Rotter again,
-194.52	197.24		explaining more to BBC World Service programme,
-197.24	198.6		People Fixing the World:
-198.6	199.88	<v Dr Ana Rotter>	The mucus –
-199.88	205.84		this is a like a viscous substance that is being excreted from a jellyfish,
-205.84	210.28		might have they are called <strong>absorptive</strong> properties…
-210.28	211.76		so it means that the particles -
-211.76	215.36		various particles can attach to this mucus…
-215.36	215.8		so,
-215.8	223.52		could we use jellyfish and their mucus as a <strong>magnet</strong> for the microplastic particles?
-223.52	224.96	<v Georgina>	Jellyfish produce a thick,
-224.96	227.12		sticky liquid called mucus.
-227.12	232.52		Dr Rotter has discovered that this mucus has strong <strong>absorptive</strong> properties –
-232.52	233.4		it can absorb,
-233.4	236.8		take in liquids and other substances and hold them in.
-236.8	243.12	<v Neil>	One of the substances jellyfish mucus absorbs are the particles that make up microplastics.
-243.12	245.64		By trapping these tiny pieces of floating plastic,
-245.64	248.6		the mucus acts like a <strong>magnet</strong> –
-248.6	250.12		an object that attracts certain materials,
-250.12	251.04		like metal,
-251.04	251.72		or in this case,
-251.72	253.08		microplastic waste.
-253.08	258.68	<v Georgina>	As rising sea temperatures and overfishing of their natural predators have boosted jellyfish numbers,
-258.68	262.96		this novel way of using their mucus couldn’t have come at a better time.
-262.96	265.68	<v Neil>	Dr Rotter’s research is still in the early stages,
-265.68	272.84		but it’s hoped that jellyfish mucus could hold the key to a future free of microplastic polluted oceans.
-272.84	276.12	<v Georgina>	Which is a big prize for the cost of few jellyfish stings.
-276.12	277.4		Speaking of which,
-277.4	277.8		Neil,
-277.8	280.6		what was the correct answer to your quiz question?
-280.6	280.84	<v Neil>	Right,
-280.84	283.48		I asked you the best way to treat jellyfish stings.
-283.48	284.08		What did you say,
-284.08	284.68		Georgina?
-284.68	287.4	<v Georgina>	I said it’s c) with vinegar
-287.4	288.32	<v Neil>	Which is…
-288.32	289.16		the right answer!
-289.16	289.68		Well done.
-289.68	292.8		Vinegar inactivates the sting’s venom,
-292.8	296.68		so remember to pack a bottle of vinegar the next time you head to the beach!
-296.68	297.76	<v Georgina>	In this programme,
-297.76	301.72		we’ve been hearing how scientists are using jellyfish <strong>mucus</strong> -
-301.72	302.4		a thick,
-302.4	304.68		sticky liquid produced in their bodies,
-304.68	307.12		to break down microplastics in the sea.
-307.12	309.48	<v Neil>	Our addiction to <strong>single-use</strong> plastics –
-309.48	311.96		plastic items which are used only once,
-311.96	312.92		then thrown away,
-312.92	315.2		and which often get washed out to sea,
-315.2	320		has created a situation which is definitely not <strong>environmentally friendly</strong> –
-320	323.28		that means having minimal impact on the environment.
-323.28	324.52	<v Georgina>	Until quite recently,
-324.52	329.08		the problems of micropollution and single-use plastic were <strong>unheard of</strong> -
-329.08	333.36		surprising or shocking because of not having been previously known about.
-333.36	337.76	<v Neil>	Scientists are hoping that the mucus’s <strong>absorptive</strong> qualities –
-337.76	341.52		it’s ability to absorb liquids and other substances and hold them,
-341.52	345.12		will allow it to trap particles of plastic floating in the sea,
-345.12	348.04		making jellyfish mucus a <strong>magnet</strong> for pollution –
-348.04	350.56		an object that attracts certain materials -
-350.56	352.2		usually metals but in this case,
-352.2	353.44		microplastic waste.
-353.44	354.76	<v Georgina>	That’s all for this programme,
-354.76	359		but to hear more about how these amazing sea creatures could help clean our oceans,
-359	363.48		why not check out People Fixing the World from the BBC World Service?
-363.48	366.28	<v Neil>	And to hear more interesting items on trending topics,
-366.28	369.48		why not join us again soon here at 6 Minute English?
-369.48	370.36		Bye for now!
-370.36	371.12	<v Georgina>	Bye!
-371.12	378.88		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Georgina> And I’m Georgina.
+<v Neil> Of all the weird and wonderful creatures living under the sea,
+perhaps the strangest are jellyfish –
+those rubbery,
+cone-shaped creatures found floating in the water,
+their long tentacles trailing behind.
+<v Georgina> Some jellyfish species have a bad reputation for scaring away tourists,
+clogging up fishing nets,
+and even blocking power station pipes.
+<v Neil> But with more and more plastic rubbish ending up in the sea,
+these days you’re as likely to swim into a plastic bag as a jellyfish.
+Now scientific research is discovering that these rubbery sea creatures might provide an answer -
+a sticky solution to the problem of plastic pollution.
+<v Georgina> In this programme,
+we’ll be learning how jellyfish mucus could provide the answer to plastic waste in the seas.
+And of course we’ll be learning some related vocabulary along the way.
+<v Neil> But first it’s time for my quiz question.
+Georgina,
+you mentioned jellyfish scaring away beach goers with their sting,
+but what is the best way to treat jellyfish stings?
+Is it:
+a) with ice?,
+b) with salt?,
+or,
+c) with vinegar?
+<v Georgina> Well,
+Neil,
+I have been stung by a jellyfish before and I think the best way to treat them is,
+c) with vinegar.
+<v Neil> OK,
+Georgina,
+we’ll find out later if that’s right.
+Now,
+as I mentioned,
+in recent years tiny pieces of plastic called microplastic have been a significant problem for the world’s seas and oceans.
+They’ve been found all over the world –
+in Arctic ice,
+at the bottom of the sea and even inside animals,
+including humans.
+<v Georgina> Slovenian scientist,
+Dr Ana Rotter,
+heads Go Jelly,
+a European research team of jellyfish ecologists looking into the problem.
+Here she is speaking to BBC World Service programme,
+People Fixing the World:
+<v Dr Ana Rotter> Microplastics,
+plastics in general,
+are being an increasing problem –
+they’re everywhere.
+When I was a little girl we were more <strong>environmentally friendly</strong>,
+not knowing…
+so we never used plastic bags to go shopping,
+we always went with a cloth bags,
+we never used plastic to put our vegetable in it,
+<strong>single-use</strong> spoons,
+or forks,
+knives…
+this is for me something <strong>unheard of</strong> when I was a little girl.
+<v Neil> Dr Rotter says when she was a child,
+people were more <strong>environmentally friendly</strong> -
+not harmful to the environment or having the least possible impact on it.
+<v Georgina> At that time,
+there were very few <strong>single-use</strong> plastics –
+plastic items,
+like spoons and forks,
+designed to be used just once,
+then thrown away.
+<v Neil> Single-use plastic bags,
+for example,
+were <strong>unheard of</strong> -
+surprising or shocking because they were not previously known about or commonly used.
+<v Georgina> The situation since then has changed dramatically.
+In fact,
+there’s been such an increase in microplastics that today the UN lists plastic pollution as one of the world’s top environmental threats.
+But how do jellyfish fit into the story?
+<v Neil> Well,
+it’s the ‘jelly’
+part of jellyfish,
+and specifically their sticky,
+jelly-like mucus that is key.
+Here’s Dr Rotter again,
+explaining more to BBC World Service programme,
+People Fixing the World:
+<v Dr Ana Rotter> The mucus –
+this is a like a viscous substance that is being excreted from a jellyfish,
+might have they are called <strong>absorptive</strong> properties…
+so it means that the particles -
+various particles can attach to this mucus…
+so,
+could we use jellyfish and their mucus as a <strong>magnet</strong> for the microplastic particles?
+<v Georgina> Jellyfish produce a thick,
+sticky liquid called mucus.
+Dr Rotter has discovered that this mucus has strong <strong>absorptive</strong> properties –
+it can absorb,
+take in liquids and other substances and hold them in.
+<v Neil> One of the substances jellyfish mucus absorbs are the particles that make up microplastics.
+By trapping these tiny pieces of floating plastic,
+the mucus acts like a <strong>magnet</strong> –
+an object that attracts certain materials,
+like metal,
+or in this case,
+microplastic waste.
+<v Georgina> As rising sea temperatures and overfishing of their natural predators have boosted jellyfish numbers,
+this novel way of using their mucus couldn’t have come at a better time.
+<v Neil> Dr Rotter’s research is still in the early stages,
+but it’s hoped that jellyfish mucus could hold the key to a future free of microplastic polluted oceans.
+<v Georgina> Which is a big prize for the cost of few jellyfish stings.
+Speaking of which,
+Neil,
+what was the correct answer to your quiz question?
+<v Neil> Right,
+I asked you the best way to treat jellyfish stings.
+What did you say,
+Georgina?
+<v Georgina> I said it’s c) with vinegar
+<v Neil> Which is…
+the right answer!
+Well done.
+Vinegar inactivates the sting’s venom,
+so remember to pack a bottle of vinegar the next time you head to the beach!
+<v Georgina> In this programme,
+we’ve been hearing how scientists are using jellyfish <strong>mucus</strong> -
+a thick,
+sticky liquid produced in their bodies,
+to break down microplastics in the sea.
+<v Neil> Our addiction to <strong>single-use</strong> plastics –
+plastic items which are used only once,
+then thrown away,
+and which often get washed out to sea,
+has created a situation which is definitely not <strong>environmentally friendly</strong> –
+that means having minimal impact on the environment.
+<v Georgina> Until quite recently,
+the problems of micropollution and single-use plastic were <strong>unheard of</strong> -
+surprising or shocking because of not having been previously known about.
+<v Neil> Scientists are hoping that the mucus’s <strong>absorptive</strong> qualities –
+it’s ability to absorb liquids and other substances and hold them,
+will allow it to trap particles of plastic floating in the sea,
+making jellyfish mucus a <strong>magnet</strong> for pollution –
+an object that attracts certain materials -
+usually metals but in this case,
+microplastic waste.
+<v Georgina> That’s all for this programme,
+but to hear more about how these amazing sea creatures could help clean our oceans,
+why not check out People Fixing the World from the BBC World Service?
+<v Neil> And to hear more interesting items on trending topics,
+why not join us again soon here at 6 Minute English?
+Bye for now!
+<v Georgina> Bye!
+6 minute English from BBC.

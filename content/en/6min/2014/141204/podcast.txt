@@ -1,176 +1,176 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.68		to find out more visit our website
-6.68	13.56		6 minute English from BBClearningEnglish.com
-13.56	14.88	<v Rob>	Hello I’m Rob.
-14.88	16.76		Welcome to 6 Minute English.
-16.76	18.16		I’m joined today by Finn.
-18.16	19	<v Finn>	Hello.
-19	19.36	<v Rob>	Now,
-19.36	19.64		Finn,
-19.64	20.68		could you give us a smile,
-20.68	21.48		please?
-21.48	21.56	<v Finn>	Oh,
-21.56	21.88		OK,
-21.88	22.12		hang on…
-22.12	23.24	<v Rob>	Say cheese!
-23.24	23.56	<v Finn>	Oh,
-23.56	26.6		are you going to take a picture of me with that smartphone?
-26.6	29.2		Hang on; just let me comb my hair a bit.
-29.2	29.84	<v Rob>	Finn,
-29.84	30.08		Finn,
-30.08	30.36		Finn,
-30.36	31.16		you look fine.
-31.16	31.36		Don’t worry about it.
-31.36	32.52	<v Finn>	This isn’t quite right.
-32.52	33.24		I just want to…
-33.24	33.92		have you got a mirror?
-33.92	34.8	<v Rob>	No I haven’t.
-34.8	35.68		Just hold it there,
-35.68	36.16		OK?
-36.16	38.12		Hold it there (he takes a picture).
-38.12	38.88		Nice.
-38.88	39.28	<v Finn>	OK,
-39.28	39.68		let’s have a look.
-39.68	40.48	<v Rob>	Right.
-40.48	42.6		I’m gonna save that now…
-42.6	43		OK,
-43	45.48		that’s it: it’s gone to the <strong>cloud</strong>!
-45.48	45.92	<v Finn>	Really?
-45.92	46.4	<v Rob>	Yes.
-46.4	48.6		we’ll be able to look at that later on my laptop.
-48.6	48.92	<v Finn>	Ah,
-48.92	49.8		the cloud!
-49.8	51.48		You don’t mean the one in the sky,
-51.48	52.12		of course.
-52.12	52.56	<v Rob>	No.
-52.56	55.96	<v Finn>	You mean the huge computers where companies like Apple,
-55.96	60		Facebook and Google store their users’ pictures,
-60	61.84		videos and documents.
-61.84	62.6		You know,
-62.6	65.64		I’m a little suspicious about the cloud.
-65.64	66.32	<v Rob>	Are you?
-66.32	67.2	<v Finn>	Well,
-67.2	70.68		I just don’t want lots of people looking at that picture.
-70.68	72.56		Mainly because my hair doesn’t look quite right.
-72.56	73.92	<v Rob>	You’re so vain.
-73.92	74.56		Gosh!
-74.56	76.24		It’s too late now.
-76.24	78.84		But you look fine so you can share it with the world.
-78.84	79.24	<v Finn>	OK.
-79.24	84.04	<v Rob>	Think about those poor celebrities who’ve had their nude pictures <strong>leaked</strong> online.
-84.04	85.24	<v Finn>	Leaked -
-85.24	91.48		now this refers to pictures that were being kept hidden being made available to the public.
-91.48	93.72		They were leaked to the public.
-93.72	95.56		Actress Jennifer Lawrence,
-95.56	98.04		who starred in the <em>Hunger Games</em> movies,
-98.04	100.56		was one as was the singer Rhianna.
-100.56	105.44	<v Rob>	This incident has made people discuss the issue of <strong>privacy</strong> on the internet.
-105.44	109.36		Privacy means being free from public attention.
-109.36	113.64		And in this programme you’ll hear useful words for giving your opinion on this subject.
-113.64	114.24	<v Finn>	Yes.
-114.24	116.64		The celebrities were very angry.
-116.64	122.92	<v Rob>	They thought they could keep their pictures private because they were in the cloud protected by a <strong>password</strong> -
-122.92	130.48		a word or sequence of numbers that only they knew and which is required for them to gain access to what is stored in their name.
-130.48	132.44	<v Finn>	The US federal police -
-132.44	133.76		that’s the FBI -
-133.76	137.96		have been investigating this to find the <strong>hackers</strong> involved.
-137.96	143.24		Hackers are people who understand a lot about computers and use flaws -
-143.24	144.8		or little problems -
-144.8	148.08		in the software to gain access to a computer file,
-148.08	148.92		or network,
-148.92	149.68		illegally.
-149.68	151.8	<v Rob>	Today we have passwords for everything.
-151.8	153.04		And we have so many devices -
-153.04	156.2		like smartphones and laptops and computers -
-156.2	158.92		so I’m going to ask you a question about smartphones.
-158.92	159.24	<v Finn>	OK.
-159.24	160.36		Very good.
-160.36	161.6	<v Rob>	According to research,
-161.6	165.64		how many people had mobile phones in 2013?
-165.64	166.04		Was it:
-166.04	168.28		a) 1.4 million people
-168.28	170.8		b) 14 million people
-170.8	173.96		c) 1.4 billion people
-173.96	175.28	<v Finn>	Across the whole world?
-175.28	176.16	<v Rob>	Yup.
-176.16	180.24	<v Finn>	I think this is got to be: c) 1.4 billion people.
-180.24	180.64	<v Rob>	Well,
-180.64	183.6		you’ll get the correct answer at the end of the programme.
-183.6	184.12		Right.
-184.12	186.8		Let’s talk more about privacy online.
-186.8	189.4		People are more and more concerned about it.
-189.4	193.68		Listen to the advice internet expert Oliver Crofton gives us.
-193.68	199.84		Which word does he use to describe how you have to be when putting things into the cloud?
-199.84	204.72	<v Oliver Crofton, expert on the internet>	I think ultimately it’s about being slightly <strong>savvy</strong> on what you put into the cloud.
-204.72	208.36		If you have a private or sensitive photograph,
-208.36	214.56		or a contract or some sort of document that has public interest and that people will want to try and get,
-214.56	217.96		just think twice about putting it into an environment such as a Cloud,
-217.96	219.96		of which you don’t really have any control over.
-219.96	223.72	<v Finn>	He says people have to be ‘savvy’ -
-223.72	223.88		now,
-223.88	227		that means well-informed and quite shrewd,
-227	227.36		you know,
-227.36	229.12		thinking carefully about things.
-229.12	238		He advises us to be very careful before putting documents and pictures onto these websites owned by big corporations.
-238	238.52	<v Rob>	Yes,
-238.52	242.68		because he says we don’t have any control over their computers -
-242.68	245.44		you don’t know how secure your documents are.
-245.44	245.8	<v Finn>	Yeah,
-245.8	246.4		you know Rob,
-246.4	249.68		I can see why people are suspicious of these things.
-249.68	250.08	<v Rob>	Well,
-250.08	255.4		let’s see what the BBC technology correspondent Rory Cellan-Jones has to say.
-255.4	259.96		Rory explains howsome cloud companies are offering to make the cloud more secure.
-259.96	267.48		Which word does he use to describe this kind of security process and it also means ‘identification of the user’?
-267.48	273.56	<v Rory Cellan-Jones, BBC technology correspondent>	Many cloud companies now offer an added layer of security called ‘two-factor <strong>authentication</strong>’,
-273.56	280.24		where users have to enter a code sent to their mobile phone as well as a password to get into their accounts.
-280.24	280.6	<v Finn>	OK,
-280.6	283.08		the word was ‘authentication’ -
-283.08	283.4		now,
-283.4	287.12		that’s confirmation that someone is who they say they are.
-287.12	290.28		And the company actually uses two steps to do this.
-290.28	290.88	<v Rob>	Yes.
-290.88	293.12		After you try to access your account,
-293.12	294.4		they send a code -
-294.4	296.24		probably a series of numbers -
-296.24	297.48		to your mobile phone,
-297.48	300.84		so it’s an extra bit of information that only you know.
-300.84	306.08	<v Finn>	We really all should be very careful about how we protect our computers,
-306.08	308.44		and our tablets and our smartphones,
-308.44	309.2		things like that.
-309.2	310.92	<v Rob>	Talking about smartphones,
-310.92	312.32		let’s go back to my question.
-312.32	312.8	<v Finn>	OK.
-312.8	316.88	<v Rob>	I asked you how many people had mobile phones in 2013.
-316.88	319.2		Was it: 1.4 million people,
-319.2	320.64		14 million people,
-320.64	323.24		or 1.4 billion people?
-323.24	326.52	<v Finn>	And I said 1.4 billion -
-326.52	327.56		the big one.
-327.56	328.44	<v Rob>	And you are correct!
-328.44	329.12	<v Finn>	OK!
-329.12	329.48	<v Rob>	Yes,
-329.48	331.08		by the end of 2013,
-331.08	339.96		about 1.4 billion people owned and used smartphones and by the end of 2014 this number will increase by 25% -
-339.96	342.76		this is according to the research company eMarketer.
-342.76	343.48	<v Finn>	Wow!
-343.48	344.32		What a lot of phones,
-344.32	344.64		Rob!
-344.64	345.52	<v Rob>	Indeed.
-345.52	345.76		Well,
-345.76	349.92		our time is up so let’s remember some of the words we’ve explained today.
-349.92	350.84	<v Finn>	They were:
-350.84	352.24		cloud
-352.24	353.8		leak
-353.8	355.2		privacy
-355.2	358.2		password
-358.2	359.68		hackers
-359.68	360.92		savvy
-360.92	362.6		authentication
-362.6	364.2	<v Rob>	That’s it for today.
-364.2	367.04		Do log on to bbclearningenglish.com -
-367.04	368.12		there’s no password -
-368.12	370.24		to find more 6 Minute English.
-370.24	371	<v Rob>	Bye for now!
-371	371.48	<v Finn>	Bye.
-371.48	378.36		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello I’m Rob.
+Welcome to 6 Minute English.
+I’m joined today by Finn.
+<v Finn> Hello.
+<v Rob> Now,
+Finn,
+could you give us a smile,
+please?
+<v Finn> Oh,
+OK,
+hang on…
+<v Rob> Say cheese!
+<v Finn> Oh,
+are you going to take a picture of me with that smartphone?
+Hang on; just let me comb my hair a bit.
+<v Rob> Finn,
+Finn,
+Finn,
+you look fine.
+Don’t worry about it.
+<v Finn> This isn’t quite right.
+I just want to…
+have you got a mirror?
+<v Rob> No I haven’t.
+Just hold it there,
+OK?
+Hold it there (he takes a picture).
+Nice.
+<v Finn> OK,
+let’s have a look.
+<v Rob> Right.
+I’m gonna save that now…
+OK,
+that’s it: it’s gone to the <strong>cloud</strong>!
+<v Finn> Really?
+<v Rob> Yes.
+we’ll be able to look at that later on my laptop.
+<v Finn> Ah,
+the cloud!
+You don’t mean the one in the sky,
+of course.
+<v Rob> No.
+<v Finn> You mean the huge computers where companies like Apple,
+Facebook and Google store their users’ pictures,
+videos and documents.
+You know,
+I’m a little suspicious about the cloud.
+<v Rob> Are you?
+<v Finn> Well,
+I just don’t want lots of people looking at that picture.
+Mainly because my hair doesn’t look quite right.
+<v Rob> You’re so vain.
+Gosh!
+It’s too late now.
+But you look fine so you can share it with the world.
+<v Finn> OK.
+<v Rob> Think about those poor celebrities who’ve had their nude pictures <strong>leaked</strong> online.
+<v Finn> Leaked -
+now this refers to pictures that were being kept hidden being made available to the public.
+They were leaked to the public.
+Actress Jennifer Lawrence,
+who starred in the <em>Hunger Games</em> movies,
+was one as was the singer Rhianna.
+<v Rob> This incident has made people discuss the issue of <strong>privacy</strong> on the internet.
+Privacy means being free from public attention.
+And in this programme you’ll hear useful words for giving your opinion on this subject.
+<v Finn> Yes.
+The celebrities were very angry.
+<v Rob> They thought they could keep their pictures private because they were in the cloud protected by a <strong>password</strong> -
+a word or sequence of numbers that only they knew and which is required for them to gain access to what is stored in their name.
+<v Finn> The US federal police -
+that’s the FBI -
+have been investigating this to find the <strong>hackers</strong> involved.
+Hackers are people who understand a lot about computers and use flaws -
+or little problems -
+in the software to gain access to a computer file,
+or network,
+illegally.
+<v Rob> Today we have passwords for everything.
+And we have so many devices -
+like smartphones and laptops and computers -
+so I’m going to ask you a question about smartphones.
+<v Finn> OK.
+Very good.
+<v Rob> According to research,
+how many people had mobile phones in 2013?
+Was it:
+a) 1.4 million people
+b) 14 million people
+c) 1.4 billion people
+<v Finn> Across the whole world?
+<v Rob> Yup.
+<v Finn> I think this is got to be: c) 1.4 billion people.
+<v Rob> Well,
+you’ll get the correct answer at the end of the programme.
+Right.
+Let’s talk more about privacy online.
+People are more and more concerned about it.
+Listen to the advice internet expert Oliver Crofton gives us.
+Which word does he use to describe how you have to be when putting things into the cloud?
+<v Oliver Crofton, expert on the internet> I think ultimately it’s about being slightly <strong>savvy</strong> on what you put into the cloud.
+If you have a private or sensitive photograph,
+or a contract or some sort of document that has public interest and that people will want to try and get,
+just think twice about putting it into an environment such as a Cloud,
+of which you don’t really have any control over.
+<v Finn> He says people have to be ‘savvy’ -
+now,
+that means well-informed and quite shrewd,
+you know,
+thinking carefully about things.
+He advises us to be very careful before putting documents and pictures onto these websites owned by big corporations.
+<v Rob> Yes,
+because he says we don’t have any control over their computers -
+you don’t know how secure your documents are.
+<v Finn> Yeah,
+you know Rob,
+I can see why people are suspicious of these things.
+<v Rob> Well,
+let’s see what the BBC technology correspondent Rory Cellan-Jones has to say.
+Rory explains howsome cloud companies are offering to make the cloud more secure.
+Which word does he use to describe this kind of security process and it also means ‘identification of the user’?
+<v Rory Cellan-Jones, BBC technology correspondent> Many cloud companies now offer an added layer of security called ‘two-factor <strong>authentication</strong>’,
+where users have to enter a code sent to their mobile phone as well as a password to get into their accounts.
+<v Finn> OK,
+the word was ‘authentication’ -
+now,
+that’s confirmation that someone is who they say they are.
+And the company actually uses two steps to do this.
+<v Rob> Yes.
+After you try to access your account,
+they send a code -
+probably a series of numbers -
+to your mobile phone,
+so it’s an extra bit of information that only you know.
+<v Finn> We really all should be very careful about how we protect our computers,
+and our tablets and our smartphones,
+things like that.
+<v Rob> Talking about smartphones,
+let’s go back to my question.
+<v Finn> OK.
+<v Rob> I asked you how many people had mobile phones in 2013.
+Was it: 1.4 million people,
+14 million people,
+or 1.4 billion people?
+<v Finn> And I said 1.4 billion -
+the big one.
+<v Rob> And you are correct!
+<v Finn> OK!
+<v Rob> Yes,
+by the end of 2013,
+about 1.4 billion people owned and used smartphones and by the end of 2014 this number will increase by 25% -
+this is according to the research company eMarketer.
+<v Finn> Wow!
+What a lot of phones,
+Rob!
+<v Rob> Indeed.
+Well,
+our time is up so let’s remember some of the words we’ve explained today.
+<v Finn> They were:
+cloud
+leak
+privacy
+password
+hackers
+savvy
+authentication
+<v Rob> That’s it for today.
+Do log on to bbclearningenglish.com -
+there’s no password -
+to find more 6 Minute English.
+<v Rob> Bye for now!
+<v Finn> Bye.
+6 minute English from BBC.

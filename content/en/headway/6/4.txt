@@ -1,26 +1,26 @@
-0.17	2.47	T 6.4
-4.45	8.16	Well, there are a lot of things I can’t do.
-8.42	10.22	I can’t drive a car,
-10.69	12.54	but I want to have lessons soon.
-13.32	15.52	I can’t speak French
-15.93	17.61	but I can speak Italian,
-17.88	19.15	my mother’s Italian,
-19.48	21.03	and we often go to Italy.
-21.74	23.60	My mother’s a really good cook,
-23.95	25.66	she can cook really well,
-25.91	27.52	not just Italian food,
-27.85	29.02	all kinds of food,
-29.53	31.00	but I can’t cook at all.
-31.60	33.01	I just love eating!
-34.19	35.85	What about sports?
-37.41	40.26	Er … I think I’m good at quite a lot of sports.
-40.43	42.15	I can play tennis,
-42.37	43.43	and ski,
-43.67	46.41	sometimes we go skiing in the Italian Alps,
-46.70	48.67	and of course I can swim.
-49.53	51.75	But musical instruments –
-52.27	54.92	no – I can’t play any at all –
-55.23	57.34	no I’m not very musical,
-57.60	59.04	but I love dancing!
-60.02	62.23	Of course I can use a computer –
-62.57	63.90	all my friends can.
+T 6.4
+Well, there are a lot of things I can’t do.
+I can’t drive a car,
+but I want to have lessons soon.
+I can’t speak French
+but I can speak Italian,
+my mother’s Italian,
+and we often go to Italy.
+My mother’s a really good cook,
+she can cook really well,
+not just Italian food,
+all kinds of food,
+but I can’t cook at all.
+I just love eating!
+What about sports?
+Er … I think I’m good at quite a lot of sports.
+I can play tennis,
+and ski,
+sometimes we go skiing in the Italian Alps,
+and of course I can swim.
+But musical instruments –
+no – I can’t play any at all –
+no I’m not very musical,
+but I love dancing!
+Of course I can use a computer –
+all my friends can.

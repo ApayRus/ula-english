@@ -1,39 +1,39 @@
-0.26	1.42	Unit 11
-2.40	4.54	Tapescript 11.1
-6.10	7.92	<v O> Oh dear! Monica,
-7.92	10.00	I don’t know any of these people.
-10.00	10.90	Who are they?
-10.90	12.54	<v M> Don’t worry Oliver.
-12.54	14.22	They’re all very nice.
-14.52	16.56	Can you see that man over there?
-16.80	18.04	He’s sitting down.
-18.26	19.46	That’s Harry.
-19.68	22.56	He’s a musician. He works in LA.
-22.64	23.64	<v O> Sorry, where?
-23.72	27.40	<v M> You know, LA. Los Angeles.
-27.40	28.46	<v O> Oh yeah.
-28.46	30.76	<v M> And he’s talking to Mandy.
-31.06	32.90	She’s wearing a red dress.
-33.16	36.10	She’s very nice and very rich!
-36.28	39.18	She lives in a beautiful old house in the country.
-39.18	40.10	<v O> Rich, eh?
-40.10	42.56	<v M> Yes. Rich and married!
-43.14	45.26	Next to her is Fiona.
-45.26	48.06	She’s drinking a glass of red wine.
-48.46	50.28	Fiona’s my oldest friend,
-50.44	52.28	she and I were at school together.
-52.36	53.92	<v O> And what does Fiona do?
-54.16	55.20	<v M> She’s a writer.
-55.50	57.34	She writes children’s stories –
-57.78	59.72	they’re not very good but …
-59.80	60.78	anyway,
-60.86	62.72	she’s talking to George.
-62.84	65.52	He’s laughing and smoking a cigar.
-65.78	66.96	He’s a pilot.
-67.62	71.26	He travels the world, thousands of miles every week.
-71.26	74.30	<v O> And who are those two over there? They’re dancing.
-74.64	76.98	Mmmm. They know each other very well.
-77.26	80.94	<v M> Oh, that’s Roz and Sam. They’re married.
-81.30	83.26	They live in the flat upstairs.
-83.40	87.46	<v O> So … er … that’s Harry and Mandy and … er
-87.84	91.92	… it’s no good, I can’t remember all those names.
+Unit 11
+Tapescript 11.1
+<v O> Oh dear! Monica,
+I don’t know any of these people.
+Who are they?
+<v M> Don’t worry Oliver.
+They’re all very nice.
+Can you see that man over there?
+He’s sitting down.
+That’s Harry.
+He’s a musician. He works in LA.
+<v O> Sorry, where?
+<v M> You know, LA. Los Angeles.
+<v O> Oh yeah.
+<v M> And he’s talking to Mandy.
+She’s wearing a red dress.
+She’s very nice and very rich!
+She lives in a beautiful old house in the country.
+<v O> Rich, eh?
+<v M> Yes. Rich and married!
+Next to her is Fiona.
+She’s drinking a glass of red wine.
+Fiona’s my oldest friend,
+she and I were at school together.
+<v O> And what does Fiona do?
+<v M> She’s a writer.
+She writes children’s stories –
+they’re not very good but …
+anyway,
+she’s talking to George.
+He’s laughing and smoking a cigar.
+He’s a pilot.
+He travels the world, thousands of miles every week.
+<v O> And who are those two over there? They’re dancing.
+Mmmm. They know each other very well.
+<v M> Oh, that’s Roz and Sam. They’re married.
+They live in the flat upstairs.
+<v O> So … er … that’s Harry and Mandy and … er
+… it’s no good, I can’t remember all those names.

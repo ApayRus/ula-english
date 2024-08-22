@@ -1,158 +1,158 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	12.2		6 minute English from BBClearningEnglish.com
-12.2	14.48	<v Alice>	Hello and welcome to 6 Minute English.
-14.48	15.16		I’m Alice…
-15.16	15.4	<v Neil>	…
-15.4	16.36		And I’m Neil.
-16.36	18.44	<v Alice>	Can you do any impersonations,
-18.44	19.08		Neil?
-19.08	22.12	<v Neil>	How about this one: My name is Michael Caine.
-22.12	26.04		Not a lot of people know that.
-26.04	26.96	<v Alice>	Michael Caine,
-26.96	29.6		one of our best loved actors here in Britain.
-29.6	30.24		Not bad,
-30.24	30.84		Neil.
-30.84	33.4		And is a very good way to start today’s show.
-33.4	36.28		We are talking about <strong>impersonation</strong> –
-36.28	38.52		or the act of pretending to be somebody else.
-38.52	40.2		Why do we like impersonations,
-40.2	40.56		Neil?
-40.56	40.88	<v Neil>	Well,
-40.88	45.48		sometimes the impersonator is a comedian and doing it to be funny.
-45.48	50.84		But another reason is that we get the opportunity to meet people who are no longer with us –
-50.84	53.88		like Elvis Presley or Marilyn Monroe.
-53.88	54.76		Either way,
-54.76	56.96		it helps if it’s a good impersonation.
-56.96	57.56	<v Alice>	Yes,
-57.56	60.12		some impersonations are pretty <strong>cheesy</strong> –
-60.12	61.84		and that means bad quality.
-61.84	63.48	<v Neil>	Oh yeah so…
-63.48	64.24		uh-huh…
-64.24	64.6		OK,
-64.6	65.4		Alice,
-65.4	67.04		I have a question for you!
-67.04	67.48	<v Alice>	Neil,
-67.48	69.04		that’s terrible!
-69.04	69.8	<v Neil>	Elvis,
-69.8	70.08		please,
-70.08	70.84		come on.
-70.84	75.52		Can you tell me the name of a musical act that impersonates a famous group?
-75.52	76.2		Is it …
-76.2	77.12		a) tribute,
-77.12	78.32		b) tribune,
-78.32	80.32		or c) tribunal?
-80.32	82.2	<v Alice>	I’ll go for a) tribute.
-82.2	83.6	<v Neil>	A tribute act?
-83.6	84.08		OK,
-84.08	84.48		well,
-84.48	87.8		we’ll find out if you got that right later on in the show.
-87.8	88.48		But,
-88.48	89.32		Alice,
-89.32	95.32		don’t you think some impersonators start to believe they really are the personalities they imitate?
-95.32	97.04	<v Alice>	What makes you say that?
-97.04	99.96	<v Neil>	Just think: every time you appear as Elvis Presley,
-99.96	101.12		you get fans yelling,
-101.12	101.68		'Elvis,
-101.68	102.08		Elvis,
-102.08	102.6		we love you,
-102.6	109.52		Elvis!’ And after a while that boundary between you and the real Elvis starts to blur.
-109.52	111.52		It must be quite tempting to,
-111.52	111.88		you know,
-111.88	114.92		pretend that you’re the king of rock’n’roll…
-114.92	116.48	<v Alice>	I’m not convinced,
-116.48	117.36		Neil.
-117.36	119.92		I think Elvis hangs up his wig and moves on.
-119.92	121.88		So let’s move on too,
-121.88	123.84		and talk about the art of imitation.
-123.84	128.72		Here’s British impressionist Jon Culshaw providing some tips on how to <strong>imitate</strong> –
-128.72	129.36		or copy –
-129.36	129.8		people.
-129.8	132.28	<v INSERT>	Don’t just say the catchphrase,
-132.28	133.12		don’t just say,
-133.12	135		‘I am Michael Caine.’ Say a bit more,
-135	136.12		get some gags going,
-136.12	137.4		some conversation going.
-137.4	141.12		Notice the things which are worth stretching,
-141.12	146.76		which are worth exaggerating to really give you the caricature of that person.
-146.76	148.56		It might be a little tic,
-148.56	150.32		it might be a little nuance -
-150.32	152.08		whatever you notice first really.
-152.08	154.16	<v Alice>	Jon Culshaw,
-154.16	154.48		there.
-154.48	155.92		What’s a <strong>catchphrase</strong>,
-155.92	156.44		Neil?
-156.44	157.68	<v Neil>	It’s a well-known phrase,
-157.68	160.12		often associated with a famous person –
-160.12	162.76		like the one I used for Michael Caine earlier on!
-162.76	171.88		‘Not a lot of people know that.’ So Jon is saying that it isn’t enough to repeat a catchphrase or use another impersonator’s ideas –
-171.88	174.28		you need to think of your own <strong>gags</strong> –
-174.28	174.96		or jokes.
-174.96	178.84	<v Alice>	And you do this by noticing and then exaggerating a person’s tics.
-178.84	183.36		A <strong>tic</strong> is something you do often without realizing you’re doing it,
-183.36	185.88		like using certain phrases or gestures –
-185.88	186.84		for example,
-186.84	188.08		scratching your head.
-188.08	188.96		Or in your case,
-188.96	189.32		Neil,
-189.32	190.92		wiggling your eyebrows.
-190.92	192.6	<v Neil>	Do I wiggle my eyebrows?
-192.6	193.76	<v Alice>	You’re doing it right now!
-193.76	194.76		But moving on,
-194.76	197.92		there is a serious and very negative side to impersonation.
-197.92	199.44		Some <strong>impostors</strong> –
-199.44	202.68		or people who deceive others by pretending to be somebody else –
-202.68	204.8		pose as doctors or lawyers,
-204.8	205.68		for example.
-205.68	208.56	<v Neil>	You mean without having the qualifications to do the job?
-208.56	209.44	<v Alice>	Exactly –
-209.44	211.6		which can have serious consequences,
-211.6	214.76		for example pretending to be a doctor with no medical knowledge.
-214.76	220.56	<v Neil>	Like in the film with Leonardo DiCaprio where his character impersonates an airline pilot,
-220.56	221.28		a doctor,
-221.28	221.92		and a lawyer.
-221.92	228.76	<v Alice>	DiCaprio’s character in the movie Catch Me If You Can is actually based on a real man called Frank Abagnale.
-228.76	235.04		Pan Am estimated that in two years Abagnale flew 250 flights to 26 countries.
-235.04	235.6	<v Neil>	OK,
-235.6	238.08		let’s listen to Dr Naftali G.
-238.08	238.6		Berrill,
-238.6	241.08		a forensic psychologist in New York City.
-241.08	244.56		He evaluates people for the American government.
-244.56	250.56		Here he’s talking about another real case of a woman in the US who was caught pretending to be an attorney –
-250.56	251.36		that’s a lawyer.
-251.36	260	<v INSERT>	The thing that was most troubling is that because she realized that she was not an attorney and that she was taking people’s money under false pretence,
-260	264.88		there was no sense of remorse or sense of sadness that she had exploited the people that trusted her.
-264.88	265.28		But,
-265.28	265.72		you know,
-265.72	270.04		in cases where you get these impostors who specifically are pursuing financial gain,
-270.04	271.52		they know what they’re doing,
-271.52	275.44		but they do it with the shallow conscience of an antisocial personality.
-275.44	278.16	<v Alice>	That was Dr Naftali G.
-278.16	278.72		Berrill.
-278.72	280.64		What does <strong>remorse</strong> mean,
-280.64	280.96		Neil?
-280.96	283.2	<v Neil>	It means being sorry for something you’ve done.
-283.2	289.56	<v Alice>	And our <strong>conscience</strong> is our inner sense of right or wrong –
-289.56	293.24		so a <strong>shallow</strong> conscience is one that isn’t very deep.
-293.24	301.8	<v Neil>	<strong>Antisocial</strong> in this context means harmful to other people and to society –
-301.8	303.56		although in a general sense,
-303.56	309		it means not enjoying the company of others.
-309	309.72	<v Alice>	OK.
-309.72	310.04		Well,
-310.04	312.8		I love your company,
-312.8	313.68		Neil,
-313.68	314.72		as you know.
-314.72	315.16		Now,
-315.16	317.68		how about the answer to today’s quiz question?
-317.68	326.92	<v Neil>	I asked: What’s the name we use for a band that impersonates a famous group?
-326.92	328.08		Is it …
-328.08	329.08		a) tribute?
-329.08	330.56		b) tribune?
-330.56	333.48		Or c) tribunal?
-333.48	342.2	<v Alice>	I said tribute.And you were right!Hurray!OK.
-342.2	347.64		It’s time to hear the words we learned today.
-347.64	353.08		They are:Well,
-353.08	359.88		that’s the end of today’s 6 Minute English.
-359.88	362.88		Please join us again soon!
-362.88	370.76		[Imitates Elvis again.]Elvis is leaving the studio!
-370.76	376.72		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> …
+And I’m Neil.
+<v Alice> Can you do any impersonations,
+Neil?
+<v Neil> How about this one: My name is Michael Caine.
+Not a lot of people know that.
+<v Alice> Michael Caine,
+one of our best loved actors here in Britain.
+Not bad,
+Neil.
+And is a very good way to start today’s show.
+We are talking about <strong>impersonation</strong> –
+or the act of pretending to be somebody else.
+Why do we like impersonations,
+Neil?
+<v Neil> Well,
+sometimes the impersonator is a comedian and doing it to be funny.
+But another reason is that we get the opportunity to meet people who are no longer with us –
+like Elvis Presley or Marilyn Monroe.
+Either way,
+it helps if it’s a good impersonation.
+<v Alice> Yes,
+some impersonations are pretty <strong>cheesy</strong> –
+and that means bad quality.
+<v Neil> Oh yeah so…
+uh-huh…
+OK,
+Alice,
+I have a question for you!
+<v Alice> Neil,
+that’s terrible!
+<v Neil> Elvis,
+please,
+come on.
+Can you tell me the name of a musical act that impersonates a famous group?
+Is it …
+a) tribute,
+b) tribune,
+or c) tribunal?
+<v Alice> I’ll go for a) tribute.
+<v Neil> A tribute act?
+OK,
+well,
+we’ll find out if you got that right later on in the show.
+But,
+Alice,
+don’t you think some impersonators start to believe they really are the personalities they imitate?
+<v Alice> What makes you say that?
+<v Neil> Just think: every time you appear as Elvis Presley,
+you get fans yelling,
+'Elvis,
+Elvis,
+we love you,
+Elvis!’ And after a while that boundary between you and the real Elvis starts to blur.
+It must be quite tempting to,
+you know,
+pretend that you’re the king of rock’n’roll…
+<v Alice> I’m not convinced,
+Neil.
+I think Elvis hangs up his wig and moves on.
+So let’s move on too,
+and talk about the art of imitation.
+Here’s British impressionist Jon Culshaw providing some tips on how to <strong>imitate</strong> –
+or copy –
+people.
+<v INSERT> Don’t just say the catchphrase,
+don’t just say,
+‘I am Michael Caine.’ Say a bit more,
+get some gags going,
+some conversation going.
+Notice the things which are worth stretching,
+which are worth exaggerating to really give you the caricature of that person.
+It might be a little tic,
+it might be a little nuance -
+whatever you notice first really.
+<v Alice> Jon Culshaw,
+there.
+What’s a <strong>catchphrase</strong>,
+Neil?
+<v Neil> It’s a well-known phrase,
+often associated with a famous person –
+like the one I used for Michael Caine earlier on!
+‘Not a lot of people know that.’ So Jon is saying that it isn’t enough to repeat a catchphrase or use another impersonator’s ideas –
+you need to think of your own <strong>gags</strong> –
+or jokes.
+<v Alice> And you do this by noticing and then exaggerating a person’s tics.
+A <strong>tic</strong> is something you do often without realizing you’re doing it,
+like using certain phrases or gestures –
+for example,
+scratching your head.
+Or in your case,
+Neil,
+wiggling your eyebrows.
+<v Neil> Do I wiggle my eyebrows?
+<v Alice> You’re doing it right now!
+But moving on,
+there is a serious and very negative side to impersonation.
+Some <strong>impostors</strong> –
+or people who deceive others by pretending to be somebody else –
+pose as doctors or lawyers,
+for example.
+<v Neil> You mean without having the qualifications to do the job?
+<v Alice> Exactly –
+which can have serious consequences,
+for example pretending to be a doctor with no medical knowledge.
+<v Neil> Like in the film with Leonardo DiCaprio where his character impersonates an airline pilot,
+a doctor,
+and a lawyer.
+<v Alice> DiCaprio’s character in the movie Catch Me If You Can is actually based on a real man called Frank Abagnale.
+Pan Am estimated that in two years Abagnale flew 250 flights to 26 countries.
+<v Neil> OK,
+let’s listen to Dr Naftali G.
+Berrill,
+a forensic psychologist in New York City.
+He evaluates people for the American government.
+Here he’s talking about another real case of a woman in the US who was caught pretending to be an attorney –
+that’s a lawyer.
+<v INSERT> The thing that was most troubling is that because she realized that she was not an attorney and that she was taking people’s money under false pretence,
+there was no sense of remorse or sense of sadness that she had exploited the people that trusted her.
+But,
+you know,
+in cases where you get these impostors who specifically are pursuing financial gain,
+they know what they’re doing,
+but they do it with the shallow conscience of an antisocial personality.
+<v Alice> That was Dr Naftali G.
+Berrill.
+What does <strong>remorse</strong> mean,
+Neil?
+<v Neil> It means being sorry for something you’ve done.
+<v Alice> And our <strong>conscience</strong> is our inner sense of right or wrong –
+so a <strong>shallow</strong> conscience is one that isn’t very deep.
+<v Neil> <strong>Antisocial</strong> in this context means harmful to other people and to society –
+although in a general sense,
+it means not enjoying the company of others.
+<v Alice> OK.
+Well,
+I love your company,
+Neil,
+as you know.
+Now,
+how about the answer to today’s quiz question?
+<v Neil> I asked: What’s the name we use for a band that impersonates a famous group?
+Is it …
+a) tribute?
+b) tribune?
+Or c) tribunal?
+<v Alice> I said tribute.And you were right!Hurray!OK.
+It’s time to hear the words we learned today.
+They are:Well,
+that’s the end of today’s 6 Minute English.
+Please join us again soon!
+[Imitates Elvis again.]Elvis is leaving the studio!
+6 minute English from BBC.

@@ -1,177 +1,177 @@
-0.1	3		This is a download from bbc learning English
-3	6.76		to find out more visit our website
-6.76	10.6		6 minute English from BBClearningEnglish.com
-10.6	12.64	<v Neil>	Hello,
-12.64	14.36		and welcome to 6 Minute English.
-14.36	14.88		I’m Neil.
-14.88	15.92	<v Rob>	And I’m Rob.
-15.92	22.2	<v Neil>	In this programme we’re talking about finance and in particular planning for our future lifestyles.
-22.2	24.52	<v Rob>	I can barely afford my current lifestyle!
-24.52	25.48	<v Neil>	Same here,
-25.48	28.28		but perhaps we’ll pick up some good tips today.
-28.28	29.12		Before that though,
-29.12	30.24		a question.
-30.24	34		Being a millionaire may be an impossible dream for most of us,
-34	37.12		but when was the word first used in English?
-37.12	37.6		Was it:
-37.6	39.84		a) 1600s
-39.84	41.04		b) 1700s,
-41.04	41.12		or
-41.12	42.76		c) 1800s
-42.76	43.6		What do you think,
-43.6	44.16		Rob?
-44.16	50.44	<v Rob>	I’m going to guess that it’s the 1600s as there have always been very wealthy people.
-50.44	50.72	<v Neil>	Well,
-50.72	52.92		I’ll reveal the answer later.
-52.92	53.2		Now,
-53.2	57.52		the BBC Money Box programme covers all sorts of financial features.
-57.52	61.4		Recently they were talking about lifestyle financial planning,
-61.4	65.68		which is planning your finances to meet the kind of lifestyle you want to have.
-65.68	72.64		Julie Lord leads a financial planning organisation and she talked about the process of lifestyle financial planning.
-72.64	76.52		How many numbers does she say you need to start with?
-76.52	76.64	<v Julie Lord>	Well,
-76.64	81.08		we would start by saying that we need to put together a lifetime <strong>cashflow forecast</strong> or a model.
-81.08	84.28		You just need four numbers: your <strong>income</strong>,
-84.28	86.28		your <strong>expenditure</strong>,
-86.28	87.4		<strong>assets</strong>,
-87.4	92.6		<strong>liabilities</strong> and then we project forward to show you what sort of lifestyle you will have if you do nothing at all and if indeed you do some of the things that -
-92.6	96.04		perhaps an ISA or a pension or any other kind of financial product -
-96.04	97.8		might help you with.
-97.8	99.92	<v Neil>	So how many numbers do you need?
-99.92	102	<v Rob>	She says that you start with just four numbers.
-102	102.72	<v Neil>	That’s right.
-102.72	106.12		The first of these numbers is your <strong>income</strong>,
-106.12	108.04		this is the money that you have coming in,
-108.04	108.76		your salary,
-108.76	109.8		for example.
-109.8	112.12	<v Rob>	Then there is the number for your <strong>expenditure</strong>.
-112.12	115.52		This is the money you have going out for rent,
-115.52	116		food,
-116	116.68		entertainment,
-116.68	118.24		transport and so on.
-118.24	120.88	<v Neil>	The next number was for <strong>assets</strong>.
-120.88	123.48		This is the cash value of things that you own.
-123.48	124.72		For example property,
-124.72	125.36		cars,
-125.36	127.92		jewellery as well as savings and investments,
-127.92	128.96		that kind of thing.
-128.96	131.48	<v Rob>	And finally there is <strong>liabilities</strong>.
-131.48	133		This is the money that you owe,
-133	135.68		for example on credit cards or loans.
-135.68	137.2	<v Neil>	So if you know these details,
-137.2	141.48		she says they can come up with a lifetime <strong>cashflow forecast</strong>,
-141.48	148.44		which is a calculation of how much money you can expect to have in the future and if that is enough to meet your expectations.
-148.44	149.6		Do you have those details?
-149.6	150.8		Do you know your numbers,
-150.8	151.24		Rob?
-151.24	156.6	<v Rob>	I have a very detailed spreadsheet where I do list my <strong>income</strong> and <strong>expenditure</strong>.
-156.6	161.12		So I do know from month to month how much money I need and how much I can spend.
-161.12	163.08	<v Neil>	That sounds very organised!
-163.08	164.68		What does it tell you about your future?
-164.68	165.4	<v Rob>	Well,
-165.4	169.08		it just reminds me of exactly how much money I don’t have.
-169.08	170.2		It’s quite depressing!
-170.2	170.64		How about you,
-170.64	171.16		Neil?
-171.16	171.52	<v Neil>	Oh,
-171.52	173.12		I live in blissful ignorance.
-173.12	175.88		I have no idea how big my debts are.
-175.88	177.4		I try not to worry about it.
-177.4	184.2		I kind of think I’m much too young to worry about it now and that as if by magic it will all work out in the end.
-184.2	187.6		So it would be difficult for me to come up those four numbers.
-187.6	187.96		Anyway,
-187.96	193.28		let’s listen to Julie Lord again describing the lifestyle financial planning process.
-193.28	194.36	<v Julie Lord>	Well,
-194.36	198.76		we would start by saying that we need to put together a lifetime <strong>cashflow forecast</strong> or a model.
-198.76	200.84		You just need four numbers: your <strong>income</strong>,
-200.84	202.16		your <strong>expenditure</strong>,
-202.16	203.36		<strong>assets</strong>,
-203.36	210.32		<strong>liabilities</strong> and then we project forward to show you what sort of lifestyle you will have if you do nothing at all and if indeed you do some of the things that -
-210.32	213.68		perhaps an ISA or a pension or any other kind of financial product -
-213.68	214.6		might help you with.
-214.6	219.48	<v Neil>	Is lifestyle financial planning only for older people with a good pension?
-219.48	221.88		Not according to Julie Lord.
-221.88	222.04	<v Julie Lord>	Well,
-222.04	223.36		it’s not all about old age,
-223.36	223.76		is it?
-223.76	224.64		I mean there are people…
-224.64	229.12		we have quite a number of younger clients who come to us and say 'we just want to get financially organised,
-229.12	230.52		we’ve heard about all this stuff,
-230.52	232.04		these financial products,
-232.04	233.44		no idea really what they are or,
-233.44	234.08		more importantly,
-234.08	234.72		what they’re going to do for us,
-234.72	241		so can you <strong>give us a hand</strong> to help us look forward to see what will happen’.
-241	244.88	<v Neil>	So she also has younger clients who ask for her company’s help.
-244.88	245.44	<v Rob>	Yes,
-245.44	246.76		she uses the phrase,
-246.76	248.12		<strong>give us a hand</strong>,
-248.12	249.52		which means to help someone.
-249.52	251.16		If you give someone a hand,
-251.16	252.32		you help them.
-252.32	252.8	<v Neil>	Exactly,
-252.8	255.28		in the way that I give you a hand with 6 Minute English.
-255.28	255.96	<v Rob>	Well,
-255.96	258.92		I think I <strong>give you a hand</strong> rather than the other way around,
-258.92	259.28		Neil.
-259.28	259.84	<v Neil>	Really,
-259.84	262.28		well let’s not fall out about it.
-262.28	264.68		Let’s listen to Julie Lord again.
-264.68	264.92	<v Julie Lord>	Well,
-264.92	266.28		it’s not all about old age,
-266.28	266.68		is it?
-266.68	267.04		I mean,
-267.04	267.36		there are people…
-267.36	271.84		we have quite a number of younger clients who come to us and say 'we just want to get financially organised,
-271.84	273.28		we’ve heard about all this stuff,
-273.28	274.76		these financial products,
-274.76	276.16		no idea really what they are or,
-276.16	276.68		more importantly,
-276.68	278.32		what they’re going to do for us,
-278.32	283.8		so can you <strong>give us a hand</strong> to help us look forward to see what will happen’.
-283.8	286.56	<v Neil>	It’s nearly time now to review our vocabulary,
-286.56	287.12		but first,
-287.12	289.32		let’s have the answer to our quiz question.
-289.32	293.04		When was the word millionaire first used in English?
-293.04	293.4		Was it:
-293.4	294.96		a) 1600s
-294.96	296.84		b) 1700s,
-296.84	296.92		or
-296.92	298.52		c) 1800s
-298.52	299.36		What did you think,
-299.36	299.6		Rob?
-299.6	300.4	<v Rob>	Well,
-300.4	302.76		I guessed and said it was the 1600s.
-302.76	303.48	<v Neil>	Well,
-303.48	305.24		not a good guess this time,
-305.24	305.92		I’m afraid.
-305.92	307.36		It’s actually a lot later.
-307.36	310.92		It was the 1800s when it was first used in English,
-310.92	313.48		though it had appeared in French in the 1700s.
-313.48	315.04		Now on with the vocabulary.
-315.04	315.68	<v Rob>	Yes,
-315.68	318.72		we had a lot of financial terms in this programme.
-318.72	321.4		We had <strong>cashflow forecast</strong>.
-321.4	326.76		This is a calculation of how much money you can expect to have at a particular time in the future.
-326.76	330.76	<v Neil>	And the <strong>cashflow forecast</strong> is based on knowing your <strong>income</strong>,
-330.76	334.08		which is the money you have coming in and your <strong>expenditure</strong>,
-334.08	335.28		the money you have going out.
-335.28	338.16	<v Rob>	You also need to know your <strong>assets</strong>,
-338.16	341.72		which is the value of things you own as well as savings and investments.
-341.72	345		This is balanced against your <strong>liabilities</strong>,
-345	346.84		which is the term for the money that you owe,
-346.84	348.2		for example on credit cards.
-348.2	352.56	<v Neil>	And finally we had the expression <strong>to give someone a hand</strong> meaning to help someone.
-352.56	353.44		Well,
-353.44	355.36		that’s all from us in this programme.
-355.36	357.4		We look forward to your company next time.
-357.4	358		Until then,
-358	360.88		you can find us in all the usual places on social media,
-360.88	362.32		online and on our app.
-362.32	364.6		Just search for bbclearninglish.
-364.6	365.16		Bye,
-365.16	366.96		and thanks Rob for giving me a hand.
-366.96	367.48	<v Rob>	No,
-367.48	370		thank you for giving me a hand.
-370	370.44		Bye!
-370.44	377.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello,
+and welcome to 6 Minute English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> In this programme we’re talking about finance and in particular planning for our future lifestyles.
+<v Rob> I can barely afford my current lifestyle!
+<v Neil> Same here,
+but perhaps we’ll pick up some good tips today.
+Before that though,
+a question.
+Being a millionaire may be an impossible dream for most of us,
+but when was the word first used in English?
+Was it:
+a) 1600s
+b) 1700s,
+or
+c) 1800s
+What do you think,
+Rob?
+<v Rob> I’m going to guess that it’s the 1600s as there have always been very wealthy people.
+<v Neil> Well,
+I’ll reveal the answer later.
+Now,
+the BBC Money Box programme covers all sorts of financial features.
+Recently they were talking about lifestyle financial planning,
+which is planning your finances to meet the kind of lifestyle you want to have.
+Julie Lord leads a financial planning organisation and she talked about the process of lifestyle financial planning.
+How many numbers does she say you need to start with?
+<v Julie Lord> Well,
+we would start by saying that we need to put together a lifetime <strong>cashflow forecast</strong> or a model.
+You just need four numbers: your <strong>income</strong>,
+your <strong>expenditure</strong>,
+<strong>assets</strong>,
+<strong>liabilities</strong> and then we project forward to show you what sort of lifestyle you will have if you do nothing at all and if indeed you do some of the things that -
+perhaps an ISA or a pension or any other kind of financial product -
+might help you with.
+<v Neil> So how many numbers do you need?
+<v Rob> She says that you start with just four numbers.
+<v Neil> That’s right.
+The first of these numbers is your <strong>income</strong>,
+this is the money that you have coming in,
+your salary,
+for example.
+<v Rob> Then there is the number for your <strong>expenditure</strong>.
+This is the money you have going out for rent,
+food,
+entertainment,
+transport and so on.
+<v Neil> The next number was for <strong>assets</strong>.
+This is the cash value of things that you own.
+For example property,
+cars,
+jewellery as well as savings and investments,
+that kind of thing.
+<v Rob> And finally there is <strong>liabilities</strong>.
+This is the money that you owe,
+for example on credit cards or loans.
+<v Neil> So if you know these details,
+she says they can come up with a lifetime <strong>cashflow forecast</strong>,
+which is a calculation of how much money you can expect to have in the future and if that is enough to meet your expectations.
+Do you have those details?
+Do you know your numbers,
+Rob?
+<v Rob> I have a very detailed spreadsheet where I do list my <strong>income</strong> and <strong>expenditure</strong>.
+So I do know from month to month how much money I need and how much I can spend.
+<v Neil> That sounds very organised!
+What does it tell you about your future?
+<v Rob> Well,
+it just reminds me of exactly how much money I don’t have.
+It’s quite depressing!
+How about you,
+Neil?
+<v Neil> Oh,
+I live in blissful ignorance.
+I have no idea how big my debts are.
+I try not to worry about it.
+I kind of think I’m much too young to worry about it now and that as if by magic it will all work out in the end.
+So it would be difficult for me to come up those four numbers.
+Anyway,
+let’s listen to Julie Lord again describing the lifestyle financial planning process.
+<v Julie Lord> Well,
+we would start by saying that we need to put together a lifetime <strong>cashflow forecast</strong> or a model.
+You just need four numbers: your <strong>income</strong>,
+your <strong>expenditure</strong>,
+<strong>assets</strong>,
+<strong>liabilities</strong> and then we project forward to show you what sort of lifestyle you will have if you do nothing at all and if indeed you do some of the things that -
+perhaps an ISA or a pension or any other kind of financial product -
+might help you with.
+<v Neil> Is lifestyle financial planning only for older people with a good pension?
+Not according to Julie Lord.
+<v Julie Lord> Well,
+it’s not all about old age,
+is it?
+I mean there are people…
+we have quite a number of younger clients who come to us and say 'we just want to get financially organised,
+we’ve heard about all this stuff,
+these financial products,
+no idea really what they are or,
+more importantly,
+what they’re going to do for us,
+so can you <strong>give us a hand</strong> to help us look forward to see what will happen’.
+<v Neil> So she also has younger clients who ask for her company’s help.
+<v Rob> Yes,
+she uses the phrase,
+<strong>give us a hand</strong>,
+which means to help someone.
+If you give someone a hand,
+you help them.
+<v Neil> Exactly,
+in the way that I give you a hand with 6 Minute English.
+<v Rob> Well,
+I think I <strong>give you a hand</strong> rather than the other way around,
+Neil.
+<v Neil> Really,
+well let’s not fall out about it.
+Let’s listen to Julie Lord again.
+<v Julie Lord> Well,
+it’s not all about old age,
+is it?
+I mean,
+there are people…
+we have quite a number of younger clients who come to us and say 'we just want to get financially organised,
+we’ve heard about all this stuff,
+these financial products,
+no idea really what they are or,
+more importantly,
+what they’re going to do for us,
+so can you <strong>give us a hand</strong> to help us look forward to see what will happen’.
+<v Neil> It’s nearly time now to review our vocabulary,
+but first,
+let’s have the answer to our quiz question.
+When was the word millionaire first used in English?
+Was it:
+a) 1600s
+b) 1700s,
+or
+c) 1800s
+What did you think,
+Rob?
+<v Rob> Well,
+I guessed and said it was the 1600s.
+<v Neil> Well,
+not a good guess this time,
+I’m afraid.
+It’s actually a lot later.
+It was the 1800s when it was first used in English,
+though it had appeared in French in the 1700s.
+Now on with the vocabulary.
+<v Rob> Yes,
+we had a lot of financial terms in this programme.
+We had <strong>cashflow forecast</strong>.
+This is a calculation of how much money you can expect to have at a particular time in the future.
+<v Neil> And the <strong>cashflow forecast</strong> is based on knowing your <strong>income</strong>,
+which is the money you have coming in and your <strong>expenditure</strong>,
+the money you have going out.
+<v Rob> You also need to know your <strong>assets</strong>,
+which is the value of things you own as well as savings and investments.
+This is balanced against your <strong>liabilities</strong>,
+which is the term for the money that you owe,
+for example on credit cards.
+<v Neil> And finally we had the expression <strong>to give someone a hand</strong> meaning to help someone.
+Well,
+that’s all from us in this programme.
+We look forward to your company next time.
+Until then,
+you can find us in all the usual places on social media,
+online and on our app.
+Just search for bbclearninglish.
+Bye,
+and thanks Rob for giving me a hand.
+<v Rob> No,
+thank you for giving me a hand.
+Bye!
+6 minute English from BBC.

@@ -1,39 +1,39 @@
-0.18	2.25	Tapescript 7.11
-3.61	4.11	1
-6.31	9.00	<v A> Ugh! Work again!
-9.68	11.50	I hate Monday mornings!
-12.04	12.83	<v B> Me, too.
-13.20	14.56	Did you have a nice weekend?
-14.94	16.59	<v A> Yes. It was brilliant.
-20.04	20.53	2
-22.22	25.79	Happy birthday to you.
-25.83	29.49	Happy birthday to you.
-29.51	33.76	Happy birthday, dear Tommy,
-33.79	37.71	Happy birthday to you.
-41.32	41.88	3
-43.56	45.79	<v A> Did you get any Valentine cards?
-45.85	47.28	<v B> Yes, I did.
-47.72	48.91	Listen to this.
-49.68	51.40	Roses are red.
-51.87	53.46	Violets are blue
-53.91	55.85	You are my Valentine
-55.96	58.80	And I love you.
-58.84	61.08	<v A> Oooh-er! Do you know who it’s from?
-61.11	62.29	<v B> No idea!
-65.75	66.31	4
-67.57	69.58	<v A> Congratulations!
-69.86	72.01	<v B> Oh … thank you very much.
-72.49	73.77	<v A> When’s the happy day?
-74.21	74.96	<v B> Pardon?
-75.76	76.68	<v A> Your wedding day.
-77.01	77.76	When is it?
-77.87	80.03	<v B> Oh! We’re not sure.
-80.51	82.27	Perhaps some time in June.
-85.88	86.70	5
-87.71	95.07	<v A> It’s midnight! Happy New Year everybody!
-95.09	97.06	<v B> Happy New Year !
-97.10	100.06	<v C> Happy New Year !
-103.85	104.58	6
-107.15	109.52	<v A> Thank goodness! It’s Friday!
-109.54	111.94	<v B> Yeah. Have a nice weekend!
-111.99	112.82	<v A> Same to you.
+Tapescript 7.11
+1
+<v A> Ugh! Work again!
+I hate Monday mornings!
+<v B> Me, too.
+Did you have a nice weekend?
+<v A> Yes. It was brilliant.
+2
+Happy birthday to you.
+Happy birthday to you.
+Happy birthday, dear Tommy,
+Happy birthday to you.
+3
+<v A> Did you get any Valentine cards?
+<v B> Yes, I did.
+Listen to this.
+Roses are red.
+Violets are blue
+You are my Valentine
+And I love you.
+<v A> Oooh-er! Do you know who it’s from?
+<v B> No idea!
+4
+<v A> Congratulations!
+<v B> Oh … thank you very much.
+<v A> When’s the happy day?
+<v B> Pardon?
+<v A> Your wedding day.
+When is it?
+<v B> Oh! We’re not sure.
+Perhaps some time in June.
+5
+<v A> It’s midnight! Happy New Year everybody!
+<v B> Happy New Year !
+<v C> Happy New Year !
+6
+<v A> Thank goodness! It’s Friday!
+<v B> Yeah. Have a nice weekend!
+<v A> Same to you.

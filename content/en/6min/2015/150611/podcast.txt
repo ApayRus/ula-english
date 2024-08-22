@@ -1,185 +1,185 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.12		6 minute English from BBClearningEnglish.com
-13.12	15.72	<v Neil>	Hello and welcome to 6 Minute English.
-15.72	16.32		I’m Neil…
-16.32	16.92	<v Catherine>	…and I’m Catherine.
-16.92	17.2		Hello.
-17.2	17.84	<v Neil>	Hello,
-17.84	18.44		Catherine!
-18.44	18.88		Now,
-18.88	20.84		how was your holiday?
-20.84	22.04	<v Catherine>	My holiday was lovely,
-22.04	22.56		Neil.
-22.56	25.04		I was staying on a beautiful island.
-25.04	29.04		It was very remote and there was actually no internet access.
-29.04	29.36		So,
-29.36	31.52		I did feel quite cut off actually.
-31.52	34.76	<v Neil>	And <strong>cut off</strong> means isolated.
-34.76	36.16		How did you survive,
-36.16	37.24		Catherine?
-37.24	37.64	<v Catherine>	Well,
-37.64	38.48		it wasn’t easy.
-38.48	40.24		But I had my <strong>e-reader</strong> -
-40.24	46.12		that’s an electronic device which lets you store and read lots of books from the internet.
-46.12	48.16		And I read a lot of Harry Potter…
-48.16	49.4	<v Neil>	Harry Potter?
-49.4	50.4		I know you like wizards,
-50.4	50.88		Catherine,
-50.88	53.48		but shouldn’t you have downloaded some classic literature?
-53.48	56.04		How about Shakespeare’s The Tempest?
-56.04	57.76		That’s got a wizard in it too.
-57.76	58.12	<v Catherine>	Well,
-58.12	58.76		yes indeed.
-58.76	61.4		But Shakespeare on the beach isn’t quite right for me,
-61.4	61.8		Neil.
-61.8	62.12	<v Neil>	Right.
-62.12	62.48		Well,
-62.48	67.08		today we’re talking about how the poorer and more <strong>remote</strong> -
-67.08	67.6		or distant -
-67.6	70.24		parts of the world can get access to learning.
-70.24	71	<v Catherine>	That’s right.
-71	71.84		But before we start,
-71.84	72.28		Neil,
-72.28	74.92		I believe you have a quiz question for us.
-74.92	75.08	<v Neil>	Yes,
-75.08	75.52		I do.
-75.52	82.88		I would like to know what the proportion of the world’s population that still has no internet access is.
-82.88	83.16		Is it…
-83.16	84.8		a) a quarter?
-84.8	85.84		b) half?
-85.84	87.52		or c) two thirds?
-87.52	90.52	<v Catherine>	I’m going to go for c) two thirds.
-90.52	91.04	<v Neil>	Well,
-91.04	94.68		we’ll find out if you’re right or wrong later on in the programme.
-94.68	95.44		So Catherine,
-95.44	99.8		how can these people get connected to the internet and start surfing?
-99.8	101.68	<v Catherine>	By using the Outernet.
-101.68	102.6	<v Neil>	The Outer what?
-102.6	103.88	<v Catherine>	The Outernet.
-103.88	117.48		That’s the idea of entrepreneur Syed Karim and its goal is to give people in unconnected communities access to information without having to use expensive mobile phones or two-way satellite networks.
-117.48	118.2	<v Neil>	I see.
-118.2	119.88		And an <strong>entrepreneur</strong>,
-119.88	120.48		by the way,
-120.48	126.52		is a person who makes money by starting their own business that typically involves some financial risk.
-126.52	126.96	<v Catherine>	Yes,
-126.96	129.92		I’ve always fancied myself as a bit of an entrepreneur.
-129.92	130.4	<v Neil>	Well,
-130.4	132.36		you’ll need money and ideas,
-132.36	132.56		Catherine.
-132.56	134.16		Have you got either of those?
-134.16	135.76	<v Catherine>	I’ve got ideas.
-135.76	136.04	<v Neil>	Right.
-136.04	137.16		OK.
-137.16	137.84		I get it.
-137.84	138.2	<v Catherine>	So,
-138.2	140.48		can you tell us how the Outernet works,
-140.48	140.84		Neil?
-140.84	141.04	<v Neil>	Yes,
-141.04	141.92		I can.
-141.92	147.44		The Outernet uses existing communications satellites to store and broadcast data -
-147.44	150.92		<strong>broadcast</strong> means to send out signals or programmes.
-150.92	153.8		Special equipment on the ground <strong>picks up</strong> -
-153.8	154.56		or receives -
-154.56	155.36		the data,
-155.36	158.52		and this can be copied to phones and computers.
-158.52	161.8	<v Catherine>	But the Outernet broadcasts data <strong>offline</strong> -
-161.8	164.28		which means it’s not connected to the Internet.
-164.28	167.16		There’s no communication with the internet for user -
-167.16	167.6		so,
-167.6	168.8		no emails,
-168.8	170.2		no chat forums.
-170.2	172.56		And that can be a big <strong>drawback</strong> -
-172.56	173.68		or disadvantage.
-173.68	174.04	<v Neil>	Yes.
-174.04	177.36		The Outernet doesn’t provide two-way communication.
-177.36	183.36		But let’s hear Syed Karim discussing why one-way access has some advantages.
-183.36	186.28		And see if you can spot another word meaning ‘two-way’.
-186.28	189.4	<v INSERT>	Anything that is related to bi-directional communications,
-189.4	189.88		the internet,
-189.88	192.76		to be able to provide that to the entire world,
-192.76	194.32		those are billion dollar projects,
-194.32	200.08		multi-billion dollar projects with huge time horizons and enormous complexity.
-200.08	200.36		And,
-200.36	200.92		you know,
-200.92	203.24		our solution that we are offering is instantaneous,
-203.24	203.44		I mean,
-203.44	204.6		it exists right now.
-204.6	205.84	<v Neil>	Did you get it?
-205.84	209.6		Another way of saying two-way is <strong>bi-directional</strong>.
-209.6	212.52		So what are the advantages of <strong>one-way</strong> communication,
-212.52	213.4		Catherine?
-213.4	214.88	<v Catherine>	It’s significantly cheaper.
-214.88	219		Bi-directional communications are multi-billion dollar projects.
-219	223.92		But the Outernet allows poorer communities to benefit from access to information.
-223.92	224.8	<v Neil>	Yes,
-224.8	225.36		it does.
-225.36	229.96		And the other big problem is the time it would take to establish two-way access.
-229.96	233.8		Syed says these projects have huge <strong>time horizons</strong> -
-233.8	237.36		and this means the length of time it takes to complete a project -
-237.36	238.24		they’re huge,
-238.24	239.36		so very big.
-239.36	244.2	<v Catherine>	But the Outernet is already providing access to some of the world’s most valuable knowledge.
-244.2	244.8	<v Neil>	That’s right.
-244.8	252.36		The project aims to create a library of information taken from websites including Wikipedia and Project Gutenberg,
-252.36	255		which is a collection of copyright-free e-books.
-255	260.52		<strong>Copyright-free</strong> means the right to use material without paying any fees.
-260.52	261.24	<v Catherine>	That sounds good.
-261.24	270.32		But let’s go back to the internet and hear from a BBC reporter talking about another project which aims to get people connected.
-270.32	273.56	<v INSERT>	Google for example is working on Project Loon,
-273.56	276.32		a network of high-altitude helium balloons,
-276.32	282.16		which will boost Internet connections across much wider areas beyond coverage from conventional masts.
-282.16	283.84	<v Neil>	It’s called Project <strong>Loon</strong> -
-283.84	284.8		meaning crazy -
-284.8	287.48		because Google thought it was such a crazy idea,
-287.48	289.48		and loon sounds like balloon!
-289.48	289.92	<v Catherine>	Yeah.
-289.92	293.64		The idea is that users will connect to the <strong>balloon network</strong> -
-293.64	296.16		or group of interconnected balloons -
-296.16	298.92		using an antenna attached to their building.
-298.92	303.44		The signal travels through the balloon network from balloon to balloon,
-303.44	307.2		and then to a station on the ground that’s connected to the Internet.
-307.2	308.96	<v Neil>	The balloons will <strong>boost</strong> -
-308.96	309.76		or increase -
-309.76	312.72		the number of people who will be able to access the Internet.
-312.72	313.08	<v Catherine>	Yes,
-313.08	313.08		it will.
-313.08	315.48		And that’s because there will be lots of them -
-315.48	317.2		compared to the number of <strong>masts</strong> -
-317.2	320.8		or tall metal towers that send and receive signals -
-320.8	322.44		that are currently used.
-322.44	323	<v Neil>	OK,
-323	330.44		let’s have the answer to the quiz question I asked: What proportion of the world’s population still has no internet access?
-330.44	330.84		Is it …
-330.84	332.32		a) a quarter?
-332.32	333.68		b) half?
-333.68	335.04		or c) two thirds?
-335.04	337.08	<v Catherine>	And I said c) two thirds.
-337.08	338.84	<v Neil>	And you were right!
-338.84	340.28		The answer is two thirds.
-340.28	340.64		Well done,
-340.64	341.16		Catherine.
-341.16	341.72	<v Catherine>	Thank you.
-341.72	345.52	<v Neil>	Now just time to listen to today’s words once again.
-345.52	345.84		Catherine.
-345.84	346.52	<v Catherine>	OK.
-346.52	347.24		We heard:
-347.24	348.44		e-reader
-348.44	349.52		remote
-349.52	350.8		entrepreneur
-350.8	352.24		broadcast
-352.24	353.32		picks up
-353.32	354.76		drawback
-354.76	356.32		bi-directional
-356.32	357.72		one-way
-357.72	359.36		time horizons
-359.36	360.64		copyright-free
-360.64	362.2		balloon network
-362.2	363.16		boost
-363.16	364.28		masts
-364.28	365.08	<v Neil>	Well,
-365.08	366.88		that’s the end of today’s 6 Minute English.
-366.88	370		I hope you enjoyed connecting with us today!
-370	371.08		Please join us again soon.
-371.08	372	<v Both>	Bye.
-372	379.04		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello and welcome to 6 Minute English.
+I’m Neil…
+<v Catherine> …and I’m Catherine.
+Hello.
+<v Neil> Hello,
+Catherine!
+Now,
+how was your holiday?
+<v Catherine> My holiday was lovely,
+Neil.
+I was staying on a beautiful island.
+It was very remote and there was actually no internet access.
+So,
+I did feel quite cut off actually.
+<v Neil> And <strong>cut off</strong> means isolated.
+How did you survive,
+Catherine?
+<v Catherine> Well,
+it wasn’t easy.
+But I had my <strong>e-reader</strong> -
+that’s an electronic device which lets you store and read lots of books from the internet.
+And I read a lot of Harry Potter…
+<v Neil> Harry Potter?
+I know you like wizards,
+Catherine,
+but shouldn’t you have downloaded some classic literature?
+How about Shakespeare’s The Tempest?
+That’s got a wizard in it too.
+<v Catherine> Well,
+yes indeed.
+But Shakespeare on the beach isn’t quite right for me,
+Neil.
+<v Neil> Right.
+Well,
+today we’re talking about how the poorer and more <strong>remote</strong> -
+or distant -
+parts of the world can get access to learning.
+<v Catherine> That’s right.
+But before we start,
+Neil,
+I believe you have a quiz question for us.
+<v Neil> Yes,
+I do.
+I would like to know what the proportion of the world’s population that still has no internet access is.
+Is it…
+a) a quarter?
+b) half?
+or c) two thirds?
+<v Catherine> I’m going to go for c) two thirds.
+<v Neil> Well,
+we’ll find out if you’re right or wrong later on in the programme.
+So Catherine,
+how can these people get connected to the internet and start surfing?
+<v Catherine> By using the Outernet.
+<v Neil> The Outer what?
+<v Catherine> The Outernet.
+That’s the idea of entrepreneur Syed Karim and its goal is to give people in unconnected communities access to information without having to use expensive mobile phones or two-way satellite networks.
+<v Neil> I see.
+And an <strong>entrepreneur</strong>,
+by the way,
+is a person who makes money by starting their own business that typically involves some financial risk.
+<v Catherine> Yes,
+I’ve always fancied myself as a bit of an entrepreneur.
+<v Neil> Well,
+you’ll need money and ideas,
+Catherine.
+Have you got either of those?
+<v Catherine> I’ve got ideas.
+<v Neil> Right.
+OK.
+I get it.
+<v Catherine> So,
+can you tell us how the Outernet works,
+Neil?
+<v Neil> Yes,
+I can.
+The Outernet uses existing communications satellites to store and broadcast data -
+<strong>broadcast</strong> means to send out signals or programmes.
+Special equipment on the ground <strong>picks up</strong> -
+or receives -
+the data,
+and this can be copied to phones and computers.
+<v Catherine> But the Outernet broadcasts data <strong>offline</strong> -
+which means it’s not connected to the Internet.
+There’s no communication with the internet for user -
+so,
+no emails,
+no chat forums.
+And that can be a big <strong>drawback</strong> -
+or disadvantage.
+<v Neil> Yes.
+The Outernet doesn’t provide two-way communication.
+But let’s hear Syed Karim discussing why one-way access has some advantages.
+And see if you can spot another word meaning ‘two-way’.
+<v INSERT> Anything that is related to bi-directional communications,
+the internet,
+to be able to provide that to the entire world,
+those are billion dollar projects,
+multi-billion dollar projects with huge time horizons and enormous complexity.
+And,
+you know,
+our solution that we are offering is instantaneous,
+I mean,
+it exists right now.
+<v Neil> Did you get it?
+Another way of saying two-way is <strong>bi-directional</strong>.
+So what are the advantages of <strong>one-way</strong> communication,
+Catherine?
+<v Catherine> It’s significantly cheaper.
+Bi-directional communications are multi-billion dollar projects.
+But the Outernet allows poorer communities to benefit from access to information.
+<v Neil> Yes,
+it does.
+And the other big problem is the time it would take to establish two-way access.
+Syed says these projects have huge <strong>time horizons</strong> -
+and this means the length of time it takes to complete a project -
+they’re huge,
+so very big.
+<v Catherine> But the Outernet is already providing access to some of the world’s most valuable knowledge.
+<v Neil> That’s right.
+The project aims to create a library of information taken from websites including Wikipedia and Project Gutenberg,
+which is a collection of copyright-free e-books.
+<strong>Copyright-free</strong> means the right to use material without paying any fees.
+<v Catherine> That sounds good.
+But let’s go back to the internet and hear from a BBC reporter talking about another project which aims to get people connected.
+<v INSERT> Google for example is working on Project Loon,
+a network of high-altitude helium balloons,
+which will boost Internet connections across much wider areas beyond coverage from conventional masts.
+<v Neil> It’s called Project <strong>Loon</strong> -
+meaning crazy -
+because Google thought it was such a crazy idea,
+and loon sounds like balloon!
+<v Catherine> Yeah.
+The idea is that users will connect to the <strong>balloon network</strong> -
+or group of interconnected balloons -
+using an antenna attached to their building.
+The signal travels through the balloon network from balloon to balloon,
+and then to a station on the ground that’s connected to the Internet.
+<v Neil> The balloons will <strong>boost</strong> -
+or increase -
+the number of people who will be able to access the Internet.
+<v Catherine> Yes,
+it will.
+And that’s because there will be lots of them -
+compared to the number of <strong>masts</strong> -
+or tall metal towers that send and receive signals -
+that are currently used.
+<v Neil> OK,
+let’s have the answer to the quiz question I asked: What proportion of the world’s population still has no internet access?
+Is it …
+a) a quarter?
+b) half?
+or c) two thirds?
+<v Catherine> And I said c) two thirds.
+<v Neil> And you were right!
+The answer is two thirds.
+Well done,
+Catherine.
+<v Catherine> Thank you.
+<v Neil> Now just time to listen to today’s words once again.
+Catherine.
+<v Catherine> OK.
+We heard:
+e-reader
+remote
+entrepreneur
+broadcast
+picks up
+drawback
+bi-directional
+one-way
+time horizons
+copyright-free
+balloon network
+boost
+masts
+<v Neil> Well,
+that’s the end of today’s 6 Minute English.
+I hope you enjoyed connecting with us today!
+Please join us again soon.
+<v Both> Bye.
+6 minute English from BBC.

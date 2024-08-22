@@ -1,159 +1,159 @@
-0.1	3.04		This is a download from bbc learning English
-3.04	6.76		to find out more visit our website
-6.76	12.68		6 minute English from BBClearningEnglish.com
-12.68	14.92	<v Alice>	Hello and welcome to 6 Minute English.
-14.92	16		I’m Alice…
-16	16.92	<v Neil>	And I’m Neil.
-16.92	17.6		So Alice,
-17.6	19.36		what’s your ideal place to be?
-19.36	24.12	<v Alice>	Curled up on the sofa with a good book in front of a log fire.
-24.12	26.08		Last night it was very cold.
-26.08	26.28	<v Neil>	Well,
-26.28	26.92		for me,
-26.92	31.36		lying in a hammock under a palm tree on a tropical beach with a cool breeze.
-31.36	33.64		I don’t like when it’s too hot.
-33.64	33.88	<v Alice>	Yes,
-33.88	34.32		true.
-34.32	39.28		Humans don’t cope well with extremes of temperature but some species do.
-39.28	42.88		The subject of today’s show is <strong>extremophiles</strong> –
-42.88	49.04		these are microorganisms that have adapted to live in what we would consider to be extreme conditions.
-49.04	49.72		For example,
-49.72	54.44		living in near boiling acidic water or frozen at the bottom of an Antarctic lake.
-54.44	57.56	<v Neil>	Those do sound like pretty extreme conditions.
-57.56	57.96	<v Alice>	Yes.
-57.96	58.24		The thing is,
-58.24	60.56		what sounds <strong>hostile</strong> –
-60.56	61.36		or unfriendly –
-61.36	62.4		to us,
-62.4	67.76		are perfect environments for extremophiles and in fact they wouldn’t survive without them.
-67.76	68.32		Now,
-68.32	71.4		are you tough enough to face up to today’s quiz question,
-71.4	71.92		Neil?
-71.92	72.8	<v Neil>	I think so.
-72.8	73.32	<v Alice>	Alright then,
-73.32	78.16		here goes: which US National Park is home to <strong>geysers</strong> –
-78.16	81.72		or hot springs that shoot hot water and steam into the air –
-81.72	83.84		which have extremophiles living in them?
-83.84	84.28		Is it…
-84.28	86.24		a) Grand Canyon?
-86.24	88.6		b) Death Valley National Park?
-88.6	90.8		Or c) Yellowstone?
-90.8	91.84	<v Neil>	That’s easy -
-91.84	93.68		it has to be c) Yellowstone.
-93.68	94.84	<v Alice>	OK,
-94.84	98.92		well we’ll find out if you got the answer right later on in the show.
-98.92	99.12		But,
-99.12	99.96		moving on,
-99.96	100.28		now,
-100.28	100.72		Neil,
-100.72	107.24		did you know that extremophiles belong to an entirely different group of living things to other animals and plants?
-107.24	107.64	<v Neil>	No.
-107.64	110.36		I imagined extremophiles would be like insects,
-110.36	112.08		because insects are pretty tough,
-112.08	112.64		aren’t they?
-112.64	112.96	<v Alice>	Yes,
-112.96	113.2		that’s true.
-113.2	113.64		But remember,
-113.64	117.12		extremophiles are <strong>microorganisms</strong> –
-117.12	118.8		they’re really tiny.
-118.8	120.72		Let’s listen to Ian Crawford,
-120.72	125.76		Professor of Planetary Science and Astrobiology at Birkbeck University of London.
-125.76	134.2		He tells us how in the 1970s a scientist called Carl Woese identified a new kingdom of living things that he called ‘archaea’ –
-134.2	136.32		meaning ‘ancient ones’.
-136.32	139.72		The extremophiles belong to this group.
-139.72	140.16	<v Ian Crawford, Professor of Planetary Science and Astrobiology at Birkbeck University of London>	Well,
-140.16	145.24		the old tree of life idea basically talked about empires if you like,
-145.24	145.96		of plants,
-145.96	146.84		and animals,
-146.84	148.24		and things that we can see,
-148.24	148.88		essentially.
-148.88	154.88		We put a great deal of emphasis on large organisms and the traditional distinction in biology between botany and zoology.
-154.88	157.96		What it really did was say 'that’s all wrong –
-157.96	161.8		there’s really only three major groups in life: there’s the archaea,
-161.8	162.72		the bacteria,
-162.72	163.48		and the eukaryotes,
-163.48	171.2		which is all of this complex life’; and so it kind of put humans into a small corner of the tree of life next to plants and whatever else.
-171.2	173.28		It kind of squashes us again after being the centre of the universe.
-173.28	177.72	<v Neil>	So <strong>botany</strong> is the study of plant life,
-177.72	180.64		and <strong>zoology</strong> is the study of animal life.
-180.64	182.48		But maybe you can explain ‘archaea’,
-182.48	183.32		and ‘eukaryotes’,
-183.32	183.72		Alice.
-183.72	191.16	<v Alice>	<strong>Archaea</strong> are a group of single-celled microbes similar to bacteria but different to all other known types.
-191.16	197.4		<strong>Eukaryote</strong> is the scientific term for organisms with a much larger and more complex type of cell–
-197.4	199.28		and this group includes all animals,
-199.28	199.76		plants,
-199.76	200.32		and fungi.
-200.32	203.84	<v Neil>	But why are archaea so important?
-203.84	206.72		Why do they need a whole biological domain to themselves,
-206.72	210.4		while we humans get squashed up in one domain with plants and fungi?
-210.4	211.32	<v Alice>	Well,
-211.32	211.64		Neil,
-211.64	216.36		it’s likely they’ve have been living on our planet ever since the Earth became habitable –
-216.36	218.24		and that’s billions of years.
-218.24	223.44		And they are still living and thriving in a whole range of different environments today.
-223.44	226.04	<v Neil>	And when something is <strong>thriving</strong> it means it’s doing well!
-226.04	228.24		So tell us about where they live,
-228.24	229.16		Alice.
-229.16	231.64	<v Alice>	Some live in <strong>hydrothermal vents</strong> –
-231.64	237.4		holes in the ocean floor hundreds of metres down where there’s lots of pressure and no sunlight.
-237.4	243.2		And mineral-rich superheated water is coming out of the Earth’s crust and then flowing out through these holes.
-243.2	243.8	<v Neil>	I see…
-243.8	244.36		Well,
-244.36	246.44		what about cold-loving extremophiles?
-246.44	247.32	<v Alice>	Well,
-247.32	253.04		scientists have found them in hidden lakes trapped beneath ice sheets hundreds of metres thick in Antarctica.
-253.04	256.48		It takes days to drill through the ice to reach the water.
-256.48	258.2	<v Neil>	And how do they survive down there?
-258.2	258.88	<v Alice>	Well,
-258.88	265.32		these microbes have found a way of getting energy from certain minerals like iron and sulphur present in the water.
-265.32	267.44	<v Neil>	That sounds clever for a microbe –
-267.44	269.2		how did they figure that out?
-269.2	271.12	<v Alice>	It isn’t a question of cleverness -
-271.12	273.12		it’s a question of adaptation.
-273.12	280.12		Extremophiles are extremely well adapted to their environment and they appeared on Earth much earlier than more complex life forms.
-280.12	281.84		Let’s hear from Nick Lane,
-281.84	285.64		Reader in Evolutionary Biochemistry at University College London.
-285.64	288.64	<v Nick Lane, Reader in Evolutionary Biochemistry at University College London>	The origin of the Eukaryotic cell,
-288.64	290.48		it seems to have happened once,
-290.48	293.12		it took about 2 billion years before that happened.
-293.12	296.2		Then there was kind of a great leap forward at the cellular level,
-296.2	299.32		but another billion years went by before we see animals.
-299.32	300.44	<v Neil>	So,
-300.44	301.04		basically,
-301.04	304.28		the animal kingdom is much newer than the archaean kingdom.
-304.28	305.56	<v Alice>	Indeed.
-305.56	308.6		And now it’s time for the answer to today’s quiz question,
-308.6	309.16		Neil.
-309.16	314.96		I asked: which US National Park is home to geysers that have extremophiles living in them?
-314.96	315.68		Is it…
-315.68	317.24		a) Grand Canyon,
-317.24	321.32		b) Death Valley National Park or c) Yellowstone?
-321.32	323.48	<v Neil>	And I said c) Yellowstone.
-323.48	324.32		I must be right.
-324.32	324.92	<v Alice>	Yes,
-324.92	325.4		Neil,
-325.4	326.48		you are right -
-326.48	328.48		it’s Yellowstone National Park.
-328.48	329.68		Every year,
-329.68	333.88		scientists discover remarkable new microbes in Yellowstone’s hot springs,
-333.88	335.64		with implications for medicine,
-335.64	337.52		agriculture and energy,
-337.52	341.36		as well as offering clues to the formation of the earliest life on Earth.
-341.36	343	<v Neil>	Very interesting.
-343	343.96		Now,
-343.96	345.64		here are the words we heard today:
-345.64	347.52		extremophiles
-347.52	349.08		hostile
-349.08	350.68		geysers
-350.68	352.8		microorganisms
-352.8	354.48		botany
-354.48	356.2		zoology
-356.2	357.88		archaea
-357.88	359.72		eukaryote
-359.72	361.32		thriving
-361.32	363.4		hydrothermal vents
-363.4	366.12	<v Alice>	And that’s the end of today’s 6 Minute English.
-366.12	368.8		Don’t forget to join us again soon!
-368.8	369.76	<v Both>	Bye!
-369.76	375.84		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+So Alice,
+what’s your ideal place to be?
+<v Alice> Curled up on the sofa with a good book in front of a log fire.
+Last night it was very cold.
+<v Neil> Well,
+for me,
+lying in a hammock under a palm tree on a tropical beach with a cool breeze.
+I don’t like when it’s too hot.
+<v Alice> Yes,
+true.
+Humans don’t cope well with extremes of temperature but some species do.
+The subject of today’s show is <strong>extremophiles</strong> –
+these are microorganisms that have adapted to live in what we would consider to be extreme conditions.
+For example,
+living in near boiling acidic water or frozen at the bottom of an Antarctic lake.
+<v Neil> Those do sound like pretty extreme conditions.
+<v Alice> Yes.
+The thing is,
+what sounds <strong>hostile</strong> –
+or unfriendly –
+to us,
+are perfect environments for extremophiles and in fact they wouldn’t survive without them.
+Now,
+are you tough enough to face up to today’s quiz question,
+Neil?
+<v Neil> I think so.
+<v Alice> Alright then,
+here goes: which US National Park is home to <strong>geysers</strong> –
+or hot springs that shoot hot water and steam into the air –
+which have extremophiles living in them?
+Is it…
+a) Grand Canyon?
+b) Death Valley National Park?
+Or c) Yellowstone?
+<v Neil> That’s easy -
+it has to be c) Yellowstone.
+<v Alice> OK,
+well we’ll find out if you got the answer right later on in the show.
+But,
+moving on,
+now,
+Neil,
+did you know that extremophiles belong to an entirely different group of living things to other animals and plants?
+<v Neil> No.
+I imagined extremophiles would be like insects,
+because insects are pretty tough,
+aren’t they?
+<v Alice> Yes,
+that’s true.
+But remember,
+extremophiles are <strong>microorganisms</strong> –
+they’re really tiny.
+Let’s listen to Ian Crawford,
+Professor of Planetary Science and Astrobiology at Birkbeck University of London.
+He tells us how in the 1970s a scientist called Carl Woese identified a new kingdom of living things that he called ‘archaea’ –
+meaning ‘ancient ones’.
+The extremophiles belong to this group.
+<v Ian Crawford, Professor of Planetary Science and Astrobiology at Birkbeck University of London> Well,
+the old tree of life idea basically talked about empires if you like,
+of plants,
+and animals,
+and things that we can see,
+essentially.
+We put a great deal of emphasis on large organisms and the traditional distinction in biology between botany and zoology.
+What it really did was say 'that’s all wrong –
+there’s really only three major groups in life: there’s the archaea,
+the bacteria,
+and the eukaryotes,
+which is all of this complex life’; and so it kind of put humans into a small corner of the tree of life next to plants and whatever else.
+It kind of squashes us again after being the centre of the universe.
+<v Neil> So <strong>botany</strong> is the study of plant life,
+and <strong>zoology</strong> is the study of animal life.
+But maybe you can explain ‘archaea’,
+and ‘eukaryotes’,
+Alice.
+<v Alice> <strong>Archaea</strong> are a group of single-celled microbes similar to bacteria but different to all other known types.
+<strong>Eukaryote</strong> is the scientific term for organisms with a much larger and more complex type of cell–
+and this group includes all animals,
+plants,
+and fungi.
+<v Neil> But why are archaea so important?
+Why do they need a whole biological domain to themselves,
+while we humans get squashed up in one domain with plants and fungi?
+<v Alice> Well,
+Neil,
+it’s likely they’ve have been living on our planet ever since the Earth became habitable –
+and that’s billions of years.
+And they are still living and thriving in a whole range of different environments today.
+<v Neil> And when something is <strong>thriving</strong> it means it’s doing well!
+So tell us about where they live,
+Alice.
+<v Alice> Some live in <strong>hydrothermal vents</strong> –
+holes in the ocean floor hundreds of metres down where there’s lots of pressure and no sunlight.
+And mineral-rich superheated water is coming out of the Earth’s crust and then flowing out through these holes.
+<v Neil> I see…
+Well,
+what about cold-loving extremophiles?
+<v Alice> Well,
+scientists have found them in hidden lakes trapped beneath ice sheets hundreds of metres thick in Antarctica.
+It takes days to drill through the ice to reach the water.
+<v Neil> And how do they survive down there?
+<v Alice> Well,
+these microbes have found a way of getting energy from certain minerals like iron and sulphur present in the water.
+<v Neil> That sounds clever for a microbe –
+how did they figure that out?
+<v Alice> It isn’t a question of cleverness -
+it’s a question of adaptation.
+Extremophiles are extremely well adapted to their environment and they appeared on Earth much earlier than more complex life forms.
+Let’s hear from Nick Lane,
+Reader in Evolutionary Biochemistry at University College London.
+<v Nick Lane, Reader in Evolutionary Biochemistry at University College London> The origin of the Eukaryotic cell,
+it seems to have happened once,
+it took about 2 billion years before that happened.
+Then there was kind of a great leap forward at the cellular level,
+but another billion years went by before we see animals.
+<v Neil> So,
+basically,
+the animal kingdom is much newer than the archaean kingdom.
+<v Alice> Indeed.
+And now it’s time for the answer to today’s quiz question,
+Neil.
+I asked: which US National Park is home to geysers that have extremophiles living in them?
+Is it…
+a) Grand Canyon,
+b) Death Valley National Park or c) Yellowstone?
+<v Neil> And I said c) Yellowstone.
+I must be right.
+<v Alice> Yes,
+Neil,
+you are right -
+it’s Yellowstone National Park.
+Every year,
+scientists discover remarkable new microbes in Yellowstone’s hot springs,
+with implications for medicine,
+agriculture and energy,
+as well as offering clues to the formation of the earliest life on Earth.
+<v Neil> Very interesting.
+Now,
+here are the words we heard today:
+extremophiles
+hostile
+geysers
+microorganisms
+botany
+zoology
+archaea
+eukaryote
+thriving
+hydrothermal vents
+<v Alice> And that’s the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

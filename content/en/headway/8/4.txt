@@ -1,21 +1,21 @@
-0.17	2.38	Tapescript 8.4
-3.23	3.80	1
-4.51	5.26	recipe
-6.90	7.50	2
-8.67	9.33	chat
-11.55	12.17	3
-13.41	14.16	shy
-16.01	16.58	4
-17.91	18.43	funny
-20.35	20.99	5
-22.17	22.87	face
-24.36	25.14	6
-26.19	26.78	worried
-28.49	29.10	7
-30.18	31.03	delicious
-32.29	32.88	8
-34.03	34.92	sandwich
-36.55	37.12	9
-38.13	38.82	machine
-40.37	40.94	10
-41.98	42.75	century
+Tapescript 8.4
+1
+recipe
+2
+chat
+3
+shy
+4
+funny
+5
+face
+6
+worried
+7
+delicious
+8
+sandwich
+9
+machine
+10
+century

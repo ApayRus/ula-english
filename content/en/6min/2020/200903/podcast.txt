@@ -1,123 +1,123 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	7.68		to find out more visit our website
-7.68	11.6		6 minute English from BBClearningEnglish.com
-11.6	14.64	<v Neil>	Hello.
-14.64	17.6		This is 6 Minute English from BBC Learning English.
-17.6	18.52		I’m Neil.
-18.52	19.76	<v Sam>	And I’m Sam.
-19.76	20.12	<v Neil>	Tell me,
-20.12	20.52		Sam,
-20.52	25.16		do you think Neil Armstrong really landed on the Moon in 1969?
-25.16	25.4		I mean,
-25.4	27.56		that must be fake news!
-27.56	29.48		And who shot JFK?
-29.48	31.8		Surely the CIA were involved?
-31.8	35.2		Unless it was the giant lizards controlling the government!
-35.2	36	<v Sam>	Oh dear!
-36	41.04		It looks like reading online conspiracies has sent Neil <strong>down the rabbit hole</strong> –
-41.04	50.52		an expression used to describe a situation which seems interesting and uncomplicated at first but ends up becoming strange,
-50.52	53.84		confusing and hard to escape from.
-53.84	62.16		Luckily in this programme we’ll be hearing some advice on how to talk to people who’ve become convinced by online conspiracies.
-62.16	64.36	<v Neil>	It seems that during times of crisis,
-64.36	66.64		as people feel uncertain and fearful,
-66.64	70.2		they actively look for information to feel more secure.
-70.2	72.92	<v Sam>	Nowadays this information is often found online,
-72.92	76.44		and while there are reliable facts out there,
-76.44	79.92		there’s also a lot of misinformation.
-79.92	88.44	<v Neil>	Somebody who’s the target of many conspiracy theories is Microsoft’s Bill Gates and our BBC fact checkers have been busy debunking -
-88.44	89.68		or exposing –
-89.68	93		some of the more bizarre accusations made against him.
-93	97.32		But what strange behaviour has Bill Gates been accused of recently?
-97.32	99.76		That’s my quiz question for today.
-99.76	100.6		Is it:
-100.6	103.76		a) being a member of the Chinese Communist Party?,
-103.76	106.2		b) being an alien lizard?,
-106.2	106.36		or
-106.36	110.72		c) being involved in the assassination of JFK?
-110.72	116.64	<v Sam>	They all sounds pretty silly to me but I’ll guess b) being an alien lizard.
-116.64	117.04	<v Neil>	OK,
-117.04	117.44		Sam,
-117.44	118.44		if you say so!
-118.44	120.44		We’ll find out the answer later.
-120.44	120.84		Now,
-120.84	124.24		I’m not the only one who’s been doing some internet research.
-124.24	132.32		Ever since the outbreak of the Covid pandemic there’s been an avalanche of online conspiracies linking Bill Gates to the coronavirus.
-132.32	133.72		Here’s Marianna Spring,
-133.72	135.88		presenter of BBC World Service programme,
-135.88	138.64		<em>Trending,</em> to tell us more:
-138.64	144	<v Marianna Spring>	The Microsoft founder is a rich and powerful person and he’s funded research into vaccines –
-144	144.96		that’s why he’s become a target.
-144.96	147.72		Some of the claims are <strong>bonkers</strong> –
-147.72	152.08		that he wants to use the virus as a <strong>pretext</strong> to microchip everyone in the world.
-152.08	156.36		Others say a vaccine would actually kill people rather than save their lives.
-156.36	158.76		These ideas are without any evidence.
-158.76	161.72		We should treat them with the <strong>disdain</strong> they deserve.
-161.72	171	<v Sam>	Some conspiracies claim that Bill Gates wants to implant microchips in people and that he’s using the coronavirus as a <strong>pretext</strong> -
-171	175.8		a pretend reason for doing something that is used to hide the real reason.
-175.8	179.6	<v Neil>	Claims like these are described as <strong>bonkers</strong> –
-179.6	181.64		an informal way to say silly,
-181.64	182.88		stupid or crazy,
-182.88	185.6		and should therefore be treated with <strong>disdain</strong> -
-185.6	190.16		disliking something because you feel it does not deserve your attention or respect.
-190.16	194.8	<v Sam>	But while you might not believe such <strong>bonkers</strong> theories yourself,
-194.8	202.6		it’s not hard to see how people looking for answers can get sucked <strong>down</strong> online <strong>rabbit holes</strong>.
-202.6	209.4	<v Neil>	So how would you deal some someone spreading baseless conspiracies about Covid vaccines or Bill Gates?
-209.4	212.96		The BBC’s <em>Trending</em> programme spoke to Dr Jovan Byford,
-212.96	216.2		senior psychology lecturer with the Open University,
-216.2	216.8		about it.
-216.8	221.88	<v Sam>	He thinks it’s important to separate the conspiracy from the theorist.
-221.88	223.16		The former,
-223.16	224.24		the belief,
-224.24	226.6		we have to dismiss,
-226.6	227.32		but the latter,
-227.32	228.88		the person,
-228.88	230.84		is more complex.
-230.84	232.8	<v Neil>	Here’s BBC _Trending’_s presenter,
-232.8	233.76		Marianna Spring,
-233.76	237.36		again to sum up Dr Byford’s advice:
-237.36	242.08	<v Marianna Spring>	How do you talk to someone who’s at risk of being sucked into <strong>the rabbit hole?</strong> First,
-242.08	244.28		establish a basis of understanding.
-244.28	247.88		Approach them on their own terms and avoid <strong>sweeping</strong> dismissals or saying,
-247.88	248.56		“you’re wrong!”.
-248.56	250.4		Try not to judge.
-250.4	255.04		And try to <strong>get to the bottom of</strong> the often legitimate concern at the heart of the conspiracy.
-255.04	257.8		Present them with facts and research.
-257.8	259.84		Try to do this neutrally.
-259.84	264.76		You can’t force anyone to change their mind but you can make sure they have valid information.
-264.76	269.08	<v Sam>	While some conspiracies may be harmless,
-269.08	270.68		others are more dangerous.
-270.68	275.8		People thinking that vaccines will kill them might worsen the coronavirus situation worldwide,
-275.8	280.04		so we need to <strong>get to the bottom of</strong> these claims -
-280.04	285.04		discover the real but sometimes hidden reason why something happens.
-285.04	289.8	<v Neil>	A good way to engage people in discussion is to avoid <strong>sweeping</strong> claims or statements -
-289.8	296.64		speaking or writing about things in a way that is too general and does not carefully consider all the relevant facts.
-296.64	306.16	<v Sam>	And by doing so calmly and neutrally you might persuade them to reconsider the funny business Bill Gates is supposedly involved with.
-306.16	306.88	<v Neil>	Ah yes,
-306.88	308.36		you mean our quiz question.
-308.36	313.88		I asked you what Bill Gates has recently been accused of by conspiracy theorists.
-313.88	316.36	<v Sam>	And I said b) being an alien lizard.
-316.36	318.16		But thinking about it now,
-318.16	320.76		that seems pretty unlikely!
-320.76	324.76	<v Neil>	In fact the answer was a) being a member of the Chinese Communist Party.
-324.76	325.88	<v Sam>	OK.
-325.88	330.32		So today we’ve been hearing advice on how to deal with online conspiracy theories,
-330.32	333.12		some of which are totally <strong>bonkers</strong> –
-333.12	333.76		silly,
-333.76	335.44		stupid and crazy -
-335.44	338.28		or involve a complicated <strong>pretext</strong> –
-338.28	342.76		a pretend reason used to hide someone’s true motivation.
-342.76	345.12	<v Neil>	These can be treated with <strong>disdain</strong> –
-345.12	347.92		dislike because they are unworthy of our attention or respect.
-347.92	350.8	<v Sam>	But with so many conspiracies online,
-350.8	354.2		it’s easy to get lost <strong>down the rabbit hole</strong> –
-354.2	360.16		intrigued by a situation which seems interesting but ends up confusing and hard to escape from.
-360.16	363	<v Neil>	It’s important to <strong>get to the bottom of</strong> these theories -
-363	366.24		discover the real but hidden reason behind them.
-366.24	368.24	<v Sam>	And to present people with facts,
-368.24	369.96		avoiding <strong>sweeping</strong> –
-369.96	371.68		or over-generalised –
-371.68	372.68		statements.
-372.68	374.24	<v Neil>	That’s all for this programme.
-374.24	375.08		Goodbye for now!
-375.08	377.52	<v Sam>	Bye bye!
-377.52	383.48		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Sam> And I’m Sam.
+<v Neil> Tell me,
+Sam,
+do you think Neil Armstrong really landed on the Moon in 1969?
+I mean,
+that must be fake news!
+And who shot JFK?
+Surely the CIA were involved?
+Unless it was the giant lizards controlling the government!
+<v Sam> Oh dear!
+It looks like reading online conspiracies has sent Neil <strong>down the rabbit hole</strong> –
+an expression used to describe a situation which seems interesting and uncomplicated at first but ends up becoming strange,
+confusing and hard to escape from.
+Luckily in this programme we’ll be hearing some advice on how to talk to people who’ve become convinced by online conspiracies.
+<v Neil> It seems that during times of crisis,
+as people feel uncertain and fearful,
+they actively look for information to feel more secure.
+<v Sam> Nowadays this information is often found online,
+and while there are reliable facts out there,
+there’s also a lot of misinformation.
+<v Neil> Somebody who’s the target of many conspiracy theories is Microsoft’s Bill Gates and our BBC fact checkers have been busy debunking -
+or exposing –
+some of the more bizarre accusations made against him.
+But what strange behaviour has Bill Gates been accused of recently?
+That’s my quiz question for today.
+Is it:
+a) being a member of the Chinese Communist Party?,
+b) being an alien lizard?,
+or
+c) being involved in the assassination of JFK?
+<v Sam> They all sounds pretty silly to me but I’ll guess b) being an alien lizard.
+<v Neil> OK,
+Sam,
+if you say so!
+We’ll find out the answer later.
+Now,
+I’m not the only one who’s been doing some internet research.
+Ever since the outbreak of the Covid pandemic there’s been an avalanche of online conspiracies linking Bill Gates to the coronavirus.
+Here’s Marianna Spring,
+presenter of BBC World Service programme,
+<em>Trending,</em> to tell us more:
+<v Marianna Spring> The Microsoft founder is a rich and powerful person and he’s funded research into vaccines –
+that’s why he’s become a target.
+Some of the claims are <strong>bonkers</strong> –
+that he wants to use the virus as a <strong>pretext</strong> to microchip everyone in the world.
+Others say a vaccine would actually kill people rather than save their lives.
+These ideas are without any evidence.
+We should treat them with the <strong>disdain</strong> they deserve.
+<v Sam> Some conspiracies claim that Bill Gates wants to implant microchips in people and that he’s using the coronavirus as a <strong>pretext</strong> -
+a pretend reason for doing something that is used to hide the real reason.
+<v Neil> Claims like these are described as <strong>bonkers</strong> –
+an informal way to say silly,
+stupid or crazy,
+and should therefore be treated with <strong>disdain</strong> -
+disliking something because you feel it does not deserve your attention or respect.
+<v Sam> But while you might not believe such <strong>bonkers</strong> theories yourself,
+it’s not hard to see how people looking for answers can get sucked <strong>down</strong> online <strong>rabbit holes</strong>.
+<v Neil> So how would you deal some someone spreading baseless conspiracies about Covid vaccines or Bill Gates?
+The BBC’s <em>Trending</em> programme spoke to Dr Jovan Byford,
+senior psychology lecturer with the Open University,
+about it.
+<v Sam> He thinks it’s important to separate the conspiracy from the theorist.
+The former,
+the belief,
+we have to dismiss,
+but the latter,
+the person,
+is more complex.
+<v Neil> Here’s BBC _Trending’_s presenter,
+Marianna Spring,
+again to sum up Dr Byford’s advice:
+<v Marianna Spring> How do you talk to someone who’s at risk of being sucked into <strong>the rabbit hole?</strong> First,
+establish a basis of understanding.
+Approach them on their own terms and avoid <strong>sweeping</strong> dismissals or saying,
+“you’re wrong!”.
+Try not to judge.
+And try to <strong>get to the bottom of</strong> the often legitimate concern at the heart of the conspiracy.
+Present them with facts and research.
+Try to do this neutrally.
+You can’t force anyone to change their mind but you can make sure they have valid information.
+<v Sam> While some conspiracies may be harmless,
+others are more dangerous.
+People thinking that vaccines will kill them might worsen the coronavirus situation worldwide,
+so we need to <strong>get to the bottom of</strong> these claims -
+discover the real but sometimes hidden reason why something happens.
+<v Neil> A good way to engage people in discussion is to avoid <strong>sweeping</strong> claims or statements -
+speaking or writing about things in a way that is too general and does not carefully consider all the relevant facts.
+<v Sam> And by doing so calmly and neutrally you might persuade them to reconsider the funny business Bill Gates is supposedly involved with.
+<v Neil> Ah yes,
+you mean our quiz question.
+I asked you what Bill Gates has recently been accused of by conspiracy theorists.
+<v Sam> And I said b) being an alien lizard.
+But thinking about it now,
+that seems pretty unlikely!
+<v Neil> In fact the answer was a) being a member of the Chinese Communist Party.
+<v Sam> OK.
+So today we’ve been hearing advice on how to deal with online conspiracy theories,
+some of which are totally <strong>bonkers</strong> –
+silly,
+stupid and crazy -
+or involve a complicated <strong>pretext</strong> –
+a pretend reason used to hide someone’s true motivation.
+<v Neil> These can be treated with <strong>disdain</strong> –
+dislike because they are unworthy of our attention or respect.
+<v Sam> But with so many conspiracies online,
+it’s easy to get lost <strong>down the rabbit hole</strong> –
+intrigued by a situation which seems interesting but ends up confusing and hard to escape from.
+<v Neil> It’s important to <strong>get to the bottom of</strong> these theories -
+discover the real but hidden reason behind them.
+<v Sam> And to present people with facts,
+avoiding <strong>sweeping</strong> –
+or over-generalised –
+statements.
+<v Neil> That’s all for this programme.
+Goodbye for now!
+<v Sam> Bye bye!
+6 minute English from BBC.

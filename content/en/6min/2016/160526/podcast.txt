@@ -1,154 +1,154 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.64		to find out more visit our website
-6.64	12.44		6 minute English from BBClearningEnglish.com
-12.44	14.92	<v Alice>	Hello and welcome to 6 Minute English.
-14.92	15.6		I’m Alice…
-15.6	15.8	<v Rob>	…
-15.8	16.48		And I’m Rob.
-16.48	17.44	<v Alice>	So Rob,
-17.44	20.12		what job did you want to do when you were little?
-20.12	22.84	<v Rob>	I really wanted to be an astronaut.
-22.84	23.64		Be in orbit,
-23.64	25.36		watching the Earth from afar…
-25.36	26.16	<v Alice>	Wow!
-26.16	27.88		Be <strong>in orbit</strong> -
-27.88	31.64		it means be in space and following the Earth’s curvature.
-31.64	32.04		Well,
-32.04	34.16		the view must be nice from up there.
-34.16	37.92		But the reality of becoming an astronaut is pretty hard.
-37.92	40.68		And it’s the subject of today’s show!
-40.68	45.24		Did you know that less than 600 people have been into space so far?
-45.24	47.28	<v Rob>	I’d like to have been one of them.
-47.28	49.8		I know I have what it takes to be a spaceman!
-49.8	50.24	<v Alice>	Yes.
-50.24	53.48		There are many others like you who would like to go for this job,
-53.48	54.24		Rob.
-54.24	57.2		And that’s the quiz question for you today.
-57.2	62.36		How many people have applied to join Nasa’s 2017 astronaut class?
-62.36	63.24		Was it…
-63.24	65.16		a) 800
-65.16	67.52		b) 8,000
-67.52	70.52		Or c) 18,000 people?
-70.52	71.08	<v Rob>	Mmmm…
-71.08	75.96		8,000 sounds like a lot already so I’ll go for b) 8,000 people.
-75.96	76.96	<v Alice>	Well,
-76.96	80.96		we’ll find out if you chose the right answer later on in the programme.
-80.96	81.72		So,
-81.72	86.2		what do you think is the biggest challenge when considering becoming an astronaut?
-86.2	86.84	<v Rob>	Well,
-86.84	88.84		I’d say <strong>claustrophobia</strong> –
-88.84	91.84		and that means: fear of being in a small space.
-91.84	98.84		That might be a problem because the space capsules are small and you’re with the same people for months at a time.
-98.84	99.16	<v Alice>	Yes,
-99.16	99.96		that’s right.
-99.96	100.32		Well,
-100.32	103.36		astronauts are bound to get on each other’s nerves sometimes!
-103.36	107.24		To <strong>get on someone’s nerves</strong> means: to annoy them.
-107.24	109.16	<v Rob>	But I’m a great team player…
-109.16	110.32		so I think I’ll be OK.
-110.32	110.64	<v Alice>	Yes,
-110.64	112.64		I can confirm that.
-112.64	113.24		Anyway,
-113.24	116.6		the challenge of being an astronaut doesn’t stop here.
-116.6	118		In the space capsule,
-118	121.68		astronauts have to put up with extremely difficult conditions.
-121.68	122.92		Like zero gravity,
-122.92	123.96		for example.
-123.96	130.48	<v Rob>	It looks like doing somersaults in the capsule and catching bits of food in your mouth as it floats out of its packet…
-130.48	132.76	<v Alice>	But <strong>zero gravity</strong> –
-132.76	135.4		a condition where gravity is exerting no force –
-135.4	138.88		can lead to wasting of the bones and muscles.
-138.88	143.24		Astronauts take two and a half hours of exercise per day to help prevent this.
-143.24	150.36	<v Rob>	But what do astronauts have to do before they go into space to prepare themselves for weightlessness and spacewalking?
-150.36	154.76	<v Alice>	They can practice using a virtual reality headset and special gloves.
-154.76	159.04		It’s like playing a computer game that looks and feels like doing a spacewalk.
-159.04	162.76		And they also train in a swimming pool!
-162.76	164.76		Let’s listen to Major Tim Peake,
-164.76	165.84		a British astronaut,
-165.84	171.24		talking about the preparation he did for his mission on the International Space Station.
-171.24	173.92	<v INSERT>	The way we practise spacewalk is in water.
-173.92	176.08		Water gives us the neutral buoyancy that we need.
-176.08	180.8		So we sink training modules into swimming pools and then practise the spacewalking on them.
-180.8	182.56		We wear very specific equipment,
-182.56	184		a pressurized spacesuit –
-184	185.84		very difficult to move in actually –
-185.84	187.04		it’s hard to bend the fingers,
-187.04	188.4		it’s hard to bend your arms –
-188.4	191.68		and it really gives you quite a difficult workout.
-191.68	195.64	<v Rob>	British astronaut Tim Peake says water gives us <strong>buoyancy</strong>,
-195.64	197.16		which is the ability to float.
-197.16	200.44		Floating in space is similar to floating in water,
-200.44	204.56		so astronauts practise their spacewalk in swimming pools.
-204.56	204.96	<v Alice>	Yes.
-204.96	207.88		They take to the water and to the air too.
-207.88	212.2		Astronauts experience the feeling of weightlessness in planes.
-212.2	218.08		A large plane with padded walls flies to high altitude and then goes into a <strong>nosedive</strong> –
-218.08	220.16		or a fast and sudden fall –
-220.16	223.08		which creates short periods of weightlessness.
-223.08	223.8	<v Rob>	Fabulous!
-223.8	225.04		I’d love to do that!
-225.04	227.36	<v Alice>	But it’s not all fun and games.
-227.36	233.08		Don’t forget that one of the main reasons for being out on the International Space Station is to conduct research.
-233.08	238.68		Major Tim Peake is doing scientific experiments such as how to grow plants in space,
-238.68	242.64		and what effect radiation and zero gravity have on this process.
-242.64	245.96	<v Rob>	Like that film where an astronaut gets <strong>stranded</strong> –
-245.96	246.64		or left behind –
-246.64	249.08		on Mars and has to grow potatoes.
-249.08	249.2	<v Alice>	Yes.
-249.2	250.92	<v Rob>	The film is called The Martian.
-250.92	251.88	<v Alice>	That’s right.
-251.88	252.28		Yes.
-252.28	255.88		So do you think you have what it takes to survive in a challenging environment,
-255.88	256.72		Rob?
-256.72	260.36		Let’s listen to Major Tim Peake talking about his survival training.
-260.36	264.76	<v INSERT>	Survival training: for this year the European Space Agency sends us to Sardinia.
-264.76	269.48		When you land in the Soyuz capsule sometimes you might not land exactly where you expect to be.
-269.48	270.6		Foraging for food,
-270.6	271.16		for example,
-271.16	273.68		and your basic elements of shelter and protection,
-273.68	274.52		getting water…
-274.52	277.84		Go and live in a cave for seven days with an international crew.
-277.84	282.16		And it’s a wonderful environment to prepare you for a mission because you are very isolated.
-282.16	286.36	<v Rob>	So astronauts may get stranded on Earth –
-286.36	288.92		when the space capsule lands somewhere unexpected.
-288.92	290.6		And they have to find food.
-290.6	292		<strong>Forage</strong> means to search.
-292	296.08	<v Alice>	It’s a word we often use to describe how animals search for food.
-296.08	296.96	<v Rob>	Indeed.
-296.96	297.32		Well,
-297.32	299.96		let’s go back to that quiz question you asked me earlier,
-299.96	300.64		Alice.
-300.64	305.88		I’m keen to know how many people want to live this experience of being an astronaut.
-305.88	307.28	<v Alice>	OK.
-307.28	307.6		Well,
-307.6	313.56		I asked: How many people have applied to join NASA’s 2017 astronaut class?
-313.56	314.32		Was it…
-314.32	316		a) 800,
-316	320.88		b) 8,000 or c) 18,000 people?
-320.88	324.76	<v Rob>	And I said quite a lot: b) 8,000 people.
-324.76	328.16	<v Alice>	And you were wrong,
-328.16	328.88		I’m afraid!
-328.88	330.48		According to Nasa’s website,
-330.48	335.72		more than 18,300 people applied to join their 2017 astronaut class.
-335.72	341.32		This is almost three times the number of applications received in 2012 for the most recent astronaut class.
-341.32	342	<v Rob>	Wow!
-342	344.44		So there’s no chance of me ever succeeding.
-344.44	344.8	<v Alice>	Oh,
-344.8	345.08		well,
-345.08	345.88		you mustn’t give up,
-345.88	346.12		Rob.
-346.12	347.92		Anyway,
-347.92	351.48		we are running out of time so here are the words we heard today:
-351.48	353.24		in orbit
-353.24	354.68		claustrophobia
-354.68	356.8		get on someone’s nerves
-356.8	358.56		zero gravity
-358.56	360.12		buoyancy
-360.12	361.92		nosedive
-361.92	363.36		stranded
-363.36	364.92		forage
-364.92	365.64	<v Rob>	Well,
-365.64	368.36		that’s the end of today’s 6 Minute English.
-368.36	369.72		Please join us again soon!
-369.72	371.44	<v Both>	Bye.
-371.44	377.4		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Rob> …
+And I’m Rob.
+<v Alice> So Rob,
+what job did you want to do when you were little?
+<v Rob> I really wanted to be an astronaut.
+Be in orbit,
+watching the Earth from afar…
+<v Alice> Wow!
+Be <strong>in orbit</strong> -
+it means be in space and following the Earth’s curvature.
+Well,
+the view must be nice from up there.
+But the reality of becoming an astronaut is pretty hard.
+And it’s the subject of today’s show!
+Did you know that less than 600 people have been into space so far?
+<v Rob> I’d like to have been one of them.
+I know I have what it takes to be a spaceman!
+<v Alice> Yes.
+There are many others like you who would like to go for this job,
+Rob.
+And that’s the quiz question for you today.
+How many people have applied to join Nasa’s 2017 astronaut class?
+Was it…
+a) 800
+b) 8,000
+Or c) 18,000 people?
+<v Rob> Mmmm…
+8,000 sounds like a lot already so I’ll go for b) 8,000 people.
+<v Alice> Well,
+we’ll find out if you chose the right answer later on in the programme.
+So,
+what do you think is the biggest challenge when considering becoming an astronaut?
+<v Rob> Well,
+I’d say <strong>claustrophobia</strong> –
+and that means: fear of being in a small space.
+That might be a problem because the space capsules are small and you’re with the same people for months at a time.
+<v Alice> Yes,
+that’s right.
+Well,
+astronauts are bound to get on each other’s nerves sometimes!
+To <strong>get on someone’s nerves</strong> means: to annoy them.
+<v Rob> But I’m a great team player…
+so I think I’ll be OK.
+<v Alice> Yes,
+I can confirm that.
+Anyway,
+the challenge of being an astronaut doesn’t stop here.
+In the space capsule,
+astronauts have to put up with extremely difficult conditions.
+Like zero gravity,
+for example.
+<v Rob> It looks like doing somersaults in the capsule and catching bits of food in your mouth as it floats out of its packet…
+<v Alice> But <strong>zero gravity</strong> –
+a condition where gravity is exerting no force –
+can lead to wasting of the bones and muscles.
+Astronauts take two and a half hours of exercise per day to help prevent this.
+<v Rob> But what do astronauts have to do before they go into space to prepare themselves for weightlessness and spacewalking?
+<v Alice> They can practice using a virtual reality headset and special gloves.
+It’s like playing a computer game that looks and feels like doing a spacewalk.
+And they also train in a swimming pool!
+Let’s listen to Major Tim Peake,
+a British astronaut,
+talking about the preparation he did for his mission on the International Space Station.
+<v INSERT> The way we practise spacewalk is in water.
+Water gives us the neutral buoyancy that we need.
+So we sink training modules into swimming pools and then practise the spacewalking on them.
+We wear very specific equipment,
+a pressurized spacesuit –
+very difficult to move in actually –
+it’s hard to bend the fingers,
+it’s hard to bend your arms –
+and it really gives you quite a difficult workout.
+<v Rob> British astronaut Tim Peake says water gives us <strong>buoyancy</strong>,
+which is the ability to float.
+Floating in space is similar to floating in water,
+so astronauts practise their spacewalk in swimming pools.
+<v Alice> Yes.
+They take to the water and to the air too.
+Astronauts experience the feeling of weightlessness in planes.
+A large plane with padded walls flies to high altitude and then goes into a <strong>nosedive</strong> –
+or a fast and sudden fall –
+which creates short periods of weightlessness.
+<v Rob> Fabulous!
+I’d love to do that!
+<v Alice> But it’s not all fun and games.
+Don’t forget that one of the main reasons for being out on the International Space Station is to conduct research.
+Major Tim Peake is doing scientific experiments such as how to grow plants in space,
+and what effect radiation and zero gravity have on this process.
+<v Rob> Like that film where an astronaut gets <strong>stranded</strong> –
+or left behind –
+on Mars and has to grow potatoes.
+<v Alice> Yes.
+<v Rob> The film is called The Martian.
+<v Alice> That’s right.
+Yes.
+So do you think you have what it takes to survive in a challenging environment,
+Rob?
+Let’s listen to Major Tim Peake talking about his survival training.
+<v INSERT> Survival training: for this year the European Space Agency sends us to Sardinia.
+When you land in the Soyuz capsule sometimes you might not land exactly where you expect to be.
+Foraging for food,
+for example,
+and your basic elements of shelter and protection,
+getting water…
+Go and live in a cave for seven days with an international crew.
+And it’s a wonderful environment to prepare you for a mission because you are very isolated.
+<v Rob> So astronauts may get stranded on Earth –
+when the space capsule lands somewhere unexpected.
+And they have to find food.
+<strong>Forage</strong> means to search.
+<v Alice> It’s a word we often use to describe how animals search for food.
+<v Rob> Indeed.
+Well,
+let’s go back to that quiz question you asked me earlier,
+Alice.
+I’m keen to know how many people want to live this experience of being an astronaut.
+<v Alice> OK.
+Well,
+I asked: How many people have applied to join NASA’s 2017 astronaut class?
+Was it…
+a) 800,
+b) 8,000 or c) 18,000 people?
+<v Rob> And I said quite a lot: b) 8,000 people.
+<v Alice> And you were wrong,
+I’m afraid!
+According to Nasa’s website,
+more than 18,300 people applied to join their 2017 astronaut class.
+This is almost three times the number of applications received in 2012 for the most recent astronaut class.
+<v Rob> Wow!
+So there’s no chance of me ever succeeding.
+<v Alice> Oh,
+well,
+you mustn’t give up,
+Rob.
+Anyway,
+we are running out of time so here are the words we heard today:
+in orbit
+claustrophobia
+get on someone’s nerves
+zero gravity
+buoyancy
+nosedive
+stranded
+forage
+<v Rob> Well,
+that’s the end of today’s 6 Minute English.
+Please join us again soon!
+<v Both> Bye.
+6 minute English from BBC.

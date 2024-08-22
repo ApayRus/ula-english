@@ -1,134 +1,134 @@
-0.1	3		This is a download from bbc learning English
-3	6.72		to find out more visit our website
-6.72	13.6		6 minute English from BBClearningEnglish.com
-13.6	14	<v Neil>	Hello.
-14	16.88		This is 6 Minute English from BBC Learning English.
-16.88	17.64		I’m Neil.
-17.64	18.96	<v Rob>	And I’m Rob.
-18.96	22	<v Neil>	I’ve been reading about ways to protect the environment,
-22	22.16		Rob,
-22.16	24.04		and I’ve decided to eat less meat.
-24.04	26.8		And maybe drive my car less too.
-26.8	27.56	<v Rob>	Good for you,
-27.56	28.32		Neil!
-28.32	32.52		And flying less can also help reduce air pollution.
-32.52	33.16	<v Neil>	Right.
-33.16	40.04		Flying and driving less are two good ways to combat climate change because they reduce your <strong>carbon footprint</strong> –
-40.04	47.12		that’s the amount of carbon dioxide or CO2 released into the atmosphere as a result of your everyday activities.
-47.12	52.16	<v Rob>	The idea of reducing carbon emissions is catching on in the music industry too.
-52.16	57.88		Bands and artists who go on tour around the world generate large carbon footprints.
-57.88	67.36	<v Neil>	So recently some music groups like Massive Attack and Green Day started thinking about ways to reduce the impact their tours are having on the environment.
-67.36	67.96	<v Rob>	Ha!
-67.96	68.8		Green Day –
-68.8	71.92		what a good name for a band trying to be environmentally friendly!
-71.92	81.4	<v Neil>	Today we’ll be finding out about bands and musicians who want to continue going on tour but do it in ways which reduce their environmental impact.
-81.4	85.52		And of course we’ll be learning some related vocabulary on the way.
-85.52	85.88	<v Rob>	So,
-85.88	93.32		it seems like the days of rock and roll stars flying around the world in private jets may soon be a thing of the past.
-93.32	93.72	<v Neil>	Indeed,
-93.72	94.08		Rob,
-94.08	97.44		and that brings me neatly to my quiz question.
-97.44	104		One British band recently announced they would stop going on tour until they were 100% carbon neutral,
-104	105.52		but which band?
-105.52	106.36		Was it:
-106.36	108.52		a) The 1975
-108.52	110.2		b) The Rolling Stones,
-110.2	110.32		or
-110.32	112.04		c) Coldplay
-112.04	112.4	<v Rob>	Well,
-112.4	115.68		Coldplay had a hit with their song The Scientist,
-115.68	118.96		and we are talking about carbon dioxide and the climate,
-118.96	121.68		so I’ll say c) Coldplay.
-121.68	122.2	<v Neil>	Good thinking,
-122.2	122.4		Rob!
-122.4	124.68		We’ll find out the answer later.
-124.68	129.36		But first let’s hear from another artist concerned about her carbon impact.
-129.36	137.28		Fay Milton is the drummer of the band Savages and co-founder of the climate pressure group Music Declares Emergency.
-137.28	140.52		She spoke to BBC Radio 4’s programme You &amp; Yours:
-140.52	144.16	<v Fay Milton>	This year I have actually <strong>turned down</strong> a tour.
-144.16	151.68		My income comes from touring so it has put me in a bit of a <strong>precarious situation</strong> but I actually feel quite good about it –
-151.68	155.32		it feels like <strong>the right thing to do</strong> in this moment.
-155.32	158.72	<v Neil>	Even though Fay earns a living as a drummer by going on tour,
-158.72	160.92		she has started to <strong>turn</strong> them <strong>down</strong> –
-160.92	164.04		meaning to reject or refuse the offer of touring.
-164.04	169.96	<v Rob>	Losing the income she usually gets from touring puts Fay in <strong>a precarious situation</strong> –
-169.96	172.96		a situation where things could become difficult,
-172.96	175.32		in this case financially difficult,
-175.32	178.56		because she isn’t making money from playing the drums.
-178.56	181.08	<v Neil>	But she still wants to <strong>do the right thing</strong> –
-181.08	181.88		in other words,
-181.88	183.56		do what is most fair,
-183.56	185.4		ethical and just.
-185.4	185.88		For Fay,
-185.88	189.8		fighting climate change is even more important than doing what she loves –
-189.8	191.72		going on tour with the band.
-191.72	192.08	<v Rob>	Well,
-192.08	193.04		good for her!
-193.04	196.48		I’m not sure if I’d be so committed as Fay.
-196.48	198.64		But if bands stopped touring altogether,
-198.64	200.6		fans wouldn’t get to see <strong>gigs</strong> –
-200.6	204.04		or live concerts and hear the music <em>they</em> love.
-204.04	204.24	<v Neil>	Well,
-204.24	212.44		that’s an interesting point because it might be possible for bands to carry on touring and also reduce their environmental impact at the same time.
-212.44	214.2		Bristol band,
-214.2	214.96		Massive Attack,
-214.96	216.56		want to do exactly that.
-216.56	219.28		Their singer Robert Del Naja explains:
-219.28	222.2	<v Robert Del Naja>	We’re working with an electric bus company.
-222.2	227.28		We’re going to look at all the energy being renewable and obviously the power we can create will go back to <strong>the grid</strong>,
-227.28	232.84		so we’re hoping we can actually create legacy green infrastructure which can then power future gigs.
-232.84	235.56		We plan to travel to Europe solely by train,
-235.56	236.56		with the band,
-236.56	238.32		the crewand all the gear.
-238.32	248.44	<v Rob>	Swapping tour planes for trains and encouraging fans to travel to gigs by bus are two good ways to reduce the total carbon footprint of the concert.
-248.44	250.32	<v Neil>	And by using renewable energy,
-250.32	252.08		the gig can create power.
-252.08	255		This can then be put back into the national grid,
-255	257.52		called <strong>the grid</strong> for short –
-257.52	260.56		the network supplying electrical power across a country.
-260.56	261.8	<v Rob>	Well,
-261.8	265.04		Massive Attack are certainly ticking all the green boxes,
-265.04	265.36		Neil,
-265.36	267.48		but who else is doing a good job?
-267.48	269.8		Remember your quiz question earlier?
-269.8	270.04	<v Neil>	Ah,
-270.04	270.44		yes.
-270.44	276.48		I asked which band has decided to stop touring until their tours were carbon neutral and you said?
-276.48	278.88	<v Rob>	I said c) Coldplay.
-278.88	280.04	<v Neil>	And you were right!
-280.04	281.12		Are you a Coldplay fan,
-281.12	281.4		Rob?
-281.4	286.12		Just remember to leave your car at home the next time you go to their gig!
-286.12	286.76	<v Rob>	Right!
-286.76	287.16		Today,
-287.16	292.6		we’ve been looking at some of the ways music bands and artists are trying to fight climate change.
-292.6	295.24		They want to reduce their <strong>carbon footprint</strong> –
-295.24	297.8		the amount of carbon they release into the air.
-297.8	300.52	<v Neil>	Some musicians are starting to <strong>turn down</strong> –
-300.52	301.52		or refuse,
-301.52	306.04		long world tour dates because flying from country to country playing <strong>gigs</strong> –
-306.04	307.8		or live musical concerts,
-307.8	310.36		generates so much carbon dioxide.
-310.36	312.16	<v Rob>	Bands like Savages,
-312.16	315.88		Green Day and Massive Attack are trying to <strong>do the right thing</strong> -
-315.88	319.2		taking the most fair and ethical course of action,
-319.2	321.32		even though for some artists,
-321.32	326.08		the income lost from not touring puts them in a <strong>precarious</strong> –
-326.08	327		or difficult situation.
-327	328.68	<v Neil>	But when they get it right,
-328.68	334.6		bands can be carbon neutral or even generate power which can be put back into t<strong>he national grid</strong> –
-334.6	337.8		the network supplying electrical power across a country.
-337.8	340.88	<v Rob>	All of which means we can ‘keep on rocking’
-340.88	345.96		into the next century without increasing carbon emissions and adding to climate change.
-345.96	346.52	<v Neil>	So,
-346.52	346.8		Rob,
-346.8	348.76		you could say you were ‘born to run’…
-348.76	349.96		on renewable energy!
-349.96	350.68	<v Rob>	Ha-ha!
-350.68	352.16		Very funny,
-352.16	352.4		Neil.
-352.4	360.32		That’s all for today but remember to join us again soon for more topical discussions and vocabulary from 6 Minute English,
-360.32	362.6		here at BBC Learning English.
-362.6	365.04	<v Neil>	Thanks for listening and bye!
-365.04	366.48	<v Rob>	Bye.
-366.48	373.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> I’ve been reading about ways to protect the environment,
+Rob,
+and I’ve decided to eat less meat.
+And maybe drive my car less too.
+<v Rob> Good for you,
+Neil!
+And flying less can also help reduce air pollution.
+<v Neil> Right.
+Flying and driving less are two good ways to combat climate change because they reduce your <strong>carbon footprint</strong> –
+that’s the amount of carbon dioxide or CO2 released into the atmosphere as a result of your everyday activities.
+<v Rob> The idea of reducing carbon emissions is catching on in the music industry too.
+Bands and artists who go on tour around the world generate large carbon footprints.
+<v Neil> So recently some music groups like Massive Attack and Green Day started thinking about ways to reduce the impact their tours are having on the environment.
+<v Rob> Ha!
+Green Day –
+what a good name for a band trying to be environmentally friendly!
+<v Neil> Today we’ll be finding out about bands and musicians who want to continue going on tour but do it in ways which reduce their environmental impact.
+And of course we’ll be learning some related vocabulary on the way.
+<v Rob> So,
+it seems like the days of rock and roll stars flying around the world in private jets may soon be a thing of the past.
+<v Neil> Indeed,
+Rob,
+and that brings me neatly to my quiz question.
+One British band recently announced they would stop going on tour until they were 100% carbon neutral,
+but which band?
+Was it:
+a) The 1975
+b) The Rolling Stones,
+or
+c) Coldplay
+<v Rob> Well,
+Coldplay had a hit with their song The Scientist,
+and we are talking about carbon dioxide and the climate,
+so I’ll say c) Coldplay.
+<v Neil> Good thinking,
+Rob!
+We’ll find out the answer later.
+But first let’s hear from another artist concerned about her carbon impact.
+Fay Milton is the drummer of the band Savages and co-founder of the climate pressure group Music Declares Emergency.
+She spoke to BBC Radio 4’s programme You &amp; Yours:
+<v Fay Milton> This year I have actually <strong>turned down</strong> a tour.
+My income comes from touring so it has put me in a bit of a <strong>precarious situation</strong> but I actually feel quite good about it –
+it feels like <strong>the right thing to do</strong> in this moment.
+<v Neil> Even though Fay earns a living as a drummer by going on tour,
+she has started to <strong>turn</strong> them <strong>down</strong> –
+meaning to reject or refuse the offer of touring.
+<v Rob> Losing the income she usually gets from touring puts Fay in <strong>a precarious situation</strong> –
+a situation where things could become difficult,
+in this case financially difficult,
+because she isn’t making money from playing the drums.
+<v Neil> But she still wants to <strong>do the right thing</strong> –
+in other words,
+do what is most fair,
+ethical and just.
+For Fay,
+fighting climate change is even more important than doing what she loves –
+going on tour with the band.
+<v Rob> Well,
+good for her!
+I’m not sure if I’d be so committed as Fay.
+But if bands stopped touring altogether,
+fans wouldn’t get to see <strong>gigs</strong> –
+or live concerts and hear the music <em>they</em> love.
+<v Neil> Well,
+that’s an interesting point because it might be possible for bands to carry on touring and also reduce their environmental impact at the same time.
+Bristol band,
+Massive Attack,
+want to do exactly that.
+Their singer Robert Del Naja explains:
+<v Robert Del Naja> We’re working with an electric bus company.
+We’re going to look at all the energy being renewable and obviously the power we can create will go back to <strong>the grid</strong>,
+so we’re hoping we can actually create legacy green infrastructure which can then power future gigs.
+We plan to travel to Europe solely by train,
+with the band,
+the crewand all the gear.
+<v Rob> Swapping tour planes for trains and encouraging fans to travel to gigs by bus are two good ways to reduce the total carbon footprint of the concert.
+<v Neil> And by using renewable energy,
+the gig can create power.
+This can then be put back into the national grid,
+called <strong>the grid</strong> for short –
+the network supplying electrical power across a country.
+<v Rob> Well,
+Massive Attack are certainly ticking all the green boxes,
+Neil,
+but who else is doing a good job?
+Remember your quiz question earlier?
+<v Neil> Ah,
+yes.
+I asked which band has decided to stop touring until their tours were carbon neutral and you said?
+<v Rob> I said c) Coldplay.
+<v Neil> And you were right!
+Are you a Coldplay fan,
+Rob?
+Just remember to leave your car at home the next time you go to their gig!
+<v Rob> Right!
+Today,
+we’ve been looking at some of the ways music bands and artists are trying to fight climate change.
+They want to reduce their <strong>carbon footprint</strong> –
+the amount of carbon they release into the air.
+<v Neil> Some musicians are starting to <strong>turn down</strong> –
+or refuse,
+long world tour dates because flying from country to country playing <strong>gigs</strong> –
+or live musical concerts,
+generates so much carbon dioxide.
+<v Rob> Bands like Savages,
+Green Day and Massive Attack are trying to <strong>do the right thing</strong> -
+taking the most fair and ethical course of action,
+even though for some artists,
+the income lost from not touring puts them in a <strong>precarious</strong> –
+or difficult situation.
+<v Neil> But when they get it right,
+bands can be carbon neutral or even generate power which can be put back into t<strong>he national grid</strong> –
+the network supplying electrical power across a country.
+<v Rob> All of which means we can ‘keep on rocking’
+into the next century without increasing carbon emissions and adding to climate change.
+<v Neil> So,
+Rob,
+you could say you were ‘born to run’…
+on renewable energy!
+<v Rob> Ha-ha!
+Very funny,
+Neil.
+That’s all for today but remember to join us again soon for more topical discussions and vocabulary from 6 Minute English,
+here at BBC Learning English.
+<v Neil> Thanks for listening and bye!
+<v Rob> Bye.
+6 minute English from BBC.

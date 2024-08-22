@@ -1,148 +1,148 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.28		6 minute English from BBClearningEnglish.com
-12.28	14.8	<v Alice>	Hello and welcome to 6 Minute English.
-14.8	15.48		I’m Alice…
-15.48	16.36	<v Neil>	And I’m Neil.
-16.36	19.8	<v Alice>	The BBC’s 100 Women season is back this week.
-19.8	22.52		It will explore women’s stories of defiance.
-22.52	26.16		And it will include stories of women who inspired us.
-26.16	28.24		And that’s what we are going to talk about today.
-28.24	29.92	<v Neil>	And which woman has inspired you,
-29.92	30.32		Alice?
-30.32	30.6	<v Alice>	Oh,
-30.6	31		well,
-31	33.4		I have many female <strong>role models</strong> –
-33.4	37.68		and this means people looked to by others as examples to be followed.
-37.68	40.92		But I must say I have a great admiration for the <strong>suffragettes</strong>.
-40.92	41.16	<v Neil>	Ah,
-41.16	43.96		the women who fought for the right to vote in the UK!
-43.96	44.24		Yes,
-44.24	45.76		I think they were very brave.
-45.76	46.08	<v Alice>	Yes,
-46.08	47.12		so do I.
-47.12	49.2		Let’s see how much you know about it,
-49.2	49.72		Neil.
-49.72	57.52		This is today’s quiz question for you: Which was the first country to give all women the right to vote in public elections?
-57.52	58.2		Was it…
-58.2	59.88		a) Finland?
-59.88	61.72		b) New Zealand?
-61.72	63.2		Or c) The US?
-63.2	65.92	<v Neil>	I’m going to say…
-65.92	67.04		a) Finland.
-67.04	67.4	<v Alice>	Well,
-67.4	71.24		we’ll see if you were right or not later on in the show.
-71.24	72.4		// Here in Britain,
-72.4	74.04		women’s groups <strong>lobbied</strong> –
-74.04	75.24		or tried to persuade –
-75.24	81.56		parliament for decades before eventually winning the right for all women to vote in 1928.
-81.56	83.52	<v Neil>	So why did it take so long?
-83.52	87.6	<v Alice>	Because parliament didn’t see votes for women as a priority.
-87.6	88.12		Then,
-88.12	97.12		30% of men still didn’t have the vote either and politicians felt they needed to address this before thinking about ‘the woman question’ as it was known.
-97.12	97.72	<v Neil>	The thing is,
-97.72	101.16		without the power to vote it’s hard to influence public policy.
-101.16	104.56		Politicians are worried about losing popularity with the <strong>electorate</strong> –
-104.56	106.72		that’s the people who are allowed to vote.
-106.72	108.68	<v Alice>	Women had to find a voice –
-108.68	111.52		and the Suffragette Movement gave them a voice.
-111.52	113.56	<v Neil>	There were several activists in this movement,
-113.56	116.88		but perhaps the most famous was Emmeline Pankhurst.
-116.88	121.2	<v Alice>	Emmeline Pankhurst campaigned fearlessly for women’s rights for all women –
-121.2	122.44		aristocratic ladies,
-122.44	123.32		factory workers,
-123.32	124.36		conservatives,
-124.36	125.76		socialists.
-125.76	127.4		Let’s listen to Julia Bush,
-127.4	129.56		author of <em>Women Against the Vote</em>,
-129.56	133.64		talking more about this suffragette leader.
-133.64	135.76	<v INSERT>	She was a very charismatic leader,
-135.76	138.52		one of the great women of the 19th century.
-138.52	142.36		And she had a deep compassion for the plight of women.
-142.36	149.52		And in particular she was fired by the inequalities that women experienced at that time.
-149.52	152.32		It wasn’t just about the parliamentary vote,
-152.32	154.92		the Suffragette Movement,
-154.92	155.8		it was,
-155.8	159.56		she in particular wanted wider reforms for women,
-159.56	163.12		an improvement in women’s status and position.
-163.12	165.48	<v Neil>	Author Julia Bush.She talks about the plight of women.
-165.48	168.96		<strong>Plight</strong> means ‘a bad situation’.
-168.96	171.88	<v Alice>	Women did have a really hard time back then –
-171.88	174.24		especially working class women.
-174.24	178.92		And they had little hope of improving their lives because they had no public voice.
-178.92	184.4	<v Neil>	So that’s what Julia Bush means when she says Mrs Pankhurst wanted wider reforms –
-184.4	186.12		access to better schools for women,
-186.12	186.96		to university,
-186.96	189.84		to better paid jobs and professional careers.
-189.84	192.6	<v Alice>	And it was a big challenge to be heard.
-192.6	193.52		June Purvis,
-193.52	198.64		Emeritus Professor of Women’s and Gender History at the University of Portsmouth here in the UK,
-198.64	202.56		talks about how the suffragettes started to <strong>raise their profile</strong> –
-202.56	203.64		or get noticed –
-203.64	207.32		with deeds not words.
-207.32	209.88	<v Emeritus Professor of Women's and Gender History at the University of Portsmouth, UK>	You have women interrupting theatre plays,
-209.88	213.72		getting thrown out of church services for interrupting,
-213.72	219.08		getting thrown out of Lyons Corner House for standing up on chairs and having little impromptu meetings.
-219.08	221.84		But militancy also takes on other forms.
-221.84	224.8		It takes on forms of direct action,
-224.8	233.92		which start with large demonstrations when women will not be turned back by the police and then it moves on in other forms as well to criminal damage.
-233.92	237.96	<v Neil>	So women started to interrupt public events to talk about their right to vote.
-237.96	242.72	<v Alice>	An <strong>impromptu</strong> meeting is one that hasn’t been planned.
-242.72	246.96		Lyons Corner House was a chain of teashops popular at the time.
-246.96	253.6		You can imagine that women suddenly standing up on chairs and addressing the public would have been quite shocking in those days!
-253.6	254.24	<v Neil>	Indeed!
-254.24	260.36		The suffragettes started small with teashop talks but they began to take more <strong>militant</strong> –
-260.36	260.92		or aggressive –
-260.92	261.92		direct action.
-261.92	265	<v Alice>	And <strong>direct action</strong> means using demonstrations,
-265	265.68		strikes.
-265.68	268.56		The suffragettes chained themselves to railings,
-268.56	270.16		broke shop windows.
-270.16	271.56	<v Neil>	It was quite a struggle,
-271.56	275.36		and there was no way of delaying the decision to give women the right to vote.
-275.36	277.96		In 1914 war broke out in Europe.
-277.96	279.64		And with the men away fighting,
-279.64	281.12		many women ran their homes,
-281.12	282.64		cared for children and relatives,
-282.64	283.4		managed money,
-283.4	285.24		and often had a job as well.
-285.24	291.72	<v Alice>	So when the war ended in 1918 women had proved how capable they were in so many ways.
-291.72	300.28		To deny them the right to vote now seemed ridiculous.Although it took another ten years before all women were given the vote on equal terms to men.
-300.28	300.76		But come on,
-300.76	301.28		Alice,
-301.28	304.48		it must be time to hear the answer to today’s quiz question!
-304.48	310.48	<v Alice>	I asked: Which was the first country to give all women the right to vote in public elections?
-310.48	311.2		Was it…
-311.2	312.64		a) Finland?
-312.64	314.68		b) New Zealand?
-314.68	316.8		Or c) The US?
-316.8	318.36	<v Neil>	And I said Finland.
-318.36	319.72	<v Alice>	No,
-319.72	320.2		sorry,
-320.2	320.56		Neil.
-320.56	323		It was b) New Zealand.
-323	324.56		In 1893,
-324.56	329.56		New Zealand became the first country to give all adult women the right to vote in national elections.
-329.56	330.32	<v Neil>	Now,
-330.32	333.12		shall we remind ourselves the words we learned today?
-333.12	333.68	<v Alice>	Yes.
-333.68	334.52		They were:
-334.52	335.84		role models
-335.84	337.4		suffragettes
-337.4	338.52		lobbied
-338.52	339.8		electorate
-339.8	340.84		plight
-340.84	342.72		raised their profile
-342.72	344.64		impromptu
-344.64	345.36		militant
-345.36	346.88		direct action
-346.88	349.28	<v Neil>	That’s the end of today’s 6 Minute English.
-349.28	354.28		And we would like to invite you to follow the special programmes and events on the 100 Women season,
-354.28	356.12		which will be on till December,
-356.12	356.68		the 9th.
-356.68	360.76		It’s produced and created by the BBC’s 29 language services.
-360.76	363.52		Check the BBC website in your language.
-363.52	367.8		And you can also join the conversation on Twitter using #100women.
-367.8	369.04		Enjoy the programmes.
-369.04	370.32	<v Both>	Bye!
-370.32	377.2		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+<v Alice> The BBC’s 100 Women season is back this week.
+It will explore women’s stories of defiance.
+And it will include stories of women who inspired us.
+And that’s what we are going to talk about today.
+<v Neil> And which woman has inspired you,
+Alice?
+<v Alice> Oh,
+well,
+I have many female <strong>role models</strong> –
+and this means people looked to by others as examples to be followed.
+But I must say I have a great admiration for the <strong>suffragettes</strong>.
+<v Neil> Ah,
+the women who fought for the right to vote in the UK!
+Yes,
+I think they were very brave.
+<v Alice> Yes,
+so do I.
+Let’s see how much you know about it,
+Neil.
+This is today’s quiz question for you: Which was the first country to give all women the right to vote in public elections?
+Was it…
+a) Finland?
+b) New Zealand?
+Or c) The US?
+<v Neil> I’m going to say…
+a) Finland.
+<v Alice> Well,
+we’ll see if you were right or not later on in the show.
+// Here in Britain,
+women’s groups <strong>lobbied</strong> –
+or tried to persuade –
+parliament for decades before eventually winning the right for all women to vote in 1928.
+<v Neil> So why did it take so long?
+<v Alice> Because parliament didn’t see votes for women as a priority.
+Then,
+30% of men still didn’t have the vote either and politicians felt they needed to address this before thinking about ‘the woman question’ as it was known.
+<v Neil> The thing is,
+without the power to vote it’s hard to influence public policy.
+Politicians are worried about losing popularity with the <strong>electorate</strong> –
+that’s the people who are allowed to vote.
+<v Alice> Women had to find a voice –
+and the Suffragette Movement gave them a voice.
+<v Neil> There were several activists in this movement,
+but perhaps the most famous was Emmeline Pankhurst.
+<v Alice> Emmeline Pankhurst campaigned fearlessly for women’s rights for all women –
+aristocratic ladies,
+factory workers,
+conservatives,
+socialists.
+Let’s listen to Julia Bush,
+author of <em>Women Against the Vote</em>,
+talking more about this suffragette leader.
+<v INSERT> She was a very charismatic leader,
+one of the great women of the 19th century.
+And she had a deep compassion for the plight of women.
+And in particular she was fired by the inequalities that women experienced at that time.
+It wasn’t just about the parliamentary vote,
+the Suffragette Movement,
+it was,
+she in particular wanted wider reforms for women,
+an improvement in women’s status and position.
+<v Neil> Author Julia Bush.She talks about the plight of women.
+<strong>Plight</strong> means ‘a bad situation’.
+<v Alice> Women did have a really hard time back then –
+especially working class women.
+And they had little hope of improving their lives because they had no public voice.
+<v Neil> So that’s what Julia Bush means when she says Mrs Pankhurst wanted wider reforms –
+access to better schools for women,
+to university,
+to better paid jobs and professional careers.
+<v Alice> And it was a big challenge to be heard.
+June Purvis,
+Emeritus Professor of Women’s and Gender History at the University of Portsmouth here in the UK,
+talks about how the suffragettes started to <strong>raise their profile</strong> –
+or get noticed –
+with deeds not words.
+<v Emeritus Professor of Women's and Gender History at the University of Portsmouth, UK> You have women interrupting theatre plays,
+getting thrown out of church services for interrupting,
+getting thrown out of Lyons Corner House for standing up on chairs and having little impromptu meetings.
+But militancy also takes on other forms.
+It takes on forms of direct action,
+which start with large demonstrations when women will not be turned back by the police and then it moves on in other forms as well to criminal damage.
+<v Neil> So women started to interrupt public events to talk about their right to vote.
+<v Alice> An <strong>impromptu</strong> meeting is one that hasn’t been planned.
+Lyons Corner House was a chain of teashops popular at the time.
+You can imagine that women suddenly standing up on chairs and addressing the public would have been quite shocking in those days!
+<v Neil> Indeed!
+The suffragettes started small with teashop talks but they began to take more <strong>militant</strong> –
+or aggressive –
+direct action.
+<v Alice> And <strong>direct action</strong> means using demonstrations,
+strikes.
+The suffragettes chained themselves to railings,
+broke shop windows.
+<v Neil> It was quite a struggle,
+and there was no way of delaying the decision to give women the right to vote.
+In 1914 war broke out in Europe.
+And with the men away fighting,
+many women ran their homes,
+cared for children and relatives,
+managed money,
+and often had a job as well.
+<v Alice> So when the war ended in 1918 women had proved how capable they were in so many ways.
+To deny them the right to vote now seemed ridiculous.Although it took another ten years before all women were given the vote on equal terms to men.
+But come on,
+Alice,
+it must be time to hear the answer to today’s quiz question!
+<v Alice> I asked: Which was the first country to give all women the right to vote in public elections?
+Was it…
+a) Finland?
+b) New Zealand?
+Or c) The US?
+<v Neil> And I said Finland.
+<v Alice> No,
+sorry,
+Neil.
+It was b) New Zealand.
+In 1893,
+New Zealand became the first country to give all adult women the right to vote in national elections.
+<v Neil> Now,
+shall we remind ourselves the words we learned today?
+<v Alice> Yes.
+They were:
+role models
+suffragettes
+lobbied
+electorate
+plight
+raised their profile
+impromptu
+militant
+direct action
+<v Neil> That’s the end of today’s 6 Minute English.
+And we would like to invite you to follow the special programmes and events on the 100 Women season,
+which will be on till December,
+the 9th.
+It’s produced and created by the BBC’s 29 language services.
+Check the BBC website in your language.
+And you can also join the conversation on Twitter using #100women.
+Enjoy the programmes.
+<v Both> Bye!
+6 minute English from BBC.

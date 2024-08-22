@@ -1,33 +1,33 @@
-0.16	1.54	Extra ideas
-1.80	3.54	units one to four
-4.14	4.90	song
-5.54	6.38	colors
-30.42	35.50	Yellow is the color of my true love"s hair
-35.50	37.50	In the morning,
-38.36	40.46	when we rise
-41.30	43.72	In the morning,
-44.02	46.22	when we rise
-46.72	49.80	That"s the time,
-49.88	52.28	That"s the time
-52.34	54.78	I love the best
-59.06	64.00	Green is the color of the sparkling corn
-64.00	66.14	In the morning,
-66.72	69.44	when we rise
-69.70	71.82	In the morning,
-72.54	74.84	when we rise
-75.38	78.22	That"s the time
-78.26	80.90	That"s the time
-80.90	82.94	I love the best
-116.24	121.18	Mellow is the feeling that I get
-121.18	123.36	When I see her,
-126.78	129.56	When I see her,
-132.48	135.38	That"s the time,
-135.44	137.86	That"s the time
-137.94	140.84	I love the best
-144.66	147.02	Freedom is a word
-147.12	149.90	I rarely use
-149.94	151.98	Without thinking,
-155.30	157.64	Without thinking,
-161.08	163.96	Of the time,
-164.00	166.42	Of the time
-166.46	169.46	When I"ve been loved
+Extra ideas
+units one to four
+song
+colors
+Yellow is the color of my true love"s hair
+In the morning,
+when we rise
+In the morning,
+when we rise
+That"s the time,
+That"s the time
+I love the best
+Green is the color of the sparkling corn
+In the morning,
+when we rise
+In the morning,
+when we rise
+That"s the time
+That"s the time
+I love the best
+Mellow is the feeling that I get
+When I see her,
+When I see her,
+That"s the time,
+That"s the time
+I love the best
+Freedom is a word
+I rarely use
+Without thinking,
+Without thinking,
+Of the time,
+Of the time
+When I"ve been loved

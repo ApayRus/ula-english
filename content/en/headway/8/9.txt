@@ -1,32 +1,32 @@
-0.17	2.23	Tapescript 8.9
-3.44	3.98	1
-4.64	6.06	The fourth of January
-7.76	8.29	2
-9.13	12.16	May the seventh, 1997
-13.38	13.98	3
-14.54	17.98	The fifteenth of August, 2001
-19.58	20.19	4
-20.97	22.02	<v A>It was a Friday.
-22.35	23.32	<v B>No, it wasn’t.
-23.49	24.67	It was a Thursday.
-24.71	26.05	<v A>No, I remember.
-26.12	28.12	It was Friday the thirteenth.
-28.18	29.62	The thirteenth of July.
-31.17	31.87	5
-32.72	34.25	<v A>Oh no!
-34.33	36.11	I forgot your birthday.
-36.18	37.72	<v B>It doesn’t matter, really.
-37.86	39.95	<v A>It was last Sunday, wasn’t it?
-40.09	41.16	The thirtieth.
-41.41	42.99	November the thirtieth.
-44.80	45.54	6
-46.00	46.73	<v A>Hey!
-47.19	49.96	Did you know that Shakespeare was born
-50.05	52.59	and died on the same day?
-52.99	54.76	<v B>That’s not possible!
-54.93	55.88	<v A>Yes, it is.
-56.19	59.15	He was born on April the twenty-third,
-59.27	60.98	fifteen sixty-four
-61.43	62.46	and he died
-62.57	64.38	on April the twenty-third,
-64.59	66.28	sixteen sixteen.
+Tapescript 8.9
+1
+The fourth of January
+2
+May the seventh, 1997
+3
+The fifteenth of August, 2001
+4
+<v A>It was a Friday.
+<v B>No, it wasn’t.
+It was a Thursday.
+<v A>No, I remember.
+It was Friday the thirteenth.
+The thirteenth of July.
+5
+<v A>Oh no!
+I forgot your birthday.
+<v B>It doesn’t matter, really.
+<v A>It was last Sunday, wasn’t it?
+The thirtieth.
+November the thirtieth.
+6
+<v A>Hey!
+Did you know that Shakespeare was born
+and died on the same day?
+<v B>That’s not possible!
+<v A>Yes, it is.
+He was born on April the twenty-third,
+fifteen sixty-four
+and he died
+on April the twenty-third,
+sixteen sixteen.

@@ -1,18 +1,18 @@
-1.64 4.39 There's a line where the sky meets the sea
-4.77 6.39 And it calls me
-7.14 9.48 But no one knows
-9.65 13.32 How far it goes
-13.78 18.45 All that time wondering where I need<br />to be is behind me
-18.86 21.58 I'm on my own
-22.20 24.62 To worlds unknown
-24.99 27.83 Every turn I take<br />Every trail I track
-28.16 29.71 Is a choice I make
-29.79 32.46 Now I can't turn back<br />from the great unknown
-32.84 36.05 Where I go alone<br />Where I long to be
-45.60 47.81 See her light up the night in the sea
-48.18 50.65 She calls me
-51.02 53.44 And yes, I know
-53.82 56.07 That I can go
-57.74 61.24 There's a moon in the sky<br />And the wind is behind me
-62.70 64.79 Soon I'll know
-65.20 67.41 How far I'll go
+There's a line where the sky meets the sea
+And it calls me
+But no one knows
+How far it goes
+All that time wondering where I need<br />to be is behind me
+I'm on my own
+To worlds unknown
+Every turn I take<br />Every trail I track
+Is a choice I make
+Now I can't turn back<br />from the great unknown
+Where I go alone<br />Where I long to be
+See her light up the night in the sea
+She calls me
+And yes, I know
+That I can go
+There's a moon in the sky<br />And the wind is behind me
+Soon I'll know
+How far I'll go

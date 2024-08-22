@@ -1,70 +1,70 @@
-0.19	2.19	Tapescript 9.7
-3.38	4.85	My favourite food
-6.18	6.77	Marian
-9.03	11.40	Well, I love vegetables,
-11.71	13.05	all vegetables –
-13.63	14.90	I eat meat too –
-15.15	16.41	but not much.
-17.09	20.95	I think this is why I like Chinese food so much.
-21.56	24.40	There are lots of vegetables in Chinese food.
-25.23	29.07	Yes, Chinese is my very favourite food,
-29.60	31.20	I like the noodles too.
-31.94	33.86	Can you eat with chopsticks?
-34.25	35.09	I can!
-37.64	38.35	Graham
-40.45	41.79	Now in my job,
-41.92	45.21	I travel the world, and I like all kinds of food …
-45.34	46.34	but my favourite,
-46.98	48.34	my favourite is … er …
-48.93	51.13	I always have it as soon as I come home …
-51.17	53.65	is a full English breakfast.
-54.01	54.75	Bacon,
-55.16	55.78	eggs,
-56.19	57.04	sausage,
-57.32	58.21	mushrooms,
-58.28	59.99	tomatoes, and of course
-60.04	65.01	toast. I love it, not every day but when I’m at home we have it every Sunday.
-65.19	65.74	Mmmm!
-65.92	67.28	I’d like it right now –
-67.61	68.34	delicious.
-71.76	72.37	Lucy
-73.63	76.01	Oh, no question,
-76.17	77.12	no problem.
-77.51	80.59	I know exactly what my favourite food is.
-81.27	82.06	Pasta.
-82.67	83.62	All pasta.
-83.91	85.47	Especially spaghetti.
-86.05	88.26	Pasta with tomato sauce –
-88.68	90.92	and I like it best when I’m in Italy.
-91.67	94.75	I went on holiday to the Italian lakes last year.
-95.19	97.02	The food was wonderful.
-100.38	101.07	Gavin
-103.11	104.55	… er …
-104.71	105.87	I’m not sure.
-106.57	108.67	No, I know what it is.
-109.48	113.00	My … favourite … food is Indian food.
-113.89	117.95	Friday night I like to go to the pub with friends from work and …
-118.60	119.92	have a few beers,
-119.93	120.36	… er …
-120.68	121.25	no,
-121.46	122.45	not too many, …
-122.97	124.26	and after
-124.35	126.55	we always go to an Indian restaurant
-127.01	130.04	and I have a chicken curry with rice.
-130.53	131.38	It’s the best!
-131.92	133.43	I like it more than chips!
-136.83	137.50	Sally
-139.67	140.86	Well, shhh!
-141.64	142.84	But my very,
-143.00	146.52	very favourite food is chocolate.
-146.97	148.69	Chocolate anything,
-149.08	150.00	I love it.
-150.91	152.25	Chocolate ice-cream,
-152.68	154.11	chocolate biscuits,
-154.40	155.49	chocolate cake,
-156.13	159.64	but especially just a big bar of chocolate.
-159.91	160.95	Mmmm!
-161.49	162.74	Terrible, isn’t it?
-163.78	164.26	Go on!
-164.91	165.96	Have some of this!
-166.62	169.44	My friend brought it back from Switzerland for me!
+Tapescript 9.7
+My favourite food
+Marian
+Well, I love vegetables,
+all vegetables –
+I eat meat too –
+but not much.
+I think this is why I like Chinese food so much.
+There are lots of vegetables in Chinese food.
+Yes, Chinese is my very favourite food,
+I like the noodles too.
+Can you eat with chopsticks?
+I can!
+Graham
+Now in my job,
+I travel the world, and I like all kinds of food …
+but my favourite,
+my favourite is … er …
+I always have it as soon as I come home …
+is a full English breakfast.
+Bacon,
+eggs,
+sausage,
+mushrooms,
+tomatoes, and of course
+toast. I love it, not every day but when I’m at home we have it every Sunday.
+Mmmm!
+I’d like it right now –
+delicious.
+Lucy
+Oh, no question,
+no problem.
+I know exactly what my favourite food is.
+Pasta.
+All pasta.
+Especially spaghetti.
+Pasta with tomato sauce –
+and I like it best when I’m in Italy.
+I went on holiday to the Italian lakes last year.
+The food was wonderful.
+Gavin
+… er …
+I’m not sure.
+No, I know what it is.
+My … favourite … food is Indian food.
+Friday night I like to go to the pub with friends from work and …
+have a few beers,
+… er …
+no,
+not too many, …
+and after
+we always go to an Indian restaurant
+and I have a chicken curry with rice.
+It’s the best!
+I like it more than chips!
+Sally
+Well, shhh!
+But my very,
+very favourite food is chocolate.
+Chocolate anything,
+I love it.
+Chocolate ice-cream,
+chocolate biscuits,
+chocolate cake,
+but especially just a big bar of chocolate.
+Mmmm!
+Terrible, isn’t it?
+Go on!
+Have some of this!
+My friend brought it back from Switzerland for me!

@@ -1,20 +1,20 @@
-1.30 3.51 -- We make our nets from the fibers<br />-- We weave our nets from the fibers
-3.59 5.68 -- The water is sweet inside<br />-- A real tasty treat inside
-5.80 8.01 -- We use the leaves to build fires<br />-- We sing these songs in our choirs
-8.10 9.93 -- To cook up the meat inside<br />-- We have mouths to feed inside
-10.10 11.93 -- The village believes in us<br />-- That's right
-12.10 13.60 The village believes
-13.77 15.94 The island gives us what we need
-16.11 18.11 And no one leaves
-18.27 19.61 So here I'll stay
-19.94 23.61 My home, my people beside me<br />And when I think of tomorrow
-23.78 25.82 There we are
-26.24 27.78 I'll lead the way
-28.12 29.95 I'll have my people to guide me
-30.12 31.75 We'll build our future together
-31.91 33.96 Where we are
-34.29 35.83 'Cause every path leads ya back to
-36.25 37.46 Where you are
-38.04 39.92 You can find happiness right
-40.34 41.96 Where you are
-42.30 45.13 Where you are
+-- We make our nets from the fibers<br />-- We weave our nets from the fibers
+-- The water is sweet inside<br />-- A real tasty treat inside
+-- We use the leaves to build fires<br />-- We sing these songs in our choirs
+-- To cook up the meat inside<br />-- We have mouths to feed inside
+-- The village believes in us<br />-- That's right
+The village believes
+The island gives us what we need
+And no one leaves
+So here I'll stay
+My home, my people beside me<br />And when I think of tomorrow
+There we are
+I'll lead the way
+I'll have my people to guide me
+We'll build our future together
+Where we are
+'Cause every path leads ya back to
+Where you are
+You can find happiness right
+Where you are
+Where you are

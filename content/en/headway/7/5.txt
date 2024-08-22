@@ -1,25 +1,25 @@
-0.18	2.36	Tapescript 7.5
-3.52	4.03	1
-5.67	7.25	<v A> When did she start work?
-8.53	10.25	<v B> When she was eight years old.
-12.79	13.42	2
-14.76	15.98	<v A> Where did she work ?
-16.77	18.04	<v B> In the cotton fields.
-20.19	20.78	3
-21.65	22.88	<v A> Who did she live with?
-23.87	25.31	<v B> Her mother and sisters.
-27.22	27.75	4
-28.59	30.54	<v A> How many hours did she work?
-31.25	32.85	<v B> Sixteen hours a day.
-34.79	35.42	5
-36.45	37.93	<v A> How much did she earn?
-38.86	40.06	<v B> $2 a day.
-41.78	42.45	6
-44.03	45.22	<v A> Who did she marry?
-46.12	46.75	<v B> Hubert.
-48.38	48.95	7
-49.87	51.39	<v A> When did Hubert die?
-52.33	53.89	<v B> Sixty-five years ago.
-55.73	56.26	8
-57.08	58.93	<v A> When did she learn to read?
-59.83	62.58	<v B> She didn’t learn until she was 86.
+Tapescript 7.5
+1
+<v A> When did she start work?
+<v B> When she was eight years old.
+2
+<v A> Where did she work ?
+<v B> In the cotton fields.
+3
+<v A> Who did she live with?
+<v B> Her mother and sisters.
+4
+<v A> How many hours did she work?
+<v B> Sixteen hours a day.
+5
+<v A> How much did she earn?
+<v B> $2 a day.
+6
+<v A> Who did she marry?
+<v B> Hubert.
+7
+<v A> When did Hubert die?
+<v B> Sixty-five years ago.
+8
+<v A> When did she learn to read?
+<v B> She didn’t learn until she was 86.

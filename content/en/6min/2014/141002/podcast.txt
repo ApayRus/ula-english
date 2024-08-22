@@ -1,153 +1,153 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	11.16		6 minute English from BBClearningEnglish.com
-11.16	12.16	<v Rob>	Hello I’m Rob.
-12.16	14.16		Welcome to 6 Minute English.
-14.16	16		I’m joined today by Finn.
-16	16.72		Hello Finn.
-16.72	18.64	<v Finn>	…
-18.64	20.28	<v Rob>	Finn?
-20.28	21.52		…Hello Finn?
-21.52	22	<v Finn>	Oh sorry Rob,
-22	25.36		you caught me <strong>napping</strong>.
-25.36	28.76		It’s that time of day when I need to <strong>nod off</strong> –
-28.76	29.92		or in other words,
-29.92	32.08		fall asleep.
-32.08	32.6	<v Rob>	Well,
-32.6	34.24		<strong>sleeping on the job</strong> –
-34.24	35.44		or sleeping at work -
-35.44	37.04		is no bad thing –
-37.04	38.44		and I hope today’s programme
-38.44	40.16		will wake you up to the idea
-40.16	42.84		that sleeping in the workplace might be a good thing.
-42.84	43.48	<v Finn>	Oh really!
-43.48	45.36		That’s good to hear.
-45.36	49.4		I would have thought that sleeping at work was against the rules.
-49.4	50.84	<v Rob>	Not in every office,
-50.84	51.28		Finn,
-51.28	52.88		and I’ll tell you why soon
-52.88	56.28		as well as explaining some sleep-related vocabulary.
-56.28	57.84		But now you’re wide awake,
-57.84	59.4		how about a question?
-59.4	59.84	<v Finn>	OK,
-59.84	60.64		let’s hear it.
-60.64	64	<v Rob>	When the former British Prime Minister,
-64	64.72		Margaret Thatcher,
-64.72	65.56		was in power,
-65.56	68.84		she did her job with very little sleep.
-68.84	74.24		Do you know how many hours of sleep she is said to have had each night?
-74.24	75.84		a) Three hours
-75.84	77.16		b) Four hours
-77.16	79.32		c) Five hours
-79.32	81.72	<v Finn>	I always thought she got by,
-81.72	82.96		she managed her job,
-82.96	87.16		with just four hours of sleep a night.
-87.16	88.12	<v Rob>	Not much,
-88.12	88.6		is it?
-88.6	92.16		We’ll find out if you are right or wrong later.
-92.16	95		I’m not sure if she chose <em>not</em> to sleep for long
-95	97.56		or she just wasn’t able to sleep for long.
-97.56	100.64		Someone who can’t sleep is called an <strong>insomniac</strong>.
-100.64	103.92	<v Finn>	And I’m certainly not an insomniac.
-103.92	107.76		I enjoy sleeping all night and some of the day too.
-107.76	108.52		And Rob,
-108.52	112		you said napping during the day is a good thing?
-112	115.16	<v Rob>	It’s always nice to have a short sleep –
-115.16	117.52		or what I call <strong>40 winks</strong> –
-117.52	118.24		during the day,
-118.24	121.24		but when you’re at work this can be a problem.
-121.24	122.24		In some companies,
-122.24	124.48		like Google and the Huffington Post,
-124.48	127.56		workplace naps are positively encouraged.
-127.56	131.04		They’re seen as a way to make staff more productive.
-131.04	133.44	<v Finn>	So you mean they work harder
-133.44	136.56		and are more creative because a <strong>power-nap</strong> –
-136.56	138.52		a quick sleep –
-138.52	142.16		makes workers feel refreshed and more alert.
-142.16	144.84		I like the sound of this!
-144.84	148.36	<v Rob>	An Australian health writer called Thea O’Connor,
-148.36	151.16		is a founder of a campaign called Nap Now
-151.16	154.12		which is trying to make sleeping at work more acceptable.
-154.12	156.92		She calls herself a ‘<strong>naptivist</strong>’!
-156.92	158.12		Let’s hear from her now.
-158.12	161.44		What does she say is stopping us from doing this?
-161.44	163.88	<v Thea O'Connor, health writer and speaker:>	I think that our culture is a bit crazy not to embrace it,
-163.88	166.76		and one of the reasons we don’t is our attitude,
-166.76	171.24		you know it’s quite counter-cultural to do nothing in order to get ahead.
-171.24	176.04		I just really see that it’s time to disrupt the prevailing work ethic
-176.04	179.6		which is all about work longer and harder.
-179.6	179.96	<v Finn>	Right,
-179.96	182.88		so she wants us to embrace –
-182.88	184.4		to accept –
-184.4	187.12		the idea of a workplace power-nap.
-187.12	189.56		But it is our <strong>attitude</strong> –
-189.56	191.16		the way we think about work –
-191.16	194.12		that stops society from accepting this.
-194.12	194.76	<v Rob>	Yes,
-194.76	198.2		she explains that it is <strong>counter-cultural</strong> –
-198.2	200.52		so going against the normal way of thinking –
-200.52	203.4		to actually do nothing and have a snooze.
-203.4	205.72	<v Finn>	That’s why she is trying to change –
-205.72	207.08		or disrupt –
-207.08	211.52		our current <strong>work ethic</strong> of working longer and harder.
-211.52	215.36		She believes this doesn’t necessarily bring better results.
-215.36	216.2		But Rob,
-216.2	218.24		is this idea just a fad –
-218.24	220.88		something that’s popular for a short while?
-220.88	221.6	<v Rob>	Maybe,
-221.6	223.8		but research has certainly shown
-223.8	227.24		that good quantity and quality of sleep
-227.24	231.16		is important for our <strong>wellbeing</strong>.
-231.16	234.16		A few years ago research by the East of England Development Agency found
-234.16	238.08		30% of people have their best ideas in bed
-238.08	241.28		compared to just 11% who have them at their desk.
-241.28	245.48		It called for companies to install beds in the workplace.
-245.48	245.84	<v Finn>	Well,
-245.84	248.12		there aren’t any in our office yet Rob.
-248.12	254.28		I think putting beds or areas for naps in the office
-254.28	260.56		would help us workers feel more able to rest and recharge our minds.
-260.56	264.4	<v Rob>	An alternative idea would be to change our working hours.
-264.4	270		The UK’s Sleep Council claims the <strong>nine-to-five</strong> work culture does not fit
-270	273.28		into the natural sleeping pattern of the human race
-273.28	277.52		and bosses need to introduce a more sleep-friendly working day.
-277.52	281.68	<v Finn>	That sounds like a <strong>siesta</strong> to me -
-281.68	284.32		a short period of sleep in the middle of the day
-284.32	288.12		that people in warm places like Spain often have.
-288.12	290.16	<v Rob>	My problem with a siesta is
-290.16	295.4		that if I have a sleep in the afternoon I’d never wake up!
-295.4	298	<v Finn>	Well before you nod off now Rob,
-298	301.16		could you please tell me the answer to today’s question.
-301.16	302.08	<v Rob>	Yes.
-302.08	304.28		I asked you if you knew how many hours of sleep
-304.28	305.84		the former British Prime Minister,
-305.84	306.68		Margaret Thatcher,
-306.68	308.8		is said to have had each night?
-308.8	309.76		Three,
-309.76	311.84		four or five hours?
-311.84	315.28	<v Finn>	I said four hours Rob.
-315.28	317.24	<v Rob>	You are right.
-317.24	322.84		It has often been said she needed just four hours of sleep –
-322.84	325.2		only on weekdays,
-325.2	326.44		not weekends.
-326.44	329.48		Well before you have another power-nap,
-329.48	332.88		could you remind us of some of the vocabulary we’ve heard today:
-332.88	333.64	<v Finn>	Yes,
-333.64	335.24		we heard:
-335.24	335.96		napping
-335.96	337.96		nod off
-337.96	340.36		sleeping on the job
-340.36	342.04		insomniac
-342.04	344.12		40 winks
-344.12	345.64		power-nap
-345.64	347.64		naptivist
-347.64	349.16		attitude
-349.16	351.04		counter-cultural
-351.04	352.8		work ethic
-352.8	354.28		wellbeing
-354.28	356.2		nine-to-five
-356.2	357.68		siesta
-357.68	359	<v Rob>	Thanks.
-359	361.36		We hope you’ve enjoyed today’s programme.
-361.36	368.68		Please join us again soon for another 6 Minute English from BBC Learning English.
-368.68	370.4	<v Both>	Bye.
-370.4	376.08		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Rob> Hello I’m Rob.
+Welcome to 6 Minute English.
+I’m joined today by Finn.
+Hello Finn.
+<v Finn> …
+<v Rob> Finn?
+…Hello Finn?
+<v Finn> Oh sorry Rob,
+you caught me <strong>napping</strong>.
+It’s that time of day when I need to <strong>nod off</strong> –
+or in other words,
+fall asleep.
+<v Rob> Well,
+<strong>sleeping on the job</strong> –
+or sleeping at work -
+is no bad thing –
+and I hope today’s programme
+will wake you up to the idea
+that sleeping in the workplace might be a good thing.
+<v Finn> Oh really!
+That’s good to hear.
+I would have thought that sleeping at work was against the rules.
+<v Rob> Not in every office,
+Finn,
+and I’ll tell you why soon
+as well as explaining some sleep-related vocabulary.
+But now you’re wide awake,
+how about a question?
+<v Finn> OK,
+let’s hear it.
+<v Rob> When the former British Prime Minister,
+Margaret Thatcher,
+was in power,
+she did her job with very little sleep.
+Do you know how many hours of sleep she is said to have had each night?
+a) Three hours
+b) Four hours
+c) Five hours
+<v Finn> I always thought she got by,
+she managed her job,
+with just four hours of sleep a night.
+<v Rob> Not much,
+is it?
+We’ll find out if you are right or wrong later.
+I’m not sure if she chose <em>not</em> to sleep for long
+or she just wasn’t able to sleep for long.
+Someone who can’t sleep is called an <strong>insomniac</strong>.
+<v Finn> And I’m certainly not an insomniac.
+I enjoy sleeping all night and some of the day too.
+And Rob,
+you said napping during the day is a good thing?
+<v Rob> It’s always nice to have a short sleep –
+or what I call <strong>40 winks</strong> –
+during the day,
+but when you’re at work this can be a problem.
+In some companies,
+like Google and the Huffington Post,
+workplace naps are positively encouraged.
+They’re seen as a way to make staff more productive.
+<v Finn> So you mean they work harder
+and are more creative because a <strong>power-nap</strong> –
+a quick sleep –
+makes workers feel refreshed and more alert.
+I like the sound of this!
+<v Rob> An Australian health writer called Thea O’Connor,
+is a founder of a campaign called Nap Now
+which is trying to make sleeping at work more acceptable.
+She calls herself a ‘<strong>naptivist</strong>’!
+Let’s hear from her now.
+What does she say is stopping us from doing this?
+<v Thea O'Connor, health writer and speaker:> I think that our culture is a bit crazy not to embrace it,
+and one of the reasons we don’t is our attitude,
+you know it’s quite counter-cultural to do nothing in order to get ahead.
+I just really see that it’s time to disrupt the prevailing work ethic
+which is all about work longer and harder.
+<v Finn> Right,
+so she wants us to embrace –
+to accept –
+the idea of a workplace power-nap.
+But it is our <strong>attitude</strong> –
+the way we think about work –
+that stops society from accepting this.
+<v Rob> Yes,
+she explains that it is <strong>counter-cultural</strong> –
+so going against the normal way of thinking –
+to actually do nothing and have a snooze.
+<v Finn> That’s why she is trying to change –
+or disrupt –
+our current <strong>work ethic</strong> of working longer and harder.
+She believes this doesn’t necessarily bring better results.
+But Rob,
+is this idea just a fad –
+something that’s popular for a short while?
+<v Rob> Maybe,
+but research has certainly shown
+that good quantity and quality of sleep
+is important for our <strong>wellbeing</strong>.
+A few years ago research by the East of England Development Agency found
+30% of people have their best ideas in bed
+compared to just 11% who have them at their desk.
+It called for companies to install beds in the workplace.
+<v Finn> Well,
+there aren’t any in our office yet Rob.
+I think putting beds or areas for naps in the office
+would help us workers feel more able to rest and recharge our minds.
+<v Rob> An alternative idea would be to change our working hours.
+The UK’s Sleep Council claims the <strong>nine-to-five</strong> work culture does not fit
+into the natural sleeping pattern of the human race
+and bosses need to introduce a more sleep-friendly working day.
+<v Finn> That sounds like a <strong>siesta</strong> to me -
+a short period of sleep in the middle of the day
+that people in warm places like Spain often have.
+<v Rob> My problem with a siesta is
+that if I have a sleep in the afternoon I’d never wake up!
+<v Finn> Well before you nod off now Rob,
+could you please tell me the answer to today’s question.
+<v Rob> Yes.
+I asked you if you knew how many hours of sleep
+the former British Prime Minister,
+Margaret Thatcher,
+is said to have had each night?
+Three,
+four or five hours?
+<v Finn> I said four hours Rob.
+<v Rob> You are right.
+It has often been said she needed just four hours of sleep –
+only on weekdays,
+not weekends.
+Well before you have another power-nap,
+could you remind us of some of the vocabulary we’ve heard today:
+<v Finn> Yes,
+we heard:
+napping
+nod off
+sleeping on the job
+insomniac
+40 winks
+power-nap
+naptivist
+attitude
+counter-cultural
+work ethic
+wellbeing
+nine-to-five
+siesta
+<v Rob> Thanks.
+We hope you’ve enjoyed today’s programme.
+Please join us again soon for another 6 Minute English from BBC Learning English.
+<v Both> Bye.
+6 minute English from BBC.

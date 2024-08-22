@@ -1,8 +1,8 @@
-0.23	1.26	Unit 10
-2.48	4.41	Tapescript 10.1
-6.55	8.43	The country is cheaper
-8.55	10.62	and safer than the city.
-16.55	18.51	The city is noisier
-18.74	20.94	and dirtier than the country.
-26.77	29.71	The city is more expensive than the country.
-35.04	37.84	The city is more exciting than the country.
+Unit 10
+Tapescript 10.1
+The country is cheaper
+and safer than the city.
+The city is noisier
+and dirtier than the country.
+The city is more expensive than the country.
+The city is more exciting than the country.

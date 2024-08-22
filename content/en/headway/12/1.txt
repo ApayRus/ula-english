@@ -1,43 +1,43 @@
-0.22	1.41	Unit 12
-2.48	4.62	Tapescript 12.1
-6.08	6.68	Rosie
-10.01	10.97	When I grow up
-11.28	12.96	I’m going to be a ballet dancer.
-13.52	14.91	I love dancing.
-15.64	17.89	I go dancing three times a week.
-18.88	22.78	I’m going to travel all over the world and I’m going to learn French
-22.98	23.77	and Russian
-23.94	26.47	because I want to dance in Paris and Moscow.
-27.22	30.08	I’m not going to marry until I’m thirty-five
-30.43	32.47	and then I’m going to have two children.
-33.04	35.32	First I’d like a girl and then a boy –
-35.87	37.55	but maybe I can’t plan that!
-38.30	40.63	I’m going to work until I’m 75.
-41.26	42.96	I’m going to teach dancing
-43.46	45.22	and I’m going to open a dance school.
-45.33	47.10	It’s all very exciting.
-49.20	50.03	Miss Bishop
-52.07	53.38	When I retire … ?
-53.80	54.43	… er …
-54.83	55.62	well …
-56.45	57.25	er …
-57.56	58.39	two things.
-58.87	59.59	First,
-60.01	61.36	I’m going to learn Russian –
-61.77	64.04	I can already speak French and German,
-64.28	66.20	and I want to learn another language.
-66.92	67.95	And second,
-68.30	70.05	I’m going to learn to drive.
-70.42	74.18	It’s terrible that I’m 59 and I can’t drive –
-74.54	75.68	no time to learn.
-76.69	78.43	Then I’m going to buy a car
-78.53	80.44	and travel all over the world.
-81.23	82.07	Also
-82.54	85.44	I’m not going to wear boring clothes any more,
-85.73	88.97	I hate the skirts and blouses I wear every day for school.
-89.43	91.99	I’m going to wear jeans and T-shirts
-92.01	92.99	all the time.
-93.85	96.00	And when I return from my travels
-96.64	97.98	I’m going to write a book
-98.23	100.34	and go on TV to talk about it.
-100.70	102.91	I’m going to become a TV star!
+Unit 12
+Tapescript 12.1
+Rosie
+When I grow up
+I’m going to be a ballet dancer.
+I love dancing.
+I go dancing three times a week.
+I’m going to travel all over the world and I’m going to learn French
+and Russian
+because I want to dance in Paris and Moscow.
+I’m not going to marry until I’m thirty-five
+and then I’m going to have two children.
+First I’d like a girl and then a boy –
+but maybe I can’t plan that!
+I’m going to work until I’m 75.
+I’m going to teach dancing
+and I’m going to open a dance school.
+It’s all very exciting.
+Miss Bishop
+When I retire … ?
+… er …
+well …
+er …
+two things.
+First,
+I’m going to learn Russian –
+I can already speak French and German,
+and I want to learn another language.
+And second,
+I’m going to learn to drive.
+It’s terrible that I’m 59 and I can’t drive –
+no time to learn.
+Then I’m going to buy a car
+and travel all over the world.
+Also
+I’m not going to wear boring clothes any more,
+I hate the skirts and blouses I wear every day for school.
+I’m going to wear jeans and T-shirts
+all the time.
+And when I return from my travels
+I’m going to write a book
+and go on TV to talk about it.
+I’m going to become a TV star!

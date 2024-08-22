@@ -1,122 +1,122 @@
-0.1	3.32		This is a download from bbc learning English
-3.32	6.76		to find out more visit our website
-6.76	10.68		6 minute English from BBClearningEnglish.com
-10.68	13.08	<v Neil>	Hello.
-13.08	16.28		This is 6 Minute English from BBC Learning English.
-16.28	17.08		I’m Neil.
-17.08	18.04	<v Rob>	And I’m Rob.
-18.04	20.32	<v Neil>	As well as bringing the world to a halt,
-20.32	24.96		the coronavirus epidemic has led to an increase in misinformation,
-24.96	28.08		lies and conspiracy theories on the internet.
-28.08	30	<v Rob>	In an era of fake news,
-30	34.52		where even a president of the United States is accused of spreading misinformation,
-34.52	38.2		could it be that we are living through a crisis in trust?
-38.2	39.68		What is trust?
-39.68	41.76		And who should we place our trust in? –
-41.76	45.52		these are some of the questions we’ll be discussing in this programme.
-45.52	52.92	<v Neil>	And we’ll be hearing from a philosopher who believes the problem is not about trust itself but about <strong>trustworthiness</strong> –
-52.92	56.52		the ability to be trusted as being honest and reliable.
-56.52	61.28	<v Rob>	And as always we’ll be learning some related vocabulary along the way.
-61.28	65.48		Of course telling lies and lacking trustworthiness is nothing new -
-65.48	69.76		just think of the Trojan Horse used to trick the ancient Greeks.
-69.76	70.56	<v Neil>	More recently,
-70.56	76.76		the American financier Bernie Madoff become infamous as ‘the biggest swindler in history’.
-76.76	83.04		In 2009 he was sentenced to 150 years in prison for his part in the Ponzi scam,
-83.04	85.8		but how much did he defraud from investors?
-85.8	87.56		That’s my quiz question.
-87.56	87.88		Was it:
-87.88	90.8		a) 6.5 million dollars?,
-90.8	93.16		b) 65 million dollars?
-93.16	93.72		or
-93.72	97.2		c) 65 billion dollars?
-97.2	101.16	<v Rob>	I’ll say b) 65 million dollars.
-101.16	101.52	<v Neil>	OK,
-101.52	101.8		Rob,
-101.8	104.08		we’ll come back to that later.
-104.08	105.16		Generally speaking,
-105.16	110.56		trust can be described as a judgement that someone can be believed and relied upon.
-110.56	113.12		When we trust each other it makes life easier,
-113.12	114.96		quicker and friendlier.
-114.96	117.64	<v Rob>	Society can’t function without trust -
-117.64	120.8		so does that mean the more trust the better?
-120.8	121.4	<v Neil>	Well,
-121.4	123		not according to philosopher,
-123	124.44		Onora O’Neill.
-124.44	126.16		Here he is speaking to David Edmonds,
-126.16	128.88		presenter of the BBC World Service programme,
-128.88	131.16		<em>The Big Idea</em>:
-131.16	132.2	<v Onora O’Neill>	We have another word,
-132.2	134.08		which is <strong>gullible</strong>,
-134.08	146.12		and if you simply place trust <strong>indiscriminately</strong> without making a judgement about whether the other person or institution is trustworthy then just <strong>trusting to luck</strong> as we say,
-146.12	148.44		is probably not a virtue.
-148.44	155.08	<v Rob>	There’s a difference between trusting someone because you have good reason to believe them and being <strong>gullible</strong> –
-155.08	159.12		that’s easy to deceive because you trust and believe people too quickly.
-159.12	162.48	<v Neil>	If you don’t judge who is <strong>trustworthy</strong> and who is not,
-162.48	164.24		you are <strong>trusting to luck</strong> –
-164.24	168.2		simply believing or hoping that things will happen for the best.
-168.2	176.6	<v Rob>	But being <strong>gullible</strong> and <strong>trusting to luck</strong> is exactly how Bernie Madoff was able to trick so many people into giving him their money.
-176.6	182.84		Their biggest mistake was to trust him <strong>indiscriminately -</strong> in a way that does not show care or judgement,
-182.84	185		usually with harmful results.
-185	185.48	<v Neil>	So,
-185.48	188.96		if <strong>indiscriminately</strong> trusting people is such a bad idea,
-188.96	190.24		how do we avoid it?
-190.24	194.2		How can we tell who is trustworthy and who is not?
-194.2	197.04		Here’s BBC World Service’s <em>The Big Idea</em> presenter,
-197.04	198.08		David Edmonds,
-198.08	201.88		asking Onora O’Neill to give some details:
-201.88	207.2	<v David Edmonds>	An individual or organisation is <strong>trustworthy</strong> is they can justifiably be trusted.
-207.2	211.16		To be trustworthy they need three ingredients.
-211.16	211.84		First,
-211.84	212.32		honesty –
-212.32	215.68		people have to be able to believe what they’re told.
-215.68	216.56		Second,
-216.56	218.84		<strong>competence</strong>.
-218.84	223.24		Beyond honesty and competence there’s a third element to trustworthiness: <strong>reliability</strong>.
-223.24	224.32	<v Onora O’Neill>	That’s the boring one.
-224.32	236.32		That’s just being honest and <strong>competent</strong> each time so that it’s not enough to be episodically honest and <strong>competent</strong> for some of the things you claim to be able to do but not others.
-236.32	240.88	<v Rob>	Philosopher Onora O’Neill identifies three ingredients for <strong>trustworthiness</strong>: honesty,
-240.88	244.32		<strong>competence</strong> and <strong>reliability</strong>.
-244.32	247.8	<v Neil>	<strong>Competence</strong> means the ability to do something well.
-247.8	250.88		You would trust a car mechanic to fix your broken car engine,
-250.88	253.88		but you wouldn’t go to them for dental work –
-253.88	256.72		they’re not <strong>competent</strong> to remove your tooth like a dentist is.
-256.72	259.88	<v Rob>	And you wouldn’t trust your dentist to fix your broken down car,
-259.88	261.12		either!
-261.12	264.16		Onora O’Neill also mentions <strong>reliability</strong> –
-264.16	270		being trustworthy because you behave well <em>all</em> the time and keep <em>all</em> the promises you make.
-270	271.84	<v Neil>	It’s the combination of these three –
-271.84	272.16		being honest,
-272.16	274.12		<strong>competent</strong> and <strong>reliable</strong> –
-274.12	276.68		that makes someone truly trustworthy.
-276.68	278.76	<v Rob>	And not someone like Bernie Madoff,
-278.76	282.24		who would run off with your money and entire life savings.
-282.24	285.28	<v Neil>	All of which brings me to my quiz question.
-285.28	285.72		Do you remember,
-285.72	286.08		Rob?
-286.08	286.88	<v Rob>	Yep,
-286.88	287.48		I do.
-287.48	292.68		You asked how much Bernie Madoff stole from the American investors he lied to.
-292.68	295.4		And I said b) 65 million dollars.
-295.4	298.76	<v Neil>	But in fact it was c) 65 <em>billion</em> dollars –
-298.76	302.6		a lot of money to give to such an untrustworthy man!
-302.6	309.04	<v Rob>	So we’ve been discussing whether there is a crisis of trust and asking how to know who is <strong>trustworthy</strong> –
-309.04	310.64		able to be trusted as honest,
-310.64	312.16		competent and reliable.
-312.16	317.52	<v Neil>	Placing your trust in someone <strong>trustworthy</strong> is very different from being <strong>gullible</strong> –
-317.52	320.72		easy to trick because you trust and believe people too quickly.
-320.72	324.64	<v Rob>	And it can also be unhelpful to <strong>trust things to luck</strong> –
-324.64	328.64		simply hope or believe that everything will work out for the best.
-328.64	333.4	<v Neil>	Both of these problems come about when people trust <strong>indiscriminately</strong> -
-333.4	337		in an unsystematic way that does not show care or judgement,
-337	338.8		usually with harmful results –
-338.8	341.52		as Bernie Madoff’s victims found out to their cost.
-341.52	349.72	<v Rob>	But luckily there <em>are</em> many trustworthy people around and we can spot them using three criteria: honesty,
-349.72	355.48		in other words not lying; <strong>competence</strong>; and <strong>reliability</strong>.
-355.48	356.6	<v Neil>	<strong>Competence</strong> means an ability to do something well,
-356.6	359.04		in the correct and effective way.
-359.04	361.64	<v Rob>	And <strong>reliability</strong> means being honest and <strong>competent</strong>,
-361.64	367.44		<em>all the time,</em> not just being honest sometimes or reliable in some actions but not others.
-367.44	369.44	<v Neil>	That’s all for 6 Minute English.
-369.44	370.24		Bye for now!
-370.24	370.8	<v Rob>	Bye bye!
-370.8	378.44		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> As well as bringing the world to a halt,
+the coronavirus epidemic has led to an increase in misinformation,
+lies and conspiracy theories on the internet.
+<v Rob> In an era of fake news,
+where even a president of the United States is accused of spreading misinformation,
+could it be that we are living through a crisis in trust?
+What is trust?
+And who should we place our trust in? –
+these are some of the questions we’ll be discussing in this programme.
+<v Neil> And we’ll be hearing from a philosopher who believes the problem is not about trust itself but about <strong>trustworthiness</strong> –
+the ability to be trusted as being honest and reliable.
+<v Rob> And as always we’ll be learning some related vocabulary along the way.
+Of course telling lies and lacking trustworthiness is nothing new -
+just think of the Trojan Horse used to trick the ancient Greeks.
+<v Neil> More recently,
+the American financier Bernie Madoff become infamous as ‘the biggest swindler in history’.
+In 2009 he was sentenced to 150 years in prison for his part in the Ponzi scam,
+but how much did he defraud from investors?
+That’s my quiz question.
+Was it:
+a) 6.5 million dollars?,
+b) 65 million dollars?
+or
+c) 65 billion dollars?
+<v Rob> I’ll say b) 65 million dollars.
+<v Neil> OK,
+Rob,
+we’ll come back to that later.
+Generally speaking,
+trust can be described as a judgement that someone can be believed and relied upon.
+When we trust each other it makes life easier,
+quicker and friendlier.
+<v Rob> Society can’t function without trust -
+so does that mean the more trust the better?
+<v Neil> Well,
+not according to philosopher,
+Onora O’Neill.
+Here he is speaking to David Edmonds,
+presenter of the BBC World Service programme,
+<em>The Big Idea</em>:
+<v Onora O’Neill> We have another word,
+which is <strong>gullible</strong>,
+and if you simply place trust <strong>indiscriminately</strong> without making a judgement about whether the other person or institution is trustworthy then just <strong>trusting to luck</strong> as we say,
+is probably not a virtue.
+<v Rob> There’s a difference between trusting someone because you have good reason to believe them and being <strong>gullible</strong> –
+that’s easy to deceive because you trust and believe people too quickly.
+<v Neil> If you don’t judge who is <strong>trustworthy</strong> and who is not,
+you are <strong>trusting to luck</strong> –
+simply believing or hoping that things will happen for the best.
+<v Rob> But being <strong>gullible</strong> and <strong>trusting to luck</strong> is exactly how Bernie Madoff was able to trick so many people into giving him their money.
+Their biggest mistake was to trust him <strong>indiscriminately -</strong> in a way that does not show care or judgement,
+usually with harmful results.
+<v Neil> So,
+if <strong>indiscriminately</strong> trusting people is such a bad idea,
+how do we avoid it?
+How can we tell who is trustworthy and who is not?
+Here’s BBC World Service’s <em>The Big Idea</em> presenter,
+David Edmonds,
+asking Onora O’Neill to give some details:
+<v David Edmonds> An individual or organisation is <strong>trustworthy</strong> is they can justifiably be trusted.
+To be trustworthy they need three ingredients.
+First,
+honesty –
+people have to be able to believe what they’re told.
+Second,
+<strong>competence</strong>.
+Beyond honesty and competence there’s a third element to trustworthiness: <strong>reliability</strong>.
+<v Onora O’Neill> That’s the boring one.
+That’s just being honest and <strong>competent</strong> each time so that it’s not enough to be episodically honest and <strong>competent</strong> for some of the things you claim to be able to do but not others.
+<v Rob> Philosopher Onora O’Neill identifies three ingredients for <strong>trustworthiness</strong>: honesty,
+<strong>competence</strong> and <strong>reliability</strong>.
+<v Neil> <strong>Competence</strong> means the ability to do something well.
+You would trust a car mechanic to fix your broken car engine,
+but you wouldn’t go to them for dental work –
+they’re not <strong>competent</strong> to remove your tooth like a dentist is.
+<v Rob> And you wouldn’t trust your dentist to fix your broken down car,
+either!
+Onora O’Neill also mentions <strong>reliability</strong> –
+being trustworthy because you behave well <em>all</em> the time and keep <em>all</em> the promises you make.
+<v Neil> It’s the combination of these three –
+being honest,
+<strong>competent</strong> and <strong>reliable</strong> –
+that makes someone truly trustworthy.
+<v Rob> And not someone like Bernie Madoff,
+who would run off with your money and entire life savings.
+<v Neil> All of which brings me to my quiz question.
+Do you remember,
+Rob?
+<v Rob> Yep,
+I do.
+You asked how much Bernie Madoff stole from the American investors he lied to.
+And I said b) 65 million dollars.
+<v Neil> But in fact it was c) 65 <em>billion</em> dollars –
+a lot of money to give to such an untrustworthy man!
+<v Rob> So we’ve been discussing whether there is a crisis of trust and asking how to know who is <strong>trustworthy</strong> –
+able to be trusted as honest,
+competent and reliable.
+<v Neil> Placing your trust in someone <strong>trustworthy</strong> is very different from being <strong>gullible</strong> –
+easy to trick because you trust and believe people too quickly.
+<v Rob> And it can also be unhelpful to <strong>trust things to luck</strong> –
+simply hope or believe that everything will work out for the best.
+<v Neil> Both of these problems come about when people trust <strong>indiscriminately</strong> -
+in an unsystematic way that does not show care or judgement,
+usually with harmful results –
+as Bernie Madoff’s victims found out to their cost.
+<v Rob> But luckily there <em>are</em> many trustworthy people around and we can spot them using three criteria: honesty,
+in other words not lying; <strong>competence</strong>; and <strong>reliability</strong>.
+<v Neil> <strong>Competence</strong> means an ability to do something well,
+in the correct and effective way.
+<v Rob> And <strong>reliability</strong> means being honest and <strong>competent</strong>,
+<em>all the time,</em> not just being honest sometimes or reliable in some actions but not others.
+<v Neil> That’s all for 6 Minute English.
+Bye for now!
+<v Rob> Bye bye!
+6 minute English from BBC.

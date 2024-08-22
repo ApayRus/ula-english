@@ -1,162 +1,162 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.04		6 minute English from BBClearningEnglish.com
-12.04	14.6	<v Alice>	Hello and welcome to 6 Minute English.
-14.6	15.04		I’m Alice…
-15.04	15.96	<v Neil>	And I’m Neil.
-15.96	18.52	<v Alice>	We’re talking about old technology today,
-18.52	19.08		Neil.
-19.08	20.64		Did you use to have any old tech,
-20.64	21.16		you know,
-21.16	21.84		a Walkman,
-21.84	23.16		back in the 1990s?
-23.16	24.64		Before music went digital?
-24.64	24.96	<v Neil>	No.
-24.96	26.24		I didn’t have a Walkman…
-26.24	28.48		But I do have a record player.
-28.48	30.52	<v Alice>	I know you like flared trousers,
-30.52	32.56		but I didn’t realize you were that retro.
-32.56	34.72		A <strong>record player</strong>,
-34.72	35.68		for those of you who don’t know,
-35.68	37.84		is a box with a <strong>turntable</strong> –
-37.84	41.6		or turning plate that you put your vinyl records on to play them.
-41.6	45.24	<v Neil>	And <strong>retro</strong> means going back to styles and fashions from the past.
-45.24	45.72		Well,
-45.72	47.76		I love my record player.
-47.76	50.04		I have a large collection of vinyl records,
-50.04	53		as well as cassette tapes that I inherited from my parents…
-53	56.52	<v Alice>	<strong>Vinyl</strong> is the plastic that records are made from.
-56.52	59.6		And <strong>cassette tapes</strong> came after records –
-59.6	65.04		which are these small plastic cases with audiotape on reels inside them.
-65.04	65.56		Well,
-65.56	68.36		I don’t understand your fondness for out-dated stuff,
-68.36	68.76		Neil.
-68.76	70.88	<v Neil>	Don’t be so quick to dismiss old tech,
-70.88	71.52		Alice.
-71.52	73.24		There’s been a <strong>resurgence</strong> –
-73.24	74.16		or new rise in –
-74.16	75.44		record sales recently –
-75.44	76.36		here in the UK,
-76.36	77.8		and in the US.
-77.8	80.08		Some DJs have gone back to using them,
-80.08	83.4		and new record stores have opened to meet the demand for vinyl.
-83.4	84.32	<v Alice>	Really?
-84.32	84.84	<v Neil>	Yes,
-84.84	85.28		really.
-85.28	85.92		In fact,
-85.92	86.96		I have a question for you,
-86.96	91.84		Alice: How many records were sold in the UK in 2014?
-91.84	92.12		Was it…
-92.12	93.72		a) 10,000?
-93.72	95.32		b) 100,000?
-95.32	97.92		Or c) 1 million?
-97.92	100.36	<v Alice>	Well,
-100.36	103.64		I think it’s b) 100,000.
-103.64	106.56	<v Neil>	We’ll find out if you’re right or wrong later in the show.
-106.56	107.72		For myself,
-107.72	110.28		I just think vinyl sounds nicer than digital –
-110.28	111.96		has a warmer quality.
-111.96	113.56	<v Alice>	That sounds a bit technical,
-113.56	114.04		Neil!
-114.04	117.32		Don’t you think this retro trend has more to do with nostalgia for the past?
-117.32	123.52	<v Neil>	<strong>Nostalgia</strong> means thinking about the past with a mixture of warm feelings and sadness.
-123.52	123.84		Well,
-123.84	124.24		yes,
-124.24	128.76		I think people who grew up with the old technology probably are nostalgic about it.
-128.76	137.68		Let’s listen to music journalist Jacqueline Springer talking about cassette tapes and what they mean to her.
-137.68	139.44	<v INSERT>	They were audio love letters.
-139.44	146.76		They were ways in which you started to carve out your own identity so you know when Dan or I have interviewed people we talk about…
-146.76	149.72		we talk to musicians about their impressions and,
-149.72	150		you know,
-150	151.08		and their influences,
-151.08	153.16		and invariably it was siblings or parents.
-153.16	158.72		And you would raid those vinyl albums and you would self-select.
-158.72	159.88	<v Neil>	Jacqueline Springer there.
-159.88	163		So she calls cassette tapes ‘audio love letters’ –
-163	165.32		because people often <strong>compiled</strong> –
-165.32	166.36		or put together –
-166.36	171.36		their own collection of songs on tapes and gave them to the boy or girl they liked.
-171.36	176.24	<v Alice>	Jacqueline says they recorded songs from their parents’ record collections onto tape.
-176.24	180.88		And it seems that this process helped create their musical and social identity.
-180.88	181.24	<v Neil>	Yes.
-181.24	183.36		I identified with The Rolling Stones,
-183.36	184.04		The Clash,
-184.04	185.96		and The Sex Pistols when I was a teen.
-185.96	187.68		How about your musical identity,
-187.68	188.24		Alice?
-188.24	188.8	<v Alice>	Well,
-188.8	192.08		I was in love with all the boy bands from the 1990s –
-192.08	192.84		NSync,
-192.84	193.48		Westlife,
-193.48	194.16		Backstreet Boys,
-194.16	195.16		Take That.
-195.16	196.08	<v Neil>	Unbelievable.
-196.08	200.32		I can see I need to make you some decent tapes of music from the 90s,
-200.32	200.8		Alice.
-200.8	203.32	<v Alice>	I didn’t say I still like boy bands,
-203.32	203.92		Neil.
-203.92	206.64		I’m not nostalgic for my lost teenage years –
-206.64	207.64		unlike you.
-207.64	209.24	<v Neil>	Old tech is everywhere.
-209.24	217.56		Did you know that the US nuclear weapons force still uses a computer system dating back to the 1970s with 8-inch floppy disks?
-217.56	219.28	<v Alice>	<strong>Floppy disks</strong>?
-219.28	224.52		You mean those flexible plastic computer disks used for storing data magnetically.
-224.52	224.88		Well,
-224.88	228.76		I can’t believe the guys in The Pentagon are nostalgic about floppy disks.
-228.76	229.12	<v Neil>	Well,
-229.12	235		a Pentagon spokesperson said it would be extremely expensive to update the system and it still works.
-235	239.12		They plan to do it by 2020 and save a lot of space for sure.
-239.12	245.76		You would need more than 130,000 8-inch floppy disks to store 32GB of information.
-245.76	246.44	<v Alice>	Wow!
-246.44	249.96		This is the equivalent of an average memory stick!Yes.
-249.96	253.16		But there are more people out there keen on old tech.
-253.16	258.72		How do you think a DVD rental store survives in this era of online movie streaming?
-258.72	260.4		Let’s listen to Tara Judah,
-260.4	267.08		co-director of UK rental store 20th Century Flicks and find out.
-267.08	271.24	<v INSERT>	We’ve survived because of the experience of coming into this store.
-271.24	271.8		Um…
-271.8	273.6		It’s a very human experience.
-273.6	274.72		It’s human interaction.
-274.72	279.32		People come here because they want to talk to somebody who’s really knowledgeable about film.
-279.32	284.72		They want to have a recommendation or a conversation about the films they just watch.
-284.72	285.2		You know,
-285.2	286.76		they really want to discuss those things.
-286.76	291.52	<v Neil>	So it’s back to the idea of human contact –
-291.52	295.48		we like compiling lists of music and sharing them with our friends and loved ones.
-295.48	300.04		Sharing a playlist through iTunes or Spotify isn’t quite the same,
-300.04	300.28		though.
-300.28	302.68		We like talking people about the films we watch.
-302.68	304.6	<v Alice>	You can always talk to me,
-304.6	305		Neil.
-305	309.12		Now how about giving me the answer to today’s quiz question?
-309.12	313.32	<v Neil>	I asked: How many records were sold in the UK in 2014?
-313.32	313.6		Was it…
-313.6	316.44		a) 10,000 b) 100,000?
-316.44	317.96		Or c) 1 million?
-317.96	320.92	<v Alice>	I said b) 100,000.
-320.92	321.52	<v Neil>	And,
-321.52	322.2		Alice,
-322.2	325.24		you were in fact totally wrong!
-325.24	328.68		The answer is c).
-328.68	330.04		Vinyl is booming –
-330.04	331.8		in 2014,
-331.8	337.08		sales passed 1million albums in the UK for the first time since 1996.
-337.08	339.48		The format has been steadily increasing,
-339.48	342.48		thanks in part to the popularity of guitar bands,
-342.48	344.8		traditionally associated with records.
-344.8	348.16	<v Alice>	Now let’s hear words we learned today.
-348.16	348.92		They are:
-348.92	350.4		record player
-350.4	352.04		turntable
-352.04	353.8		retro
-353.8	355.28		vinyl
-355.28	357.16		cassette tapes
-357.16	359.16		resurgence
-359.16	360.96		nostalgia
-360.96	362.6		compiled
-362.6	364.56		floppy disk
-364.56	365.64	<v Neil>	Well,
-365.64	367.56		that’s the end of today’s 6 Minute English.
-367.56	369.48		Don’t forget to join us again soon!
-369.48	371.04	<v Both>	Bye!
-371.04	377.04		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Alice> Hello and welcome to 6 Minute English.
+I’m Alice…
+<v Neil> And I’m Neil.
+<v Alice> We’re talking about old technology today,
+Neil.
+Did you use to have any old tech,
+you know,
+a Walkman,
+back in the 1990s?
+Before music went digital?
+<v Neil> No.
+I didn’t have a Walkman…
+But I do have a record player.
+<v Alice> I know you like flared trousers,
+but I didn’t realize you were that retro.
+A <strong>record player</strong>,
+for those of you who don’t know,
+is a box with a <strong>turntable</strong> –
+or turning plate that you put your vinyl records on to play them.
+<v Neil> And <strong>retro</strong> means going back to styles and fashions from the past.
+Well,
+I love my record player.
+I have a large collection of vinyl records,
+as well as cassette tapes that I inherited from my parents…
+<v Alice> <strong>Vinyl</strong> is the plastic that records are made from.
+And <strong>cassette tapes</strong> came after records –
+which are these small plastic cases with audiotape on reels inside them.
+Well,
+I don’t understand your fondness for out-dated stuff,
+Neil.
+<v Neil> Don’t be so quick to dismiss old tech,
+Alice.
+There’s been a <strong>resurgence</strong> –
+or new rise in –
+record sales recently –
+here in the UK,
+and in the US.
+Some DJs have gone back to using them,
+and new record stores have opened to meet the demand for vinyl.
+<v Alice> Really?
+<v Neil> Yes,
+really.
+In fact,
+I have a question for you,
+Alice: How many records were sold in the UK in 2014?
+Was it…
+a) 10,000?
+b) 100,000?
+Or c) 1 million?
+<v Alice> Well,
+I think it’s b) 100,000.
+<v Neil> We’ll find out if you’re right or wrong later in the show.
+For myself,
+I just think vinyl sounds nicer than digital –
+has a warmer quality.
+<v Alice> That sounds a bit technical,
+Neil!
+Don’t you think this retro trend has more to do with nostalgia for the past?
+<v Neil> <strong>Nostalgia</strong> means thinking about the past with a mixture of warm feelings and sadness.
+Well,
+yes,
+I think people who grew up with the old technology probably are nostalgic about it.
+Let’s listen to music journalist Jacqueline Springer talking about cassette tapes and what they mean to her.
+<v INSERT> They were audio love letters.
+They were ways in which you started to carve out your own identity so you know when Dan or I have interviewed people we talk about…
+we talk to musicians about their impressions and,
+you know,
+and their influences,
+and invariably it was siblings or parents.
+And you would raid those vinyl albums and you would self-select.
+<v Neil> Jacqueline Springer there.
+So she calls cassette tapes ‘audio love letters’ –
+because people often <strong>compiled</strong> –
+or put together –
+their own collection of songs on tapes and gave them to the boy or girl they liked.
+<v Alice> Jacqueline says they recorded songs from their parents’ record collections onto tape.
+And it seems that this process helped create their musical and social identity.
+<v Neil> Yes.
+I identified with The Rolling Stones,
+The Clash,
+and The Sex Pistols when I was a teen.
+How about your musical identity,
+Alice?
+<v Alice> Well,
+I was in love with all the boy bands from the 1990s –
+NSync,
+Westlife,
+Backstreet Boys,
+Take That.
+<v Neil> Unbelievable.
+I can see I need to make you some decent tapes of music from the 90s,
+Alice.
+<v Alice> I didn’t say I still like boy bands,
+Neil.
+I’m not nostalgic for my lost teenage years –
+unlike you.
+<v Neil> Old tech is everywhere.
+Did you know that the US nuclear weapons force still uses a computer system dating back to the 1970s with 8-inch floppy disks?
+<v Alice> <strong>Floppy disks</strong>?
+You mean those flexible plastic computer disks used for storing data magnetically.
+Well,
+I can’t believe the guys in The Pentagon are nostalgic about floppy disks.
+<v Neil> Well,
+a Pentagon spokesperson said it would be extremely expensive to update the system and it still works.
+They plan to do it by 2020 and save a lot of space for sure.
+You would need more than 130,000 8-inch floppy disks to store 32GB of information.
+<v Alice> Wow!
+This is the equivalent of an average memory stick!Yes.
+But there are more people out there keen on old tech.
+How do you think a DVD rental store survives in this era of online movie streaming?
+Let’s listen to Tara Judah,
+co-director of UK rental store 20th Century Flicks and find out.
+<v INSERT> We’ve survived because of the experience of coming into this store.
+Um…
+It’s a very human experience.
+It’s human interaction.
+People come here because they want to talk to somebody who’s really knowledgeable about film.
+They want to have a recommendation or a conversation about the films they just watch.
+You know,
+they really want to discuss those things.
+<v Neil> So it’s back to the idea of human contact –
+we like compiling lists of music and sharing them with our friends and loved ones.
+Sharing a playlist through iTunes or Spotify isn’t quite the same,
+though.
+We like talking people about the films we watch.
+<v Alice> You can always talk to me,
+Neil.
+Now how about giving me the answer to today’s quiz question?
+<v Neil> I asked: How many records were sold in the UK in 2014?
+Was it…
+a) 10,000 b) 100,000?
+Or c) 1 million?
+<v Alice> I said b) 100,000.
+<v Neil> And,
+Alice,
+you were in fact totally wrong!
+The answer is c).
+Vinyl is booming –
+in 2014,
+sales passed 1million albums in the UK for the first time since 1996.
+The format has been steadily increasing,
+thanks in part to the popularity of guitar bands,
+traditionally associated with records.
+<v Alice> Now let’s hear words we learned today.
+They are:
+record player
+turntable
+retro
+vinyl
+cassette tapes
+resurgence
+nostalgia
+compiled
+floppy disk
+<v Neil> Well,
+that’s the end of today’s 6 Minute English.
+Don’t forget to join us again soon!
+<v Both> Bye!
+6 minute English from BBC.

@@ -1,14 +1,14 @@
-0.19	2.41	Tapescript 13.7
-4.49	5.29	<v A> Good morning.
-5.79	9.89	Can you tell me the times of trains from Bristol back to Oxford, please?
-10.11	11.61	<v B> Afternoon, evening?
-11.83	13.41	When do you want to come back?
-13.55	16.08	<v A> About five o’clock this afternoon.
-16.13	18.99	<v B> About five o’clock. Right.
-19.09	20.11	Let’s have a look.
-20.66	24.15	There’s a train that leaves aTapescript 5.28,
-24.79	27.16	then there isn’t another one until 6.50.
-27.49	29.40	<v A> And what time do they get in?
-29.59	33.40	<v B> The 5.28 gets into Oxford aTapescript 6.54
-33.64	36.39	and the 6.50 gets in aTapescript 8.10.
-36.51	37.50	<v A> Thanks a lot.
+Tapescript 13.7
+<v A> Good morning.
+Can you tell me the times of trains from Bristol back to Oxford, please?
+<v B> Afternoon, evening?
+When do you want to come back?
+<v A> About five o’clock this afternoon.
+<v B> About five o’clock. Right.
+Let’s have a look.
+There’s a train that leaves aTapescript 5.28,
+then there isn’t another one until 6.50.
+<v A> And what time do they get in?
+<v B> The 5.28 gets into Oxford aTapescript 6.54
+and the 6.50 gets in aTapescript 8.10.
+<v A> Thanks a lot.

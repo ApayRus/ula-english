@@ -1,6 +1,6 @@
-0.16	2.02	T 2.7
-3.78	4.81	one pound
-6.51	7.79	five pounds
-9.38	10.18	fifty p
-12.10	13.52	seven pounds fifty
-15.50	17.08	ten pounds seventy-five
+T 2.7
+one pound
+five pounds
+fifty p
+seven pounds fifty
+ten pounds seventy-five

@@ -1,16 +1,16 @@
-0.16	2.29	Tapescript 12.3
-3.55	4.03	1
-5.34	7.92	<v A>Why is she going to learn French and Russian?
-8.48	11.35	<v B>Because she wants to dance in Paris and Moscow.
-13.43	13.92	2
-14.92	16.51	<v A>When is she going to marry?
-17.40	19.31	<v B>Not until she’s thirty-five.
-21.50	22.05	3
-23.85	25.97	<v A>How many children is she going to have?
-26.95	27.44	<v B>Two.
-29.68	30.23	4
-31.65	33.51	<v A>How long is she going to work?
-34.61	36.43	<v B>Until she’s seventy-five.
-38.67	39.34	5
-40.65	42.26	<v A>What is she going to teach?
-43.42	44.15	<v B>Dancing.
+Tapescript 12.3
+1
+<v A>Why is she going to learn French and Russian?
+<v B>Because she wants to dance in Paris and Moscow.
+2
+<v A>When is she going to marry?
+<v B>Not until she’s thirty-five.
+3
+<v A>How many children is she going to have?
+<v B>Two.
+4
+<v A>How long is she going to work?
+<v B>Until she’s seventy-five.
+5
+<v A>What is she going to teach?
+<v B>Dancing.

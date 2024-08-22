@@ -1,153 +1,153 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.8		to find out more visit our website
-6.8	12.68		6 minute English from BBClearningEnglish.com
-12.68	14.76	<v Neil>	Hello and welcome to 6 Minute English.
-14.76	15.28		I’m Neil.
-15.28	16.2	<v Rob>	And I’m Rob.
-16.2	16.56	<v Neil>	Now,
-16.56	16.88		Rob,
-16.88	20.96		would you say that you are an introvert or an extrovert?
-20.96	21.48	<v Rob>	What a good question!
-21.48	21.68		Well,
-21.68	26		<strong>extroverts</strong> are confident in their personality.
-26	29.64		They’re outgoing and comfortable in social situations.
-29.64	29.92		So,
-29.92	31.16		I would have to say that,
-31.16	31.88		if anything,
-31.88	33.12		I’m the opposite.
-33.12	35.36		I’m more of an <strong>introvert</strong>.
-35.36	36.24		I’m really quite shy.
-36.24	38.84		I feel uncomfortable in social situations.
-38.84	39.76		For example,
-39.76	40.88		if I go to a party,
-40.88	47.52		where I don’t know anyone I usually feel very embarrassed and I find it impossible to start conversations with strangers.
-47.52	51.64	<v Neil>	But you do all of this on the radio and videos for Learning English,
-51.64	52.52		don’t you?
-52.52	56		Some would say you have to be an extrovert to do what we do.
-56	56.32	<v Rob>	Ah!
-56.32	56.64		Well,
-56.64	61.36		maybe I’m pretending to be an <strong>extrovert</strong> to hide the fact that I’m an <strong>introvert</strong>.
-61.36	62.24		It’s quite a common thing,
-62.24	62.92		you know.
-62.92	63.44	<v Neil>	Well,
-63.44	72.72		it might not be so easy to hide in the future because researchers have developed a computer program that can tell your personality from looking at where you look,
-72.72	74.36		by tracking your eye movements.
-74.36	74.6	<v Rob>	Wow!
-74.6	76.24		That sounds pretty hi-tech,
-76.24	77.28		and scary.
-77.28	77.68	<v Neil>	Well,
-77.68	79		we’ll learn more shortly,
-79	83.08		but first a question on the topic of clever computers.
-83.08	89.6		The letters ‘AI’ stand for Artificial Intelligence but what are the letters ‘AI’?
-89.6	90.44		Are they
-90.44	92.32		A) an abbreviation
-92.32	93.36		B) an acronym,
-93.36	93.52		or
-93.52	95.8		C) an initialism?
-95.8	96.6	<v Rob>	OK,
-96.6	98		I thought that was going to be easy,
-98	100.52		but I think it’s an abbreviation,
-100.52	101.08		isn’t it?
-101.08	101.28	<v Neil>	Well,
-101.28	104.48		you’ll have to wait to the end of the programme to find out!
-104.48	108.52		Sabrina Hoppe is a researcher at the University of Stuttgart.
-108.52	112.52		She was interviewed on the BBC Radio programme All In The Mind.
-112.52	118.36		She spoke about an experiment in which they tracked the eye movements of people in real situations.
-118.36	120.8		This is what she said about the research.
-120.8	124.4		Was she confident the experiment would work in the real world?
-124.4	133.76	<v Sabrina Hoppe>	The main <strong>finding</strong> in our study is that it is possible at all to just look at eye movements and then predict something about their personality.
-133.76	135		And before our study,
-135	142.04		it was not clear at all if this would be possible from eye movements in such an <strong>unconstrained</strong> real world setting.
-142.04	142.44	<v Neil>	So,
-142.44	144.36		was she confident this would work?
-144.36	144.92	<v Rob>	No,
-144.92	145.76		not really.
-145.76	152.72		She said that before the study it wasn’t clear if it would be possible in an <strong>unconstrained</strong> real-world setting.
-152.72	158.4		<strong>Unconstrained</strong> here means that there wasn’t strict control over the conditions of the experiment.
-158.4	160.32		It took place in the ‘real-world’ –
-160.32	162.16		so not in a laboratory.
-162.16	163.68	<v Neil>	The result of the experiment -
-163.68	164.72		or the <strong>finding</strong>,
-164.72	165.44		as she called it -
-165.44	167.32		was that by following eye movements,
-167.32	171.8		a computer programme was able to work out the personality of the subjects.
-171.8	172.68		Let’s listen again.
-172.68	181.08	<v Sabrina Hoppe>	The main <strong>finding</strong> in our study is that it is possible at all to just look at eye movements and then predict something about their personality.
-181.08	182.68		And before our study,
-182.68	189.04		it was not clear at all if this would be possible from eye movements in such an <strong>unconstrained</strong> real world setting.
-189.04	190.44	<v Rob>	So how does the software work,
-190.44	191.28		for example,
-191.28	197.16		what are the differences in the eye movements of <strong>extroverts</strong> compared to <strong>introverts</strong>?
-197.16	200.08	<v Sabrina Hoppe>	We still don’t really know in detail what makes the difference.
-200.08	205.48		We can only tell that there are differences and that we know computer programs that can pick up those differences.
-205.48	210.28		Maybe <strong>extrovert</strong> people look up a lot because they want to look at people’s faces,
-210.28	215.32		whereas some super <strong>introvert</strong> person maybe just stares at their own shoes,
-215.32	217.36		if you want to take the extreme examples.
-217.36	217.92		So,
-217.92	225.68		probably it somehow changes <strong>gaze.</strong> But we only know that this information is there and somehow our program <strong>figured out</strong> how to extract it.
-225.68	228.44	<v Neil>	So how does it work?
-228.44	228.8	<v Rob>	Well,
-228.8	230.32		that’s the strange thing.
-230.32	232.72		She said that she didn’t really know,
-232.72	234.04		at least not in detail.
-234.04	238.28		She did say that our personality somehow changes <strong>gaze</strong>.
-238.28	240.68		<strong>Gaze</strong> is another word for looking at something.
-240.68	245		So maybe we <strong>gaze</strong> in different ways depending on our personality.
-245	248.24		Extroverts may look up more and introverts,
-248.24	248.88		like me,
-248.88	250.28		may look down more.
-250.28	250.76	<v Neil>	Yes,
-250.76	254.56		it was interesting that she said that she didn’t know how it did it,
-254.56	258.72		but the program somehow managed to <strong>figure it out</strong>.
-258.72	262.16		The phrasal verb <strong>to figure something out</strong> means ‘to understand or realise something’.
-262.16	264.84		Time to review today’s vocabulary,
-264.84	265.4		but first,
-265.4	267.48		let’s have the answer to the quiz question.
-267.48	271.16		I asked what are the letters AI?
-271.16	271.64		Are they
-271.64	273.64		A) an abbreviation
-273.64	274.8		B) an acronym
-274.8	277.2		C) an initialism
-277.2	277.52		Rob,
-277.52	278.4		what did you say?
-278.4	280.6	<v Rob>	I said A) an abbreviation.
-280.6	281.68	<v Neil>	Well sorry,
-281.68	282.24		no,
-282.24	283.56		AI is C),
-283.56	284.64		so to speak.
-284.64	286.12		It’s an initialism.
-286.12	289.44		It’s the first letters of the words ‘artificial intelligence’,
-289.44	291.88		but it’s not pronounced like a new word,
-291.88	294.04		just the initial letters.
-294.04	294.36		Right,
-294.36	296.84		time now to review today’s vocabulary.
-296.84	297.72	<v Rob>	Yes.
-297.72	299.92		We had the word <strong>extrovert</strong>.
-299.92	303.12		This describes someone who has a very outgoing personality.
-303.12	306.2		An <strong>extrovert</strong> is confident and socially comfortable.
-306.2	307.6	<v Neil>	By contrast,
-307.6	314		an <strong>introvert</strong> is someone who is shy and not comfortable in social situations and doesn’t like being the centre of attention.
-314	318.52	<v Rob>	Our report today talked about the <strong>findings</strong> of some new research.
-318.52	321.2		A <strong>finding</strong> is something that has been learnt,
-321.2	321.84		discovered or indeed,
-321.84	322.52		found out.
-322.52	324.96		It is the conclusion that is reached.
-324.96	330.92	<v Neil>	Then we had <strong>unconstrained</strong> to describe the experiment which was not carried out in a controlled environment.
-330.92	334.6		So <strong>unconstrained</strong> means ‘not limited or restricted’.
-334.6	337.32	<v Rob>	Our next word was <strong>gaze</strong>.
-337.32	339.72		This is a word that means ‘our way of looking at something’.
-339.72	340.44	<v Neil>	Yes,
-340.44	345.12		the <strong>findings</strong> of the research suggest that our personality can affect our <strong>gaze</strong>.
-345.12	348.76	<v Rob>	And this was something the computer was able <strong>to</strong> <strong>figure out</strong>.
-348.76	354.12		<strong>To figure out</strong> means ‘to study something and reach an answer to a particular question or problem’.
-354.12	354.68	<v Neil>	Right!
-354.68	355		Well,
-355	357.2		you know what I’ve just <strong>figured out</strong>?
-357.2	357.84	<v Rob>	Do tell!
-357.84	361.04	<v Neil>	It’s time to bring this edition of 6 Minute English to an end.
-361.04	362.64		We hope you can join us again,
-362.64	367.16		but until then we are bbclearningenglish.com and you can find us on social media,
-367.16	368.8		online and on our app.
-368.8	369.6		Bye for now.
-369.6	371.44	<v Rob>	Bye-bye!
-371.44	378.04		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello and welcome to 6 Minute English.
+I’m Neil.
+<v Rob> And I’m Rob.
+<v Neil> Now,
+Rob,
+would you say that you are an introvert or an extrovert?
+<v Rob> What a good question!
+Well,
+<strong>extroverts</strong> are confident in their personality.
+They’re outgoing and comfortable in social situations.
+So,
+I would have to say that,
+if anything,
+I’m the opposite.
+I’m more of an <strong>introvert</strong>.
+I’m really quite shy.
+I feel uncomfortable in social situations.
+For example,
+if I go to a party,
+where I don’t know anyone I usually feel very embarrassed and I find it impossible to start conversations with strangers.
+<v Neil> But you do all of this on the radio and videos for Learning English,
+don’t you?
+Some would say you have to be an extrovert to do what we do.
+<v Rob> Ah!
+Well,
+maybe I’m pretending to be an <strong>extrovert</strong> to hide the fact that I’m an <strong>introvert</strong>.
+It’s quite a common thing,
+you know.
+<v Neil> Well,
+it might not be so easy to hide in the future because researchers have developed a computer program that can tell your personality from looking at where you look,
+by tracking your eye movements.
+<v Rob> Wow!
+That sounds pretty hi-tech,
+and scary.
+<v Neil> Well,
+we’ll learn more shortly,
+but first a question on the topic of clever computers.
+The letters ‘AI’ stand for Artificial Intelligence but what are the letters ‘AI’?
+Are they
+A) an abbreviation
+B) an acronym,
+or
+C) an initialism?
+<v Rob> OK,
+I thought that was going to be easy,
+but I think it’s an abbreviation,
+isn’t it?
+<v Neil> Well,
+you’ll have to wait to the end of the programme to find out!
+Sabrina Hoppe is a researcher at the University of Stuttgart.
+She was interviewed on the BBC Radio programme All In The Mind.
+She spoke about an experiment in which they tracked the eye movements of people in real situations.
+This is what she said about the research.
+Was she confident the experiment would work in the real world?
+<v Sabrina Hoppe> The main <strong>finding</strong> in our study is that it is possible at all to just look at eye movements and then predict something about their personality.
+And before our study,
+it was not clear at all if this would be possible from eye movements in such an <strong>unconstrained</strong> real world setting.
+<v Neil> So,
+was she confident this would work?
+<v Rob> No,
+not really.
+She said that before the study it wasn’t clear if it would be possible in an <strong>unconstrained</strong> real-world setting.
+<strong>Unconstrained</strong> here means that there wasn’t strict control over the conditions of the experiment.
+It took place in the ‘real-world’ –
+so not in a laboratory.
+<v Neil> The result of the experiment -
+or the <strong>finding</strong>,
+as she called it -
+was that by following eye movements,
+a computer programme was able to work out the personality of the subjects.
+Let’s listen again.
+<v Sabrina Hoppe> The main <strong>finding</strong> in our study is that it is possible at all to just look at eye movements and then predict something about their personality.
+And before our study,
+it was not clear at all if this would be possible from eye movements in such an <strong>unconstrained</strong> real world setting.
+<v Rob> So how does the software work,
+for example,
+what are the differences in the eye movements of <strong>extroverts</strong> compared to <strong>introverts</strong>?
+<v Sabrina Hoppe> We still don’t really know in detail what makes the difference.
+We can only tell that there are differences and that we know computer programs that can pick up those differences.
+Maybe <strong>extrovert</strong> people look up a lot because they want to look at people’s faces,
+whereas some super <strong>introvert</strong> person maybe just stares at their own shoes,
+if you want to take the extreme examples.
+So,
+probably it somehow changes <strong>gaze.</strong> But we only know that this information is there and somehow our program <strong>figured out</strong> how to extract it.
+<v Neil> So how does it work?
+<v Rob> Well,
+that’s the strange thing.
+She said that she didn’t really know,
+at least not in detail.
+She did say that our personality somehow changes <strong>gaze</strong>.
+<strong>Gaze</strong> is another word for looking at something.
+So maybe we <strong>gaze</strong> in different ways depending on our personality.
+Extroverts may look up more and introverts,
+like me,
+may look down more.
+<v Neil> Yes,
+it was interesting that she said that she didn’t know how it did it,
+but the program somehow managed to <strong>figure it out</strong>.
+The phrasal verb <strong>to figure something out</strong> means ‘to understand or realise something’.
+Time to review today’s vocabulary,
+but first,
+let’s have the answer to the quiz question.
+I asked what are the letters AI?
+Are they
+A) an abbreviation
+B) an acronym
+C) an initialism
+Rob,
+what did you say?
+<v Rob> I said A) an abbreviation.
+<v Neil> Well sorry,
+no,
+AI is C),
+so to speak.
+It’s an initialism.
+It’s the first letters of the words ‘artificial intelligence’,
+but it’s not pronounced like a new word,
+just the initial letters.
+Right,
+time now to review today’s vocabulary.
+<v Rob> Yes.
+We had the word <strong>extrovert</strong>.
+This describes someone who has a very outgoing personality.
+An <strong>extrovert</strong> is confident and socially comfortable.
+<v Neil> By contrast,
+an <strong>introvert</strong> is someone who is shy and not comfortable in social situations and doesn’t like being the centre of attention.
+<v Rob> Our report today talked about the <strong>findings</strong> of some new research.
+A <strong>finding</strong> is something that has been learnt,
+discovered or indeed,
+found out.
+It is the conclusion that is reached.
+<v Neil> Then we had <strong>unconstrained</strong> to describe the experiment which was not carried out in a controlled environment.
+So <strong>unconstrained</strong> means ‘not limited or restricted’.
+<v Rob> Our next word was <strong>gaze</strong>.
+This is a word that means ‘our way of looking at something’.
+<v Neil> Yes,
+the <strong>findings</strong> of the research suggest that our personality can affect our <strong>gaze</strong>.
+<v Rob> And this was something the computer was able <strong>to</strong> <strong>figure out</strong>.
+<strong>To figure out</strong> means ‘to study something and reach an answer to a particular question or problem’.
+<v Neil> Right!
+Well,
+you know what I’ve just <strong>figured out</strong>?
+<v Rob> Do tell!
+<v Neil> It’s time to bring this edition of 6 Minute English to an end.
+We hope you can join us again,
+but until then we are bbclearningenglish.com and you can find us on social media,
+online and on our app.
+Bye for now.
+<v Rob> Bye-bye!
+6 minute English from BBC.

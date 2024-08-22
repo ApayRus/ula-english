@@ -1,20 +1,20 @@
-1.32 2.41 Te Fiti!
-40.28 41.28 (HEIHEI SCREECHING)
-42.99 44.37 The chicken lives.
-46.20 48.20 I'm sorry about your hook.
-48.70 51.71 Well, hook, no hook...
-52.21 53.79 I'm Maui.
-72.19 74.48 (GASPS) Te Fiti!
-74.56 75.57 (LAUGHING SHEEPISHLY)
-75.65 77.48 Hey, I mean, how you been?
-79.73 80.74 (CLEARS THROAT)
-80.82 83.24 Look, what I did was...
-83.41 84.82 wrong.
-84.99 87.03 I have no excuse.
-87.66 88.74 I'm sorry.
-94.50 95.54 (GASPS)
-97.75 101.26 You know, it'd be rude to refuse<br />a gift from a goddess.
-102.38 104.26 Cheeeehoooo!
-106.10 107.10 Thank you.
-107.22 109.77 Your kind gesture is<br />deeply appreciated.
-109.93 110.93 Cheeeehoooo.
+Te Fiti!
+(HEIHEI SCREECHING)
+The chicken lives.
+I'm sorry about your hook.
+Well, hook, no hook...
+I'm Maui.
+(GASPS) Te Fiti!
+(LAUGHING SHEEPISHLY)
+Hey, I mean, how you been?
+(CLEARS THROAT)
+Look, what I did was...
+wrong.
+I have no excuse.
+I'm sorry.
+(GASPS)
+You know, it'd be rude to refuse<br />a gift from a goddess.
+Cheeeehoooo!
+Thank you.
+Your kind gesture is<br />deeply appreciated.
+Cheeeehoooo.

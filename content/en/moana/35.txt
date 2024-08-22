@@ -1,8 +1,8 @@
-1.36 3.07 (ROARING)
-10.58 14.09 I have crossed the horizon to find you
-21.34 23.72 I know your name
-27.52 31.35 They have stolen the<br />heart from inside you
-36.11 39.19 But this does not define you
-42.78 46.78 This is not who you are
-48.45 53.71 You know who you are
-60.55 63.22 Who you truly are.
+(ROARING)
+I have crossed the horizon to find you
+I know your name
+They have stolen the<br />heart from inside you
+But this does not define you
+This is not who you are
+You know who you are
+Who you truly are.

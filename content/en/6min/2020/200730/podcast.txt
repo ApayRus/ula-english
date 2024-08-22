@@ -1,109 +1,109 @@
-0.1	3.24		This is a download from bbc learning English
-3.24	6.72		to find out more visit our website
-6.72	12.76		6 minute English from BBClearningEnglish.com
-12.76	13.12	<v Neil>	Hello.
-13.12	16.2		This is 6 Minute English from BBC Learning English.
-16.2	16.76		I’m Neil.
-16.76	18.2	<v Georgina>	And I’m Georgina.
-18.2	23.64	<v Neil>	Covid-19 has changed everyday life for people in countries around the world.
-23.64	29.12		But coronavirus wasn’t the first pandemic to cause mass sickness and disrupt daily life.
-29.12	43.36	<v Georgina>	Between 2002 and 2004 an outbreak of the disease known as SARS or ‘severe acute respiratory syndrome’ caused hundreds of deaths in southern China before spreading to other parts of the world.
-43.36	47.24	<v Neil>	The virus that caused SARS survived by mutating –
-47.24	54.36		changing as it reproduced itself in the bodies of infected people and this caused the virus to create <strong>strains</strong> –
-54.36	56.2		slight variations of the original.
-56.2	58	<v Georgina>	Covid-19,
-58	63.56		the disease caused by the strain of the original SARS virus we are experiencing now,
-63.56	66.2		has been called SARS 2.
-66.2	67.32	<v Neil>	In this programme,
-67.32	74.48		we’ll be looking at the origins of Covid-19 and hearing new evidence about the scale of the threat we face from the disease.
-74.48	77.8		And of course we’ll be learning some new vocabulary as well.
-77.8	80.92		But first it’s time for our quiz question.
-80.92	88.48		We know that white blood cells make up part of the immune system our body needs to fight infectious diseases like Covid-19.
-88.48	94.48		But how many white blood cells per microlitre does the average adult human need?
-94.48	94.88		Is it:
-94.88	96.68		a) 7,000,
-96.68	98.76		b) 17,000,
-98.76	98.88		or
-98.88	100.72		c) 70,000?
-100.72	101.4	<v Georgina>	Hmmm,
-101.4	103.92		in that case I’d say more is better,
-103.92	106.64		so c) 70,000.
-106.64	106.96	<v Neil>	OK,
-106.96	109.32		we’ll find out the answer at the end of the programme.
-109.32	109.64		Now,
-109.64	110.68		Georgina,
-110.68	116.64		you mentioned that the disease spreading across the world today wasn’t the first Covid-19-type disease.
-116.64	117.36	<v Georgina>	That’s right.
-117.36	126.44		In fact a recent research project in China has identified over 700 different types of coronavirus carried by bats.
-126.44	131.08		Some of these virus <strong>strains</strong> are thought to have already crossed over to humans.
-131.08	139.92	<v Neil>	Dr Peter Daszak of New York’s <em>Eco-Health Alliance</em> thinks that new <strong>strains</strong> of the virus have the potential to cause future pandemics.
-139.92	146.72		He spent years in the Chinese countryside looking for the coronaviruses that could jump from bats to humans.
-146.72	149.96	<v Georgina>	Here he is talking to the BBC World Service programme,
-149.96	152		<em>Science in Action</em>…
-152	154.88	<v Dr Peter Daszak>	It would have been great to have found the <strong>precursor</strong> to SARS 2,
-154.88	161.8		but what would have been even better was to have found it before SARS 2 emerged and raise the <strong>red flag</strong> on it and stop the outbreak.
-161.8	163.12		But we didn’t do that.
-163.12	164.96		What we were looking for were…
-164.96	165.92		at the time …
-165.92	168.12		our <strong>hypothesis</strong> was that SARS 1,
-168.12	172.28		the original SARS virus which we all thought had disappeared ,
-172.28	174.04		was still out there in bats –
-174.04	175.44		and that was what we were looking for.
-175.44	179.36		So we found a lot of SARS 1-related viruses.
-179.36	186.44	<v Neil>	Covid-19 may have been contained if scientists had known more about the disease’s <strong>precursor</strong> –
-186.44	191.8		that’s a situation which existed before something and led to the development of that thing.
-191.8	192.16		Here,
-192.16	195.92		the <strong>precursor</strong> of Covid-19 was the original SARS 1.
-195.92	200.72	<v Georgina>	Any new cases of the virus would have been a <strong>red flag</strong> for another outbreak -
-200.72	204.32		a symbol of danger and that some action needs to be taken.
-204.32	211.48	<v Neil>	Dr Daszak believed that some form of SARS remained in bats and based his investigations on this <strong>hypothesis</strong> –
-211.48	218		an idea which is suggested as a possible explanation of something but which has not yet been proved correct.
-218	223.28	<v Georgina>	Another scientist working to prevent new epidemics is the pathologist Professor Mary Fowkes.
-223.28	228.48	<v Neil>	The original SARS was treated as a respiratory disease which attacks the lungs.
-228.48	230.6	<v Georgina>	But when working with infected patients,
-230.6	234.96		Professor Fowkes noticed that Covid-19 was damaging the brain,
-234.96	237.08		blood and other organs as well.
-237.08	245.04	<v Prof Mary Fowkes>	Clinicians have recognised that a lot of patients that have Covid-19 are exhibiting confusion,
-245.04	249		are not necessarily aware of their environment appropriately,
-249	255.28		some are having <strong>seizures</strong>,so there are some <strong>central nervous system</strong> abnormalities.
-255.28	255.56		And as you know,
-255.56	263.04		a lot of patients are exhibiting loss of sense of smell and that is a direct connection to the brain as well.
-263.04	267.56	<v Neil>	In some infected patients coronavirus attacks the <strong>central nervous system</strong> -
-267.56	272.6		the body’s main system of nerve control consisting of the brain and spinal cord.
-272.6	273.32	<v Georgina>	When severe,
-273.32	274.76		this can cause <strong>seizures</strong> -
-274.76	275.28		sudden,
-275.28	277.04		violent attack of an illness,
-277.04	279.44		often affecting the heart or brain.
-279.44	284.36	<v Neil>	It seems that Covid-19-type diseases are not going to disappear any time soon.
-284.36	289.08	<v Georgina>	Reminding us of the importance of the scientific research we’ve heard about today.
-289.08	291.64	<v Neil>	And the importance of boosting your immunity…
-291.64	293.88		which reminds me of today’s quiz question.
-293.88	298.92	<v Georgina>	You asked me how many white blood cells per microlitre the human body has.
-298.92	302.08		I said c) 70,000.
-302.08	302.64	<v Neil>	Well,
-302.64	305.24		if that’s true you’ve definitely boosted your immunity,
-305.24	305.96		Georgina,
-305.96	308.84		because the correct answer is c) 7,000.
-308.84	311.48	<v Georgina>	Today we’ve been discussing the <strong>strains</strong> –
-311.48	312.76		or slight variations,
-312.76	315.4		of the virus which causes Covid-19.
-315.4	320.92	<v Neil>	Covid-19 has a previous disease called SARS as its <strong>precursor</strong> –
-320.92	325.88		a situation which existed before something and caused the development of that thing.
-325.88	331.52	<v Georgina>	Researchers used the idea that the virus have passed to humans from bats as their <strong>hypothesis</strong> –
-331.52	335.96		possible explanation for something which has not yet been proved true.
-335.96	339.16	<v Neil>	By identifying new virus <strong>strains</strong>,
-339.16	343.04		doctors hope unexplained cases can act as a <strong>red flag</strong> –
-343.04	344.56		a warning sign of danger,
-344.56	346.28		to prevent further outbreaks.
-346.28	354.92	<v Georgina>	Knowing about new <strong>strains</strong> is increasingly important as we find out more about how coronavirus attacks the body’s <strong>central nervous system</strong> –
-354.92	356.92		the brain and spinal cord,
-356.92	359.76		which in some patients can cause <strong>seizures</strong> -
-359.76	360.36		sudden,
-360.36	362.04		violent attacks of an illness,
-362.04	364.44		especially affecting the heart or brain.
-364.44	366.16	<v Neil>	So try to stay safe,
-366.16	368.88		wash your hands and remember to join us again soon.
-368.88	370.44		Bye for now!
-370.44	371.44	<v Georgina>	Bye!
-371.44	377.4		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Neil> Hello.
+This is 6 Minute English from BBC Learning English.
+I’m Neil.
+<v Georgina> And I’m Georgina.
+<v Neil> Covid-19 has changed everyday life for people in countries around the world.
+But coronavirus wasn’t the first pandemic to cause mass sickness and disrupt daily life.
+<v Georgina> Between 2002 and 2004 an outbreak of the disease known as SARS or ‘severe acute respiratory syndrome’ caused hundreds of deaths in southern China before spreading to other parts of the world.
+<v Neil> The virus that caused SARS survived by mutating –
+changing as it reproduced itself in the bodies of infected people and this caused the virus to create <strong>strains</strong> –
+slight variations of the original.
+<v Georgina> Covid-19,
+the disease caused by the strain of the original SARS virus we are experiencing now,
+has been called SARS 2.
+<v Neil> In this programme,
+we’ll be looking at the origins of Covid-19 and hearing new evidence about the scale of the threat we face from the disease.
+And of course we’ll be learning some new vocabulary as well.
+But first it’s time for our quiz question.
+We know that white blood cells make up part of the immune system our body needs to fight infectious diseases like Covid-19.
+But how many white blood cells per microlitre does the average adult human need?
+Is it:
+a) 7,000,
+b) 17,000,
+or
+c) 70,000?
+<v Georgina> Hmmm,
+in that case I’d say more is better,
+so c) 70,000.
+<v Neil> OK,
+we’ll find out the answer at the end of the programme.
+Now,
+Georgina,
+you mentioned that the disease spreading across the world today wasn’t the first Covid-19-type disease.
+<v Georgina> That’s right.
+In fact a recent research project in China has identified over 700 different types of coronavirus carried by bats.
+Some of these virus <strong>strains</strong> are thought to have already crossed over to humans.
+<v Neil> Dr Peter Daszak of New York’s <em>Eco-Health Alliance</em> thinks that new <strong>strains</strong> of the virus have the potential to cause future pandemics.
+He spent years in the Chinese countryside looking for the coronaviruses that could jump from bats to humans.
+<v Georgina> Here he is talking to the BBC World Service programme,
+<em>Science in Action</em>…
+<v Dr Peter Daszak> It would have been great to have found the <strong>precursor</strong> to SARS 2,
+but what would have been even better was to have found it before SARS 2 emerged and raise the <strong>red flag</strong> on it and stop the outbreak.
+But we didn’t do that.
+What we were looking for were…
+at the time …
+our <strong>hypothesis</strong> was that SARS 1,
+the original SARS virus which we all thought had disappeared ,
+was still out there in bats –
+and that was what we were looking for.
+So we found a lot of SARS 1-related viruses.
+<v Neil> Covid-19 may have been contained if scientists had known more about the disease’s <strong>precursor</strong> –
+that’s a situation which existed before something and led to the development of that thing.
+Here,
+the <strong>precursor</strong> of Covid-19 was the original SARS 1.
+<v Georgina> Any new cases of the virus would have been a <strong>red flag</strong> for another outbreak -
+a symbol of danger and that some action needs to be taken.
+<v Neil> Dr Daszak believed that some form of SARS remained in bats and based his investigations on this <strong>hypothesis</strong> –
+an idea which is suggested as a possible explanation of something but which has not yet been proved correct.
+<v Georgina> Another scientist working to prevent new epidemics is the pathologist Professor Mary Fowkes.
+<v Neil> The original SARS was treated as a respiratory disease which attacks the lungs.
+<v Georgina> But when working with infected patients,
+Professor Fowkes noticed that Covid-19 was damaging the brain,
+blood and other organs as well.
+<v Prof Mary Fowkes> Clinicians have recognised that a lot of patients that have Covid-19 are exhibiting confusion,
+are not necessarily aware of their environment appropriately,
+some are having <strong>seizures</strong>,so there are some <strong>central nervous system</strong> abnormalities.
+And as you know,
+a lot of patients are exhibiting loss of sense of smell and that is a direct connection to the brain as well.
+<v Neil> In some infected patients coronavirus attacks the <strong>central nervous system</strong> -
+the body’s main system of nerve control consisting of the brain and spinal cord.
+<v Georgina> When severe,
+this can cause <strong>seizures</strong> -
+sudden,
+violent attack of an illness,
+often affecting the heart or brain.
+<v Neil> It seems that Covid-19-type diseases are not going to disappear any time soon.
+<v Georgina> Reminding us of the importance of the scientific research we’ve heard about today.
+<v Neil> And the importance of boosting your immunity…
+which reminds me of today’s quiz question.
+<v Georgina> You asked me how many white blood cells per microlitre the human body has.
+I said c) 70,000.
+<v Neil> Well,
+if that’s true you’ve definitely boosted your immunity,
+Georgina,
+because the correct answer is c) 7,000.
+<v Georgina> Today we’ve been discussing the <strong>strains</strong> –
+or slight variations,
+of the virus which causes Covid-19.
+<v Neil> Covid-19 has a previous disease called SARS as its <strong>precursor</strong> –
+a situation which existed before something and caused the development of that thing.
+<v Georgina> Researchers used the idea that the virus have passed to humans from bats as their <strong>hypothesis</strong> –
+possible explanation for something which has not yet been proved true.
+<v Neil> By identifying new virus <strong>strains</strong>,
+doctors hope unexplained cases can act as a <strong>red flag</strong> –
+a warning sign of danger,
+to prevent further outbreaks.
+<v Georgina> Knowing about new <strong>strains</strong> is increasingly important as we find out more about how coronavirus attacks the body’s <strong>central nervous system</strong> –
+the brain and spinal cord,
+which in some patients can cause <strong>seizures</strong> -
+sudden,
+violent attacks of an illness,
+especially affecting the heart or brain.
+<v Neil> So try to stay safe,
+wash your hands and remember to join us again soon.
+Bye for now!
+<v Georgina> Bye!
+6 minute English from BBC.

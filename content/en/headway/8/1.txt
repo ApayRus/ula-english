@@ -1,39 +1,39 @@
-0.17	1.20	Unit 8
-2.07	4.05	Tapescript 8.1
-5.51	6.29	JEANS
-7.71	8.82	Two Americans,
-8.91	10.04	Jacob Davis
-10.06	11.19	and Levi Strauss,
-11.38	13.96	made the first jeans in 1873.
-14.98	16.97	Davis bought cloth from Levi’s shop.
-17.82	22.10	He told Levi that he had a special way to make strong trousers for workmen.
-23.05	24.66	The first jeans were blue.
-25.80	27.15	In 1935
-27.33	29.26	jeans became fashionable for women
-29.42	31.58	after they saw them in Vogue magazine.
-32.45	33.69	In the 1970s,
-33.93	39.09	Calvin Klein earned $12.5 million a week from jeans.
-41.76	42.51	TELEVISION
-45.11	47.92	A Scotsman, John Logie Baird,
-48.12	50.80	transmitted the first television picture
-50.97	54.67	on 25 October, 1925.
-55.03	57.23	The first thing on television
-57.43	62.22	was a boy who worked in the office next to Baird’s workroom in London.
-63.36	65.50	In 1927
-65.60	68.97	Baird sent pictures from London to Glasgow.
-69.53	71.56	In 1928
-71.75	73.69	he sent pictures to New York,
-73.95	77.38	and also produced the first colour TV pictures.
-79.56	80.22	ASPIRIN
-81.82	83.05	Felix Hofman
-83.19	85.14	a 29-year-old chemist
-85.30	87.47	who worked for the German company Bayer,
-87.70	89.75	invented the drug Aspirin
-89.95	91.90	in March 1899.
-92.45	96.47	He gave the first aspirin to his father for his arthritis.
-97.01	101.70	By 1950 it was the best-selling painkiller in the world
-102.02	104.03	and in 1969
-104.19	106.83	the Apollo astronauts took it to the moon.
-107.91	111.19	The Spanish philosopher, Jose Ortega y Gasset,
-111.44	113.23	called the 20th century
-113.42	114.93	‘The Age of Aspirin’.
+Unit 8
+Tapescript 8.1
+JEANS
+Two Americans,
+Jacob Davis
+and Levi Strauss,
+made the first jeans in 1873.
+Davis bought cloth from Levi’s shop.
+He told Levi that he had a special way to make strong trousers for workmen.
+The first jeans were blue.
+In 1935
+jeans became fashionable for women
+after they saw them in Vogue magazine.
+In the 1970s,
+Calvin Klein earned $12.5 million a week from jeans.
+TELEVISION
+A Scotsman, John Logie Baird,
+transmitted the first television picture
+on 25 October, 1925.
+The first thing on television
+was a boy who worked in the office next to Baird’s workroom in London.
+In 1927
+Baird sent pictures from London to Glasgow.
+In 1928
+he sent pictures to New York,
+and also produced the first colour TV pictures.
+ASPIRIN
+Felix Hofman
+a 29-year-old chemist
+who worked for the German company Bayer,
+invented the drug Aspirin
+in March 1899.
+He gave the first aspirin to his father for his arthritis.
+By 1950 it was the best-selling painkiller in the world
+and in 1969
+the Apollo astronauts took it to the moon.
+The Spanish philosopher, Jose Ortega y Gasset,
+called the 20th century
+‘The Age of Aspirin’.

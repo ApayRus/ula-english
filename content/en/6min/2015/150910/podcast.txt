@@ -1,191 +1,191 @@
-0.1	3		This is a download from bbc learning English
-3	6.6		to find out more visit our website
-6.6	12.92		6 minute English from BBClearningEnglish.com
-12.92	15.56	<v Finn>	Hello and welcome to 6 Minute English.
-15.56	16.2		I’m Finn…
-16.2	16.96	<v Neil>	…and I’m Neil.
-16.96	17.6		Hello.
-17.6	18.2	<v Finn>	Now,
-18.2	18.44		Neil,
-18.44	21.32		are you doing anything interesting tonight?
-21.32	22	<v Neil>	Well,
-22	24.76		I was thinking of <strong>popping down to</strong> -
-24.76	25.8		that means visiting -
-25.8	28.72		my local pub to catch a band.
-28.72	29.64		What about you?
-29.64	30.4	<v Finn>	Well,
-30.4	34.4		my wife and I have got tickets for the Proms tonight.
-34.4	35.64	<v Neil>	The Proms?
-35.64	38.96		You mean that ceremony for high school leavers?
-38.96	41.72		I thought you left school decades ago,
-41.72	42.16		Finn.
-42.16	43.12	<v Finn>	Ah yes,
-43.12	43.92		very funny,
-43.92	44.16		Neil.
-44.16	44.88		Actually,
-44.88	45.52		yeah,
-45.52	47.4		it was almost two decades ago.
-47.4	48.24		Anyway,
-48.24	51.68		the Proms I’m talking about have nothing to do with that.
-51.68	52.84		These Proms,
-52.84	54.16		or as they’re also known,
-54.16	55.76		the BBC Proms,
-55.76	59.12		are the biggest classical music festival in the world,
-59.12	61.44		and they’re held in London every summer.
-61.44	61.68	<v Neil>	Ah,
-61.68	62		yes,
-62	63.84		of course I know the Proms.
-63.84	71.68		And I’ve even watched the Last Night of the Proms with all those waving flags and the <strong>patriotic</strong> singing by the audience.
-71.68	73.24		Not really my thing.
-73.24	74.04	<v Finn>	I know what you mean,
-74.04	77.96		but you shouldn’t judge the Proms by the concert on the last night,
-77.96	78.16		Neil.
-78.16	79.76		It’s not really typical.
-79.76	83.04		Although it is watched by millions of people around the world.
-83.04	84.08		And you know,
-84.08	86.52		the Proms is also a very old festival…
-86.52	87.16		but,
-87.16	87.68		how old,
-87.68	88.28		Neil?
-88.28	88.68		Is it:
-88.68	91.2		a) 57 years?
-91.2	93.36		b) 84 years?
-93.36	96		c) 120 years old?
-96	96.72	<v Neil>	Well,
-96.72	98.04		I don’t know,
-98.04	102.12		so I’m going to guess and say 84 years.
-102.12	102.88	<v Finn>	OK.
-102.88	103.36		Well,
-103.36	106.04		we’ll find out the answer to that question later.
-106.04	106.48	<v Neil>	OK.
-106.48	106.76		So,
-106.76	107.88		come on then Finn,
-107.88	109.28		sell the Proms to me.
-109.28	111.2		What is it that I’m missing?
-111.2	111.52	<v Finn>	Well,
-111.52	112.28		rather a lot,
-112.28	112.88		actually.
-112.88	114.96		It’s not <strong>stuck-up</strong> -
-114.96	117.32		that means a bit superior -
-117.32	117.76		in fact,
-117.76	119.84		I think there’s something for everyone.
-119.84	121.04		For example,
-121.04	135.24		you might hear something like this…
-135.24	137.76	<v Music>	[Tchaikovsky’s Fourth Symphony]
-137.76	138.08	<v Neil>	Wow!
-138.08	138.96		That was pretty dramatic.
-138.96	141.6		<strong>It really grips you</strong>,
-141.6	142.08		doesn’t it?
-142.08	143		What was it?
-143	143.48	<v Finn>	Well,
-143.48	148.12		that was from the first movement of Tchaikovsky’s fourth symphony.
-148.12	154.64		And at the end you would hear the Prommers showing their appreciation by <strong>cheering</strong> and clapping.
-154.64	154.96	<v Neil>	Right,
-154.96	157.04		so it’s almost like Glastonbury,
-157.04	157.8		then!
-157.8	159.44		So that’s the point you’re making,
-159.44	159.76		is it -
-159.76	163.76		the Proms make classical music accessible to everyone.
-163.76	166.72		But who are these Prommers?
-166.72	166.92	<v Finn>	Ah,
-166.92	169.04		well for an answer to that,
-169.04	172.04		let’s hear from the Director of the BBC Proms,
-172.04	173.12		Edward Blakeman.
-173.12	174.36	<v Edward Blakeman - Director of BBC Proms>	So the Prommers,
-174.36	178.24		are quite literally the people who stand to listen to the concerts.
-178.24	181.28		And there is space for about 800 people,
-181.28	183.16		right in the middle of the hall.
-183.16	184.76		And this is a long tradition,
-184.76	185.12		back,
-185.12	186.04		going through the Proms.
-186.04	189.56		And it’s wonderful because it costs very little,
-189.56	193.2		and it means that almost anyone can afford to come to the Proms.
-193.2	197.48		So it is a wonderful place for all sorts of people to meet together,
-197.48	198.56		and by the way,
-198.56	201.64		it’s the best place in the hall to hear the music.
-201.64	201.88	<v Finn>	Now,
-201.88	205.92		the hall that he’s talking about is the Royal Albert Hall in London -
-205.92	210.72		and the Prommers are the people who come and stand as they listen to the music.
-210.72	211.12		You know,
-211.12	211.92		Neil,
-211.92	214.36		it’s only £5 a ticket.
-214.36	214.84	<v Neil>	Right,
-214.84	216.32		so you stand?
-216.32	219		That sounds like a proper <strong>gig</strong>.
-219	220.36		I think I might just give it a go,
-220.36	220.88		Finn.
-220.88	220.96		So,
-220.96	223.56		you’ve been trying to persuade me that it’s quite informal.
-223.56	223.8		But,
-223.8	226.52		at the same time you do get all those big,
-226.52	228.48		fancy classical music names,
-228.48	228.88		don’t you?
-228.88	229.36	<v Finn>	You do,
-229.36	230.12		absolutely.
-230.12	231.88		The top soloists -
-231.88	233.92		whether that’s on the piano,
-233.92	236.28		the violin or any other instrument,
-236.28	237.32		or singing -
-237.32	239.32		they all perform at the Proms.
-239.32	241.84		As do very big orchestras.
-241.84	246.32	<v Neil>	And I believe the BBC <strong>commissions</strong> new works from time to time.
-246.32	249.12		I was even told about rock musicians playing there.
-249.12	250		Can that be right,
-250	250.24		Finn?
-250.24	250.6	<v Finn>	Well,
-250.6	251.4		yes Neil.
-251.4	252.64		That’s actually true.
-252.64	256.88		The whole range of music is becoming wider year by year.
-256.88	260.44		They also screen concerts to other cities,
-260.44	263.68		they hold lunchtime and children’s concerts,
-263.68	266.52		they even play Indian classical music,
-266.52	267.68		like this type of thing…
-267.68	270.04	<v Music>	[Classical sitar music]
-270.04	272.64	<v Neil>	What,
-272.64	275.72		playing sitars (and tablas) at the Proms?
-275.72	276.48	<v Finn>	Yes.
-276.48	284.56		But the core of the eight-week festival is devoted to the <strong>heavyweight</strong> composers of the last 400 years -
-284.56	285.4		Bach,
-285.4	286.32		Mozart,
-286.32	287.2		Beethoven,
-287.2	289.36		Brahms and so on.
-289.36	294.4		Let me play you another extract of that Tchaikovsky symphony now Neil.
-294.4	295.48		Tell me what you think of this.
-295.48	296.64	<v Music>	[Tchaikovsky’s Fourth Symphony]
-296.64	297.44	<v Neil>	Now,
-297.44	305.12		that was totally different.
-305.12	315.56		Much slower and quite sad.
-315.56	316.24	<v Finn>	Yes,
-316.24	318.72		every <strong>symphony</strong>,
-318.72	323.08		<strong>concerto</strong>,
-323.08	329.92		or <strong>sonata</strong> will have a slow movement and it will often be deeply emotional.
-329.92	330.48	<v Neil>	Well,
-330.48	332.56		you can’t beat live music.
-332.56	333		So,
-333	334.04		I must get going.
-334.04	335.12	<v Finn>	Oh yeah?
-335.12	336.72		Are you off to see that <strong>gig</strong> at the pub,
-336.72	337.16		Neil?
-337.16	337.6	<v Neil>	Actually,
-337.6	338.2		yes.
-338.2	338.72		Or,
-338.72	339.6		you know what?
-339.6	342.16		I might go and catch a Prom after all.
-342.16	343	<v Finn>	OK.
-343	343.2		Well,
-343.2	344.52		before you hurry off,
-344.52	346.76		I have to give you the answer to the quiz.
-346.76	351.08		I asked how many years has the BBC Proms been going?
-351.08	353.12	<v Neil>	And I said 84.
-353.12	354.56	<v Finn>	And I’m sorry,
-354.56	355.16		Neil.
-355.16	356.72		That’s the wrong answer.
-356.72	356.92	<v Neil>	Oh no.
-356.92	360.52	<v Finn>	The correct answer was actually 120 years.
-360.52	360.92		Well,
-360.92	363.72		that brings us to the end of today’s 6 Minute English.
-363.72	365.52		We hope you enjoyed the programme.
-365.52	366.76		Join us again soon.
-366.76	367.28		Bye.
-367.28	368.04	<v Neil>	Goodbye.
-368.04	379.32		6 minute English from BBC.
+This is a download from bbc learning English
+to find out more visit our website
+6 minute English from BBClearningEnglish.com
+<v Finn> Hello and welcome to 6 Minute English.
+I’m Finn…
+<v Neil> …and I’m Neil.
+Hello.
+<v Finn> Now,
+Neil,
+are you doing anything interesting tonight?
+<v Neil> Well,
+I was thinking of <strong>popping down to</strong> -
+that means visiting -
+my local pub to catch a band.
+What about you?
+<v Finn> Well,
+my wife and I have got tickets for the Proms tonight.
+<v Neil> The Proms?
+You mean that ceremony for high school leavers?
+I thought you left school decades ago,
+Finn.
+<v Finn> Ah yes,
+very funny,
+Neil.
+Actually,
+yeah,
+it was almost two decades ago.
+Anyway,
+the Proms I’m talking about have nothing to do with that.
+These Proms,
+or as they’re also known,
+the BBC Proms,
+are the biggest classical music festival in the world,
+and they’re held in London every summer.
+<v Neil> Ah,
+yes,
+of course I know the Proms.
+And I’ve even watched the Last Night of the Proms with all those waving flags and the <strong>patriotic</strong> singing by the audience.
+Not really my thing.
+<v Finn> I know what you mean,
+but you shouldn’t judge the Proms by the concert on the last night,
+Neil.
+It’s not really typical.
+Although it is watched by millions of people around the world.
+And you know,
+the Proms is also a very old festival…
+but,
+how old,
+Neil?
+Is it:
+a) 57 years?
+b) 84 years?
+c) 120 years old?
+<v Neil> Well,
+I don’t know,
+so I’m going to guess and say 84 years.
+<v Finn> OK.
+Well,
+we’ll find out the answer to that question later.
+<v Neil> OK.
+So,
+come on then Finn,
+sell the Proms to me.
+What is it that I’m missing?
+<v Finn> Well,
+rather a lot,
+actually.
+It’s not <strong>stuck-up</strong> -
+that means a bit superior -
+in fact,
+I think there’s something for everyone.
+For example,
+you might hear something like this…
+<v Music> [Tchaikovsky’s Fourth Symphony]
+<v Neil> Wow!
+That was pretty dramatic.
+<strong>It really grips you</strong>,
+doesn’t it?
+What was it?
+<v Finn> Well,
+that was from the first movement of Tchaikovsky’s fourth symphony.
+And at the end you would hear the Prommers showing their appreciation by <strong>cheering</strong> and clapping.
+<v Neil> Right,
+so it’s almost like Glastonbury,
+then!
+So that’s the point you’re making,
+is it -
+the Proms make classical music accessible to everyone.
+But who are these Prommers?
+<v Finn> Ah,
+well for an answer to that,
+let’s hear from the Director of the BBC Proms,
+Edward Blakeman.
+<v Edward Blakeman - Director of BBC Proms> So the Prommers,
+are quite literally the people who stand to listen to the concerts.
+And there is space for about 800 people,
+right in the middle of the hall.
+And this is a long tradition,
+back,
+going through the Proms.
+And it’s wonderful because it costs very little,
+and it means that almost anyone can afford to come to the Proms.
+So it is a wonderful place for all sorts of people to meet together,
+and by the way,
+it’s the best place in the hall to hear the music.
+<v Finn> Now,
+the hall that he’s talking about is the Royal Albert Hall in London -
+and the Prommers are the people who come and stand as they listen to the music.
+You know,
+Neil,
+it’s only £5 a ticket.
+<v Neil> Right,
+so you stand?
+That sounds like a proper <strong>gig</strong>.
+I think I might just give it a go,
+Finn.
+So,
+you’ve been trying to persuade me that it’s quite informal.
+But,
+at the same time you do get all those big,
+fancy classical music names,
+don’t you?
+<v Finn> You do,
+absolutely.
+The top soloists -
+whether that’s on the piano,
+the violin or any other instrument,
+or singing -
+they all perform at the Proms.
+As do very big orchestras.
+<v Neil> And I believe the BBC <strong>commissions</strong> new works from time to time.
+I was even told about rock musicians playing there.
+Can that be right,
+Finn?
+<v Finn> Well,
+yes Neil.
+That’s actually true.
+The whole range of music is becoming wider year by year.
+They also screen concerts to other cities,
+they hold lunchtime and children’s concerts,
+they even play Indian classical music,
+like this type of thing…
+<v Music> [Classical sitar music]
+<v Neil> What,
+playing sitars (and tablas) at the Proms?
+<v Finn> Yes.
+But the core of the eight-week festival is devoted to the <strong>heavyweight</strong> composers of the last 400 years -
+Bach,
+Mozart,
+Beethoven,
+Brahms and so on.
+Let me play you another extract of that Tchaikovsky symphony now Neil.
+Tell me what you think of this.
+<v Music> [Tchaikovsky’s Fourth Symphony]
+<v Neil> Now,
+that was totally different.
+Much slower and quite sad.
+<v Finn> Yes,
+every <strong>symphony</strong>,
+<strong>concerto</strong>,
+or <strong>sonata</strong> will have a slow movement and it will often be deeply emotional.
+<v Neil> Well,
+you can’t beat live music.
+So,
+I must get going.
+<v Finn> Oh yeah?
+Are you off to see that <strong>gig</strong> at the pub,
+Neil?
+<v Neil> Actually,
+yes.
+Or,
+you know what?
+I might go and catch a Prom after all.
+<v Finn> OK.
+Well,
+before you hurry off,
+I have to give you the answer to the quiz.
+I asked how many years has the BBC Proms been going?
+<v Neil> And I said 84.
+<v Finn> And I’m sorry,
+Neil.
+That’s the wrong answer.
+<v Neil> Oh no.
+<v Finn> The correct answer was actually 120 years.
+Well,
+that brings us to the end of today’s 6 Minute English.
+We hope you enjoyed the programme.
+Join us again soon.
+Bye.
+<v Neil> Goodbye.
+6 minute English from BBC.
