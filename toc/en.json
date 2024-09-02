@@ -2033,6 +2033,7 @@
 			{
 				"id": 8,
 				"title": "8. Song: \"Who am I\"",
+				"type": "richVideo",
 				"mediaLink": "https://archive.org/download/moana20/moana8.mp4"
 			},
 			{
@@ -2226,6 +2227,252 @@
 				"title": "40. The Last Words of Tamatoa",
 				"type": "richVideo",
 				"mediaLink": "https://archive.org/download/moana20/moana40.mp4"
+			}
+		]
+	},
+	{
+		"id": "madagascar",
+		"title": "Madagascar",
+		"content": [
+			{
+				"id": 1,
+				"title": "1. Martin's Dream",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/1.mp4"
+			},
+			{
+				"id": 2,
+				"title": "2.  Awakening from Sleep",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/2.mp4"
+			},
+			{
+				"id": 3,
+				"title": "3. Zoo Opening",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/3.mp4"
+			},
+			{
+				"id": 4,
+				"title": "4. Penguins Scheme",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/4.mp4"
+			},
+			{
+				"id": 5,
+				"title": "5. Martin Mentions Escape",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/5.mp4"
+			},
+			{
+				"id": 6,
+				"title": "6. Zoo Closure. Massage, Dinner",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/6.mp4"
+			},
+			{
+				"id": 7,
+				"title": "7. Birthday. Wish",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/7.mp4"
+			},
+			{
+				"id": 8,
+				"title": "8. Fear of Freedom",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/8.mp4"
+			},
+			{
+				"id": 9,
+				"title": "9. Martin Got Offended",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/9.mp4"
+			},
+			{
+				"id": 10,
+				"title": "10. Idea of Freedom - Kind of a Joke",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/10.mp4"
+			},
+			{
+				"id": 11,
+				"title": "11. Martin's Gone Missing",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/11.mp4"
+			},
+			{
+				"id": 12,
+				"title": "12. Freedom",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/12.mp4"
+			},
+			{
+				"id": 13,
+				"title": "13. Detention",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/13.mp4"
+			},
+			{
+				"id": 14,
+				"title": "14. Claustrophobia",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/14.mp4"
+			},
+			{
+				"id": 15,
+				"title": "15. Penguin Mutiny on the Ship",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/15.mp4"
+			},
+			{
+				"id": 16,
+				"title": "16. Boxes in the Sea",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/16.mp4"
+			},
+			{
+				"id": 17,
+				"title": "17. Shore",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/17.mp4"
+			},
+			{
+				"id": 18,
+				"title": "18. Jungle",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/18.mp4"
+			},
+			{
+				"id": 19,
+				"title": "19. Lemurs",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/19.mp4"
+			},
+			{
+				"id": 20,
+				"title": "20. Fossas",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/20.mp4"
+			},
+			{
+				"id": 21,
+				"title": "21. Aliens",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/21.mp4"
+			},
+			{
+				"id": 22,
+				"title": "22. King Julian",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/22.mp4"
+			},
+			{
+				"id": 23,
+				"title": "23. Hysteria",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/23.mp4"
+			},
+			{
+				"id": 24,
+				"title": "24. Penguins",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/24.mp4"
+			},
+			{
+				"id": 25,
+				"title": "25. Split the Island",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/25.mp4"
+			},
+			{
+				"id": 26,
+				"title": "26. Statue of Liberty",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/26.mp4"
+			},
+			{
+				"id": 27,
+				"title": "27. Lemur Council: Befriend the New York Giants",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/27.mp4"
+			},
+			{
+				"id": 28,
+				"title": "28. Alex and Martin Make Up",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/28.mp4"
+			},
+			{
+				"id": 29,
+				"title": "29. Marty Bar",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/29.mp4"
+			},
+			{
+				"id": 30,
+				"title": "30. Steaks in a Dream",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/30.mp4"
+			},
+			{
+				"id": 31,
+				"title": "31. King and Maurice on Reconnaissance",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/31.mp4"
+			},
+			{
+				"id": 32,
+				"title": "32. Antarctica Sucks",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/32.mp4"
+			},
+			{
+				"id": 33,
+				"title": "33. Welcome to Madagascar",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/33.mp4"
+			},
+			{
+				"id": 34,
+				"title": "34. Alex Goes Wild",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/34.mp4"
+			},
+			{
+				"id": 35,
+				"title": "35. Monster in Exile",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/35.mp4"
+			},
+			{
+				"id": 36,
+				"title": "36. Penguins Return",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/36.mp4"
+			},
+			{
+				"id": 37,
+				"title": "37. Martin Finds Hermit Alex",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/37.mp4"
+			},
+			{
+				"id": 38,
+				"title": "38. Fossas Attack",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/38.mp4"
+			},
+			{
+				"id": 39,
+				"title": "39. Farewell",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/39.mp4"
+			},
+			{
+				"id": 40,
+				"title": "40. Song with Credits",
+				"type": "richVideo",
+				"mediaLink": "https://archive.org/download/madagascar-scenes/40.mp4"
 			}
 		]
 	}
